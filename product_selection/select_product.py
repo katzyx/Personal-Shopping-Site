@@ -5,6 +5,8 @@ Authors: Floria Fang Zhang, Hope Hadfield, Katherine Zhang, Maisey Perelonia
 
 # Imports
 from pydantic import BaseModel
+import pandas
+import csv
 
 # Class Definitions
 class Product(BaseModel):
