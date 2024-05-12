@@ -4,7 +4,8 @@ import numpy as np
 import csv
 
 csv_path = "C:/Users/Katherine Zhang/OneDrive/Documents/Capstone/Product Dataset.csv"
-select = BasicSelection(csv_file=csv_path)
+database = []
+select = BasicSelection(csv_file=csv_path, product_databsee=database)
 
 
 select.parse_dataset()

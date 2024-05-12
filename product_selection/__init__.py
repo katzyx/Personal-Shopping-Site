@@ -23,7 +23,7 @@ class Product(BaseModel):
 
 class BasicSelection(BaseModel):
     csv_file: str # Link to csv file
-    # product_databse: list[Product] # list of products
+    product_databse: list[Product] # list of products
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
@@ -31,10 +31,7 @@ class BasicSelection(BaseModel):
         print("columns: ", df.shape[1])
 
         for r in range(1, df.shape[0]):
-            
-
             # Create product object to append to product database
-
             # split string from dataset into list
             color = df.iloc[r, 2]
             color_list = color.split(',')
@@ -52,8 +49,6 @@ class BasicSelection(BaseModel):
                                    ingredients = ingr_list,
                                    about = df.iloc[r, 8],
                                    url = df.iloc[r, 9]) 
-        
-        print("dataframe: ", df)
             
             # Extract size of product
             # size = df.entry['Size']
@@ -64,4 +59,8 @@ class BasicSelection(BaseModel):
             #         if measure.endswith(key):
             #             temp_product.size[key] = int(measure.split(key)[0])
             
-            # self.product_database.append(temp_product)
+            self.product_database.append(temp_product)
+        
+        print("dataframe: ", df)
+            
+            
