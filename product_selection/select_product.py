@@ -1,8 +1,11 @@
-import product_selection
+from __init__ import Product, BasicSelection
 import pandas
+import numpy as np
 import csv
 
-def parse_dataset():
-    
+csv_path = "C:/Users/Katherine Zhang/OneDrive/Documents/Capstone/Product Dataset.csv"
+select = BasicSelection(csv_file=csv_path)
 
-    return
+
+select.parse_dataset()
+
