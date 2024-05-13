@@ -5,7 +5,7 @@ import csv
 
 csv_path = "C:/Users/Katherine Zhang/OneDrive/Documents/Capstone/Product Dataset.csv"
 database = []
-select = BasicSelection(csv_file=csv_path, product_databsee=database)
+select = BasicSelection(csv_file=csv_path)
 
 
 select.parse_dataset()
