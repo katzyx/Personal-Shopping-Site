@@ -23,7 +23,7 @@ class Product(BaseModel):
 
 class BasicSelection(BaseModel):
     csv_file: str # Link to csv file
-    product_databse: list[Product] # list of products
+    product_databse: list[Product] = [] # list of products
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
