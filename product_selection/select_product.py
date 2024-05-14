@@ -7,6 +7,5 @@ csv_path = "C:/Users/Katherine Zhang/OneDrive/Documents/Capstone/Product Dataset
 database = []
 select = BasicSelection(csv_file=csv_path)
 
-
-select.parse_dataset()
+print(select.parse_dataset())
 
