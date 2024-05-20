@@ -7,6 +7,13 @@ Authors: Floria Fang Zhang, Hope Hadfield, Katherine Zhang, Maisey Perelonia
 import pandas as pd
 import numpy as np
 from pydantic import BaseModel
+import json
+
+PRODUCT_CATEGORIES = {
+    'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
+    'FACE' : ['Face Primer', 'Foundation', 'Tinted Moisturizer', 'Concealer', 'Blush', 'Bronzer', 'Contour', 'Highlighter', 'Setting Powder', 'Setting Spray'],
+    'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
+    'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
 # Class Definitions
 class Product(BaseModel):
@@ -24,6 +31,7 @@ class Product(BaseModel):
 class BasicSelection(BaseModel):
     csv_file: str # Link to csv file
     product_database: list[Product] = [] # list of products
+    user_info: dict = {} # Provided user information
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
@@ -54,7 +62,55 @@ class BasicSelection(BaseModel):
             self.product_database.append(temp_product)
         
         # print("dataframe: ", df)
-        return self.product_database
+    
+    def parse_user_jsons(self, user_who, user_what):
+        # Extract from JSON to dictionary
+        self.user_info['who'] = json.loads(user_who)
+        self.user_info['what'] = json.loads(user_what)
+
+        # Specify products
+        if 'Products' in self.user_info['what']:
+            product_list = []
+            
+            # Parse through list of all products user wants
+            for entry in self.user_info['what']['Products'].split(','):
+                entry_is_individual_product = True
+                
+                # If they specified an entire category, add all cateogory products to products list
+                for product_cat, cat_list in PRODUCT_CATEGORIES:
+                    if entry.replace(' ', '').upper().replace('PRODUCTS', '').replace('PRODUCT', '') == product_cat:
+                        entry_is_individual_product = False
+                        product_list.extend(cat_list)
+                
+                # Otherwise, if product is individual product, just append to list
+                if entry_is_individual_product:
+                    product_list.append(entry)
+
+            self.user_info['what']['Products'] = product_list
+        
+        # Specify price range
+        if 'Price' in self.user_info['what']:
+            price = []
+            user_price_string = self.user_info['what']['Price'].replace('$', '').lower()
+
+            if 'to' in user_price_string:
+                price = user_price_string.replace(' ', '').split('to')
+                price = [float(i) for i in price]
+                price.sort()
+            elif 'under' in user_price_string or 'less than' in user_price_string:
+                price = [0, float(user_price_string.replace('under', '').replace('less than', ''))]
+            elif 'above' in user_price_string or 'more than' in user_price_string:
+                price = [float(user_price_string.replace('above', '').replace('more than', '')), 999999]
+            elif 'around' in user_price_string:
+                price = [float(user_price_string.replace('around', '')) - 5, float(user_price_string.replace('around', '')) + 5]
+            else:
+                price = [float(user_price_string), float(user_price_string)]
+            
+            self.user_info['what']['Price'] = price
+    
+    def keyword_lookup(self):
+
+        return 0
 
             
             
