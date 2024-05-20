@@ -7,7 +7,7 @@ def basic_map(user_who, user_what):
     select.parse_dataset()
 
     # Extract user info and use keyword lookup
-    select.parse_user_jsons()
+    select.parse_user_jsons(user_who, user_what)
     select.keyword_lookup()
 
 
