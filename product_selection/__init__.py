@@ -15,6 +15,8 @@ PRODUCT_CATEGORIES = {
     'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
     'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
+USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
+
 # Class Definitions
 class Product(BaseModel):
     name: str # Product name
@@ -28,6 +30,13 @@ class Product(BaseModel):
     about: str # Description of product
     url: str # URL to product purchasing site
 
+    def get_attribute(self, entry):
+        if entry == 'Products': return self.type
+        if entry == 'Brand': return self.brand
+        if entry == 'Price': return self.price
+        if entry == 'Formula': return self.formula
+
+
 class BasicSelection(BaseModel):
     csv_file: str # Link to csv file
     product_database: list[Product] = [] # list of products
@@ -35,8 +44,8 @@ class BasicSelection(BaseModel):
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
-        print("rows: ", df.shape[0])
-        print("columns: ", df.shape[1])
+        # print("rows: ", df.shape[0])
+        # print("columns: ", df.shape[1])
 
         for r in range(0, df.shape[0]):
             
@@ -77,14 +86,14 @@ class BasicSelection(BaseModel):
                 entry_is_individual_product = True
                 
                 # If they specified an entire category, add all cateogory products to products list
-                for product_cat, cat_list in PRODUCT_CATEGORIES:
+                for product_cat, cat_list in PRODUCT_CATEGORIES.items():
                     if entry.replace(' ', '').upper().replace('PRODUCTS', '').replace('PRODUCT', '') == product_cat:
                         entry_is_individual_product = False
                         product_list.extend(cat_list)
                 
                 # Otherwise, if product is individual product, just append to list
                 if entry_is_individual_product:
-                    product_list.append(entry)
+                    product_list.append(entry.strip())
 
             self.user_info['what']['Products'] = product_list
         
@@ -109,8 +118,50 @@ class BasicSelection(BaseModel):
             self.user_info['what']['Price'] = price
     
     def keyword_lookup(self):
+        product_match: dict = {}
 
-        return 0
+        # Parse through all products
+        for product in self.product_database:
+            matches = 0
+
+            # If product is specified and does not match, skip product (put in matchces = 0)
+            if 'Products' in self.user_info['what']:
+                if product.get_attribute('Products') not in self.user_info['what']['Products']:
+                    if matches in product_match:
+                        product_match[matches].append(product)
+                    else:
+                        product_match[matches] = [product]
+                    continue
+            
+            # Otherwise, look at other prompts
+            for prompt in USER_WHAT_PROMPTS:
+                if prompt in self.user_info['what']:
+                    if prompt == 'Price':
+                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
+                            matches += 1
+                    elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
+                        matches += 1
+            
+            if matches in product_match:
+                product_match[matches].append(product)
+            else:
+                product_match[matches] = [product]
+
+        # for num_matches in reversed(list(product_match.keys())):
+        #     print(num_matches)
+        #     for product in product_match[num_matches]:
+        #         print(product.name)
+        
+        top_products: list[Product] = []
+        for num_matches in reversed(list(product_match.keys())):
+            if len(top_products) >= 2:
+                break
+            for product in product_match[num_matches]:
+                top_products.append(product)
+        
+        # print(top_products)
+        
+        return top_products
 
             
             
