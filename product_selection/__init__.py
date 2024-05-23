@@ -1,5 +1,5 @@
 '''
-Description:
+Description: Defines product class and helper functions to parse and sort product objects
 Authors: Floria Fang Zhang, Hope Hadfield, Katherine Zhang, Maisey Perelonia
 '''
 
@@ -44,11 +44,8 @@ class BasicSelection(BaseModel):
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
-        # print("rows: ", df.shape[0])
-        # print("columns: ", df.shape[1])
 
-        for r in range(0, df.shape[0]):
-            
+        for r in range(0, df.shape[0]):            
             # split string from dataset into list
             color = df.iloc[r, 2]
             color_list = color.split(',')
@@ -69,8 +66,6 @@ class BasicSelection(BaseModel):
                                    url = df.iloc[r, 9]) 
             
             self.product_database.append(temp_product)
-        
-        # print("dataframe: ", df)
     
     def parse_user_jsons(self, user_who, user_what):
         # Extract from JSON to dictionary
@@ -146,11 +141,6 @@ class BasicSelection(BaseModel):
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
-
-        # for num_matches in reversed(list(product_match.keys())):
-        #     print(num_matches)
-        #     for product in product_match[num_matches]:
-        #         print(product.name)
         
         top_products: list[Product] = []
         for num_matches in reversed(list(product_match.keys())):
@@ -158,8 +148,6 @@ class BasicSelection(BaseModel):
                 break
             for product in product_match[num_matches]:
                 top_products.append(product)
-        
-        # print(top_products)
         
         return top_products
 
