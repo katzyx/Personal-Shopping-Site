@@ -1,5 +1,30 @@
 import sys
-# from select_product import Product, BasicSelection
+import json
+from select_product import Product, BasicSelection
+
+
+def format_input_into_json(php_input):
+    input_string = php_input.strip('{}')
+    items = input_string.split(',')
+
+    data = {}
+    key = ''
+    for item in items:
+        # Split each item into key and value (if there's an ':' sign)
+        parts = item.split(':')
+        
+        if len(parts) > 1:
+            key = parts[0].strip()
+            value = parts[1].strip()
+            data[key] = value
+        else:
+            # If no '=', add it to previous key
+            data[key] += ', ' + parts[0].strip()
+
+    # Step 2: Convert dictionary to JSON string
+    json_string = json.dumps(data)
+
+    return json_string
 
 def basic_map(user_who, user_what): 
     # Extract Database
@@ -18,17 +43,11 @@ def basic_map(user_who, user_what):
 
 # Uses JSON strings from GPT
 if __name__ == "__main__": 
-    # input_who = '{"Age":"21","Sex":"Female","Ethnicity":"Asian","Skin Tone":"Light Neutral"}'
-    # input_what = '{"Products":"Skincare products, Foundation","Price":"$20 to $60", "Formula":"Cream"}'
+    # sys.argv = ['map_user_to_product.py', '.{Age:21,Sex:Female,Ethnicity:Chinese}', '.{Products:Skincare,Foundation,Price:40}']
 
-    json_input = ''
-    for word in sys.argv[1:]:
-        json_input += word + ' '
-    print(json_input)
-
-    input_who = json_input[json_input.find('{') : json_input.find('}') + 1]
-    input_what = json_input[json_input.rfind('{') : json_input.rfind('}') + 1]
-
+    input_who = format_input_into_json(sys.argv[1].replace('.',''))
+    input_what = format_input_into_json(sys.argv[2].replace('.',''))
+    
     basic_map(input_who, input_what)
 
 

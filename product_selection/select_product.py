@@ -1,13 +1,6 @@
-'''
-Description: Defines product class and helper functions to parse and sort product objects
-Authors: Floria Fang Zhang, Hope Hadfield, Katherine Zhang, Maisey Perelonia
-'''
-
 # Imports
 import pandas as pd
 import numpy as np
-import pydantic
-# from pydantic import BaseModel
 import json
 
 PRODUCT_CATEGORIES = {
@@ -19,17 +12,19 @@ PRODUCT_CATEGORIES = {
 USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
 
 # Class Definitions
-class Product(BaseModel):
-    name: str # Product name
-    type: str # Product type
-    brand: str # Product brand
-    color: list[str] # List of all product colors (all shades)
-    price: float # Price of product in CAD
-    size: str # Product size in metric given
-    formula: str # Product formula
-    ingredients: list[str] # List of ingredients of product
-    about: str # Description of product
-    url: str # URL to product purchasing site
+class Product:
+    def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url):
+        self.name: str = name # Product name
+        self.type: str = type # Product type
+        self.brand: str = brand # Product brand
+        self.color: list[str] = color# List of all product colors (all shades)
+        self.price: float = price # Price of product in CAD
+        self.size: str = size# Product size in metric given
+        self.formula: str = formula # Product formula
+        self.ingredients: list[str] = ingredients# List of ingredients of product
+        self.about: str = about # Description of product
+        self.url: str = url # URL to product purchasing site
+
 
     def get_attribute(self, entry):
         if entry == 'Products': return self.type
@@ -38,10 +33,11 @@ class Product(BaseModel):
         if entry == 'Formula': return self.formula
 
 
-class BasicSelection(BaseModel):
-    csv_file: str # Link to csv file
-    product_database: list[Product] = [] # list of products
-    user_info: dict = {} # Provided user information
+class BasicSelection:
+    def __init__(self, csv_file):
+        self.csv_file: str = csv_file # Link to csv file
+        self.product_database: list[Product] = [] # list of products
+        self.user_info: dict = {} # Provided user information
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
@@ -154,5 +150,3 @@ class BasicSelection(BaseModel):
         
         return top_products
 
-            
-            
