@@ -1,26 +1,30 @@
 import csv
-import pandas as pd
+import math
 
 # define shade groups and their ranges
-shade_ranges = {
-    "Red": [(150, 0, 0), (255, 100, 100)],
-    "Pink": [(255, 182, 193), (255, 192, 203)],
-    "Purple": [(128, 0, 128), (160, 32, 240)],
-    "Light": [(245, 228, 215), (214, 181, 153)],
-    "Medium": [(199, 155, 122), (117, 73, 61)],
-    "Dark": [(89, 58, 47), (44, 34, 30)],
+shade_values = {
+    "Red": (255, 0, 0),
+    "Pink": (255, 192, 203),
+    "Purple": (128, 0, 128),
+    "Light": (245, 228, 215),
+    "Medium": (199, 155, 122),
+    "Dark": (89, 58, 47),
 }
 
-# determinE if rgb value is within a range
-def in_range(rgb, min, max):
-    return all(min[i] <= rgb[i] <= max[i] for i in range(3))
+# calculate distance between two rgb values
+def calculate_distance(rgb1, rgb2):
+    return math.sqrt(sum((rgb1[i] - rgb2[i]) ** 2 for i in range(3)))
 
-# categorize rgb value
+# calculating the distance between the product's RGB value and the defined shade rgb values
 def categorize_rgb(rgb):
-    for color, (min, max) in shade_ranges.items():
-        if in_range(rgb, min, max):
-            return color
-    return "No shade match found"
+    min_distance = float('inf')
+    closest_shade = "No shade match found"
+    for shade, shade_rgb in shade_values.items():  # Iterate over shade_values
+        distance = calculate_distance(rgb, shade_rgb)
+        if distance < min_distance:
+            min_distance = distance
+            closest_shade = shade
+    return closest_shade
 
 # categorize shades in data
 def categorize_products(file, product_shades):
