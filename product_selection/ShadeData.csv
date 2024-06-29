@@ -1,0 +1,19 @@
+Product,Brand,Product Name,Shade Name,R,G,B,Price (CAD),Size,Formula,Product Image
+Foundation,Radiant Glow,Radiant Finish Foundation,Ivory,242,230,215,45.99,30ml,Liquid,https://example.com/image1.jpg
+Foundation,Radiant Glow,Radiant Finish Foundation,Beige,210,180,160,45.99,30ml,Liquid,https://example.com/image1.jpg
+Foundation,Radiant Glow,Radiant Finish Foundation,Cocoa,100,60,50,45.99,30ml,Liquid,https://example.com/image1.jpg
+Foundation,Velvet Touch,Matte Perfection Powder,Porcelain,245,235,220,38.75,12g,Powder,https://example.com/image2.jpg
+Foundation,Velvet Touch,Matte Perfection Powder,Sand,220,190,170,38.75,12g,Powder,https://example.com/image2.jpg
+Foundation,Velvet Touch,Matte Perfection Powder,Espresso,90,55,45,38.75,12g,Powder,https://example.com/image2.jpg
+Foundation,Nature's Essence,Herbal Infusion Cream,Alabaster,240,225,210,52.50,25ml,Cream,https://example.com/image3.jpg
+Foundation,Nature's Essence,Herbal Infusion Cream,Caramel,200,170,150,52.50,25ml,Cream,https://example.com/image3.jpg
+Foundation,Nature's Essence,Herbal Infusion Cream,Chestnut,90,65,55,52.50,25ml,Cream,https://example.com/image3.jpg
+Lipstick,Glamour Kiss,Satin Shine Lipstick,Cherry Blossom,235,0,85,22.50,4g,Cream,https://example.com/lipstick1.jpg
+Lipstick,Glamour Kiss,Satin Shine Lipstick,Rose Petal,255,193,193,22.50,4g,Cream,https://example.com/lipstick1.jpg
+Lipstick,Glamour Kiss,Satin Shine Lipstick,Midnight Plum,102,51,153,22.50,4g,Cream,https://example.com/lipstick1.jpg
+Lipstick,Bold Beauty,Matte Magic Lipstick,Crimson Red,178,34,34,25.00,5g,Cream,https://example.com/lipstick2.jpg
+Lipstick,Bold Beauty,Matte Magic Lipstick,Burnt Sienna,136,45,23,25.00,5g,Cream,https://example.com/lipstick2.jpg
+Lipstick,Bold Beauty,Matte Magic Lipstick,Deep Wine,88,29,29,25.00,5g,Cream,https://example.com/lipstick2.jpg
+Lipstick,Nature's Charm,Herbal Infusion Lip Cream,Coral Crush,255,127,80,30.00,6g,Liquid,https://example.com/lipstick3.jpg
+Lipstick,Nature's Charm,Herbal Infusion Lip Cream,Sunset Orange,255,99,71,30.00,6g,Liquid,https://example.com/lipstick3.jpg
+Lipstick,Nature's Charm,Herbal Infusion Lip Cream,Mahogany,123,63,55,30.00,6g,Liquid,https://example.com/lipstick3.jpg
