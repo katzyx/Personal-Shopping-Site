@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 from pydantic import BaseModel
 import json
+from shade_match import ShadeMatch
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -15,15 +16,17 @@ PRODUCT_CATEGORIES = {
     'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
     'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
-USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
+USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula', 'Shade']
+
+
 
 # Class Definitions
 class Product(BaseModel):
     name: str # Product name
     type: str # Product type
     brand: str # Product brand
-    color: list[str] # List of all product colors (all shades)
-    price: float # Price of product in CAD
+    shade: str # List of all product colors (all shades)
+    price: int # Price of product in CAD
     size: str # Product size in metric given
     formula: str # Product formula
     ingredients: list[str] # List of ingredients of product
@@ -34,6 +37,7 @@ class Product(BaseModel):
         if entry == 'Products': return self.type
         if entry == 'Brand': return self.brand
         if entry == 'Price': return self.price
+        if entry == 'Shade': return self.shade
         if entry == 'Formula': return self.formula
 
 
@@ -47,9 +51,6 @@ class BasicSelection(BaseModel):
 
         for r in range(0, df.shape[0]):            
             # split string from dataset into list
-            color = df.iloc[r, 2]
-            color_list = color.split(',')
-
             ingr = df.iloc[r, 7]
             ingr_list = ingr.split(',')
 
@@ -57,7 +58,7 @@ class BasicSelection(BaseModel):
             temp_product = Product(name = df.iloc[r, 0],
                                    type = df.iloc[r, 1],
                                    brand = df.iloc[r, 2],
-                                   color = color_list,
+                                   shade = df.iloc[r, 3],
                                    price = df.iloc[r, 4],
                                    size = str(df.iloc[r, 5]),
                                    formula = df.iloc[r, 6],
@@ -112,8 +113,16 @@ class BasicSelection(BaseModel):
             
             self.user_info['what']['Price'] = price
     
-    def find_shade(self):
-        return
+    def find_shade(self, user_shade):
+        shade_match = ShadeMatch
+        # empty dictionary to store shade ranges
+        product_shades = {}
+        shade_match.categorize_products(self, self.csv_file, product_shades)
+
+        # get user input and find the closest product(s)
+        closest_products = shade_match.find_closest_products(self, user_shade, product_shades)
+        return closest_products
+
     
     def keyword_lookup(self):
         product_match: dict = {}
@@ -137,8 +146,14 @@ class BasicSelection(BaseModel):
                     if prompt == 'Price':
                         if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
                             matches += 1
+                    elif prompt == 'Shade':
+                        user_shade = self.user_info['what'][prompt][0]
+                        closest_shade = self.find_shade(user_shade)
+                        if isinstance(closest_shade, str) == False:
+                            matches += 1
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
+                    
             
             if matches in product_match:
                 product_match[matches].append(product)
