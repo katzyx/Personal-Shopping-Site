@@ -112,6 +112,9 @@ class BasicSelection(BaseModel):
             
             self.user_info['what']['Price'] = price
     
+    def find_shade(self):
+        return
+    
     def keyword_lookup(self):
         product_match: dict = {}
 

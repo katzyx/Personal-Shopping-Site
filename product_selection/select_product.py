@@ -1,4 +1,5 @@
 from __init__ import Product, BasicSelection
+import shade_match
 
 def basic_map(user_who, user_what): 
     # Extract Database

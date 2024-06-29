@@ -26,6 +26,27 @@ def categorize_rgb(rgb):
             closest_shade = shade
     return closest_shade
 
+# find products that are closest to the given shade
+def find_closest_products(user_shade, product_shades):
+    if user_shade not in shade_values:
+        return "Shade not found in predefined shades."
+
+    rgb_val = shade_values[user_shade]
+    closest_products = []
+    min_distance = float('inf')
+
+    for shade, products in product_shades.items():
+        for rgb, product_name in products:
+            distance = calculate_distance(rgb, rgb_val)
+            if distance < min_distance:
+                closest_products = [(product_name, shade)]
+                min_distance = distance
+            elif distance == min_distance:
+                closest_products.append((product_name, shade))
+
+    # return tuple of products
+    return closest_products
+
 # categorize shades in data
 def categorize_products(file, product_shades):
     with open(file, "r", newline="") as csvfile:
@@ -34,10 +55,13 @@ def categorize_products(file, product_shades):
             product_name = row["Product Name"]
             rgb_values = (int(row["R"]), int(row["G"]), int(row["B"]))
             prod_shade = categorize_rgb(rgb_values)
+
+            # store rgb value and product name in dictionary
             if prod_shade in product_shades:
-                product_shades[prod_shade].append(product_name)
+                product_shades[prod_shade].append((rgb_values, product_name))
             else:
-                product_shades[prod_shade] = [product_name]
+                product_shades[prod_shade] = [(rgb_values, product_name)]
+
 
 # empty dictionary to store shade ranges
 product_shades = {}
@@ -50,3 +74,16 @@ for group, products in product_shades.items():
     print(f"{group.capitalize()} products:")
     for product in products:
         print(f"  - {product}")
+
+# get user input and find the closest product(s)
+user_shade = input("Shade wanted: ").capitalize()
+closest_products = find_closest_products(user_shade, product_shades)
+
+# if the result is a string, then product was not found
+if isinstance(closest_products, str):
+    print(closest_products)
+# else product(s) found
+else:
+    print(f"Closest product(s) to {user_shade}:")
+    for product_name, shade in closest_products:
+        print(f"  - {product_name} (shade: {shade})")
