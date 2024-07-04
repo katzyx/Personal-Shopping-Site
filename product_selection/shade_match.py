@@ -34,7 +34,7 @@ class ShadeMatch(BaseModel):
             return "Shade not found in predefined shades."
 
         rgb_val = shade_values[user_shade] 
-        closest_products = []
+        closest_products = [] # [('product', 'product name', 'shade')]
         min_distance = float('inf')
 
         for shade, products in product_shades.items():
@@ -54,7 +54,7 @@ class ShadeMatch(BaseModel):
         with open(file, "r", newline="") as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                product_name = row["Product"]
+                product_name = row["Name"]
                 shade_name = row["Shade"]
                 rgb_values = (int(row["R"]), int(row["G"]), int(row["B"]))
                 prod_shade = self.categorize_rgb(rgb_values)
@@ -73,27 +73,21 @@ class ShadeMatch(BaseModel):
         csv_path = "ShadeData.csv"
         self.categorize_products(csv_path, product_shades)
 
-        # # print products in shade ranges
-        # for group, products in product_shades.items():
-        #     print(f"{group.capitalize()} products:")
-        #     for product in products:
-        #         print(f"  - {product}")
-
         # get user input and find the closest product(s)
         closest_products = self.find_closest_products(user_shade, product_shades)
 
         # if the result is a string, then product was not found
-        if isinstance(closest_products, str):
-            print(closest_products)
-        # else product(s) found
-        else:
-            print(f"Closest product(s) to {user_shade}:")
-            for product_name, shade_name, shade in closest_products:
-                print(f"  - {product_name} in shade {shade_name}")
+        # if isinstance(closest_products, str):
+        #     print(closest_products)
+        # # else product(s) found
+        # else:
+        #     print(f"Closest product(s) to {user_shade}:")
+        #     for product_name, shade_name, shade in closest_products:
+        #         print(f"  - {product_name} in shade {shade_name}")
 
-        # return closest_products
+        return closest_products
 
-    
+
 shade_match = ShadeMatch()
 shade_match.find_shade("Light")
 

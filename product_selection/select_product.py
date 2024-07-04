@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import json
-import shade_match
+from shade_match import ShadeMatch
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -114,13 +114,13 @@ class BasicSelection:
     
     def keyword_lookup(self):
         product_match: dict = {}
-
+        
         # Parse through all products
         for product in self.product_database:
             matches = 0
 
             # If product is specified and does not match, skip product (put in matchces = 0)
-            if 'Products' in self.user_info['what']:
+            if 'Products' in self.user_info['what']: 
                 if product.get_attribute('Products') not in self.user_info['what']['Products']:
                     if matches in product_match:
                         product_match[matches].append(product)
@@ -128,6 +128,15 @@ class BasicSelection:
                         product_match[matches] = [product]
                     continue
             
+            # If shade is specified
+            if "Shade" in self.user_info['what']:
+                shade_match = ShadeMatch()
+                closest_products = shade_match.find_closest_products()
+
+                for i in range(len(closest_products)):
+                    if product in closest_products:
+                        match += 1
+                
             # Otherwise, look at other prompts
             for prompt in USER_WHAT_PROMPTS:
                 if prompt in self.user_info['what']:
