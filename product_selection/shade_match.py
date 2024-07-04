@@ -30,7 +30,7 @@ shade_dict = {
 
 def shade_finder(user_colour, user_shade):
     search = product_shades[user_colour]
-    rgb_val = shade_dict[user_shade]
+    rgb_val = user_shade
  
      # find rgb value of the given shade in dict
 
@@ -54,12 +54,8 @@ def shade_finder(user_colour, user_shade):
 csv_path = "ShadeData.csv"
 categorize_products(csv_path, product_shades)
 
-print(type(product_shades))
+""" print(type(product_shades))
 for group, products in product_shades.items():
     print(f"{group.capitalize()} products:")
     for product in products:
-        print(f"  - {product}")
-
-col = input("Enter the colour you'd like: ")
-shade = input("Enter the specific shade you'd like: ")
-print(shade_finder(col, shade))
+        print(f"  - {product}") """
