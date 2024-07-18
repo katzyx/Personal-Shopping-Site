@@ -43,7 +43,7 @@ def basic_map(user_who, user_what):
 
 # Uses JSON strings from GPT
 if __name__ == "__main__": 
-    # sys.argv = ['map_user_to_product.py', '.{Age:21,Sex:Female,Ethnicity:Chinese}', '.{Products:Skincare,Foundation,Price:40}']
+    sys.argv = ['map_user_to_product.py', '.{Age:21,Sex:Female,Ethnicity:Chinese}', '.{Products:Foundation,Price:under50}']
 
     input_who = format_input_into_json(sys.argv[1].replace('.',''))
     input_what = format_input_into_json(sys.argv[2].replace('.',''))
