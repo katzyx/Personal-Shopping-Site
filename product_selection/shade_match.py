@@ -18,16 +18,6 @@ def categorize_products(file, product_shades):
 
 product_shades = {}
 
-
-shade_dict = {
-    "Bright Red": (255, 0, 0),
-    "Dark Red": (155, 0, 0),
-    "Light Pink": (255, 204, 229),
-    "Fuchsia":(255, 0, 127),
-    "Purple": (102, 0, 102),
-}
-
-
 def shade_finder(user_colour, user_shade):
     search = product_shades[user_colour]
     rgb_val = user_shade

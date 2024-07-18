@@ -8,64 +8,64 @@ import pandas as pd
 import numpy as np
 from pydantic import BaseModel
 import json
+import csv
+import math
+import user_shaderequest
 
+product_shades = {}
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
     'FACE' : ['Face Primer', 'Foundation', 'Tinted Moisturizer', 'Concealer', 'Blush', 'Bronzer', 'Contour', 'Highlighter', 'Setting Powder', 'Setting Spray'],
     'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
     'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
-USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
+USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula', 'Color']
 
 # Class Definitions
 class Product(BaseModel):
     name: str # Product name
     type: str # Product type
     brand: str # Product brand
-    color: list[str] # List of all product colors (all shades)
+    color: str # List of all product colors (all shades)
     price: float # Price of product in CAD
     size: str # Product size in metric given
     formula: str # Product formula
-    ingredients: list[str] # List of ingredients of product
-    about: str # Description of product
-    url: str # URL to product purchasing site
+    rgb_values: list[int]
+    # ingredients: list[str] # List of ingredients of product
+    # about: str # Description of product
+    # url: str # URL to product purchasing site
 
     def get_attribute(self, entry):
         if entry == 'Products': return self.type
         if entry == 'Brand': return self.brand
         if entry == 'Price': return self.price
         if entry == 'Formula': return self.formula
+        if entry == 'Color': return self.rgb_values
+        # if entry == 'RGB': return self.rgb_values
 
 
 class BasicSelection(BaseModel):
     csv_file: str # Link to csv file
     product_database: list[Product] = [] # list of products
     user_info: dict = {} # Provided user information
+    def categorize_products(self):
+        with open(self.csv_file, "r", newline="") as csvf:
+            reader = csv.DictReader(csvf)
+            for row in reader:
+                temp_product = Product(name = row["Product Name"],
+                    type = row["Type"],
+                    brand = row["Brand"],
+                    color = row["Shade Name"],
+                    price = row["Price (CAD)"],
+                    size = row["Size"],
+                    formula = row["Formula"],
+                    rgb_values = (int(row["R"]), int(row["G"]), int(row["B"])))
 
-    def parse_dataset(self):
-        df = pd.read_csv(self.csv_file)
-
-        for r in range(0, df.shape[0]):            
-            # split string from dataset into list
-            color = df.iloc[r, 2]
-            color_list = color.split(',')
-
-            ingr = df.iloc[r, 7]
-            ingr_list = ingr.split(',')
-
-            # Create product object to append to product database
-            temp_product = Product(name = df.iloc[r, 0],
-                                   type = df.iloc[r, 1],
-                                   brand = df.iloc[r, 2],
-                                   color = color_list,
-                                   price = df.iloc[r, 4],
-                                   size = str(df.iloc[r, 5]),
-                                   formula = df.iloc[r, 6],
-                                   ingredients = ingr_list,
-                                   about = df.iloc[r, 8],
-                                   url = df.iloc[r, 9]) 
-            
-            self.product_database.append(temp_product)
+                self.product_database.append(temp_product)
+                # if prod_shade in product_shades:
+                #     product_shades[prod_shade].append((rgb_values, product_name, prod_shade_name))
+                # else:
+                #     product_shades[prod_shade] = [(rgb_values, product_name, prod_shade_name)]
     
     def parse_user_jsons(self, user_who, user_what):
         # Extract from JSON to dictionary
@@ -111,10 +111,20 @@ class BasicSelection(BaseModel):
                 price = [float(user_price_string), float(user_price_string)]
             
             self.user_info['what']['Price'] = price
+    # csv_path = "ShadeData.csv"
+    # categorize_products(csv_path, product_shades)
     
+    def shade_finder(self, user_shade, p):
+
+        val = math.sqrt((user_shade[0] - p[0])**2 + (user_shade[1] - p[1])**2 + (user_shade[2] - p[2])**2)
+        return val
+
     def keyword_lookup(self):
         product_match: dict = {}
-
+        rgb_shade_match = user_shaderequest.chatgpt(self.user_info['what']['Color'])
+        x = rgb_shade_match.split(",")
+        y = (int(x[0]), int(x[1]), int(x[2]))
+  
         # Parse through all products
         for product in self.product_database:
             matches = 0
@@ -133,6 +143,10 @@ class BasicSelection(BaseModel):
                 if prompt in self.user_info['what']:
                     if prompt == 'Price':
                         if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
+                            matches += 1
+                    elif prompt == 'Color':
+                        #print(product.get_attribute(prompt))
+                        if self.shade_finder(y, product.get_attribute(prompt)) < 100:
                             matches += 1
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
