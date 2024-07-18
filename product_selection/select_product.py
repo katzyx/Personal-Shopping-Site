@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 import json
+from shade_match import ShadeMatch
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -113,25 +114,42 @@ class BasicSelection:
     
     def keyword_lookup(self):
         product_match: dict = {}
-
+        
         # Parse through all products
         for product in self.product_database:
             matches = 0
 
             # If product is specified and does not match, skip product (put in matchces = 0)
-            if 'Products' in self.user_info['what']:
-                if product.get_attribute('Products') not in self.user_info['what']['Products']:
+            if 'Products' in self.user_info['what']: 
+                # print('user wants', self.user_info['what']['Products'])
+                if product.get_attribute('Products') in self.user_info['what']['Products']:
+                    # print('match', product.name, product.type)
+                    matches += 1
+                else:
+                    # print(product.name, product.type)
                     if matches in product_match:
                         product_match[matches].append(product)
                     else:
                         product_match[matches] = [product]
                     continue
+                
             
+            # If shade is specified
+            if "Shade" in self.user_info['what']:
+                shade_match = ShadeMatch()
+                closest_products = shade_match.find_closest_products()
+
+                for i in range(len(closest_products)):
+                    if product in closest_products:
+                        matches += 1
+                
             # Otherwise, look at other prompts
             for prompt in USER_WHAT_PROMPTS:
                 if prompt in self.user_info['what']:
                     if prompt == 'Price':
+                        # print('user wants price range', self.user_info['what'][prompt])
                         if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
+                            # print('match', product.name, product.price)
                             matches += 1
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
@@ -140,9 +158,18 @@ class BasicSelection:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
+
+        # for match_num, products in product_match.items():
+        #     print('Number of Matches:', match_num)
+        #     for product in products:
+        #         print(product.name)
         
         top_products: list[Product] = []
-        for num_matches in reversed(list(product_match.keys())):
+
+        reverse_match_keys = (list(product_match.keys()))
+        reverse_match_keys.sort(reverse=True)
+
+        for num_matches in reverse_match_keys:
             if len(top_products) >= 2:
                 break
             for product in product_match[num_matches]:
