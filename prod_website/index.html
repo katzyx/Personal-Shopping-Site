@@ -26,38 +26,40 @@
   <body>
     <div class="se-pre-con"></div>
     <header id="home">
-      <nav>
-        <ul>
-          <li class="primary-nav">
-            <img src="Images/img-DS.png" alt="logo" />
-            <a href="#home">DOWNY SHOES</a>
-          </li>
-          <li class="secondary-nav">
-            <a href="HTML/checkout.html">
-              <i class="fas fa-shopping-cart"></i> CART
-            </a>
-          </li>
-          <li class="secondary-nav">
-            <a href="./HTML/features.html">DESIGN SUMMARY</a>
-          </li>
-          <li class="secondary-nav">
-            <a href="./HTML/about-me.html">ABOUT ME</a>
-          </li>
-
-          <li class="secondary-nav"><a href="HTML/women.html">WOMEN</a></li>
-          <li class="secondary-nav"><a href="HTML/men.html">MEN</a></li>
-          <li class="secondary-nav">
-            <a href="HTML/about-us.html">ABOUT DOWNY</a>
-          </li>
-        </ul>
+      <nav style="background-color: #fff; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+        <!-- Centered logo and text -->
+        <div style="display: flex; align-items: center; flex: 1; justify-content: center;">
+          <img src="Images/img-DS.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <a href="#home" style="text-decoration: none; color: black; font-size: 18px;">Personal Shopping Site</a>
+        </div>
+        
+        <!-- Right-aligned account link -->
+        <div style="margin-left: auto;">
+          <a href="html/checkout.html" style="text-decoration: none; color: black;">
+            <i class="fas fa-user"></i> ACCOUNT
+          </a>
+        </div>
       </nav>
-      <div class="pxtext">
-        <span class="border">
-          Nike Air Jordan
-        </span>
-        <p><a href="HTML/men.html">Shop Now</a></p>
+    
+      <!-- Search bar section -->
+      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; margin-top: 60px;">
+        <!-- Line of text above the search bar -->
+        <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
+        
+        <!-- Search bar with placeholder text and a 'Go' button -->
+        <div style="display: flex; justify-content: center; align-items: center;">
+          <input type="text" placeholder="I am looking for a light foundation for sensitive skin." 
+                 style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+          
+          <button style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
+            Go
+          </button>
+        </div>
       </div>
     </header>
+    
+
+<!-- This section is where search bar ends -->
     <section>
       <div
         class="row"
@@ -66,7 +68,7 @@
       >
         <div class="col">
           <div class="overlay-image">
-            <a href="HTML/men.html">
+            <a href="html/men.html">
               <img class="image" src="./Images/img-men6.jpg" alt="Alt text" />
               <div class="normal">
                 <div class="text">MEN</div>
@@ -84,7 +86,7 @@
         </div>
         <div class="col">
           <div class="overlay-image">
-            <a href="HTML/women.html">
+            <a href="html/women.html">
               <img
                 class="image"
                 src="./Images/img-women5.jpeg"
@@ -114,25 +116,25 @@
       margin: 0 auto;"
       >
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike1.jpg" alt="" width="100%" />
             <figcaption>Nike Run +</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike3.jpg" alt="" width="100%" />
             <figcaption>Nike Air Blue</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike5.jpg" width="100%" />
             <figcaption>Casual Nike</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike10.jpg" alt="" width="100%" />
             <figcaption>Nike Air Orange</figcaption>
           </a>
@@ -141,13 +143,13 @@
     </section>
 
     <h3 style="text-align: center">
-      <a href="./HTML/survey.html">Click here to take a quick survey</a>
+      <a href="./html/survey.html">Click here to take a quick survey</a>
     </h3>
 
     <footer>
       <div class="row foot">
         <div class="col">
-          <h1>Downy Shoes</h1>
+          <h1>Personal Shopping Site</h1>
           <p>
             Official <a href="https://www.nike.com/xf/en_gb/">Nike</a> Partner
           </p>
@@ -155,17 +157,17 @@
         <div class="col">
           <h2>Links</h2>
           <ul>
-            <li><a href="./HTML/shop.html">Catalog</a></li>
+            <li><a href="./html/shop.html">Catalog</a></li>
 
-            <li><a href="./HTML/Contact-us.html">Contact us</a></li>
-            <li><a href="./HTML/survey.html">Take a survey</a></li>
+            <li><a href="./html/Contact-us.html">Contact us</a></li>
+            <li><a href="./html/survey.html">Take a survey</a></li>
             <li>
-              <a href="./HTML/terms-and-conditions.html"
+              <a href="./html/terms-and-conditions.html"
                 >Terms and conditions</a
               >
             </li>
             <li>
-              <a href="./HTML/refund-policy.html">Refund Policy</a>
+              <a href="./html/refund-policy.html">Refund Policy</a>
             </li>
           </ul>
         </div>
