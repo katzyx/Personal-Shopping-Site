@@ -26,28 +26,29 @@
   <body>
     <div class="se-pre-con"></div>
     <header id="home">
-      <nav style="background-color: #fff; padding: 10px;">
-        <ul style="list-style-type: none; display: flex; justify-content: space-between; align-items: center; margin: 0;">
-          <li class="primary-nav" style="display: flex; align-items: center;">
-            <img src="Images/img-DS.png" alt="logo" style="height: 40px; margin-right: 10px;" />
-            <a href="#home" style="text-decoration: none; color: black;">Personal Shopping Site</a>
-          </li>
-          <li class="secondary-nav">
-            <a href="html/checkout.html" style="text-decoration: none; color: black;">
-              <i class="fas fa-user"></i> ACCOUNT
-            </a>
-          </li>
-        </ul>
+      <nav style="background-color: #fff; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+        <!-- Centered logo and text -->
+        <div style="display: flex; align-items: center; flex: 1; justify-content: center;">
+          <img src="Images/img-DS.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <a href="#home" style="text-decoration: none; color: black; font-size: 18px;">Personal Shopping Site</a>
+        </div>
+        
+        <!-- Right-aligned account link -->
+        <div style="margin-left: auto;">
+          <a href="html/checkout.html" style="text-decoration: none; color: black;">
+            <i class="fas fa-user"></i> ACCOUNT
+          </a>
+        </div>
       </nav>
     
       <!-- Search bar section -->
       <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; margin-top: 60px;">
         <!-- Line of text above the search bar -->
-        <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquie, or request clean ingredients.):</p>
+        <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
         
         <!-- Search bar with placeholder text and a 'Go' button -->
         <div style="display: flex; justify-content: center; align-items: center;">
-          <input type="text" placeholder="I am looking for a light foundation for sensitve skin..." 
+          <input type="text" placeholder="I am looking for a light foundation for sensitve skin." 
                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
           
           <button style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
