@@ -21,11 +21,67 @@
     />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="./js/preloader.js"></script>
+    <script>
+      function collapseprompt() {
+        var x = document.getElementById("prompt");
+        var image = document.getElementById("arrow");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+          image.src = 'icons8-collapse-arrow-100.png';
+        }
+        else{
+          x.style.display = "none";
+          image.src = 'icons8-expand-arrow-100.png';
+        }
+      }
+      </script>
   </head>
 
   <body>
     <div class="se-pre-con"></div>
+    <header id="home">
+      <nav style="background-color: #8faaf3; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+        <!-- Centered logo and text -->
+        <div style="display: flex; align-items: center; flex: 1; justify-content: center;">
+          <img src="bearbear.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <a href="#home" style="text-decoration: none; color: black; font-size: 18px;">Personal Shopping Site</a>
+        </div>
+        
+        <!-- Right-aligned account link -->
+        <div style="margin-left: auto;">
+          <a href="html/checkout.html" style="text-decoration: none; color: black;">
+            <i class="fas fa-user"></i> ACCOUNT
+          </a>
+        </div>
+      </nav>
+
+      <div style="background-color: #8faaf3; margin: -2%; padding: 2%">
+        <!-- Line of text above the search bar -->
+        <div id="prompt">
+        <p style="color: black; text-align: center;">Tell me about yourself (ex. age, skin tone, skin type, etc.).</p>
+        
+        <!-- Search bar with placeholder text and a 'Go' button -->
+        <div style="display: flex; justify-content: center; align-items: center;">
+          <input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
+                 style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+          
+          <button style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
+            Save
+          </button>
+        </div>
+      </div>
+        <p style="color: black; text-align: center;">
+          <button onclick="collapseprompt()" style="position: center; margin-left: 10px; border-radius: 50%; background-color: transparent; border: none;">
+            <img class="hov" id="arrow" src="icons8-collapse-arrow-100.png" style="width:25px">
+          </button>
+        </p>
+        
+        
+        
+      </div>
     
+      
+    </header>
     <header id="home">
       <nav>
       

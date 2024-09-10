@@ -24,7 +24,15 @@ body, html {
       background-attachment: scroll;
     }
   }
-  
+
+  .hov {
+    opacity: 0.6;
+  }
+
+  .hov:hover {
+    cursor: pointer;
+    opacity: 1;
+  }
   .pxtext {
     position: absolute;
     top: 55%;
