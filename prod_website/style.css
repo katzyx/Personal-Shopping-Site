@@ -15,7 +15,7 @@ body, html {
     background-image: url("Images/nike-bg-6.gif");
     background-attachment: fixed;
     width: 100%;
-    height: 80%;
+    padding-bottom: 2em;
   }
   
   @media (max-width: 600px) {
