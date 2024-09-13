@@ -8,6 +8,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="Images/img-DS.png" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/navbar.css" />
+    <link rel="stylesheet" href="css/blogpost.css">
+
     <link
       href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap"
       rel="stylesheet"
@@ -56,11 +58,11 @@
       </nav>
 
       <div style="background-color: #8faaf3; margin: -2%; padding: 2%">
-        <!-- Line of text above the search bar -->
+        <!-- Line of text above the text box -->
         <div id="prompt">
         <p style="color: black; text-align: center;">Tell me about yourself (ex. age, skin tone, skin type, etc.).</p>
         
-        <!-- Search bar with placeholder text and a 'Go' button -->
+        <!-- Text box and 'Save' button -->
         <div style="display: flex; justify-content: center; align-items: center;">
           <input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
@@ -92,8 +94,72 @@
         </span>
         <p><input type="text" id="who" name="who"></p>
         <p><a href="HTML/men.html">Save Profile</a></p>
+      <!-- Search bar section -->
+      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; margin-top: 60px;">
+        <!-- Line of text above the search bar -->
+        <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
+        
+        <!-- Search bar with placeholder text and a 'Go' button -->
+        <div style="display: flex; justify-content: center; align-items: center;">
+          <input type="text" placeholder="I am looking for a light foundation for sensitive skin." 
+                 style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+          
+          <button style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
+            Go
+          </button>
+        </div>
       </div>
     </header>
+
+    <!-- This section is where images are displayed -->
+    <div style="display: flex; align-items: center; padding-bottom: 5em;">
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+    </div>
+
+    <!-- This section is where images and blog post are displayed -->
+    <div style="display: flex; align-items: center;">
+      <div style="flex: 42%;">
+        <fieldset>
+          <legend>From your beauty advisor</legend> 
+          <table>
+            <tr><td>Given your age and ethnicity, it is important to focus on skincare products that cater to the needs of Chinese skin, which is typically prone to hyperpigmentation and sensitivity. Look for skincare products that contain brightening ingredients like niacinamide or Vitamin C to even out your skin tone and protect it from environmental stressors. For foundation, aim for a lightweight formula that offers buildable coverage to achieve a natural finish. Considering your budget, seek out products that offer good quality without breaking the bank. When applying foundation, start with a clean, moisturized face and use a beauty sponge or brush for a seamless application. Remember to blend well into your skin tone for a flawless look. Prioritizing skincare and choosing the right foundation can enhance your natural beauty and promote a healthy complexion.</td></tr>
+          </table>
+        </fieldset>
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+      <div style="flex: 14%;">
+        <img src="foundation_sample.jpeg" height="200em">
+      </div>
+    </div>
+
     <section>
       <div
         class="row"
@@ -102,7 +168,7 @@
       >
         <div class="col">
           <div class="overlay-image">
-            <a href="HTML/men.html">
+            <a href="html/men.html">
               <img class="image" src="./Images/img-men6.jpg" alt="Alt text" />
               <div class="normal">
                 <div class="text">MEN</div>
@@ -120,7 +186,7 @@
         </div>
         <div class="col">
           <div class="overlay-image">
-            <a href="HTML/women.html">
+            <a href="html/women.html">
               <img
                 class="image"
                 src="./Images/img-women5.jpeg"
@@ -150,25 +216,25 @@
       margin: 0 auto;"
       >
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike1.jpg" alt="" width="100%" />
             <figcaption>Nike Run +</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike3.jpg" alt="" width="100%" />
             <figcaption>Nike Air Blue</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike5.jpg" width="100%" />
             <figcaption>Casual Nike</figcaption>
           </a>
         </figure>
         <figure class="item">
-          <a href="HTML/info.html">
+          <a href="html/info.html">
             <img src="./Images/img-Nike10.jpg" alt="" width="100%" />
             <figcaption>Nike Air Orange</figcaption>
           </a>
@@ -177,13 +243,13 @@
     </section>
 
     <h3 style="text-align: center">
-      <a href="./HTML/survey.html">Click here to take a quick survey</a>
+      <a href="./html/survey.html">Click here to take a quick survey</a>
     </h3>
 
     <footer>
       <div class="row foot">
         <div class="col">
-          <h1>Downy Shoes</h1>
+          <h1>Personal Shopping Site</h1>
           <p>
             Official <a href="https://www.nike.com/xf/en_gb/">Nike</a> Partner
           </p>
@@ -191,17 +257,17 @@
         <div class="col">
           <h2>Links</h2>
           <ul>
-            <li><a href="./HTML/shop.html">Catalog</a></li>
+            <li><a href="./html/shop.html">Catalog</a></li>
 
-            <li><a href="./HTML/Contact-us.html">Contact us</a></li>
-            <li><a href="./HTML/survey.html">Take a survey</a></li>
+            <li><a href="./html/Contact-us.html">Contact us</a></li>
+            <li><a href="./html/survey.html">Take a survey</a></li>
             <li>
-              <a href="./HTML/terms-and-conditions.html"
+              <a href="./html/terms-and-conditions.html"
                 >Terms and conditions</a
               >
             </li>
             <li>
-              <a href="./HTML/refund-policy.html">Refund Policy</a>
+              <a href="./html/refund-policy.html">Refund Policy</a>
             </li>
           </ul>
         </div>
