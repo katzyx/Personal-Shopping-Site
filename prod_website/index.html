@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Downy Shoes</title>
+    <title>Floria Hope Kat Maisey</title>
     <link rel="shortcut icon" type="image/x-icon" href="Images/img-DS.png" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/navbar.css" />
@@ -23,16 +23,31 @@
     />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="./js/preloader.js"></script>
+    <script>
+      function collapseprompt() {
+        var x = document.getElementById("prompt");
+        var image = document.getElementById("arrow");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+          image.src = 'icons8-collapse-arrow-100.png';
+        }
+        else{
+          x.style.display = "none";
+          image.src = 'icons8-expand-arrow-100.png';
+        }
+      }
+    </script>
+
   </head>
 
   <body>
     <div class="se-pre-con"></div>
-    <header id="home">
-      <nav style="background-color: #fff; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+    <header id="home" style="margin-bottom: 0px;">
+      <nav style="background-color: black; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
         <!-- Centered logo and text -->
         <div style="display: flex; align-items: center; flex: 1; justify-content: center;">
-          <img src="Images/img-DS.png" alt="logo" style="height: 40px; margin-right: 10px;" />
-          <a href="#home" style="text-decoration: none; color: black; font-size: 18px;">Personal Shopping Site</a>
+          <img src="icons8-face-powder-96.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <a href="#home" style="text-decoration: none; color: white; font-size: 18px;">Personal Shopping Site</a>
         </div>
         
         <!-- Right-aligned account link -->
@@ -42,9 +57,31 @@
           </a>
         </div>
       </nav>
+      <div style="background-color: black; margin-top: 60px; padding-bottom: 1px;">
+        <!-- Line of text above the text box -->
+        <div id="prompt">
+          <p style="color: white; text-align: center;">Tell me about yourself (ex. age, skin tone, skin type, etc.).</p>
+          
+          <!-- Text box and 'Save' button -->
+          <div style="display: flex; justify-content: center; align-items: center;">
+            <input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
+                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+            
+            <button style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
+              Save
+            </button>
+          </div>
+        </div>
+        <p style="color: black; text-align: center;">
+          <button onclick="collapseprompt()" style="position: center; margin-left: 10px; border-radius: 50%; background-color: transparent; border: none;">
+            <img class="hov" id="arrow" src="icons8-collapse-arrow-100.png" style="width:25px">
+          </button>
+        </p>
+      </div>
+
     
       <!-- Search bar section -->
-      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; margin-top: 60px;">
+      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; ">
         <!-- Line of text above the search bar -->
         <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
         
