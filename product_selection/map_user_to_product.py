@@ -2,6 +2,7 @@ import sys
 import json
 from select_product import Product, BasicSelection
 from user_input import UserInput
+from key import API_key
 
 def basic_map(user_who, user_what): 
     # Extract Database
@@ -20,7 +21,7 @@ def basic_map(user_who, user_what):
 
 # Uses JSON strings from GPT
 if __name__ == "__main__": 
-    user_input = UserInput("KEY", "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
+    user_input = UserInput(API_key, "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
     user_input.parse_user_inputs()
     
     basic_map(user_input.input_who, user_input.input_what)

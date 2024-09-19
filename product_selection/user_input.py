@@ -1,4 +1,5 @@
 import openai
+from key import API_key
 
 class UserInput:
     def __init__(self, openai_key, raw_input_who, raw_input_what):
@@ -62,5 +63,5 @@ class UserInput:
         return json_string
     '''
 
-# user_input = UserInput("KEY", "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
+# user_input = UserInput(API_key, "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
 # user_input.parse_user_inputs()

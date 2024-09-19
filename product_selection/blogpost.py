@@ -1,4 +1,5 @@
 import openai
+from key import API_key
 
 class Blogpost:
     def __init__(self, openai_key, input_who, input_what):
@@ -20,5 +21,5 @@ class Blogpost:
         return reply
     
 
-# blogpost = Blogpost("KEY", '{"Age": "21", "Sex": "Female", "Ethnicity": "Chinese"}', '{"Products": "Skincare, Foundation", "Price": "40"}')
+# blogpost = Blogpost(API_key, '{"Age": "21", "Sex": "Female", "Ethnicity": "Chinese"}', '{"Products": "Skincare, Foundation", "Price": "40"}')
 # blogpost.write_blogpost()
