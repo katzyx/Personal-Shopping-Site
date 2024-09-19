@@ -20,5 +20,5 @@ class Blogpost:
         return reply
     
 
-blogpost = Blogpost("KEY", '{"Age": "21", "Sex": "Female", "Ethnicity": "Chinese"}', '{"Products": "Skincare, Foundation", "Price": "40"}')
-blogpost.write_blogpost()
+# blogpost = Blogpost("KEY", '{"Age": "21", "Sex": "Female", "Ethnicity": "Chinese"}', '{"Products": "Skincare, Foundation", "Price": "40"}')
+# blogpost.write_blogpost()
