@@ -1,4 +1,4 @@
-import openai
+import openai # type: ignore
 from key import API_key
 
 class UserInput:
