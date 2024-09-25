@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Personal Shopping Site</title>
-    <link rel="shortcut icon" type="image/x-icon" href="Images/img-DS.png" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="css/navbar.css" />
-    <link rel="stylesheet" href="css/blogpost.css">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', filename='Images/img-DS.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/navbar.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/blogpost.css') }}" />
 
     <link
       href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap"
@@ -29,11 +29,11 @@
         var image = document.getElementById("arrow");
         if (x.style.display === "none") {
           x.style.display = "block";
-          image.src = '/assets/icons8-collapse-arrow-100.png';
+          image.src = "{{ url_for('static', filename='assets/icons8-collapse-arrow-100.png') }}";
         }
         else{
           x.style.display = "none";
-          image.src = '/assets/icons8-expand-arrow-100.png';
+          image.src = "{{ url_for('static', filename='assets/icons8-expand-arrow-100.png') }}";
         }
       }
     </script>
@@ -57,7 +57,7 @@
       <nav class="nav_bar" style="background-color: black; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
         <!-- Centered logo and text -->
         <div class="web_name" style="display: flex; align-items: center; flex: 1; justify-content: center;">
-          <img src="/assets/icons8-face-powder-96.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <img src="{{ url_for('static', filename='assets/icons8-face-powder-96.png') }}" alt="logo" style="height: 40px; margin-right: 10px;" />
           <a href="#home" style="text-decoration: none; color: white; font-size: 18px;">Personal Shopping Site</a>
         </div>
         
@@ -125,49 +125,49 @@
     <!-- This section is where images are displayed -->
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
@@ -186,28 +186,28 @@
         </fieldset>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
         <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
-        <img src="/assets/foundation_sample.jpeg" height="200em">
+        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
         <b style="margin-top: 0.5em">Light liquid foundation</b>
         <p style="margin-top: 0.5em">$16.95</p>
