@@ -1,0 +1,6 @@
+# ignore all pychache files
+__pycache__/
+*/__pycache__/
+
+# ignore key file
+product_selection/key.py

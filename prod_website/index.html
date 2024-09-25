@@ -23,28 +23,90 @@
     />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="./js/preloader.js"></script>
+    <script>
+      function collapseprompt() {
+        var x = document.getElementById("prompt");
+        var image = document.getElementById("arrow");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+          image.src = 'icons8-collapse-arrow-100.png';
+        }
+        else{
+          x.style.display = "none";
+          image.src = 'icons8-expand-arrow-100.png';
+        }
+      }
+    </script>
+    <script>
+      function opendropdown() {
+        var x = document.getElementById("whodropdown");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        }
+        else{
+          x.style.display = "none";
+        }
+      }
+    </script>
+
   </head>
 
   <body>
     <div class="se-pre-con"></div>
-    <header id="home">
-      <nav style="background-color: #fff; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+    <header id="home" style="margin-bottom: 0px;">
+      <nav class="nav_bar" style="background-color: black; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
         <!-- Centered logo and text -->
-        <div style="display: flex; align-items: center; flex: 1; justify-content: center;">
-          <img src="Images/img-DS.png" alt="logo" style="height: 40px; margin-right: 10px;" />
-          <a href="#home" style="text-decoration: none; color: black; font-size: 18px;">Personal Shopping Site</a>
+        <div class="web_name" style="display: flex; align-items: center; flex: 1; justify-content: center;">
+          <img src="icons8-face-powder-96.png" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <a href="#home" style="text-decoration: none; color: white; font-size: 18px;">Personal Shopping Site</a>
         </div>
         
         <!-- Right-aligned account link -->
-        <div style="margin-left: auto;">
-          <a href="html/checkout.html" style="text-decoration: none; color: black;">
-            <i class="fas fa-user"></i> ACCOUNT
+        <div class="account_drop" style="margin-left: auto; background-color: #B3CEE5; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
+          <a class="accounts" onclick="opendropdown()" style="text-decoration: none; color: white; width: 30px; background-color: #B3CEE5;">
+            <i class="fas fa-user"></i>
           </a>
+          <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
+            <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
+            <div>
+              <!--<input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
+                  style="flex: 1; width: 350px; height: 300px; padding: 10px; border-radius: 5px; border: none;"> -->
+
+              <textarea placeholder="I am a 22-year old girl with medium olive skin and oily skin type." rows="7" cols="50"></textarea>
+              <button style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
+                Save
+              </button>
+            </div>
+          </div>
+          
         </div>
       </nav>
+      
+      <div style="background-color: black; padding-bottom: 1px; margin-top: -17px;">
+        <!-- Line of text above the text box -->
+        <!--<div id="prompt">
+          <p style="color: white; text-align: center;">Tell me about yourself (ex. age, skin tone, skin type, etc.).</p>
+          
+          
+          <div style="display: flex; justify-content: center; align-items: center;">
+            <input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
+                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+            
+            <button style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
+              Save
+            </button>
+          </div>
+        </div>
+        <p style="color: black; text-align: center;">
+          <button onclick="collapseprompt()" style="position: center; margin-left: 10px; border-radius: 50%; background-color: transparent; border: none;">
+            <img class="hov" id="arrow" src="icons8-collapse-arrow-100.png" style="width:25px">
+          </button>
+        </p>
+      </div>-->
+
     
       <!-- Search bar section -->
-      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; margin-top: 60px;">
+      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; ">
         <!-- Line of text above the search bar -->
         <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
         
@@ -61,32 +123,60 @@
     </header>
 
     <!-- This section is where images are displayed -->
-    <div style="display: flex; align-items: center; padding-bottom: 5em;">
+    <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
     </div>
 
     <!-- This section is where images and blog post are displayed -->
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center; text-align: center">
       <div style="flex: 42%;">
         <fieldset>
           <legend>From your beauty advisor</legend> 
@@ -97,15 +187,31 @@
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
       <div style="flex: 14%;">
         <img src="foundation_sample.jpeg" height="200em">
+        <p>NARS</p>
+        <b style="margin-top: 0.5em">Light liquid foundation</b>
+        <p style="margin-top: 0.5em">$16.95</p>
+        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
       </div>
     </div>
 
