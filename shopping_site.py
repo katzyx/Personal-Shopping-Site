@@ -5,8 +5,7 @@ from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
 from wtforms import StringField, SubmitField, validators # type: ignore
 
-template_dir = os.path.abspath('./prod_website/html')
-app = Flask(__name__, template_folder=template_dir)
+app = Flask(__name__)
 bootstrap = Bootstrap(app)
 moment = Moment(app)
 
