@@ -1,6 +1,6 @@
 # Personal-Shopping-Site
 Capstone 
-
+ 
 
 Setting up venv: 
 ```
