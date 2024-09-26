@@ -11,6 +11,8 @@ PRODUCT_CATEGORIES = {
 
 USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
 
+NUMBER_PRODUCTS_RETURNED = 11
+
 # Class Definitions
 class Product:
     def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url):
@@ -141,13 +143,13 @@ class BasicSelection:
             else:
                 product_match[matches] = [product]
         
-        # Choose the top 11 products
+        # Choose the top products
         top_products: list[Product] = []
         for num_matches in reversed(list(product_match.keys())):
-            if len(top_products) >= 11:
+            if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                     break
             for product in product_match[num_matches]:
-                if len(top_products) >= 11:
+                if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                     break
                 top_products.append(product)
         
