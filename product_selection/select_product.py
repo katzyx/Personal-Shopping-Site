@@ -147,7 +147,7 @@ class BasicSelection:
         top_products: list[Product] = []
         for num_matches in reversed(list(product_match.keys())):
             if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
-                    break
+                break
             for product in product_match[num_matches]:
                 if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                     break
