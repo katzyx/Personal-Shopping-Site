@@ -106,20 +106,22 @@
 
     
       <!-- Search bar section -->
-      <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; ">
-        <!-- Line of text above the search bar -->
-        <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
-        
-        <!-- Search bar with placeholder text and a 'Go' button -->
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <input type="text" placeholder="I am looking for a light foundation for sensitive skin." 
-                 style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+      <form method="POST" action="/index">
+        <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; ">
+          <!-- Line of text above the search bar -->
+          <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
           
-          <button style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
-            Go
-          </button>
+          <!-- Search bar with placeholder text and a 'Go' button -->
+          <div style="display: flex; justify-content: center; align-items: center;">
+            <input type="text" name="updated_preferences" placeholder="I am looking for a light foundation for sensitive skin." 
+                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+            
+            <button type="submit" style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
+              Go
+            </button>
+          </div>
         </div>
-      </div>
+      </form>
     </header>
 
     <!-- This section is where images are displayed -->
