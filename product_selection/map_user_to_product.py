@@ -14,17 +14,25 @@ def basic_map(user_who, user_what):
     select.parse_user_jsons(user_who, user_what)
     products_selected = select.keyword_lookup()
     
-    # Provide top 3 recommended products to user
-    for product in products_selected:
-        print(product.brand, product.name)
+    # Provide top 11 recommended products to user
+    # for product in products_selected:
+    #     print(product.brand, product.name)
+    return products_selected
     
-
-# Uses JSON strings from GPT
-if __name__ == "__main__": 
-    user_input = UserInput(API_key, "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
+def map_inputs(retrieved_who, retrieved_what):
+    # Get retrieved user inputs and put them into json strings (accessed with user_input.input_who and user_input.input_what)
+    user_input = UserInput(API_key, retrieved_who, retrieved_what)
     user_input.parse_user_inputs()
     
     basic_map(user_input.input_who, user_input.input_what)
+
+
+# Use for Testing
+# if __name__ == "__main__": 
+#     user_input = UserInput(API_key, "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
+#     user_input.parse_user_inputs()
+    
+#     basic_map(user_input.input_who, user_input.input_what)
 
 
 

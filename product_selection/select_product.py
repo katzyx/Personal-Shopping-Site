@@ -141,11 +141,14 @@ class BasicSelection:
             else:
                 product_match[matches] = [product]
         
+        # Choose the top 11 products
         top_products: list[Product] = []
         for num_matches in reversed(list(product_match.keys())):
-            if len(top_products) >= 2:
-                break
+            if len(top_products) >= 11:
+                    break
             for product in product_match[num_matches]:
+                if len(top_products) >= 11:
+                    break
                 top_products.append(product)
         
         return top_products
