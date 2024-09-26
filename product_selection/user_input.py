@@ -1,5 +1,8 @@
 import openai # type: ignore
-from key import API_key
+from product_selection.key import API_key
+
+# For internal testing
+# from key import API_key
 
 class UserInput:
     def __init__(self, openai_key, raw_input_who, raw_input_what):

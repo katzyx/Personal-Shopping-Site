@@ -1,5 +1,8 @@
 import openai # type: ignore
-from key import API_key
+from product_selection.key import API_key
+
+# For internal testing
+# from key import API_key
 
 class Blogpost:
     def __init__(self, openai_key, input_who, input_what):

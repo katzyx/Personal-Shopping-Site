@@ -1,12 +1,18 @@
 import sys
 import json
-from select_product import Product, BasicSelection
-from user_input import UserInput
-from key import API_key
+
+from product_selection.select_product import Product, BasicSelection
+from product_selection.user_input import UserInput
+from product_selection.key import API_key
+
+# For internal testing
+# from select_product import Product, BasicSelection
+# from user_input import UserInput
+# from key import API_key
 
 def basic_map(user_who, user_what): 
     # Extract Database
-    csv_path = "ProductDataset.csv"
+    csv_path = "./product_selection/ProductDataset.csv"
     select = BasicSelection(csv_file=csv_path)
     select.parse_dataset()
 
