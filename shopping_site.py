@@ -1,6 +1,6 @@
 import os
 from flask import Flask, render_template, session, request, redirect, url_for, flash  # type: ignore
-from flask_bootstrap import Bootstrap # type: ignore
+from flask_bootstrap import Bootstrap # type: ignore 
 from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
 from wtforms import StringField, SubmitField, validators # type: ignore
