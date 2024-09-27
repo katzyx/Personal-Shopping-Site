@@ -96,7 +96,7 @@ class BasicSelection:
             price = []
             user_price_string = self.user_info['what']['Price'].replace('$', '').lower()
 
-            if user_price_string == '' or 'Not specified' in user_price_string:
+            if user_price_string == '' or 'not specified' or 'unknown' in user_price_string:
                 price = [-999,999999]
             elif 'to' in user_price_string:
                 price = user_price_string.replace(' ', '').split('to')
