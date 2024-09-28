@@ -5,9 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Personalized Shopping Site</title>
-  <link rel="stylesheet" href="landing_page.css">
+  
+  <!-- Link the CSS file for the landing page -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/landing_page.css') }}">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" crossorigin="anonymous">
+
+  <!-- Script for the form submission and sliding transition -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.getElementById('submit-btn').addEventListener('click', function (event) {
+        event.preventDefault(); // Prevent form submission to handle animation
+
+        // Slide up effect for text boxes
+        const leftBox = document.getElementById('left-box');
+        const rightBox = document.getElementById('right-box');
+
+        leftBox.classList.add('slide-up');
+        rightBox.classList.add('slide-up');
+
+        // After animation, redirect to the homepage
+        setTimeout(function () {
+          window.location.href = "{{ url_for('index') }}"; // Redirect to index route after animation
+        }, 1000); // Match the duration of the slide-up effect
+      });
+    });
+  </script>
 </head>
 
 <body>
@@ -21,17 +44,17 @@
     <p style="text-align: center; font-family: 'Montserrat', sans-serif; color: #555; margin-bottom: 40px;">Get personalized product recommendations by telling us more about you.</p>
 
     <!-- Form with input fields and submit button -->
-    <form action="/" method="POST" style="width: 100%; max-width: 1200px;">
+    <form id="personal-info-form" style="width: 100%; max-width: 1200px;">
       <div style="display: flex; justify-content: center; gap: 40px; width: 100%; margin-bottom: 30px;">
       
         <!-- Left text box -->
-        <div style="flex: 1;">
+        <div id="left-box" style="flex: 1; transition: transform 1s ease-in-out;">
           <h2 style="font-family: 'Montserrat', sans-serif; color: #333; text-align: left;">Tell us about yourself</h2>
           <textarea name="user_details" placeholder="Describe yourself (age, skin type, etc.)..." style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 5px; height: 200px; resize: none;"></textarea>
         </div>
 
         <!-- Right text box -->
-        <div style="flex: 1;">
+        <div id="right-box" style="flex: 1; transition: transform 1s ease-in-out;">
           <h2 style="font-family: 'Montserrat', sans-serif; color: #333; text-align: left;">What are you looking for?</h2>
           <textarea name="product_preferences" placeholder="Tell us what products you're searching for..." style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 5px; height: 200px; resize: none;"></textarea>
         </div>
@@ -39,7 +62,7 @@
 
       <!-- Submit button container for alignment -->
       <div style="display: flex; justify-content: center;">
-        <button type="submit" style="padding: 15px 30px; font-family: 'Montserrat', sans-serif; font-size: 1rem; background-color: #333; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
+        <button id="submit-btn" type="submit" style="padding: 15px 30px; font-family: 'Montserrat', sans-serif; font-size: 1rem; background-color: #333; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
           Submit
         </button>
       </div>
