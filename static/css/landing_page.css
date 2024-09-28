@@ -8,17 +8,6 @@ body {
     font-weight: 700;
   }
   
-  /* textarea {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1rem;
-    color: #333;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 15px;
-    width: 100%;
-    box-sizing: border-box;
-    resize: none;
-  } */
   
   textarea {
     width: 100%;
@@ -29,14 +18,6 @@ body {
     resize: none;
   }
 
-  /* .landing-page {
-    padding: 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  } */
 
   .landing-page {
     padding: 40px;
