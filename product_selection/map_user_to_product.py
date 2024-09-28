@@ -12,7 +12,7 @@ from product_selection.key import API_key
 
 def basic_map(user_who, user_what): 
     # Extract Database
-    csv_path = "./product_selection/ProductDataset.csv"
+    csv_path = "./product_selection/GeneratedProductDataset.csv"
     select = BasicSelection(csv_file=csv_path)
     select.parse_dataset()
 
@@ -30,7 +30,7 @@ def map_inputs(retrieved_who, retrieved_what):
     user_input = UserInput(API_key, retrieved_who, retrieved_what)
     user_input.parse_user_inputs()
     
-    basic_map(user_input.input_who, user_input.input_what)
+    return basic_map(user_input.input_who, user_input.input_what)
 
 
 # Use for Testing

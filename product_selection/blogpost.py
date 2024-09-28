@@ -20,7 +20,7 @@ class Blogpost:
         chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
         reply = chat.choices[0].message.content
 
-        print (reply)
+        # print (reply)
         return reply
     
 

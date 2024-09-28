@@ -1,4 +1,5 @@
 import os
+import time
 
 from flask import Flask, render_template, session, request, redirect, url_for, flash  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
@@ -6,8 +7,11 @@ from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
 from wtforms import StringField, SubmitField, validators # type: ignore
 
+from product_selection.blogpost import Blogpost
 from product_selection.map_user_to_product import *
 from product_selection.select_product import Product
+
+from product_selection.key import API_key
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
@@ -47,10 +51,17 @@ def index():
 
         return redirect(url_for('index'))
 
+    start_time = time.time()
     # Call Python function to map inputs to products
     products_list: list[Product] = map_inputs(user_details, product_preferences)
 
-    return render_template('index.html', products_list=products_list)
+    # Call Python function to write custom blog post
+    blog = Blogpost(API_key, user_details, product_preferences)
+    written_blog = blog.write_blogpost()
+    
+    time_elapsed = "{:.3f}".format(time.time() - start_time)
+
+    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed)
 
 if __name__ == '__main__':
     app.run(debug=True)
