@@ -65,6 +65,19 @@
         //user_details = x;
       }
     </script>
+    <script>
+        function updateUserDetails(event) {
+            event.preventDefault(); // Prevent the form from submitting normally
+            
+            var userInput = document.getElementById("user_form").value; // Get the user input
+            document.getElementById("user_dets").innerHTML = userInput; // Update the displayed user details
+
+            // Now submit the form to the server to update the session
+            var form = document.getElementById("user_details_form");
+            form.submit(); // This will submit the form without refreshing the whole page
+        }
+    </script>
+    
 
   </head>
 
@@ -84,7 +97,7 @@
             <i class="fas fa-user"></i>
           </a>
           
-          <form method="POST" action="/update_user_details" >
+          <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
             <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
                 <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
                 <div>
