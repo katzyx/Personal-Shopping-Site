@@ -68,7 +68,7 @@ def index():
 def update_user_details():
     user_details = request.form.get('user_details')  # Get the user details from the form
     session['user_details'] = user_details  # Update the session variable
-    return redirect(url_for('index'))  # Redirect back to the index page
+    return '', 204  # Redirect back to the index page
 
 if __name__ == '__main__':
     app.run(debug=True)
