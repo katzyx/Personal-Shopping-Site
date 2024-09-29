@@ -1,5 +1,6 @@
 import os
 import time
+import sys
 
 from flask import Flask, render_template, session, request, redirect, url_for, flash  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
@@ -61,7 +62,7 @@ def index():
     
     time_elapsed = "{:.3f}".format(time.time() - start_time)
 
-    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed)
+    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed, user_details=user_details)
 
 if __name__ == '__main__':
     app.run(debug=True)
