@@ -61,20 +61,17 @@
       function setUserDetails(){
         var x = document.getElementById("user_form").value;
         document.getElementById("user_dets").innerHTML = x;
-        // document.getElementsByName("user_details")[0].value = x;
-        //user_details = x;
       }
     </script>
     <script>
         function updateUserDetails(event) {
-            event.preventDefault(); // Prevent the form from submitting normally
+            event.preventDefault(); // prevent the form from submitting normally
             
-            var userInput = document.getElementById("user_form").value; // Get the user input
-            document.getElementById("user_dets").innerHTML = userInput; // Update the displayed user details
+            var userInput = document.getElementById("user_form").value;
+            document.getElementById("user_dets").innerHTML = userInput;
 
-            // Now submit the form to the server to update the session
             var form = document.getElementById("user_details_form");
-            form.submit(); // This will submit the form without refreshing the whole page
+            form.submit(); // submit the form without refreshing the whole page
         }
     </script>
     
