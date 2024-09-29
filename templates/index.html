@@ -61,10 +61,10 @@
       function setUserDetails(){
         var x = document.getElementById("user_form").value;
         document.getElementById("user_dets").innerHTML = x;
+        // document.getElementsByName("user_details")[0].value = x;
         //user_details = x;
       }
     </script>
-    
 
   </head>
 
@@ -84,20 +84,18 @@
             <i class="fas fa-user"></i>
           </a>
           
-          <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
-            <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
-            <div>
-              <div id="user_dets" style="height: 40px; width: 400px;">{{user_details}}</div>
-              <!--<input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
-                  style="flex: 1; width: 350px; height: 300px; padding: 10px; border-radius: 5px; border: none;"> -->
-
-              <textarea id="user_form" name="user_details" rows="7" cols="50"></textarea>
-              <button onclick="setUserDetails()" style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
-                Save
-              </button>
+          <form method="POST" action="/update_user_details" >
+            <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
+                <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
+                <div>
+                    <div id="user_dets" style="height: 40px; width: 400px;">{{ user_details }}</div>
+                    <textarea name="user_details" id="user_form" rows="7" cols="50"></textarea>
+                    <button type="submit" class="saving" style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
+                        Save
+                    </button>
+                </div>
             </div>
-
-          </div>
+        </form>
           
         </div>
       </nav>
