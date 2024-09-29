@@ -2,7 +2,7 @@ import os
 import time
 import sys
 
-from flask import Flask, render_template, session, request, redirect, url_for, flash  # type: ignore
+from flask import Flask, render_template, make_response, session, request, redirect, url_for, flash  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
 from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
@@ -46,7 +46,9 @@ def landing_what():
         session['product_preferences'] = product_preferences
         
         # Redirecting to index
-        return redirect(url_for('index'))
+        resp = make_response(redirect(url_for('index')))  # Create a response and redirect
+        resp.set_cookie('userdetails', user_details)  # Set the cookie
+        return resp
     
     # Rendering landing what page
     return render_template('landing_what.html')
