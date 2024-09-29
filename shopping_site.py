@@ -20,9 +20,15 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 
+def get_cookie_value(cookie_name):
+    return request.cookies.get(cookie_name)
+
 # Rendering Landing Page
 @app.route('/', methods=['GET', 'POST'])
 def landing_who():
+    if get_cookie_value('user_details') != "":
+        return redirect(url_for('index'))
+    
     if request.method == 'POST':
         # Get raw 'who' input
         user_details = request.form.get('user_details')
@@ -83,7 +89,23 @@ def index():
 def update_user_details():
     user_details = request.form.get('user_details')  # Get the user details from the form
     session['user_details'] = user_details  # Update the session variable
-    return '', 204  # Redirect back to the index page
+    resp = make_response(redirect(url_for('index')))  # Create a response and redirect
+    resp.set_cookie('userdetails', user_details)  # Set the cookie
+    return resp
+    
+@app.route('/get_cookie')  # Route to retrieve the cookie
+def get_cookie():
+    username = get_cookie_value('userdetails')  # Use the utility function to get the cookie
+    if username:
+        return f'Your profile: {username}!'  # Return a message with the username
+    else:
+        return 'No cookie found!'  # Message if no cookie is set
+    
+@app.route('/delete_cookie')  # Route to delete the cookie
+def delete_cookie():
+    resp = make_response("Cookie Deleted")
+    resp.set_cookie('userdetails', '', expires=0)  # Delete the cookie by setting its expiration to 0
+    return resp
 
 if __name__ == '__main__':
     app.run(debug=True)
