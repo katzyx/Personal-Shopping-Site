@@ -8,18 +8,17 @@ body {
     font-weight: 700;
   }
   
+  
   textarea {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1rem;
-    color: #333;
+    width: 100%;
+    padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    padding: 15px;
-    width: 100%;
-    box-sizing: border-box;
+    height: 200px;
     resize: none;
   }
-  
+
+
   .landing-page {
     padding: 40px;
     display: flex;
@@ -27,6 +26,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: #f5f5f5;
+    transition: background-color 1s ease-in-out;
   }
   
   textarea:focus {
@@ -35,3 +36,37 @@ body {
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
   }
   
+  .form-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    width: 100%;
+  }
+
+  .box {
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  /* Button styling */
+  button {
+    padding: 15px 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .slide-up {
+    transform: translateY(-100vh); /* Slide the landing page up */
+    transition: transform 1.5s ease-in-out, background-color 1s ease-in-out;
+    background-color: black; /* Transition the landing page background to black */
+  }
