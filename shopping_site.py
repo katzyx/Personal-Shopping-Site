@@ -21,21 +21,34 @@ app.secret_key = 'hello'
 
 # Rendering Landing Page
 @app.route('/', methods=['GET', 'POST'])
-def landing_page():
+def landing_who():
     if request.method == 'POST':
-        # Get raw 'who' and 'what' input
+        # Get raw 'who' input
         user_details = request.form.get('user_details')
+
+        # Store user_details 
+        session['user_details'] = user_details
+        
+        # Redirecting to landing_what
+        return redirect(url_for('landing_what'))
+    
+    # Rendering landing whos page
+    return render_template('landing_who.html')
+
+@app.route('/landing_what', methods=['GET', 'POST'])
+def landing_what():
+    if request.method == 'POST':
+        # Get raw 'what' input
         product_preferences = request.form.get('product_preferences')
 
-        # Store user_details and product_preferences
-        session['user_details'] = user_details
+        # Store product_preferences
         session['product_preferences'] = product_preferences
         
         # Redirecting to index
         return redirect(url_for('index'))
     
-    # Rendering landing page
-    return render_template('landing_page.html')
+    # Rendering landing what page
+    return render_template('landing_what.html')
 
 # Rending Products Page
 @app.route('/index', methods=['GET', 'POST'])
