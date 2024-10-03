@@ -76,7 +76,7 @@ def index():
 def update_user_details():
     user_details = request.form.get('user_details')  # Get the user details from the form
     session['user_details'] = user_details  # Update the session variable
-    resp = make_response('', 204)  # Create a response and redirect
+    resp = make_response(redirect(url_for('index')))  # Create a response and redirect
     resp.set_cookie('userdetails', user_details)  # Set the cookie
     return resp
     
