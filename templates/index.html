@@ -68,11 +68,11 @@
           </a>
           <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
             <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
-            <div>
+            <div style="display: flex; align-items: center; flex-direction: column;">
               <!--<input type="text" placeholder="I am a 22-year old girl with medium olive skin and oily skin type." 
                   style="flex: 1; width: 350px; height: 300px; padding: 10px; border-radius: 5px; border: none;"> -->
 
-              <textarea placeholder="I am a 22-year old girl with medium olive skin and oily skin type." rows="7" cols="50"></textarea>
+              <textarea placeholder="I am a 22-year old girl with medium olive skin and oily skin type." rows="7" cols="45" style="margin: 5px 10px;"></textarea>
               <button style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
                 Save
               </button>
@@ -180,59 +180,37 @@
     </div>
 
     <!-- This section is where images and blog post are displayed -->
-    <div style="display: flex; align-items: center; text-align: center">
-      <div style="flex: 42%; padding: 0em 1em">
+    <div style="display: flex; align-items: flex-start; text-align: center">
+      <div style="flex: 42%; padding: 0em 1em;">
         <fieldset>
           <legend>From your beauty advisor</legend> 
           <table>
             <tr><td>{{blog}}</td></tr>
-            <!-- <tr><td>Given your age and ethnicity, it is important to focus on skincare products that cater to the needs of Chinese skin, which is typically prone to hyperpigmentation and sensitivity. Look for skincare products that contain brightening ingredients like niacinamide or Vitamin C to even out your skin tone and protect it from environmental stressors. For foundation, aim for a lightweight formula that offers buildable coverage to achieve a natural finish. Considering your budget, seek out products that offer good quality without breaking the bank. When applying foundation, start with a clean, moisturized face and use a beauty sponge or brush for a seamless application. Remember to blend well into your skin tone for a flawless look. Prioritizing skincare and choosing the right foundation can enhance your natural beauty and promote a healthy complexion.</td></tr> -->
           </table>
         </fieldset>
       </div>
 
         <!-- Images and black bar in the same container -->
-    <div style="flex: 58%; text-align: center;">
-      <!-- Black text bar across the top of images -->
-      <div style="background-color: black; color: white; padding: 1em; margin-bottom: 2em;">
-        <p style="margin: 0;"><b>You may want to compliment your light foundation with these products</b></p>
-      </div>
+      <div style="flex: 58%; text-align: center;">
+        <!-- Black text bar across the top of images -->
+        <div style="background-color: black; color: white; padding: 1em; margin-bottom: 2em;">
+          <p style="margin: 0;"><b>You may want to compliment your light foundation with these products</b></p>
+        </div>
 
-      <!-- Image section -->
-      <div style="display: flex; justify-content: space-around;">
-        {% for i in range(7,11) %}
-        <div style="flex: 1; padding: 0.5em 1em;">
-          <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p>{{products_list[i].name}}</p>
-          <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
-          <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
+        <!-- Image section -->
+        <div style="display: flex; justify-content: space-around;">
+          {% for i in range(7,11) %}
+          <div style="flex: 1; padding: 0.5em 1em;">
+            <img src="{{products_list[i].url}}" height="200em" width="125em">
+            <p>{{products_list[i].name}}</p>
+            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+            <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+            <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
-        <!-- <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
-        <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
-        <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div> -->
       </div>
     </div>
-  </div>
 
   <div style="background-color: black; color: white; padding: 1em; margin: 3em 0em 0em 0em; text-align: center;">
     <p style="margin: 0;"><b>Personalized site custom generated in {{time}} seconds</b></p>
