@@ -87,7 +87,7 @@ class BasicSelection:
                 
                 # Otherwise, if product is individual product, just append to list
                 if entry_is_individual_product:
-                    product_list.append(entry.strip())
+                    product_list.append(entry.strip().title())
 
             self.user_info['what']['Products'] = product_list
         
@@ -143,9 +143,20 @@ class BasicSelection:
             else:
                 product_match[matches] = [product]
         
+        # for num_matches, products in product_match.items():
+        #     product_list = []
+        #     for product in products:
+        #         product_list.append(product.name)
+        #     print(num_matches, product_list)
+
         # Choose the top products
         top_products: list[Product] = []
-        for num_matches in reversed(list(product_match.keys())):
+
+        matches_rev = list(product_match.keys())
+        matches_rev.sort(reverse=True)
+        for num_matches in matches_rev:
+            if num_matches == 0:
+                break
             if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                 break
             for product in product_match[num_matches]:

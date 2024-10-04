@@ -21,10 +21,10 @@ class UserInput:
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
         elif type == 'what':
             raw_input = self.raw_input_what
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primers\",\"Price\":\"Under $100\",\"Brand\":\"Dior\"}'
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primer\",\"Price\":\"Under $100\",\"Brand\":\"Dior\"}'
 
 
-        message = "Extract user information (in JSON format - in one line) from the following string: " + raw_input + example_output
+        message = "Extract user information (in JSON format - in one line) from the following string (for Products category, use only singular nouns): " + raw_input + example_output
         messages.append({"role": "system", "content": message})
         chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
         reply = chat.choices[0].message.content
