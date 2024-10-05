@@ -1,7 +1,8 @@
 import os
 import time
+import sys
 
-from flask import Flask, render_template, session, request, redirect, url_for, flash  # type: ignore
+from flask import Flask, render_template, make_response, session, request, redirect, url_for, flash  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
 from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
@@ -19,9 +20,16 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 
+def get_cookie_value(cookie_name):
+    return request.cookies.get(cookie_name)
+
 # Rendering Landing Page
 @app.route('/', methods=['GET', 'POST'])
+
 def landing_who():
+    if get_cookie_value('user_details') != "":
+        return redirect(url_for('index'))
+    
     if request.method == 'POST':
         # Get raw 'who' input
         user_details = request.form.get('user_details')
@@ -45,7 +53,9 @@ def landing_what():
         session['product_preferences'] = product_preferences
         
         # Redirecting to index
-        return redirect(url_for('index'))
+        resp = make_response(redirect(url_for('index')))  # Create a response and redirect
+        resp.set_cookie('userdetails', user_details)  # Set the cookie
+        return resp
     
     # Rendering landing what page
     return render_template('landing_what.html')
@@ -74,7 +84,29 @@ def index():
     
     time_elapsed = "{:.3f}".format(time.time() - start_time)
 
-    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed)
+    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed, user_details=user_details)
+
+@app.route('/update_user_details', methods=['POST'])
+def update_user_details():
+    user_details = request.form.get('user_details')  # Get the user details from the form
+    session['user_details'] = user_details  # Update the session variable
+    resp = make_response(redirect(url_for('index')))  # Create a response and redirect
+    resp.set_cookie('userdetails', user_details)  # Set the cookie
+    return resp
+    
+@app.route('/get_cookie')  # Route to retrieve the cookie
+def get_cookie():
+    username = get_cookie_value('userdetails')  # Use the utility function to get the cookie
+    if username:
+        return f'Your profile: {username}!'  # Return a message with the username
+    else:
+        return 'No cookie found!'  # Message if no cookie is set
+    
+@app.route('/delete_cookie')  # Route to delete the cookie
+def delete_cookie():
+    resp = make_response("Cookie Deleted")
+    resp.set_cookie('userdetails', '', expires=0)  # Delete the cookie by setting its expiration to 0
+    return resp
 
 if __name__ == '__main__':
     app.run(debug=True)

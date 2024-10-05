@@ -33,9 +33,14 @@ body, html {
     cursor: pointer;
     opacity: 1;
   }
-  
-  .accounts{
-    
+
+  .saving {
+    opacity: 1;
+  }
+
+  .saving:hover {
+    cursor: pointer;
+    opacity: 0.6;
   }
 
   .accounts:hover{
@@ -58,9 +63,8 @@ body, html {
 
   .prompt_dropdown{
     position: absolute;
-    margin-top: 55px;
     min-width: 160px;
-    margin-top: 231px;
+    margin-top: 20px;
     padding: 10px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   }
