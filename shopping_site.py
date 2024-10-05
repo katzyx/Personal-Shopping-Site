@@ -25,6 +25,7 @@ def get_cookie_value(cookie_name):
 
 # Rendering Landing Page
 @app.route('/', methods=['GET', 'POST'])
+
 def landing_who():
     if get_cookie_value('user_details') != "":
         return redirect(url_for('index'))
