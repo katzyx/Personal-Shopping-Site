@@ -22,14 +22,22 @@ class UserInput:
         elif type == 'what':
             raw_input = self.raw_input_what
             example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primers\",\"Price\":\"Under $100\",\"Brand\":\"Dior\"}'
+        else:
+            example_output = ""
 
+        if raw_input == None:
+            raw_input = "no input received"
 
         message = "Extract user information (in JSON format - in one line) from the following string: " + raw_input + example_output
         messages.append({"role": "system", "content": message})
-        chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
-        reply = chat.choices[0].message.content
 
-        print (reply)
+        try:
+            chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
+            reply = chat.choices[0].message.content
+        except Exception as e:
+            print(f"Error during OpenAI API call: {e}")
+            reply = "{}"  # return an empty JSON if something goes wrong
+
         if type == 'who':
             self.input_who = reply
         elif type == 'what':
