@@ -12,7 +12,6 @@
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('submit-btn').addEventListener('click', function (event) {
-        event.preventDefault(); // Prevent form submission to handle animation
 
         // Slide up the landing page and transition into a black bar
         const landingPage = document.getElementById('landing-page');
@@ -20,7 +19,7 @@
 
         // After slide-up, trigger the fade-in of the navbar and search bar content
         setTimeout(function () {
-          window.location.href = "{{ url_for('landing_what') }}"; // Redirect to index
+          window.location.href = "/landing_what"; // Redirect to index
         }, 1500); // Adjust the timing based on your animation speed
       });
     });
