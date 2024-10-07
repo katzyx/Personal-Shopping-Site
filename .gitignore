@@ -7,3 +7,8 @@ product_selection/key.py
 
 # ignore venv
 venv/
+
+# ignore testing script
+test.py
+
+.DS_Store

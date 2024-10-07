@@ -21,14 +21,14 @@ class UserInput:
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
         elif type == 'what':
             raw_input = self.raw_input_what
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primers\",\"Price\":\"Under $100\",\"Brand\":\"Dior\"}'
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primers\",\"Price\":\"[0,40]\",\"Brand\":\"Dior\"}'
         else:
             example_output = ""
 
         if raw_input == None:
             raw_input = "no input received"
 
-        message = "Extract user information (in JSON format - in one line) from the following string: " + raw_input + example_output
+        message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a list and use only singular nouns. for Price, return a tuple of the min and max price; if 'around' given, give buffer of 35%): " + raw_input + example_output
         messages.append({"role": "system", "content": message})
 
         try:
@@ -37,6 +37,9 @@ class UserInput:
         except Exception as e:
             print(f"Error during OpenAI API call: {e}")
             reply = "{}"  # return an empty JSON if something goes wrong
+
+        # For debugging purposes
+        print(reply)
 
         if type == 'who':
             self.input_who = reply
@@ -48,31 +51,6 @@ class UserInput:
         self.input_to_json('who')
         self.input_to_json('what')
     
-    # Code moved here from map_user_to_product.py - currently not needed (open ai returns correct json format)
-    '''
-    def format_input_into_json(php_input):
-        input_string = php_input.strip('{}')
-        items = input_string.split(',')
-
-        data = {}
-        key = ''
-        for item in items:
-            # Split each item into key and value (if there's an ':' sign)
-            parts = item.split(':')
-            
-            if len(parts) > 1:
-                key = parts[0].strip()
-                value = parts[1].strip()
-                data[key] = value
-            else:
-                # If no '=', add it to previous key
-                data[key] += ', ' + parts[0].strip()
-
-        # Step 2: Convert dictionary to JSON string
-        json_string = json.dumps(data)
-
-        return json_string
-    '''
 
 # user_input = UserInput(API_key, "I am a 21 year old Asian woman with light oily skin", "I am looking for foundation and skincare products under 40$")
 # user_input.parse_user_inputs()

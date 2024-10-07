@@ -2,6 +2,7 @@
 import pandas as pd # type: ignore
 import numpy as np # type: ignore
 import json
+import re
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -87,31 +88,21 @@ class BasicSelection:
                 
                 # Otherwise, if product is individual product, just append to list
                 if entry_is_individual_product:
-                    product_list.append(entry.strip())
+                    product_list.append(entry.strip().title())
 
             self.user_info['what']['Products'] = product_list
         
-        # Specify price range
+        # Deal with price
         if 'Price' in self.user_info['what']:
-            price = []
-            user_price_string = self.user_info['what']['Price'].replace('$', '').lower()
-
-            if user_price_string == '' or 'not specified' or 'unknown' in user_price_string:
-                price = [-999,999999]
-            elif 'to' in user_price_string:
-                price = user_price_string.replace(' ', '').split('to')
-                price = [float(i) for i in price]
-                price.sort()
-            elif 'under' in user_price_string or 'less than' in user_price_string:
-                price = [0, float(user_price_string.replace('under', '').replace('less than', ''))]
-            elif 'above' in user_price_string or 'more than' in user_price_string:
-                price = [float(user_price_string.replace('above', '').replace('more than', '')), 999999]
-            elif 'around' in user_price_string:
-                price = [float(user_price_string.replace('around', '')) - 5, float(user_price_string.replace('around', '')) + 5]
-            else:
-                price = [float(user_price_string), float(user_price_string)]
+            price = self.user_info['what']['Price']
+            price = str(price).replace('\'','').replace('\"', '')
             
-            self.user_info['what']['Price'] = price
+            price_list = [i for i in price[1:-1].split(",") if i.strip()]
+            for count, element in enumerate(price_list):
+                price_list[count] = float(re.sub("[^\d\.]", "", element))
+            self.user_info['what']['Price'] = price_list
+        else:
+            self.user_info['what']['Price'] = [-np.inf,np.inf]
     
     def keyword_lookup(self):
         product_match: dict = {}
@@ -143,9 +134,20 @@ class BasicSelection:
             else:
                 product_match[matches] = [product]
         
+        # for num_matches, products in product_match.items():
+        #     product_list = []
+        #     for product in products:
+        #         product_list.append(product.name)
+        #     print(num_matches, product_list)
+
         # Choose the top products
         top_products: list[Product] = []
-        for num_matches in reversed(list(product_match.keys())):
+
+        matches_rev = list(product_match.keys())
+        matches_rev.sort(reverse=True)
+        for num_matches in matches_rev:
+            if num_matches == 0:
+                break
             if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                 break
             for product in product_match[num_matches]:
