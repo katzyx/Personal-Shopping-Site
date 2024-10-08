@@ -27,7 +27,7 @@ def get_cookie_value(cookie_name):
 @app.route('/', methods=['GET', 'POST'])
 
 def landing_who():
-    if get_cookie_value('user_details') != "":
+    if get_cookie_value('userdetails') != "":
         return redirect(url_for('index'))
     
     if request.method == 'POST':
@@ -37,8 +37,10 @@ def landing_who():
         # Store user_details 
         session['user_details'] = user_details
         
+        resp = make_response(redirect(url_for('landing_what')))  # Create a response and redirect
+        resp.set_cookie('userdetails', user_details)  # Set the cookie
         # Redirecting to landing_what
-        return redirect(url_for('landing_what'))
+        return resp
     
     # Rendering landing whos page
     return render_template('landing_who.html')
@@ -53,9 +55,7 @@ def landing_what():
         session['product_preferences'] = product_preferences
         
         # Redirecting to index
-        resp = make_response(redirect(url_for('index')))  # Create a response and redirect
-        resp.set_cookie('userdetails', user_details)  # Set the cookie
-        return resp
+        return redirect(url_for('index'))
     
     # Rendering landing what page
     return render_template('landing_what.html')
