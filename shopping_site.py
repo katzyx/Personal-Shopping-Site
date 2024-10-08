@@ -27,8 +27,8 @@ def get_cookie_value(cookie_name):
 @app.route('/', methods=['GET', 'POST'])
 
 def landing_who():
-    #if get_cookie_value('userdetails') != "":
-        #return redirect(url_for('index'))
+    if 'userdetails' in request.cookies:
+        return redirect(url_for('index'))
     
     if request.method == 'POST':
         # Get raw 'who' input
