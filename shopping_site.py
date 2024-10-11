@@ -27,8 +27,11 @@ def get_cookie_value(cookie_name):
 @app.route('/', methods=['GET', 'POST'])
 
 def landing_who():
+    
+    #session.permanent = False
+
     if 'userdetails' in request.cookies:
-        return redirect(url_for('index'))
+        return redirect(url_for('landing_what'))
     
     if request.method == 'POST':
         # Get raw 'who' input
@@ -101,11 +104,11 @@ def get_cookie():
         return f'Your profile: {username}!'  # Return a message with the username
     else:
         return 'No cookie found!'  # Message if no cookie is set
-    
-@app.route('/delete_cookie')  # Route to delete the cookie
+
+@app.route('/delete_cookie')
 def delete_cookie():
-    resp = make_response("Cookie Deleted")
-    resp.set_cookie('userdetails', '', expires=0)  # Delete the cookie by setting its expiration to 0
+    resp = make_response(redirect(url_for('index')))
+    resp.delete_cookie('userdetails')  # Remove the 'username' cookie
     return resp
 
 if __name__ == '__main__':
