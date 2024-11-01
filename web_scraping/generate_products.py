@@ -6,7 +6,9 @@ def generate_products():
     scraper.scrape_brands_list()
     for brand_url in scraper.brand_urls_list:
         scraper.scrape_products_list(brand_url)
-        break
+
+    scraper.write_to_file('brands.txt', scraper.brand_urls_list)
+    scraper.write_to_file('products.txt', scraper.product_urls_list)
 
 if __name__ == "__main__": 
     generate_products()

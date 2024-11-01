@@ -44,4 +44,9 @@ class SephoraScraper(BaseModel):
             product_link = product_link.split(' ')[0]
             product_urls_list.append(product_link)
                 
-        self.product_urls_list = product_urls_list
+        self.product_urls_list.extend(product_urls_list)
+    
+    def write_to_file(self, filename, info):
+        with open(filename, 'x') as file:
+            for entry in info:
+                file.write(entry + '\n')

@@ -19,15 +19,15 @@ class Review(BaseModel):
     review: str # Review left by buyer
 
 class Product(BaseModel): 
-    name: str # Product name
-    type: str # Product type
-    shades: list[Shade] # List of all product shades
-    price: float # Price of product in CAD
-    size: str # Product size
-    about: str # Description of product
-    ingredients: str # Ingredients of product
-    how_to_use: str # Instructions on use
-    reviews: list[Review] # List of all buyer reviews
+    name: str = '' # Product name
+    type: str = '' # Product type
+    shades: list[Shade] = [] # List of all product shades
+    price: float = None # Price of product in CAD
+    size: str = '' # Product size
+    about: str = '' # Description of product
+    ingredients: str = '' # Ingredients of product
+    how_to_use: str = '' # Instructions on use
+    reviews: list[Review] = [] # List of all buyer reviews
 
 
     def get_attribute(self, entry):
