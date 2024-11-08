@@ -20,7 +20,8 @@ class Review(BaseModel):
 
 class Product(BaseModel): 
     name: str = '' # Product name
-    type: str = '' # Product type
+    brand: str = '' # Product brand
+    categories: list[str] = [] # Product cateogories
     shades: list[Shade] = [] # List of all product shades
     price: float = None # Price of product in CAD
     size: str = '' # Product size
@@ -35,3 +36,19 @@ class Product(BaseModel):
         if entry == 'Brand': return self.brand
         if entry == 'Price': return self.price
         if entry == 'Formula': return self.formula
+
+    
+    def __str__(self) -> str:
+        output = []
+        output.append(f"Product Name: {self.name}")
+        output.append(f"Brand: {self.brand}")
+        output.append(f"Categories: {', '.join(self.categories)}")
+        output.append(f"Number of Shades: {len(self.shades)}")
+        output.append(f"Price: ${self.price:.2f} CAD" if self.price else "Price: Not available")
+        output.append(f"Size: {self.size}")
+        output.append(f"About: {self.about}")
+        output.append(f"Ingredients: {self.ingredients}")
+        output.append(f"How to Use: {self.how_to_use}")
+        output.append(f"Number of Reviews: {len(self.reviews)}")
+        
+        return "\n".join(output)

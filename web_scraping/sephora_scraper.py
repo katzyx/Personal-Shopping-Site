@@ -2,6 +2,10 @@ import requests # type: ignore
 from bs4 import BeautifulSoup # type: ignore
 from pydantic import BaseModel # type: ignore
 from product_info import Product, Shade, Review
+from selenium import webdriver # type: ignore
+from selenium.webdriver.common.by import By # type: ignore
+from selenium.webdriver.support.ui import WebDriverWait # type: ignore
+from selenium.webdriver.support import expected_conditions as EC # type: ignore
 
 SEPHORA_URL: str = "https://www.sephora.com/ca/en/"
 USER_AGENT_HEADERS = {
@@ -45,6 +49,100 @@ class SephoraScraper(BaseModel):
             product_urls_list.append(product_link)
                 
         self.product_urls_list.extend(product_urls_list)
+
+    def scrape_product_info(self, product_url):
+        product = Product()
+
+        # Initialize Chrome driver (you might want to move this to __init__)
+        driver = webdriver.Chrome()
+
+        has_multiple_shades: bool = False
+
+        try:
+            # Load the page
+            driver.get(product_url)
+
+            # Categories from breadcrumb
+            breadcrumb = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'nav[aria-label="Breadcrumb"] ol a'))
+            )
+            links = driver.find_elements(By.CSS_SELECTOR, 'nav[aria-label="Breadcrumb"] ol a')
+            product.categories = [link.text for link in links]
+
+            # Brand Name
+            brand_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'a[data-at="brand_name"]'))
+            )
+            product.brand = brand_element.text
+
+            # Product name
+            name_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="product_name"]'))
+            )
+            product.name = name_element.text
+
+            # Price
+            price_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'p[data-comp="Price "] b.css-0'))
+            )
+            product.price = float(price_element.text.strip().replace('$', ''))
+
+            # Size
+            try:
+                size_element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="sku_size_label"]'))
+                )
+                has_multiple_shades = True
+            except:
+                size_element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="sku_name_label"]'))
+                )
+            product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
+
+            # Extract Shades if Multiple Shades
+
+            # Product About
+            about_text = driver.execute_script("""
+                const div = document.querySelector('div.css-18apj9d div');
+                return Array.from(div.children)
+                    .map(child => child.textContent.trim())
+                    .join('\\n');
+            """)
+            product.about = about_text
+
+            # Product Ingredients
+            ingredients_text = driver.execute_script("""
+                const div = document.querySelector('#ingredients div.css-1ue8dmw div');
+                return div.innerHTML
+                    .replace(/<p>/g, '')
+                    .replace(/<\\/p>/g, '\\n')
+                    .replace(/<br>/g, '\\n')
+                    .replace(/<[^>]*>/g, '')
+                    .trim();
+            """)
+            product.ingredients = ingredients_text
+
+            # Product Use
+            use_text = driver.execute_script("""
+                const div = document.querySelector('div[data-at="how_to_use_section"]');
+                return div.innerHTML
+                    .replace(/<p>/g, '')
+                    .replace(/<\\/p>/g, '\\n')
+                    .replace(/<br>/g, '\\n')
+                    .replace(/<[^>]*>/g, '')
+                    .trim();
+            """)
+            product.how_to_use = use_text
+
+            # Extract Reviews
+
+            print(product)
+
+            self.product_database.append(product)
+            
+        finally:
+            driver.quit()
+
     
     def write_to_file(self, filename, info):
         with open(filename, 'x') as file:
