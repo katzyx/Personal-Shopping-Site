@@ -88,22 +88,22 @@ class SephoraScraper(BaseModel):
             product.price = float(price_element.text.strip().replace('$', ''))
 
             # Size
-            try:
+            size_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-at="sku_name_label"]'))
+            )
+            if 'Size' not in size_element.text:
                 size_element = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="sku_size_label"]'))
                 )
                 has_multiple_shades = True
-            except:
-                size_element = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="sku_name_label"]'))
-                )
             product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
 
             # Extract Shades if Multiple Shades
 
             # Product About
             about_text = driver.execute_script("""
-                const div = document.querySelector('div.css-18apj9d div');
+                const div = document.querySelector('div.css-18apj9d div, div.css-1jnhrmt div');
+                if (!div) return '';
                 return Array.from(div.children)
                     .map(child => child.textContent.trim())
                     .join('\\n');
@@ -113,6 +113,7 @@ class SephoraScraper(BaseModel):
             # Product Ingredients
             ingredients_text = driver.execute_script("""
                 const div = document.querySelector('#ingredients div.css-1ue8dmw div');
+                if (!div) return '';
                 return div.innerHTML
                     .replace(/<p>/g, '')
                     .replace(/<\\/p>/g, '\\n')
@@ -125,6 +126,7 @@ class SephoraScraper(BaseModel):
             # Product Use
             use_text = driver.execute_script("""
                 const div = document.querySelector('div[data-at="how_to_use_section"]');
+                if (!div) return '';
                 return div.innerHTML
                     .replace(/<p>/g, '')
                     .replace(/<\\/p>/g, '\\n')
