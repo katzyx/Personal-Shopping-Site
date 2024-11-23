@@ -41,8 +41,8 @@ class SephoraScraper(BaseModel):
         with open(filename, 'a') as file:
             line = ''
             line += f"{product.id},"
-            line += f"{product.name},"
-            line += f"{product.brand},"
+            line += f"\"{product.name}\","
+            line += f"\"{product.brand}\","
             line += f"\"{', '.join(product.categories)}\","
             line += f"{product.price:.2f}," if product.price else "Not available,"
             line += f"\"{product.size}\","
@@ -138,7 +138,7 @@ class SephoraScraper(BaseModel):
             product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
 
             # Extract Shades if Multiple Shades
-            product.shades = self.scrape_product_shades(product_url)
+            # product.shades = self.scrape_product_shades(product_url)
 
             # Product About
             about_text = driver.execute_script("""
@@ -177,7 +177,7 @@ class SephoraScraper(BaseModel):
             product.how_to_use = use_text.replace('\n', '.')
 
             # Extract Reviews
-            product.reviews = self.scrape_product_reviews(product_url)
+            # product.reviews = self.scrape_product_reviews(product_url)
 
             # print(product)
 
@@ -242,7 +242,7 @@ class SephoraScraper(BaseModel):
                 # Create shade object and add to list
                 curr_shade = Shade(name=shade_name, descriptor=shade_description, image_url=image_url)
                 shades.append(curr_shade)
-                print(curr_shade)
+                # print(curr_shade)
         
         finally:
             driver.quit()

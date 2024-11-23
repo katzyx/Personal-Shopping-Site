@@ -12,7 +12,12 @@ def generate_products():
 
 def test_product():
     scraper = SephoraScraper(product_database=[])
-    scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
+    scraper.scrape_product_info('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
+    print(scraper.product_database[0])
+    
+    shades: list[Shade] = scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
+    for shade in shades:
+        print(shade)
 
 def test_all_products():
     scraper = SephoraScraper(product_database=[])
