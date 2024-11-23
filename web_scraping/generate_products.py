@@ -12,7 +12,16 @@ def generate_products():
 
 def test_product():
     scraper = SephoraScraper(product_database=[])
-    scraper.scrape_product_info('https://www.sephora.com/ca/en/product/aavrani-hair-density-boosting-treatment-P510710?skuId=2760346&icid2=products%20grid:p510710:product')
+    scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
+
+def test_all_products():
+    scraper = SephoraScraper(product_database=[])
+    with open('products.txt', 'r') as file:
+        for line in file:
+            try:
+                scraper.scrape_product_info(line.strip())
+            except:
+                pass
 
 if __name__ == "__main__": 
     test_product()

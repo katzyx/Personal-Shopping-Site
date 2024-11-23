@@ -9,7 +9,14 @@ class Shade(BaseModel):
     name: str # Shade name
     descriptor: str # Descriptor of Shade
     image_url: str # URL to image
-    product_url: str # URL to product purchase
+
+    def __str__(self) -> str:
+        output = []
+        output.append(f"Shade Name: {self.name}")
+        output.append(f"Descriptor: {self.descriptor}")
+        output.append(f"Image URL: {self.image_url}")
+        
+        return "\n".join(output)
 
 class Review(BaseModel):
     title: str # Review title
@@ -19,6 +26,7 @@ class Review(BaseModel):
     review: str # Review left by buyer
 
 class Product(BaseModel): 
+    id: int = None # Product ID
     name: str = '' # Product name
     brand: str = '' # Product brand
     categories: list[str] = [] # Product cateogories
