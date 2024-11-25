@@ -39,18 +39,26 @@
     <!-- Form with input fields and submit button -->
     <form action="/" method="POST" style="width: 100%; max-width: 1200px;">
       <div class="form-container" style="display: flex; justify-content: center; gap: 40px; width: 100%; margin-bottom: 30px;">
-      
-        <!-- Left text box -->
+        
+        <!-- text box -->
         <div id="left-box" class="box" style="flex: 1;">
           <h2 style="font-family: 'Montserrat', sans-serif; color: #333; text-align: center;">Tell us about yourself</h2>
-          <textarea name="user_details" placeholder="Describe yourself (age, skin type, etc.)..." style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 5px; height: 200px; resize: none;"></textarea>
-        </div>
+    
+          <textarea
+            name="user_details" 
+            placeholder="Describe yourself (age, skin type, etc.)..." 
+            style="width: 100%; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; height: 1.5em; overflow: hidden; resize: none; line-height: 1.5; font-size: 16px;"
+            oninput="adjustHeight(this)"></textarea>
 
-        <!-- Right text box
-        <div id="right-box" class="box" style="flex: 1;">
-          <h2 style="font-family: 'Montserrat', sans-serif; color: #333; text-align: left;">What are you looking for?</h2>
-          <textarea name="product_preferences" placeholder="Tell us what products you're searching for..." style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 5px; height: 200px; resize: none;"></textarea>
-        </div> -->
+          <script>
+              function adjustHeight(element) {
+                  element.style.height = "1.5em"; // Reset height to calculate the new height
+                  element.style.height = element.scrollHeight + "px"; // Set height to content height
+              }
+          </script>
+
+
+        </div>
       </div>
 
       <!-- Submit button container for alignment -->

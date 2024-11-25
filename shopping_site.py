@@ -39,6 +39,10 @@ def landing_who():
 
         # Store user_details 
         session['user_details'] = user_details
+
+        if user_details is None:
+            print("ERROR: USER DETAILS IS NULL")
+            user_details = ""  # Default to an empty string or a fallback value
         
         resp = make_response(redirect(url_for('landing_what')))  # Create a response and redirect
         resp.set_cookie('userdetails', user_details)  # Set the cookie
