@@ -90,7 +90,10 @@ def index():
     written_blog = blog.write_blogpost()
     
     time_elapsed = "{:.3f}".format(time.time() - start_time)
-
+    print(products_list)
+    if len(products_list) == 0:
+        print("empty")
+        products_list = []
     return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed, user_details=user_details)
 
 @app.route('/update_user_details', methods=['POST'])
