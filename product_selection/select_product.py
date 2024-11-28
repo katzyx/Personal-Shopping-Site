@@ -92,17 +92,25 @@ class BasicSelection:
 
             self.user_info['what']['Products'] = product_list
         
-        # Deal with price
-        if 'Price' in self.user_info['what']:
-            price = self.user_info['what']['Price']
-            price = str(price).replace('\'','').replace('\"', '')
-            
-            price_list = [i for i in price[1:-1].split(",") if i.strip()]
-            for count, element in enumerate(price_list):
-                price_list[count] = float(re.sub("[^\d\.]", "", element))
-            self.user_info['what']['Price'] = price_list
-        else:
-            self.user_info['what']['Price'] = [-np.inf,np.inf]
+        # Parse price from what input
+        try:
+            what_dict = json.loads(user_what)
+            if "Price" in what_dict:
+                price_str = what_dict["Price"]
+                if price_str and price_str.strip():
+                    # Try to extract number from string
+                    price_match = re.search(r'\d+', price_str)
+                    if price_match:
+                        self.price = float(price_match.group())
+                    else:
+                        self.price = 50.0  # default price if no number found
+                else:
+                    self.price = 50.0  # default price if empty string
+            else:
+                self.price = 50.0  # default price if no Price field
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"Error parsing price: {e}")
+            self.price = 50.0  # default price on error
     
     def keyword_lookup(self):
         product_match: dict = {}
@@ -111,7 +119,7 @@ class BasicSelection:
         for product in self.product_database:
             matches = 0
 
-            # If product is specified and does not match, skip product (put in matchces = 0)
+            # If product is specified and does not match, skip product
             if 'Products' in self.user_info['what']:
                 if product.get_attribute('Products') not in self.user_info['what']['Products']:
                     if matches in product_match:
@@ -124,7 +132,12 @@ class BasicSelection:
             for prompt in USER_WHAT_PROMPTS:
                 if prompt in self.user_info['what']:
                     if prompt == 'Price':
-                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
+                        # Get the price value and set a reasonable range (±20%)
+                        target_price = float(self.price)
+                        min_price = max(0, target_price * 0.8)  # Ensure min price isn't negative
+                        max_price = target_price * 1.2
+                        
+                        if min_price <= product.get_attribute(prompt) <= max_price:
                             matches += 1
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
@@ -134,12 +147,6 @@ class BasicSelection:
             else:
                 product_match[matches] = [product]
         
-        # for num_matches, products in product_match.items():
-        #     product_list = []
-        #     for product in products:
-        #         product_list.append(product.name)
-        #     print(num_matches, product_list)
-
         # Choose the top products
         top_products: list[Product] = []
 

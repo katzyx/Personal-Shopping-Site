@@ -293,3 +293,33 @@ body, html {
     display: none;
     z-index: 999;
   }
+
+  .sidebar textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .sidebar textarea::placeholder {
+    color: #999;
+  }
+
+  .sidebar label {
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  #preview {
+    min-height: 60px;
+    transition: background-color 0.3s ease;
+  }
+
+  #success_message {
+    animation: fadeOut 3s forwards;
+  }
+
+  @keyframes fadeOut {
+    0% { opacity: 1; }
+    70% { opacity: 1; }
+    100% { opacity: 0; }
+  }

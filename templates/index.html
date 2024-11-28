@@ -64,14 +64,107 @@
     </script>
     <script>
         function updateUserDetails(event) {
-            event.preventDefault(); // prevent the form from submitting normally
+            event.preventDefault();
             
-            var userInput = document.getElementById("user_form").value;
-            document.getElementById("user_dets").innerHTML = userInput;
-
-            var form = document.getElementById("user_details_form");
-            form.submit(); // submit the form without refreshing the whole page
+            const currentDesc = document.getElementById("user_dets").textContent.trim();
+            const newDesc = document.getElementById("user_form").value.trim();
+            
+            // Add loading state
+            const submitButton = event.target.querySelector('button[type="submit"]');
+            submitButton.disabled = true;
+            submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Updating...';
+            
+            // Send both descriptions to the server
+            fetch('/update_user_details', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    current_details: currentDesc,
+                    new_details: newDesc
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Update the display with merged description
+                document.getElementById("user_dets").innerHTML = data.merged_description;
+                
+                // Show success message
+                const successMessage = document.getElementById('success_message');
+                successMessage.style.display = 'block';
+                
+                // Reset form and button
+                document.getElementById("user_form").value = '';
+                submitButton.disabled = false;
+                submitButton.innerHTML = 'Save';
+                
+                // Hide success message after 3 seconds
+                setTimeout(() => {
+                    successMessage.style.display = 'none';
+                }, 3000);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                submitButton.disabled = false;
+                submitButton.innerHTML = 'Save';
+            });
         }
+    </script>
+    <script>
+        function updatePreview() {
+            const currentDesc = document.getElementById('user_dets').textContent.trim();
+            const newInput = document.getElementById('user_form').value.trim();
+            const preview = document.getElementById('preview');
+            
+            if (!newInput) {
+                preview.textContent = 'Type in the box above to see your merged description preview...';
+                return;
+            }
+            
+            // Show loading state in preview
+            preview.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Generating preview...';
+            
+            // Call API to get merged preview
+            fetch('/merge_preview', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    current_details: currentDesc,
+                    new_details: newInput
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                preview.textContent = data.merged_description;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                preview.textContent = 'Error generating preview';
+            });
+        }
+    </script>
+    <script>
+      //  debouncing to prevent too many API calls
+      function debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+      }
+    </script>
+    <script>
+      const debouncedUpdatePreview = debounce(updatePreview, 1000); // Wait 1 second after typing stops
+    </script>
+    <script>
+      document.getElementById('user_form').addEventListener('input', debouncedUpdatePreview);
     </script>
     
 
@@ -238,30 +331,48 @@
     </footer>
 
     <!-- Sidebar -->
-    <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: #F7CAC9; transition: right 0.3s ease-in-out; z-index: 1000;">
+    <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: white; transition: right 0.3s ease-in-out; z-index: 1000;">
       <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
         <div style="padding: 20px; height: 100%; display: flex; flex-direction: column;">
           <!-- Close button -->
           <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-            <h2 style="color: white; margin: 0;">WHO YOU ARE</h2>
-            <a onclick="toggleSidebar()" style="color: white; cursor: pointer; font-size: 24px;">×</a>
+            <h2 style="color: black; margin: 0;">WHO YOU ARE</h2>
+            <a onclick="toggleSidebar()" style="color: black; cursor: pointer; font-size: 24px;">×</a>
           </div>
           
           <!-- User details content -->
           <div style="flex-grow: 1; display: flex; flex-direction: column;">
-            <div id="user_dets" style="min-height: 40px; width: 100%; color: white; margin-bottom: 20px;">
+            <label for="user_form" style="color: black; margin-bottom: 10px;">Current Description:</label>
+            <div id="user_dets" style="min-height: 40px; width: 100%; color: black; margin-bottom: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 5px;">
               {{ user_details }}
             </div>
+            
+            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description:</label>
             <textarea 
               name="user_details" 
               id="user_form" 
               rows="7" 
-              style="width: 100%; margin-bottom: 20px; padding: 10px; border: none; border-radius: 5px; resize: vertical;">
+              placeholder="Describe yourself (e.g., age, skin type, concerns, preferences). This helps us provide better recommendations!"
+              oninput="updatePreview()"
+              style="width: 100%; margin-bottom: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; resize: vertical;">
             </textarea>
+            
+            <div style="margin-bottom: 20px;">
+              <label style="color: black; margin-bottom: 10px;">Preview:</label>
+              <div id="preview" style="padding: 10px; background-color: #f5f5f5; border-radius: 5px; color: #666;">
+                Type in the box above to see your merged description preview...
+              </div>
+            </div>
+
+            <!-- Success message (hidden by default) -->
+            <div id="success_message" style="display: none; color: green; text-align: center; margin-bottom: 10px;">
+              <i class="fas fa-check-circle"></i> Details updated successfully!
+            </div>
+            
             <button 
               type="submit" 
               class="saving" 
-              style="align-self: center; padding: 10px 30px; border-radius: 5px; background-color: white; border: none; cursor: pointer;">
+              style="align-self: center; padding: 10px 30px; border-radius: 5px; background-color: #F7CAC9; color: white; border: none; cursor: pointer;">
               Save
             </button>
           </div>
