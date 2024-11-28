@@ -38,13 +38,12 @@
       }
     </script>
     <script>
-      function opendropdown() {
-        var x = document.getElementById("whodropdown");
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        }
-        else{
-          x.style.display = "none";
+      function toggleSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        if (sidebar.style.right === '0px') {
+          sidebar.style.right = '-400px';
+        } else {
+          sidebar.style.right = '0px';
         }
       }
     </script>
@@ -89,24 +88,10 @@
         </div>
         
         <!-- Right-aligned account link -->
-        <div class="account_drop" style="margin-left: auto; background-color: #B3CEE5; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
-          <a class="accounts" onclick="opendropdown()" style="text-decoration: none; color: white; width: 30px; background-color: #B3CEE5;">
+        <div class="account_drop" style="margin-left: auto; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
+          <a class="accounts" onclick="toggleSidebar()" style="text-decoration: none; color: white; width: 30px;">
             <i class="fas fa-user"></i>
           </a>
-          
-          <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
-            <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
-                <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
-                <div style="display: flex; align-items: center; flex-direction: column;">
-                    <div id="user_dets" style="height: 40px; width: 400px;">{{ user_details }}</div>
-                    <textarea name="user_details" id="user_form" rows="7" cols="45" style="margin: 5px 10px;"></textarea>
-                    <button type="submit" class="saving" style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
-                        Save
-                    </button>
-                </div>
-            </div>
-        </form>
-          
         </div>
       </nav>
       
@@ -251,5 +236,37 @@
         <p>©2024. All Rights Reserved</p>
       </div>
     </footer>
+
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: #F7CAC9; transition: right 0.3s ease-in-out; z-index: 1000;">
+      <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
+        <div style="padding: 20px; height: 100%; display: flex; flex-direction: column;">
+          <!-- Close button -->
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <h2 style="color: white; margin: 0;">WHO YOU ARE</h2>
+            <a onclick="toggleSidebar()" style="color: white; cursor: pointer; font-size: 24px;">×</a>
+          </div>
+          
+          <!-- User details content -->
+          <div style="flex-grow: 1; display: flex; flex-direction: column;">
+            <div id="user_dets" style="min-height: 40px; width: 100%; color: white; margin-bottom: 20px;">
+              {{ user_details }}
+            </div>
+            <textarea 
+              name="user_details" 
+              id="user_form" 
+              rows="7" 
+              style="width: 100%; margin-bottom: 20px; padding: 10px; border: none; border-radius: 5px; resize: vertical;">
+            </textarea>
+            <button 
+              type="submit" 
+              class="saving" 
+              style="align-self: center; padding: 10px 30px; border-radius: 5px; background-color: white; border: none; cursor: pointer;">
+              Save
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
   </body>
 </html>
