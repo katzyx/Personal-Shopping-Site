@@ -30,13 +30,15 @@ class Product(BaseModel):
     name: str = '' # Product name
     brand: str = '' # Product brand
     categories: list[str] = [] # Product cateogories
-    shades: list[Shade] = [] # List of all product shades
+    shades: list[str] = [] # List of all product shades
     price: float = None # Price of product in CAD
     size: str = '' # Product size
     about: str = '' # Description of product
     ingredients: str = '' # Ingredients of product
     how_to_use: str = '' # Instructions on use
     reviews: list[Review] = [] # List of all buyer reviews
+    image_url: str = '' # Image URL
+    product_url: str = '' # Product URL
 
 
     def get_attribute(self, entry):
@@ -51,12 +53,14 @@ class Product(BaseModel):
         output.append(f"Product Name: {self.name}")
         output.append(f"Brand: {self.brand}")
         output.append(f"Categories: {', '.join(self.categories)}")
-        output.append(f"Number of Shades: {len(self.shades)}")
+        output.append(f"Shades: {', '.join(self.shades)}")
         output.append(f"Price: ${self.price:.2f} CAD" if self.price else "Price: Not available")
         output.append(f"Size: {self.size}")
         output.append(f"About: {self.about}")
         output.append(f"Ingredients: {self.ingredients}")
         output.append(f"How to Use: {self.how_to_use}")
         output.append(f"Number of Reviews: {len(self.reviews)}")
+        output.append(f"Image URL: {self.image_url}")
+        output.append(f"Product URL: {self.product_url}")
         
         return "\n".join(output)
