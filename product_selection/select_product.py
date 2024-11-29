@@ -113,7 +113,7 @@ class BasicSelection:
         for product in self.product_database:
             matches = 0
 
-            # If product is specified and does not match, skip product
+            # If product is specified and does not match, skip product (put in matchces = 0)
             if 'Products' in self.user_info['what']:
                 if product.get_attribute('Products') not in self.user_info['what']['Products']:
                     if matches in product_match:
@@ -126,12 +126,7 @@ class BasicSelection:
             for prompt in USER_WHAT_PROMPTS:
                 if prompt in self.user_info['what']:
                     if prompt == 'Price':
-                        # Get the price value and set a reasonable range (±20%)
-                        target_price = float(self.price)
-                        min_price = max(0, target_price * 0.8)  # Ensure min price isn't negative
-                        max_price = target_price * 1.2
-                        
-                        if min_price <= product.get_attribute(prompt) <= max_price:
+                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
                             matches += 1
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
@@ -140,7 +135,7 @@ class BasicSelection:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
-  
+            
         # for num_matches, products in product_match.items():
         #     product_list = []
         #     for product in products:

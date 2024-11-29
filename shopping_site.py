@@ -2,7 +2,7 @@ import os
 import time
 import sys
 
-from flask import Flask, render_template, make_response, session, request, redirect, url_for, flash, jsonify  # type: ignore
+from flask import Flask, render_template, make_response, session, request, redirect, url_for, flash  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
 from flask_moment import Moment # type: ignore
 from flask_wtf import FlaskForm # type: ignore
@@ -13,7 +13,6 @@ from product_selection.map_user_to_product import *
 from product_selection.select_product import Product
 
 from product_selection.key import API_key
-from product_selection.user_input import UserInput
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
@@ -99,21 +98,12 @@ def index():
 
 @app.route('/update_user_details', methods=['POST'])
 def update_user_details():
-    data = request.get_json()
-    current_details = data.get('current_details', '')
-    new_details = data.get('new_details', '')
+    user_details = request.form.get('user_details')  # Get the user details from the form
+    session['user_details'] = user_details  # Update the session variable
+    resp = make_response(redirect(url_for('index')))  # Create a response and redirect
+    resp.set_cookie('userdetails', user_details)  # Set the cookie
+    return resp
     
-    # Create UserInput instance
-    user_input = UserInput(API_key, current_details, new_details)
-    
-    # Merge descriptions
-    merged_description = user_input.merge_descriptions(current_details, new_details)
-    
-    # Store in session
-    session['user_details'] = merged_description
-    
-    return jsonify({'merged_description': merged_description})
-
 @app.route('/get_cookie')  # Route to retrieve the cookie
 def get_cookie():
     username = get_cookie_value('userdetails')  # Use the utility function to get the cookie
@@ -127,20 +117,6 @@ def delete_cookie():
     resp = make_response(redirect(url_for('index')))
     resp.delete_cookie('userdetails')  # Remove the 'username' cookie
     return resp
-
-@app.route('/merge_preview', methods=['POST'])
-def merge_preview():
-    data = request.get_json()
-    current_details = data.get('current_details', '')
-    new_details = data.get('new_details', '')
-    
-    # Create UserInput instance
-    user_input = UserInput(API_key, current_details, new_details)
-    
-    # Merge descriptions
-    merged_description = user_input.merge_descriptions(current_details, new_details)
-    
-    return jsonify({'merged_description': merged_description})
 
 if __name__ == '__main__':
     app.run(debug=True)
