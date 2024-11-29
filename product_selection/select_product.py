@@ -96,8 +96,6 @@ class BasicSelection:
         if 'Price' in self.user_info['what']:
             price = self.user_info['what']['Price']
             price = str(price).replace('\'','').replace('\"', '')
-            print("price:")
-            print(price)
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
             for count, element in enumerate(price_list):
                 price_list[count] = float(re.sub("[^\d\.]", "", element))
