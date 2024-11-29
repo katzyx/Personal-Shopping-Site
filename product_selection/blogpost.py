@@ -20,7 +20,7 @@ class Blogpost:
         if self.input_who is None:
             self.input_what = "no input provided"
 
-        message = "Details about me: " + self.input_who + ". What I'm looking for: " + self.input_what + ". Given this information, write a paragraph (maximum 6 sentences) giving me personalized advice on what I should be looking for in products or on the application of these products without naming specific products or brands."
+        message = "Details about me: " + self.input_who + ". What I'm looking for: " + self.input_what + ". Given this information, write a paragraph (maximum 1200 characters) giving me personalized advice on what I should be looking for in products or on the application of these products without naming specific products or brands."
         messages.append({"role": "user", "content": message})        
 
         try:
