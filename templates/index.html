@@ -195,7 +195,11 @@
             {% set paragraphs = blog.split('. ') %}
             {% for paragraph in paragraphs %}
               {% if paragraph %}
-                <p style="margin-bottom: 10px;">• {{ paragraph }}.</p>
+                {% if not loop.last %}
+                  <p style="margin-bottom: 10px;">• {{ paragraph }}.</p>
+                {% else %}
+                  <p style="margin-bottom: 10px;">• {{ paragraph }}</p>
+                {% endif %}
               {% endif %}
             {% endfor %}
           </div>
