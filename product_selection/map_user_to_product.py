@@ -35,8 +35,10 @@ def map_inputs(retrieved_who, retrieved_what):
         
         if 'Price' not in what:
             proceed = True
-        elif what['Price'][0] == '[':
-            proceed = True
+        else:
+            price = str(what['Price']).replace('\'','').replace('\"', '')
+            if price[0] == '[':
+                proceed = True
     
     return basic_map(user_input.input_who, user_input.input_what)
 
