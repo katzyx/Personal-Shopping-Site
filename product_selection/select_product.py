@@ -99,14 +99,7 @@ class BasicSelection:
             
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
             for count, element in enumerate(price_list):
-                try:
-                    price_string = re.sub("[^\d\.]", "", element)
-                    if price_string:
-                        price_list[count] = float(price_string)
-                    else:
-                        price_list[count] = 0.0  # Default price if empty string
-                except ValueError:
-                    price_list[count] = 0.0  # Default price if conversion fails
+                price_list[count] = float(re.sub("[^\d\.]", "", element))
             self.user_info['what']['Price'] = price_list
         else:
             self.user_info['what']['Price'] = [-np.inf,np.inf]
