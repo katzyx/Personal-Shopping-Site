@@ -92,25 +92,19 @@ class BasicSelection:
 
             self.user_info['what']['Products'] = product_list
         
-        # Parse price from what input
-        try:
-            what_dict = json.loads(user_what)
-            if "Price" in what_dict:
-                price_str = what_dict["Price"]
-                if price_str and price_str.strip():
-                    # Try to extract number from string
-                    price_match = re.search(r'\d+', price_str)
-                    if price_match:
-                        self.price = float(price_match.group())
-                    else:
-                        self.price = 50.0  # default price if no number found
-                else:
-                    self.price = 50.0  # default price if empty string
+        # Deal with price
+        if 'Price' in self.user_info['what']:
+            price = self.user_info['what']['Price']
+            price = str(price).replace('\'','').replace('\"', '')
+            price_list = [i for i in price[1:-1].split(",") if i.strip()]
+            for count, element in enumerate(price_list):
+                price_list[count] = float(re.sub("[^\d\.]", "", element))
+            if price_list[0] == 0 and price_list[1] == 0:
+                self.user_info['what']['Price'] = [0,99999999]
             else:
-                self.price = 50.0  # default price if no Price field
-        except (json.JSONDecodeError, ValueError) as e:
-            print(f"Error parsing price: {e}")
-            self.price = 50.0  # default price on error
+                self.user_info['what']['Price'] = price_list
+        else:
+            self.user_info['what']['Price'] = [0,99999999]
     
     def keyword_lookup(self):
         product_match: dict = {}
@@ -146,7 +140,13 @@ class BasicSelection:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
-        
+  
+        # for num_matches, products in product_match.items():
+        #     product_list = []
+        #     for product in products:
+        #         product_list.append(product.name)
+        #     print(num_matches, product_list)
+
         # Choose the top products
         top_products: list[Product] = []
 
@@ -161,6 +161,6 @@ class BasicSelection:
                 if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                     break
                 top_products.append(product)
-        
+                
         return top_products
 

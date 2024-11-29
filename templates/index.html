@@ -210,6 +210,7 @@
     </header>
 
     <!-- This section is where images are displayed -->
+    {% if products_list %}
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
         <div style="flex: 14%; padding: 0.5em 0em">
@@ -220,6 +221,12 @@
           <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
         </div>
       {% endfor %}
+    {% else %}
+    <div style="text-align: center; padding: 2em;">
+      <img src="{{ url_for('static', filename='assets/nothing_found.png') }}" alt="error" style="height: 90px;" />
+      <p>Sorry, your search did not return any products.</p></div>
+    {% endif %}
+
       <!-- <div style="flex: 14%;">
         <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
         <p>NARS</p>
@@ -276,24 +283,27 @@
         </fieldset>
       </div>
 
+    {% if products_list %}
         <!-- Images and black bar in the same container -->
     <div style="flex: 58%; text-align: center;">
       <!-- Black text bar across the top of images -->
       <div style="background-color: black; color: white; padding: 1em; margin-bottom: 2em;">
-        <p style="margin: 0;"><b>You may want to compliment your light foundation with these products</b></p>
+        <p style="margin: 0;"><b>You may want to compliment your routine with these products</b></p>
       </div>
 
       <!-- Image section -->
-      <div style="display: flex; justify-content: space-around;">
-        {% for i in range(7,11) %}
-        <div style="flex: 1; padding: 0.5em 1em;">
-          <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p>{{products_list[i].name}}</p>
-          <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
-          <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
-        {% endfor %}
+      
+        <div style="display: flex; justify-content: space-around;">
+          {% for i in range(7,11) %}
+          <div style="flex: 1; padding: 0.5em 1em;">
+            <img src="{{products_list[i].url}}" height="200em" width="125em">
+            <p>{{products_list[i].name}}</p>
+            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+            <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+            <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
+          </div>
+          {% endfor %}
+        {% endif %}
         <!-- <div style="flex: 1; padding: 0 1em;">
           <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
           <p>NARS</p>
