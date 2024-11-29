@@ -32,7 +32,7 @@ class SephoraScraper(BaseModel):
         # If file does not exist, add header
         try:
             with open(filename, 'x') as file:
-                header = "id,name,brand,categories,price,size,about,ingredients,how_to_use"
+                header = "id,name,brand,categories,shades,price,size,about,ingredients,how_to_use,image_url,product_url"
                 file.write(header + '\n')
         except:
             pass
@@ -44,11 +44,14 @@ class SephoraScraper(BaseModel):
             line += f"\"{product.name}\","
             line += f"\"{product.brand}\","
             line += f"\"{', '.join(product.categories)}\","
+            line += f"\"{', '.join(product.shades)}\","
             line += f"{product.price:.2f}," if product.price else "Not available,"
             line += f"\"{product.size}\","
             line += f"\"{product.about}\","
             line += f"\"{product.ingredients}\","
-            line += f"\"{product.how_to_use}\""
+            line += f"\"{product.how_to_use}\","
+            line += f"\"{product.image_url}\","
+            line += f"\"{product.product_url}\""
             file.write(line + '\n')
 
     def scrape_brands_list(self):
@@ -85,10 +88,11 @@ class SephoraScraper(BaseModel):
         self.product_urls_list.extend(product_urls_list)
 
     def scrape_product_info(self, product_url):
-        product = Product()
+        product = Product(product_url=product_url)
 
         # Set product ID
         product.id = self.product_id_counter
+        self.product_id_counter += 1
 
         # Initialize Chrome driver (you might want to move this to __init__)
         chrome_options = Options()
@@ -107,48 +111,73 @@ class SephoraScraper(BaseModel):
             )
             links = driver.find_elements(By.CSS_SELECTOR, 'nav[aria-label="Breadcrumb"] ol a')
             product.categories = [link.text for link in links]
+            print(product.categories)
 
             # Brand Name
             brand_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'a[data-at="brand_name"]'))
             )
             product.brand = brand_element.text
+            print(product.brand)
 
             # Product name
             name_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="product_name"]'))
             )
             product.name = name_element.text
+            print(product.name)
 
             # Price
             price_element = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'p[data-comp="Price "] b.css-0'))
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'p[data-comp="Price "] b[class^="css-"]'))
             )
             product.price = float(price_element.text.strip().replace('$', ''))
+            print(product.price)
 
             # Size
             size_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-at="sku_name_label"]'))
             )
-            if 'Size' not in size_element.text:
-                size_element = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-at="sku_size_label"]'))
-                )
-                has_multiple_shades = True
             product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
-
-            # Extract Shades if Multiple Shades
-            # product.shades = self.scrape_product_shades(product_url)
+            print(product.size)
 
             # Product About
             about_text = driver.execute_script("""
-                const div = document.querySelector('div.css-18apj9d div, div.css-1jnhrmt div');
-                if (!div) return '';
-                return Array.from(div.children)
-                    .map(child => child.textContent.trim())
-                    .join('\\n');
+                const div = document.querySelector('div.css-18apj9d div, div.css-1jnhrmt div, div.css-wtwbdl div, div.css-fwckll div, div.css-1rwlp86 div, div.css-qz0qvn div');
+                if (!div) return 'No match';
+                
+                // Create an array to hold the text content
+                const contentArray = [];
+                
+                // Get all child nodes of the div
+                const nodes = div.childNodes;
+                
+                // Iterate through the child nodes
+                nodes.forEach(node => {
+                    // Check if the node is an element node
+                    if (node.nodeType === Node.ELEMENT_NODE) {
+                        // If it's a <b> element, add its text and the following text
+                        if (node.tagName === 'B') {
+                            const title = node.textContent.trim();
+                            const nextText = node.nextSibling ? node.nextSibling.textContent.trim() : '';
+                            contentArray.push(title + nextText);
+                        }
+                    }
+                });
+                
+                // Join the content with new lines
+                return contentArray.join('\\n');
             """)
-            product.about = about_text.replace('\n', '.')
+            if not about_text:
+                about_text = driver.execute_script("""
+                    const div = document.querySelector('div.css-18apj9d div, div.css-1jnhrmt div, div.css-wtwbdl div, div.css-fwckll div, div.css-1rwlp86 div, div.css-qz0qvn div');
+                    if (!div) return '';
+                    return Array.from(div.children)
+                        .map(child => child.textContent.trim())
+                        .join('\\n');
+                """)
+            product.about = about_text.replace('\n', '.').replace('"', '')
+            print(product.about)
 
             # Product Ingredients
             ingredients_text = driver.execute_script("""
@@ -162,6 +191,7 @@ class SephoraScraper(BaseModel):
                     .trim();
             """)
             product.ingredients = ingredients_text.replace('\n', '.')
+            print(product.ingredients)
 
             # Product Use
             use_text = driver.execute_script("""
@@ -175,11 +205,21 @@ class SephoraScraper(BaseModel):
                     .trim();
             """)
             product.how_to_use = use_text.replace('\n', '.')
+            print(product.how_to_use)
 
             # Extract Reviews
             # product.reviews = self.scrape_product_reviews(product_url)
 
-            # print(product)
+            # Extract Image
+            image_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-comp="Carousel "] button svg foreignObject img'))
+            )
+            product.image_url = image_element.get_attribute('src')  # Get the image URL
+            print(product.image_url)
+
+            # Extract Shades if Multiple Shades
+            product.shades = self.scrape_product_shade_names(product_url)
+            print(product.shades)
 
             self.product_database.append(product)
             self.write_to_csv('products.csv', product)
@@ -187,8 +227,32 @@ class SephoraScraper(BaseModel):
         finally:
             driver.quit()
 
-        self.product_id_counter += 1
+    def scrape_product_shade_names(self, product_url):
+        chrome_options = Options()
+        chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36")
+        
+        driver = webdriver.Chrome(service=Service('/usr/local/bin/chromedriver'), options=chrome_options)
+        shade_names = []
+        
+        try:
+            driver.get(product_url)  # Navigate to the product page
+            swatch_group = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-comp="SwatchGroup "]'))
+            )
+            shade_buttons = WebDriverWait(swatch_group, 10).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'button[data-at="selected_swatch"], button[data-at="swatch"]'))
+            )
+            for button in shade_buttons:
+                button_name = button.get_attribute('aria-label')  # Get the button name
+                button_name = button_name.replace(' - Selected', '')
+                shade_names.append(button_name)
+        
+        finally:
+            driver.quit()
 
+        return shade_names
+        
+    
     def scrape_product_shades(self, product_url):
         # Initialize Chrome driver (you might want to move this to __init__)
         chrome_options = Options()
