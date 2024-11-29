@@ -274,12 +274,20 @@
     <!-- This section is where images and blog post are displayed -->
     <div style="display: flex; align-items: flex-start; text-align: center">
       <div style="flex: 42%; padding: 0em 1em">
-        <fieldset>
-          <legend>From your beauty advisor</legend> 
-          <table>
-            <tr><td>{{blog}}</td></tr>
-            <!-- <tr><td>Given your age and ethnicity, it is important to focus on skincare products that cater to the needs of Chinese skin, which is typically prone to hyperpigmentation and sensitivity. Look for skincare products that contain brightening ingredients like niacinamide or Vitamin C to even out your skin tone and protect it from environmental stressors. For foundation, aim for a lightweight formula that offers buildable coverage to achieve a natural finish. Considering your budget, seek out products that offer good quality without breaking the bank. When applying foundation, start with a clean, moisturized face and use a beauty sponge or brush for a seamless application. Remember to blend well into your skin tone for a flawless look. Prioritizing skincare and choosing the right foundation can enhance your natural beauty and promote a healthy complexion.</td></tr> -->
-          </table>
+        <fieldset style="background-color: white; border: 2px solid #F7CAC9; border-radius: 5px;">
+          <legend style="background-color: black; color: white; padding: 5px 10px; font-weight: bold;">From your beauty advisor</legend> 
+          <div style="padding: 15px; text-align: left;">
+            {% set paragraphs = blog.split('. ') %}
+            {% for paragraph in paragraphs %}
+              {% if paragraph %}
+                {% if not loop.last %}
+                  <p style="margin-bottom: 10px;">• {{ paragraph }}.</p>
+                {% else %}
+                  <p style="margin-bottom: 10px;">• {{ paragraph }}</p>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
         </fieldset>
       </div>
 
