@@ -56,7 +56,7 @@ class UserInput:
     def merge_descriptions(self, current_desc, new_desc):
         openai.api_key = self.openai_key
         messages = [
-            {"role": "system", "content": "You are a helpful assistant that combines user descriptions about themselves for a beauty website. Merge the information intelligently, remove redundancies, and maintain a natural flow. Only include the information that the user has entered. Do not provide any additional information."}
+            {"role": "system", "content": "You are an assistant that combines user descriptions about themselves for a beauty website. Merge the information intelligently, remove redundancies, and maintain a natural flow. Only include the information that the user has entered. Do not provide any additional information or descriptions."}
         ]
         
         message = f"""Current description: {current_desc}
