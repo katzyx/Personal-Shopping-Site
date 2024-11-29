@@ -96,7 +96,6 @@ class BasicSelection:
         if 'Price' in self.user_info['what']:
             price = self.user_info['what']['Price']
             price = str(price).replace('\'','').replace('\"', '')
-            
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
             for count, element in enumerate(price_list):
                 price_list[count] = float(re.sub("[^\d\.]", "", element))
@@ -136,7 +135,7 @@ class BasicSelection:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
-        
+            
         # for num_matches, products in product_match.items():
         #     product_list = []
         #     for product in products:
@@ -157,6 +156,6 @@ class BasicSelection:
                 if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                     break
                 top_products.append(product)
-        
+                
         return top_products
 

@@ -15,7 +15,7 @@ class UserInput:
 
     def input_to_json(self, type):
         openai.api_key = self.openai_key
-        messages = [ {"role": "system", "content": "You are a personal beauty advisor! Ignore grammar errors. If fields are missing, do not include."} ]
+        messages = [ {"role": "system", "content": "You are a personal beauty advisor! Ignore grammar errors. If fields from the example output are missing, do not include."} ]
 
         if type == 'who':
             raw_input = self.raw_input_who
@@ -83,6 +83,8 @@ class UserInput:
             
         # For debugging purposes
         print(reply)
+
+        # debug and check if reply is empty or doesn't make sense
 
         if type == 'who':
             self.input_who = reply
