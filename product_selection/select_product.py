@@ -100,9 +100,12 @@ class BasicSelection:
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
             for count, element in enumerate(price_list):
                 price_list[count] = float(re.sub("[^\d\.]", "", element))
-            self.user_info['what']['Price'] = price_list
+            if price_list[0] == 0 and price_list[1] == 0:
+                self.user_info['what']['Price'] = [0,99999999]
+            else:
+                self.user_info['what']['Price'] = price_list
         else:
-            self.user_info['what']['Price'] = [-np.inf,np.inf]
+            self.user_info['what']['Price'] = [0,99999999]
     
     def keyword_lookup(self):
         product_match: dict = {}

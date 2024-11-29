@@ -1,4 +1,5 @@
 import openai # type: ignore
+import json # type: ignore
 from product_selection.key import API_key
 
 # For internal testing
@@ -28,7 +29,7 @@ class UserInput:
         if raw_input == None:
             raw_input = "no input received"
 
-        message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a list and use only singular nouns. for Price, return a tuple of the min and max price; if 'around' given, give buffer of 35%): " + raw_input + example_output
+        message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns. for Price, return a tuple of the min and max price; if 'around' given, give buffer of 35%): " + raw_input + example_output
         messages.append({"role": "system", "content": message})
 
         try:
@@ -37,7 +38,49 @@ class UserInput:
         except Exception as e:
             print(f"Error during OpenAI API call: {e}")
             reply = "{}"  # return an empty JSON if something goes wrong
+        
+        print(reply)
 
+        # Add checks to see if output is correct
+        while True:
+            rerun = False
+            message = ""
+
+            # Check output is JSON
+            try: 
+                json.loads(reply)
+            except Exception as e:
+                print(f"Error returning JSON string: {e}")
+                message += "Format this string into JSON (for Products category, return a comma-separated string and use only singular nouns)."
+                rerun = True
+
+            # Check if price is correct
+            try:
+                if 'Price' in reply:
+                    if isinstance(reply, str):
+                        data = json.loads(reply)
+                    else:
+                        data = reply 
+                    price_list = data['Price']
+                    min, max = price_list[0], price_list[1]
+                    float(min) + float(max)
+            except Exception as e:
+                print(f"Error returning Price: {e}")
+                message += "Change Price into a tuple of two valid numbers. If maximum price not specified, used 99999999"
+                rerun = True
+            
+            if rerun:
+                message += "Here is the string to change: " + reply
+                messages.append({"role": "system", "content": message})
+                try:
+                    chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
+                    reply = chat.choices[0].message.content
+                except Exception as e:
+                    print(f"Error during OpenAI API call: {e}")
+                    reply = "{}"
+            else:
+                break
+            
         # For debugging purposes
         print(reply)
 
