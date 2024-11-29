@@ -27,18 +27,8 @@ def basic_map(user_who, user_what):
     
 def map_inputs(retrieved_who, retrieved_what):
     # Get retrieved user inputs and put them into json strings (accessed with user_input.input_who and user_input.input_what)
-    proceed = False
-    while proceed == False:
-        user_input = UserInput(API_key, retrieved_who, retrieved_what)
-        user_input.parse_user_inputs()
-        what = json.loads(user_input.input_what)
-        
-        if 'Price' not in what:
-            proceed = True
-        else:
-            price = str(what['Price']).replace('\'','').replace('\"', '')
-            if price[0] == '[':
-                proceed = True
+    user_input = UserInput(API_key, retrieved_who, retrieved_what)
+    user_input.parse_user_inputs()
     
     return basic_map(user_input.input_who, user_input.input_what)
 
