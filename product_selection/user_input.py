@@ -20,18 +20,18 @@ class UserInput:
         if type == 'who':
             raw_input = self.raw_input_who
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
+            message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns): " + raw_input + example_output
         elif type == 'what':
             raw_input = self.raw_input_what
-            # example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation,Primers\",\"Price\":\"[0,40]\",\"Brand\":\"Dior\"}'
             example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\"}'
             message = "Extract user information (in JSON format - in one line) from the following string. For Price, always return a specific number (if 'around X' is given, use X; if no price mentioned, use 50; if 'cheap' or 'affordable', use 25; if 'expensive' or 'high-end', use 100): " + raw_input + example_output
         else:
             example_output = ""
+            message = ""
 
         if raw_input == None:
             raw_input = "no input received"
 
-        message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns. for Price, return a tuple of the min and max price; if 'around' given, give buffer of 35%): " + raw_input + example_output
         messages.append({"role": "system", "content": message})
 
         try:
