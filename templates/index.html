@@ -38,13 +38,12 @@
       }
     </script>
     <script>
-      function opendropdown() {
-        var x = document.getElementById("whodropdown");
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        }
-        else{
-          x.style.display = "none";
+      function toggleSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        if (sidebar.style.right === '0px') {
+          sidebar.style.right = '-400px';
+        } else {
+          sidebar.style.right = '0px';
         }
       }
     </script>
@@ -65,14 +64,107 @@
     </script>
     <script>
         function updateUserDetails(event) {
-            event.preventDefault(); // prevent the form from submitting normally
+            event.preventDefault();
             
-            var userInput = document.getElementById("user_form").value;
-            document.getElementById("user_dets").innerHTML = userInput;
-
-            var form = document.getElementById("user_details_form");
-            form.submit(); // submit the form without refreshing the whole page
+            const currentDesc = document.getElementById("user_dets").textContent.trim();
+            const newDesc = document.getElementById("user_form").value.trim();
+            
+            // Add loading state
+            const submitButton = event.target.querySelector('button[type="submit"]');
+            submitButton.disabled = true;
+            submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Updating...';
+            
+            // Send both descriptions to the server
+            fetch('/update_user_details', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    current_details: currentDesc,
+                    new_details: newDesc
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Update the display with merged description
+                document.getElementById("user_dets").innerHTML = data.merged_description;
+                
+                // Show success message
+                const successMessage = document.getElementById('success_message');
+                successMessage.style.display = 'block';
+                
+                // Reset form and button
+                document.getElementById("user_form").value = '';
+                submitButton.disabled = false;
+                submitButton.innerHTML = 'Save';
+                
+                // Hide success message after 3 seconds
+                setTimeout(() => {
+                    successMessage.style.display = 'none';
+                }, 3000);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                submitButton.disabled = false;
+                submitButton.innerHTML = 'Save';
+            });
         }
+    </script>
+    <script>
+        function updatePreview() {
+            const currentDesc = document.getElementById('user_dets').textContent.trim();
+            const newInput = document.getElementById('user_form').value.trim();
+            const preview = document.getElementById('preview');
+            
+            if (!newInput) {
+                preview.textContent = 'Type in the box above to see your merged description preview...';
+                return;
+            }
+            
+            // Show loading state in preview
+            preview.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Generating preview...';
+            
+            // Call API to get merged preview
+            fetch('/merge_preview', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    current_details: currentDesc,
+                    new_details: newInput
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                preview.textContent = data.merged_description;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                preview.textContent = 'Error generating preview';
+            });
+        }
+    </script>
+    <script>
+      //  debouncing to prevent too many API calls
+      function debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+      }
+    </script>
+    <script>
+      const debouncedUpdatePreview = debounce(updatePreview, 1000); // Wait 1 second after typing stops
+    </script>
+    <script>
+      document.getElementById('user_form').addEventListener('input', debouncedUpdatePreview);
     </script>
     
 
@@ -89,24 +181,10 @@
         </div>
         
         <!-- Right-aligned account link -->
-        <div class="account_drop" style="margin-left: auto; background-color: #B3CEE5; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
-          <a class="accounts" onclick="opendropdown()" style="text-decoration: none; color: white; width: 30px; background-color: #B3CEE5;">
+        <div class="account_drop" style="margin-left: auto; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
+          <a class="accounts" onclick="toggleSidebar()" style="text-decoration: none; color: white; width: 30px;">
             <i class="fas fa-user"></i>
           </a>
-          
-          <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
-            <div class="prompt_dropdown" id="whodropdown" style="background-color:#F7CAC9; color: white; display: none; width: 400px; right: 0px;">
-                <a href="#" style="color: white; font-weight: bold;">WHO YOU ARE</a>
-                <div style="display: flex; align-items: center; flex-direction: column;">
-                    <div id="user_dets" style="height: 40px; width: 400px;">{{ user_details }}</div>
-                    <textarea name="user_details" id="user_form" rows="7" cols="45" style="margin: 5px 10px;"></textarea>
-                    <button type="submit" class="saving" style="margin-left: 10px; padding: 10px 15px; border-radius: 10%; background-color: white; border: none;">
-                        Save
-                    </button>
-                </div>
-            </div>
-        </form>
-          
         </div>
       </nav>
       
@@ -148,68 +226,17 @@
       <img src="{{ url_for('static', filename='assets/nothing_found.png') }}" alt="error" style="height: 90px;" />
       <p>Sorry, your search did not return any products.</p></div>
     {% endif %}
-
-      <!-- <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div>
-      <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div>
-      <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div>
-      <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div>
-      <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div>
-      <div style="flex: 14%;">
-        <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-        <p>NARS</p>
-        <b style="margin-top: 0.5em">Light liquid foundation</b>
-        <p style="margin-top: 0.5em">$16.95</p>
-        <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-      </div> -->
     </div>
 
     <!-- This section is where images and blog post are displayed -->
     <div style="display: flex; align-items: flex-start; text-align: center">
       <div style="flex: 42%; padding: 0em 1em">
-        <fieldset style="background-color: white; border: 2px solid #F7CAC9; border-radius: 5px;">
-          <legend style="background-color: black; color: white; padding: 5px 10px; font-weight: bold;">From your beauty advisor</legend> 
-          <div style="padding: 15px; text-align: left;">
-            {% set paragraphs = blog.split('. ') %}
-            {% for paragraph in paragraphs %}
-              {% if paragraph %}
-                {% if not loop.last %}
-                  <p style="margin-bottom: 10px;">• {{ paragraph }}.</p>
-                {% else %}
-                  <p style="margin-bottom: 10px;">• {{ paragraph }}</p>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
+        <fieldset>
+          <legend>From your beauty advisor</legend> 
+          <table>
+            <tr><td>{{blog}}</td></tr>
+            <!-- <tr><td>Given your age and ethnicity, it is important to focus on skincare products that cater to the needs of Chinese skin, which is typically prone to hyperpigmentation and sensitivity. Look for skincare products that contain brightening ingredients like niacinamide or Vitamin C to even out your skin tone and protect it from environmental stressors. For foundation, aim for a lightweight formula that offers buildable coverage to achieve a natural finish. Considering your budget, seek out products that offer good quality without breaking the bank. When applying foundation, start with a clean, moisturized face and use a beauty sponge or brush for a seamless application. Remember to blend well into your skin tone for a flawless look. Prioritizing skincare and choosing the right foundation can enhance your natural beauty and promote a healthy complexion.</td></tr> -->
+          </table>
         </fieldset>
       </div>
 
@@ -234,27 +261,6 @@
           </div>
           {% endfor %}
         {% endif %}
-        <!-- <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
-        <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
-        <div style="flex: 1; padding: 0 1em;">
-          <img src="{{ url_for('static', filename='/assets/foundation_sample.jpeg') }}" height="200em">
-          <p>NARS</p>
-          <b style="margin-top: 0.5em">Light liquid foundation</b>
-          <p style="margin-top: 0.5em">$16.95</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div> -->
       </div>
     </div>
   </div>
@@ -269,5 +275,55 @@
         <p>©2024. All Rights Reserved</p>
       </div>
     </footer>
+
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: white; transition: right 0.3s ease-in-out; z-index: 1000;">
+      <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
+        <div style="padding: 20px; height: 100%; display: flex; flex-direction: column;">
+          <!-- Close button -->
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <h2 style="color: black; margin: 0;">WHO YOU ARE</h2>
+            <a onclick="toggleSidebar()" style="color: black; cursor: pointer; font-size: 24px;">×</a>
+          </div>
+          
+          <!-- User details content -->
+          <div style="flex-grow: 1; display: flex; flex-direction: column;">
+            <label for="user_form" style="color: black; margin-bottom: 10px;">Current Description:</label>
+            <div id="user_dets" style="min-height: 40px; width: 100%; color: black; margin-bottom: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 5px;">
+              {{ user_details }}
+            </div>
+            
+            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description:</label>
+            <textarea 
+              name="user_details" 
+              id="user_form" 
+              rows="7" 
+              placeholder="Describe yourself (e.g., age, skin type, concerns, preferences). This helps us provide better recommendations!"
+              oninput="updatePreview()"
+              style="width: 100%; margin-bottom: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; resize: vertical;"
+            ></textarea>
+            
+            <div style="margin-bottom: 20px;">
+              <label style="color: black; margin-bottom: 10px;">Preview:</label>
+              <div id="preview" style="padding: 10px; background-color: #f5f5f5; border-radius: 5px; color: #666;">
+                Type in the box above to see your merged description preview...
+              </div>
+            </div>
+
+            <!-- Success message (hidden by default) -->
+            <div id="success_message" style="display: none; color: green; text-align: center; margin-bottom: 10px;">
+              <i class="fas fa-check-circle"></i> Details updated successfully!
+            </div>
+            
+            <button 
+              type="submit" 
+              class="saving" 
+              style="align-self: center; padding: 10px 30px; border-radius: 5px; background-color: #F7CAC9; color: white; border: none; cursor: pointer;">
+              Save
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
   </body>
 </html>

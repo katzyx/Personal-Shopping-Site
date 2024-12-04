@@ -97,14 +97,21 @@ class BasicSelection:
             price = self.user_info['what']['Price']
             price = str(price).replace('\'','').replace('\"', '')
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
-            for count, element in enumerate(price_list):
-                price_list[count] = float(re.sub("[^\d\.]", "", element))
-            if price_list[0] == 0 and price_list[1] == 0:
-                self.user_info['what']['Price'] = [0,99999999]
+            
+            # Check if price_list is empty or malformed
+            if not price_list:
+                self.user_info['what']['Price'] = [0, 99999999]
             else:
-                self.user_info['what']['Price'] = price_list
+                try:
+                    # Convert the first value found to float and use it as both min and max
+                    price_value = float(re.sub("[^\d\.]", "", price_list[0]))
+                    # Set a price range of ±20% around the specified price
+                    self.user_info['what']['Price'] = [price_value * 0.8, price_value * 1.2]
+                except (ValueError, IndexError):
+                    # Fallback to full range if conversion fails
+                    self.user_info['what']['Price'] = [0, 99999999]
         else:
-            self.user_info['what']['Price'] = [0,99999999]
+            self.user_info['what']['Price'] = [0, 99999999]
     
     def keyword_lookup(self):
         product_match: dict = {}
