@@ -97,11 +97,15 @@ class BasicSelection:
             price = self.user_info['what']['Price']
             price = str(price).replace('\'','').replace('\"', '')
             price_list = [i for i in price[1:-1].split(",") if i.strip()]
-            for count, element in enumerate(price_list):
-                price_list[count] = float(re.sub("[^\d\.]", "", element))
-            if price_list[0] == 0 and price_list[1] == 0:
-                self.user_info['what']['Price'] = [0,99999999]
+
+            # Handle empty or invalid price input
+            if len(price_list) < 2:
+                self.user_info['what']['Price'] = [0, 99999999]
+
+            # convert price list to floats
             else:
+                for count, element in enumerate(price_list):
+                    price_list[count] = float(re.sub(r"[^\d\.]", "", element))           
                 self.user_info['what']['Price'] = price_list
         else:
             self.user_info['what']['Price'] = [0,99999999]
@@ -158,4 +162,3 @@ class BasicSelection:
                 top_products.append(product)
                 
         return top_products
-
