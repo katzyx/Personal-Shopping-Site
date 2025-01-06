@@ -108,9 +108,16 @@ def update_user_details():
 
     # Merge descriptions
     merged_description = user_input.merge_descriptions(current_details, new_details)
-    # Store in session
+    
+    # Update user_details in session
     session['user_details'] = merged_description
+    
+    # Preserve the existing product_preferences instead of clearing them
+    product_preferences = session.get('product_preferences', '')
 
+    # Create a new UserInput instance with the merged description and preserved preferences
+    user_input = UserInput(API_key, merged_description, product_preferences)
+    
     return jsonify({'merged_description': merged_description})
 
     

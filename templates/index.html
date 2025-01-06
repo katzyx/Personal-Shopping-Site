@@ -94,15 +94,13 @@
                 const successMessage = document.getElementById('success_message');
                 successMessage.style.display = 'block';
                 
-                // Reset form and button
+                // Reset form
                 document.getElementById("user_form").value = '';
-                submitButton.disabled = false;
-                submitButton.innerHTML = 'Save';
                 
-                // Hide success message after 3 seconds
+                // Reload the page after a short delay to show the success message
                 setTimeout(() => {
-                    successMessage.style.display = 'none';
-                }, 3000);
+                    window.location.reload();
+                }, 1500);
             })
             .catch(error => {
                 console.error('Error:', error);

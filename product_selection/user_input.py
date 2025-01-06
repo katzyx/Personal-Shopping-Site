@@ -7,6 +7,7 @@ from product_selection.key import API_key
 
 class UserInput:
     def __init__(self, openai_key, raw_input_who, raw_input_what):
+        # print(f"DEBUG - Constructor inputs: who='{raw_input_who}', what='{raw_input_what}'")  # Debug
         self.openai_key = openai_key
         self.raw_input_who = raw_input_who
         self.raw_input_what = raw_input_what
@@ -14,24 +15,35 @@ class UserInput:
         self.input_what = ''
 
     def input_to_json(self, type):
+        # print(f"DEBUG - input_to_json called with type='{type}'")  # Debug
+        # print(f"DEBUG - raw_input_who='{self.raw_input_who}', raw_input_what='{self.raw_input_what}'")  # Debug
+        
         openai.api_key = self.openai_key
         messages = [ {"role": "system", "content": "You are a personal beauty advisor! Ignore grammar errors. If fields from the example output are missing, do not include."} ]
 
         if type == 'who':
             raw_input = self.raw_input_who
+        elif type == 'what':
+            raw_input = self.raw_input_what
+        else:
+            raw_input = None
+            
+        # print(f"DEBUG - Selected raw_input='{raw_input}'")  # Debug
+        
+        if type == 'who':
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
             message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns): " + raw_input + example_output
         elif type == 'what':
-            raw_input = self.raw_input_what
             example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\"}'
             message = "Extract user information (in JSON format - in one line) from the following string. For Price, always return a specific number (if 'around X' is given, use X; if no price mentioned, use 50; if 'cheap' or 'affordable', use 25; if 'expensive' or 'high-end', use 100): " + raw_input + example_output
         else:
             example_output = ""
             message = ""
 
-        if raw_input == None:
-            raw_input = "no input received"
-
+        # Add null check
+        if raw_input is None:
+            raw_input = "no input received"  # or some default value
+        
         messages.append({"role": "system", "content": message})
 
         try:
