@@ -7,7 +7,6 @@ from product_selection.key import API_key
 
 class UserInput:
     def __init__(self, openai_key, raw_input_who, raw_input_what):
-        # print(f"DEBUG - Constructor inputs: who='{raw_input_who}', what='{raw_input_what}'")  # Debug
         self.openai_key = openai_key
         self.raw_input_who = raw_input_who
         self.raw_input_what = raw_input_what
@@ -15,8 +14,6 @@ class UserInput:
         self.input_what = ''
 
     def input_to_json(self, type):
-        # print(f"DEBUG - input_to_json called with type='{type}'")  # Debug
-        # print(f"DEBUG - raw_input_who='{self.raw_input_who}', raw_input_what='{self.raw_input_what}'")  # Debug
         
         openai.api_key = self.openai_key
         messages = [ {"role": "system", "content": "You are a personal beauty advisor! Ignore grammar errors. If fields from the example output are missing, do not include."} ]
@@ -27,8 +24,6 @@ class UserInput:
             raw_input = self.raw_input_what
         else:
             raw_input = None
-            
-        # print(f"DEBUG - Selected raw_input='{raw_input}'")  # Debug
         
         if type == 'who':
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
