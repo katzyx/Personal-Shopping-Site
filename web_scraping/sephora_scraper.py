@@ -262,7 +262,7 @@ class SephoraScraper(BaseModel):
 
         try:
             driver.get(product_url)  # Navigate to the product page
-
+            
             # Initialize shades list
             shades: list[Shade] = []
 
@@ -278,9 +278,16 @@ class SephoraScraper(BaseModel):
 
             # Parse through all shade buttons to extract name and image url
             for button in shade_buttons:
-                button_name = button.get_attribute('aria-label')  # Get the button name
+                # Check for popup again before each interaction
+                try:
+                    popup_close_button = WebDriverWait(driver, 2).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-at="modal_close"]'))
+                    )
+                    popup_close_button.click()
+                except TimeoutException:
+                    pass
 
-                # Use Selenium to find the first button with the aria-label equal to button_name
+                button_name = button.get_attribute('aria-label')
                 new_button = driver.find_element(By.CSS_SELECTOR, f'button[aria-label="{button_name}"]')
 
                 # Use JavaScript to click the button
