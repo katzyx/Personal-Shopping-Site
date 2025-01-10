@@ -15,9 +15,11 @@ def test_product():
     #scraper.scrape_product_info('https://www.sephora.com/ca/en/product/genius-liquid-collagen-P421277?skuId=2610616&icid2=products')
     # print(scraper.product_database[0])
     
-    shades: list[Shade] = scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
-    for shade in shades:
-        print(shade)
+    # shades: list[Shade] = scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
+    # for shade in shades:
+    #     print(shade)
+
+    reviews: list[Review] = scraper.scrape_product_reviews('https://www.sephora.com/ca/en/product/hollywood-flawless-filter-P434104?skuId=2116010')
 
 def test_all_products():
     scraper = SephoraScraper(product_database=[])
@@ -29,5 +31,5 @@ def test_all_products():
                 pass
 
 if __name__ == "__main__": 
-    #test_product()
-    test_all_products()
+    test_product()
+    # test_all_products()

@@ -25,6 +25,16 @@ class Review(BaseModel):
     buyer_description: str # Physical description of buyer (eye / hair / skin color, skin type, ...)
     review: str # Review left by buyer
 
+    def __str__(self) -> str:
+        output = []
+        output.append(f"Title: {self.title}")
+        output.append(f"Rating: {self.rating}")
+        output.append(f"Shade Purchased: {self.shade_purchased}")
+        output.append(f"Buyer Description: {self.buyer_description}")
+        output.append(f"Review: {self.review}")
+        
+        return "\n".join(output)
+
 class Product(BaseModel): 
     id: int = None # Product ID
     name: str = '' # Product name
