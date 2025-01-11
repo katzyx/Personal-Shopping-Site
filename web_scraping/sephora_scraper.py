@@ -9,8 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC # type: ignore
 from selenium.webdriver.chrome.service import Service # type: ignore
 from selenium.webdriver.chrome.options import Options # type: ignore
 from selenium.common.exceptions import TimeoutException # type: ignore
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.keys import Keys
 import time
 
 
@@ -25,10 +23,54 @@ class SephoraScraper(BaseModel):
     product_urls_list: list[str] = [] # List of product urls
     product_id_counter: int = 1 # Product ID Tracker
 
-    def write_to_file(self, filename, info):
+    def write_to_file(self, product: Product):
+        filename = "product_id_" + str(product.id) + ".json"
+
         with open(filename, 'x') as file:
-            for entry in info:
-                file.write(entry + '\n')
+            file.write('{')
+
+            # Write product attributes
+            file.write(f'\n\t"product_id": "{product.id}",')
+            file.write(f'\n\t"name": "{product.name}",')
+            file.write(f'\n\t"brand": "{product.brand}",')
+            categories_string = ', '.join(f'{category}' for category in product.categories)
+            file.write(f'\n\t"categories": "{categories_string}",')
+            file.write(f'\n\t"price": {product.price},')
+            file.write(f'\n\t"size": "{product.size}",')
+            file.write(f'\n\t"about": "{product.about}",')
+            file.write(f'\n\t"ingredients": "{product.ingredients}",')
+            file.write(f'\n\t"how_to_use": "{product.how_to_use}",')
+            file.write(f'\n\t"product_url": "{product.product_url}",')
+
+            # Write product shades
+            file.write(f'\n\t"shades": [')
+            for index, shade in enumerate(product.shades):
+                file.write(f'\n\t\t{{')
+                file.write(f'\n\t\t\t"shade_name": "{shade.name}",')
+                file.write(f'\n\t\t\t"shade_descriptor": "{shade.descriptor}",')
+                file.write(f'\n\t\t\t"shade_image_url": "{shade.image_url}"')
+                file.write(f'\n\t\t}}')
+                
+                if index < len(product.shades) - 1:
+                    file.write(f',')
+            file.write(f'\n\t],')
+
+            # Write product reviews
+            file.write(f'\n\t"reviews": [')
+            for index, review in enumerate(product.reviews):
+                file.write(f'\n\t\t{{')
+                file.write(f'\n\t\t\t"review_title": "{review.title}",')
+                file.write(f'\n\t\t\t"review_rating": {review.rating},')
+                file.write(f'\n\t\t\t"review_shade_purchased": "{review.shade_purchased}",')
+                file.write(f'\n\t\t\t"review_buyer_description": "{review.buyer_description}",')
+                file.write(f'\n\t\t\t"review_text": "{review.review}"')
+                file.write(f'\n\t\t}}')
+                
+                if index < len(product.reviews) - 1:
+                    file.write(f',')
+            file.write(f'\n\t]')
+
+            file.write('\n}')
 
     def write_to_csv(self, filename, product):
         # If file does not exist, add header
@@ -209,22 +251,14 @@ class SephoraScraper(BaseModel):
             product.how_to_use = use_text.replace('\n', '.')
             print(product.how_to_use)
 
-            # Extract Reviews
-            # product.reviews = self.scrape_product_reviews(product_url)
-
-            # Extract Image
-            image_element = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-comp="Carousel "] button svg foreignObject img'))
-            )
-            product.image_url = image_element.get_attribute('src')  # Get the image URL
-            print(product.image_url)
-
             # Extract Shades if Multiple Shades
-            product.shades = self.scrape_product_shade_names(product_url)
-            print(product.shades)
+            product.shades = self.scrape_product_shades(product_url)
+
+            # Extract Reviews
+            product.reviews = self.scrape_product_reviews(product_url)
 
             self.product_database.append(product)
-            self.write_to_csv('products.csv', product)
+            self.write_to_file(product)
             
         finally:
             driver.quit()
@@ -302,7 +336,11 @@ class SephoraScraper(BaseModel):
                 )
                 shade_info = shade_label.text
                 shade_info = shade_info.split(': ')[-1]
-                shade_name, shade_description = shade_info.rsplit(' - ',1)
+                if len(shade_info.rsplit(' - ',1)) > 1:
+                    shade_name, shade_description = shade_info.rsplit(' - ',1)
+                else: 
+                    shade_name = shade_info
+                    shade_description = ''
 
                 # Extract Image
                 image_element = WebDriverWait(driver, 10).until(
@@ -315,7 +353,7 @@ class SephoraScraper(BaseModel):
                 # Create shade object and add to list
                 curr_shade = Shade(name=shade_name, descriptor=shade_description, image_url=image_url)
                 shades.append(curr_shade)
-                # print(curr_shade)
+                print(curr_shade)
         
         finally:
             driver.quit()
@@ -336,31 +374,7 @@ class SephoraScraper(BaseModel):
             # Initialize shades list
             reviews: list[Review] = []
 
-            # Wait for the ratings-reviews-container to be present
-            reviews_container = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, '#ratings-reviews-container'))
-            )
-
-            # Scroll to the reviews container
-            driver.execute_script("arguments[0].scrollIntoView();", reviews_container)
-
-            # Wait for a moment to ensure that the reviews have time to load
-            time.sleep(5)
-
-            
-            # Now find all review containers within the reviews_container
-            review_elements = reviews_container.find_elements(By.CSS_SELECTOR, 'div[data-comp="Review StyledComponent BaseComponent "]')
-            
-            # Iterate through each review container and extract data
-            for review in review_elements:
-                # Initialize variables
-                review_title = ''
-                review_rating = ''
-                review_shade = ''
-                review_buyer = ''
-                review_text = ''
-                
-                # Check for popup again before each interaction
+            while True:
                 try:
                     popup_close_button = WebDriverWait(driver, 2).until(
                         EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-at="modal_close"]'))
@@ -369,63 +383,126 @@ class SephoraScraper(BaseModel):
                 except TimeoutException:
                     pass
 
-                # Extract star rating
-                try:
-                    star_rating = review.find_element(By.CSS_SELECTOR, '[data-comp="StarRating "]')
-                    review_rating = star_rating.get_attribute('aria-label')
-                    review_rating = review_rating.strip().replace('stars', '').replace('star', '')
-                    # print(review_rating)
-                except:
-                    pass
-
-                # Extract review title
-                try:
-                    title = review.find_element(By.CSS_SELECTOR, '[class="css-m9drnf eanm77i0"]')
-                    review_title = title.text
-                    # print(review_title)
-                except:
-                    pass
-
-                # Extract shade purchased
-                try:
-                    shade_container = review.find_element(By.CSS_SELECTOR, '[class="css-ae7pay eanm77i0"]')
-                    shade_element = shade_container.find_element(By.TAG_NAME, 'span')
-                    review_shade = shade_element.text
-                    # print(review_shade)
-                except:
-                    pass
-
-                # Extract buyer description
-                try:
-                    description_element = WebDriverWait(review, 10).until(
-                        EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-2h4ti5 eanm77i0"]'))
-                    )
-                    if description_element:
-                        review_buyer = description_element.text
-                        # print(review_buyer)
-                except:
-                    pass
-
-                # Extract review
-                try:
-                    # Extract review
-                    product_review = WebDriverWait(review, 10).until(
-                        EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-1pw69zl eanm77i0"]'))
-                    )
-                    review_text = product_review.text
-                    # print(review_text)
-                except:
-                    pass
-
-                curr_review = Review(
-                    title=review_title,
-                    rating=review_rating,
-                    shade_purchased=review_shade,
-                    buyer_description=review_buyer,
-                    review=review_text
+                # Wait for the ratings-reviews-container to be present
+                reviews_container = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, '#ratings-reviews-container'))
                 )
-                reviews.append(curr_review)
-            
+
+                # Scroll to the reviews container
+                driver.execute_script("arguments[0].scrollIntoView();", reviews_container)
+
+                # Wait for a moment to ensure that the reviews have time to load
+                time.sleep(5)
+
+                
+                # Now find all review containers within the reviews_container
+                review_elements = reviews_container.find_elements(By.CSS_SELECTOR, 'div[data-comp="Review StyledComponent BaseComponent "]')
+                
+                # Iterate through each review container and extract data
+                for review in review_elements:
+                    # Initialize variables
+                    review_title = ''
+                    review_rating = ''
+                    review_shade = ''
+                    review_buyer = ''
+                    review_text = ''
+
+                    # Check for popup again before each interaction
+                    try:
+                        popup_close_button = WebDriverWait(driver, 2).until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-at="modal_close"]'))
+                        )
+                        popup_close_button.click()
+                    except TimeoutException:
+                        pass
+
+                    # Extract star rating
+                    try:
+                        star_rating = review.find_element(By.CSS_SELECTOR, '[data-comp="StarRating "]')
+                        review_rating = star_rating.get_attribute('aria-label')
+                        review_rating = int(review_rating.strip().replace('stars', '').replace('star', ''))
+                        # print(review_rating)
+                    except:
+                        pass
+
+                    # Extract review title
+                    try:
+                        title = review.find_element(By.CSS_SELECTOR, '[class="css-m9drnf eanm77i0"]')
+                        review_title = title.text
+                        # print(review_title)
+                    except:
+                        pass
+
+                    # Extract shade purchased
+                    try:
+                        shade_container = review.find_element(By.CSS_SELECTOR, '[class="css-ae7pay eanm77i0"]')
+                        shade_element = shade_container.find_element(By.TAG_NAME, 'span')
+                        review_shade = shade_element.text
+                        # print(review_shade)
+                    except:
+                        pass
+
+                    # Extract buyer description
+                    try:
+                        description_element = WebDriverWait(review, 10).until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-2h4ti5 eanm77i0"]'))
+                        )
+                        if description_element:
+                            review_buyer = description_element.text
+                            # print(review_buyer)
+                    except:
+                        pass
+
+                    # Extract review
+                    try:
+                        # Extract review
+                        product_review = WebDriverWait(review, 10).until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-1pw69zl eanm77i0"]'))
+                        )
+                        review_text = product_review.text
+                        review_text = review_text.replace('\n', ' ').replace('"','')
+                        # print(review_text)
+                    except:
+                        pass
+
+                    curr_review = Review(
+                        title=review_title,
+                        rating=review_rating,
+                        shade_purchased=review_shade,
+                        buyer_description=review_buyer,
+                        review=review_text
+                    )
+                    reviews.append(curr_review)
+                
+                # Find next page button and click if enabled
+                try:
+                    nextPageButton = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'button[aria-label="Next page"]'))
+                    )
+                    
+                    # Scroll the button into view
+                    driver.execute_script("arguments[0].scrollIntoView(true);", nextPageButton)
+                    time.sleep(1)  # Give time for any animations to complete
+                    
+                    # Check if button is enabled
+                    if nextPageButton and not nextPageButton.get_attribute('disabled'):
+                        # Try to remove any overlapping elements
+                        driver.execute_script("""
+                            var elements = document.querySelectorAll('[data-at="shop_btn"]');
+                            elements.forEach(function(element) {
+                                element.style.display = 'none';
+                            });
+                        """)
+                        
+                        # Click using JavaScript instead of direct click
+                        driver.execute_script("arguments[0].click();", nextPageButton)
+                        time.sleep(2)  # Wait for page to load
+                    else:
+                        break
+                    
+                except:
+                    break
+                
             print(reviews)
 
         

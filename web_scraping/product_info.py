@@ -40,7 +40,7 @@ class Product(BaseModel):
     name: str = '' # Product name
     brand: str = '' # Product brand
     categories: list[str] = [] # Product cateogories
-    shades: list[str] = [] # List of all product shades
+    shades: list[Shade] = [] # List of all product shades
     price: float = None # Price of product in CAD
     size: str = '' # Product size
     about: str = '' # Description of product

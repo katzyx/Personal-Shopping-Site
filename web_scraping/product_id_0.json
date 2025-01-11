@@ -1,0 +1,33 @@
+{
+	"product_id": "0",
+	"name": "",
+	"brand": "",
+	"categories": "Makeup, Face",
+	"price": 0.0,
+	"size": "",
+	"about": "",
+	"ingredients": "",
+	"how_to_use": "",
+	"product_url": "",
+	"shades": [
+		{
+			"shade_name": "",
+			"shade_descriptor": "",
+			"shade_image_url": ""
+		},
+		{
+			"shade_name": "",
+			"shade_descriptor": "",
+			"shade_image_url": ""
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "",
+			"review_rating": 0,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": ""
+		}
+	]
+}
