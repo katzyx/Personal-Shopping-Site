@@ -179,11 +179,14 @@ class SephoraScraper(BaseModel):
             print(product.price)
 
             # Size
-            size_element = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-at="sku_name_label"]'))
-            )
-            product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
-            print(product.size)
+            try:
+                size_element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-at="sku_name_label"]'))
+                )
+                product.size = size_element.text.split('-')[0].replace('Size:', '').strip()
+                print(product.size)
+            except:
+                product.size = ''
 
             # Product About
             about_text = driver.execute_script("""
@@ -238,18 +241,21 @@ class SephoraScraper(BaseModel):
             print(product.ingredients)
 
             # Product Use
-            use_text = driver.execute_script("""
-                const div = document.querySelector('div[data-at="how_to_use_section"]');
-                if (!div) return '';
-                return div.innerHTML
-                    .replace(/<p>/g, '')
-                    .replace(/<\\/p>/g, '\\n')
-                    .replace(/<br>/g, '\\n')
-                    .replace(/<[^>]*>/g, '')
-                    .trim();
-            """)
-            product.how_to_use = use_text.replace('\n', '.')
-            print(product.how_to_use)
+            try:
+                use_text = driver.execute_script("""
+                    const div = document.querySelector('div[data-at="how_to_use_section"]');
+                    if (!div) return '';
+                    return div.innerHTML
+                        .replace(/<p>/g, '')
+                        .replace(/<\\/p>/g, '\\n')
+                        .replace(/<br>/g, '\\n')
+                        .replace(/<[^>]*>/g, '')
+                        .trim();
+                """)
+                product.how_to_use = use_text.replace('\n', '.')
+                print(product.how_to_use)
+            except:
+                product.how_to_use = ''
 
             # Extract Shades if Multiple Shades
             product.shades = self.scrape_product_shades(product_url)
@@ -288,7 +294,6 @@ class SephoraScraper(BaseModel):
 
         return shade_names
         
-    
     def scrape_product_shades(self, product_url):
         # Initialize Chrome driver (you might want to move this to __init__)
         chrome_options = Options()
@@ -296,11 +301,11 @@ class SephoraScraper(BaseModel):
         
         driver = webdriver.Chrome(service=Service('/usr/local/bin/chromedriver'), options=chrome_options)
 
+        # Initialize shades list
+        shades: list[Shade] = []
+        
         try:
             driver.get(product_url)  # Navigate to the product page
-            
-            # Initialize shades list
-            shades: list[Shade] = []
 
             # Find only the first swatch group
             swatch_group = WebDriverWait(driver, 10).until(
@@ -355,6 +360,9 @@ class SephoraScraper(BaseModel):
                 shades.append(curr_shade)
                 print(curr_shade)
         
+        except:
+            pass
+        
         finally:
             driver.quit()
 
@@ -368,11 +376,11 @@ class SephoraScraper(BaseModel):
 
         driver = webdriver.Chrome(service=Service('/usr/local/bin/chromedriver'), options=chrome_options)
 
+        # Initialize shades list
+        reviews: list[Review] = []
+        
         try:
             driver.get(product_url)  # Navigate to the product page
-
-            # Initialize shades list
-            reviews: list[Review] = []
 
             while True:
                 try:
@@ -505,6 +513,8 @@ class SephoraScraper(BaseModel):
                 
             print(reviews)
 
+        except:
+            pass
         
         finally:
             driver.quit()
