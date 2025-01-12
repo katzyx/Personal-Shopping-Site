@@ -9,16 +9,18 @@ This checklist outlines all the features and units that need to be tested. Each 
 
 
 ## 2. Product Page
-[] Display products - index()
+[x] Display products - index()
 [] Product recommendations - basic_map()
-    [] test function with valid user data and product list
+    [x] test function with valid user data and product list
     [] test function with no user preferences
     [] test function an empty product list
-    [] test function edge cases (e.g., user age is 0 or 100)
-    [] test function invalid user data (e.g., missing fields)
+    [x] test function edge cases (e.g., user age is 0 or 100)
+    [x] test function invalid user data (e.g., missing fields)
 
 ## 3. Blogpost
 [] write_blogpost()
+    [] test function for related content
+    [] test function for personalization
 
 ## 4. Cookies
 [] update_user_details()
