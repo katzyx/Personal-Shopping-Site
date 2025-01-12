@@ -79,3 +79,53 @@ def test_valid_products(client):
 #         # Verify no product elements are displayed
 #         assert '<div style="flex: 14%; padding: 0.5em 0em">' not in rendered
 #         assert 'ADD TO BAG' not in rendered
+
+def test_edge_cases(client):
+    """Test product recommendations for edge cases"""
+    test_cases = [
+        {
+            'user_details': "I am 0 years old and need foundation",
+            'preferences': "foundation for my skin",
+            'expected_elements': ['foundation', 'skin', 'gentle']
+        },
+        {
+            'user_details': "I am 100 years old with very dry mature skin",
+            'preferences': "hydrating foundation",
+            'expected_elements': ['hydrating', 'moisturizing', 'anti-aging']
+        },
+        {
+            'user_details': "I have very dark skin tone and need foundation",
+            'preferences': "foundation for dark skin",
+            'expected_elements': ['deep', 'dark', 'melanin']
+        },
+        {
+            'user_details': "I have extremely sensitive skin with eczema",
+            'preferences': "gentle foundation",
+            'expected_elements': ['sensitive', 'hypoallergenic', 'gentle']
+        }
+    ]
+
+    with app.app_context():
+        for case in test_cases:
+            # Set up session for each test case
+            with client.session_transaction() as sess:
+                sess['user_details'] = case['user_details']
+                sess['product_preferences'] = case['preferences']
+            
+            response = client.get('/index')
+            rendered = response.data.decode()
+            
+            # Verify that products are displayed (system doesn't crash)
+            assert '<div style="flex: 14%; padding: 0.5em 0em">' in rendered
+            assert 'ADD TO BAG' in rendered
+            
+            # Check that at least some products are shown
+            assert '<img src=' in rendered
+            assert '<p>' in rendered
+            
+            # Check that the blog post contains relevant advice
+            assert any(element.lower() in rendered.lower() for element in case['expected_elements']), \
+                f"Expected to find relevant advice for case: {case['user_details']}"
+            
+            # Verify price information is displayed
+            assert '$' in rendered
