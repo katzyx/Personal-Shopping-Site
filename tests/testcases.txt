@@ -1,0 +1,30 @@
+FORMAT:
+who
+expected json
+what
+expected json
+
+who = "I am a 23 year-old Asian woman with oily sensitive skin and light-medium complexion"
+["23", "asian", "oily", "sensitive", "light", "medium"]
+what = "I want an exfoliating toner, lip balm, and eyeliner, each under $30"
+["exfoliat", "toner", "lip", "balm", "eyeliner", "30"] -> test fails sometimes when correct
+
+who = "I am teenager with dry lips"
+["teen", "dry", "lips"] -> dry is attached to skin tye instead of lips
+what = "I want a high-shine lip gloss"
+["shin", "lip", "gloss"] -> shine: high is a category
+
+who = "I am teenager with eczema and acne"
+["teen", "acne", "eczema"]
+what = "I want a gentle cleanser and retinoid"
+["cleanser", "gentle", "retinoid"]
+
+who = "I am a college student with oily skin and a damaged skin barrier"
+["college", "oily", "damaged"]
+what = "I want an affordable moisturizer that will repair my skin but isn't too heavy"
+["moisturizer", "repair", "light"]
+
+who = "I am 60 year old woman with sun spots and wrinkles"
+["60", "sun", "spot", "wrinkle"]
+what = "I want a serum that fades hyperpigmentation and a mineral sunscreen, I don't have a price range"
+["serum", "pigment", "mineral", "sun"] -> misses some things sometimes (for example, when i used dark spots it didn't include that)

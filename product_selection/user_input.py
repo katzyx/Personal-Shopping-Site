@@ -26,11 +26,11 @@ class UserInput:
             raw_input = None
         
         if type == 'who':
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Ethnicity\":\"Mixed\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Ethnicity\":\"Mixed\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\",\"Conditions\":\"Acne\",\"Allergies\":\"Fragrance\"}'
             message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns): " + raw_input + example_output
         elif type == 'what':
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\"}'
-            message = "Extract user information (in JSON format - in one line) from the following string. For Price, always return a specific number (if 'around X' is given, use X; if no price mentioned, use 50; if 'cheap' or 'affordable', use 25; if 'expensive' or 'high-end', use 100): " + raw_input + example_output
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\",\"Finish\":\"Matte\",\"Without\":\"Petrolatum\",\"Purpose\":\"Soothing\",\"Specification\":\"Hypoallergenic\"}'
+            message = "Extract user information (in JSON format - in one line) from the following string. Use antonyms or synonyms where necessary. For Price, always return a specific number (if 'around X' is given, use X; if no price mentioned, use 50; if 'cheap' or 'affordable', use 25; if 'expensive' or 'high-end', use 100): " + raw_input + example_output
         else:
             example_output = ""
             message = ""

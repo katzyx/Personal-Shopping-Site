@@ -5,20 +5,28 @@ from product_selection.key import API_key
 
 @pytest.fixture
 def u():
-    who = "I am a 23 year-old Asian woman with oily sensitive skin and light-medium complexion"
-    what = "I want an exfoliating toner, lip balm, and eyeliner, each under $30"
+    who = "I am 60 year old woman with sun spots and wrinkles"
+    what = "I want a serum that fades hyperpigmentation and a mineral sunscreen, I don't have a price range"
     return UserInput(API_key, who, what)
 
-def test_who_you_are(u):
+@pytest.fixture
+def arr_who():
+    return ["60", "sun", "spot", "wrinkle"]
+
+@pytest.fixture
+def arr_what():
+    return ["serum", "pigment", "mineral", "sun"]
+
+def test_who_you_are(u, arr_who):
     u.input_to_json('who')
     check = u.input_who
     print(check)
-    arr = ["23", "asian", "oily", "sensitive", "light", "medium"]
+    # assert False
     ch = json.loads(check)
     for key, value in ch.items():
         if isinstance(value, str):
             ch[key] = value.lower()
-    for word in arr:
+    for word in arr_who:
         res = False
         for v in ch.values():
             if word in v:
@@ -28,16 +36,16 @@ def test_who_you_are(u):
         assert res
             
 
-def test_what_you_want(u):
+def test_what_you_want(u, arr_what):
     u.input_to_json('what')
     check = u.input_what
     print(check)
-    arr = ["exfoliat", "toner", "lip", "balm", "eyeliner", "30"]
+    # assert False
     ch = json.loads(check)
     for key, value in ch.items():
         if isinstance(value, str):
             ch[key] = value.lower()
-    for word in arr:
+    for word in arr_what:
         res = False
         for v in ch.values():
             if word in v:
