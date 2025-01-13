@@ -22,7 +22,7 @@ def test_who_you_are(u):
         res = False
         for v in ch.values():
             if word in v:
-                res = not res
+                res = True
                 break
         print(word)
         assert res
@@ -32,7 +32,7 @@ def test_what_you_want(u):
     u.input_to_json('what')
     check = u.input_what
     print(check)
-    arr = ["toner", "lip", "eyeliner", "30"]
+    arr = ["exfoliat", "toner", "lip", "balm", "eyeliner", "30"]
     ch = json.loads(check)
     for key, value in ch.items():
         if isinstance(value, str):
@@ -41,10 +41,10 @@ def test_what_you_want(u):
         res = False
         for v in ch.values():
             if word in v:
-                res = not res
+                res = True
                 break
         print(word)
-        assert res
+        assert res # mostly correct but test is having issues with lists in price ranges
 
 def test_is_json(): # already covered in code
     """ try:
