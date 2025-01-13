@@ -26,7 +26,7 @@ class UserInput:
             raw_input = None
         
         if type == 'who':
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Ethnicity\":\"Mixed\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
             message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns): " + raw_input + example_output
         elif type == 'what':
             example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\"}'
@@ -91,6 +91,7 @@ class UserInput:
                 break
             
         # For debugging purposes
+        print("internal")
         print(reply)
 
         # debug and check if reply is empty or doesn't make sense
