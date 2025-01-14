@@ -1,0 +1,50 @@
+{
+	"product_id": "26",
+	"name": "Desert Date Cream Blush & Lip Multistick",
+	"brand": "Ami Colé",
+	"categories": "Makeup, Cheek, Blush",
+	"price": 30.0,
+	"about": "What it is: A buildable cream multistick for cheeks and lips that adds instant all-over warmth...Highlighted Ingredients: - Desert Date Oil: Hydrates and softens cheeks and lips..- Hibiscus Flower Extract: Is rich in antioxidants that defend against environmental damage..- Baobab Seed Oil: Nurtures skin and prevents moisture loss...Ingredient Callouts: This product is gluten-free and cruelty-free...What Else You Need to Know: This creamy multistick with a soft-matte finish provides an effortlessly blurred look to cheeks and lips. With over 90% naturally derived ingredients, the unique formula contains Desert Date Oil, Baobab Seed Oil, and Hibiscus Flower Extract to help hydrate and nourish skin...This product is an Allure Best of Beauty award winner...Clean at Sephora.Our commitment to offering formulas that go beyond regulatory standards to avoid controversial ingredients without sacrificing effectiveness.",
+	"ingredients": "-Desert Date Oil: Hydrates and softens cheeks and lips..-Hibiscus Flower Extract: Is rich in antioxidants that defend against environmental damage..-Baobab Seed Oil: Nurtures skin and prevents moisture loss...Octyldodecanol, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Trihydroxystearin, Euphorbia Cerifera (Candelilla) Wax/Candelilla Cera/Cire De Candelilla, C10-18 Triglycerides, Dilinoleic Acid/Propanediol Copolymer, Silica, Microcrystalline Cellulose, Polyhydroxystearic Acid, Balanites Aegyptiaca Kernel Oil (Desert Date Oil), Adansonia Digitata Seed Oil, Hibiscus Sabdariffa Seed Oil, Glycine Soja Oil, Tocopherol, Benzyl Alcohol.May Contain/Peut Contenir: Titanium Dioxide (CI 7781), Iron Oxides (CI 77491, CI 77492, CI 77499), Red 6 Lake (CI 15850)......The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+	"how_to_use": "Suggested Usage:..- Apply directly onto cheeks and lips, using your fingers to effortlessly blend.&nbsp;.- Use a complexion brush on cheeks to further diffuse for an airbrushed look.&nbsp;.- To make your cheeks or lips the main focus, apply additional layers. &nbsp; &nbsp;",
+	"num_reviews": 134,
+	"overall_rating": 4.8,
+	"product_url": "https://www.sephora.com/ca/en/product/ami-cole-blush-desert-cream-blush-lip-multistick-P504779?skuId=2660868&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2660868-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "Spice",
+			"shade_descriptor": "plum",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2660843-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Dune",
+			"shade_descriptor": "warm brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2660868-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Flame",
+			"shade_descriptor": "vibrant red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2660850-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Hibiscus",
+			"shade_descriptor": "berry",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2660876-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Pink Sel",
+			"shade_descriptor": "bright pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2780757-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "everyday blush/bronze",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Normal skin",
+			"review_text": "Dune is a perfect color for my light/medium warm skin! I swipe it on my upper cheekbones and buff out with a brush - it's like blush and bronzer in one. Gives a nice flush for my everyday natural look."
+		}
+	]
+}

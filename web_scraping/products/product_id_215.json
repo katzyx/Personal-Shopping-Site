@@ -1,0 +1,33 @@
+{
+	"product_id": "215",
+	"name": "Very Good Girl Eau de Parfum",
+	"brand": "Carolina Herrera",
+	"categories": "Fragrance, Women, Perfume",
+	"price": 214.5,
+	"about": "Fragrance Family:Florals.Scent Type:Fruity Floral..Key Notes:Redcurrant, Rose, Vanilla.Fragrance Description:This perfume takes you on a surprising olfactive journey, starting with top notes of playfully mischievous redcurrant and exotic lychee and leading to a seductive heart of rose. Vetiver and vanilla base notes add an unexpected and contemporary finish..About the Fragrance:Fun, fabulous, and fearless, Very Good Girl Eau de Parfum is a bold new interpretation of the iconic Good Girl scent. Evolving Carolina Herrera's vision of the duality of the modern woman, this irresistible fragrance will walk straight into your heart with its seductive rose scent and red-hot design.",
+	"ingredients": "Alcohol Denat., Parfum (Fragrance), Aqua (Water), Linalool, Limonene, Coumarin, Butyl Methoxydibenzoylmethane, Alpha-Isomethyl Ionone, Citral, Isoeugenol, Geraniol.",
+	"how_to_use": "Suggested Usage:.-Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent.&nbsp;",
+	"num_reviews": 402,
+	"overall_rating": 4.3,
+	"product_url": "https://www.sephora.com/ca/en/product/carolina-herrera-very-good-girl-eau-de-parfum-P474032?skuId=2468098&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2468098-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "1 oz / 30 ml",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2587921-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "1.7 oz/ 50 mL",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2468106-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "2.7 oz/ 80 mL",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2468098-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+	]
+}

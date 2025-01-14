@@ -1,0 +1,44 @@
+{
+	"product_id": "315",
+	"name": "Cactus Fruit 3-in-1 Styling Cream with Taming Wand",
+	"brand": "dae",
+	"categories": "Hair, Hair Styling & Treatments, Hair Styling Products",
+	"price": 24.0,
+	"about": "What it is:A bestselling styling cream with a built-in taming wand that slicks down flyaways, tames frizz, and styles edges..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Fine, Medium, and Thick.Hair Concerns:- Frizz.Key Benefits:- Slicks flyaways.Highlighted Ingredients:- Dragon Fruit: Locks in moisture and is rich in antioxidants..Ingredient Callouts:This product is vegan and cruelty-free..What Else You Need to Know:Slick back styles with one easy swipe. This bestselling, multitasking cream, now with a built-in wand applicator, is your new secret weapon for taming flyaways, smoothing frizz, and styling edges. Conveniently stash it in your purse for touch-ups on the go. Hair is left frizz-free, smooth, and infused with dae’s signature citrus scent..Fragrance Description:Infused with sweet notes of luminous citrus, orange blossom, and vanilla, dae’s signature citrus scent is a warm, floral fragrance reminiscent of summer ease. Imagine sunlit mornings spent squeezing fresh juice by hand; afternoons running barefoot through wild, open orchards; and quiet evenings dozing as citrus trees sway with the breeze...Clean at SephoraOur commitment to offering formulas that go beyond regulatory standards to avoid controversial ingredients without sacrificing effectiveness.",
+	"ingredients": "-Dragon Fruit: Locks in moisture and rich in antioxidants. .-Cactus Flower Extract: Strengthens elasticity and improves manageability..-Prickly Pear Seed Oil: Adds shine and softens by hydrating and nourishing hair...Water, Cetearyl Alcohol, Glycerin, Neopentyl Glycol Diheptanoate, Propanediol, Behentrimonium Chloride, Cetrimonium Chloride, Citrus Sinensis (Orange) Peel Oil, Dimethicone, VP/VA Copolymer, Ceteareth-20, Fragrance, Isopropanol, Hydroxyethylcellulose, Linum Usitatissimum Seed Extract, Cocos Nucifera (Coconut) Oil, Vitis Vinifera (Grape Seed) Seed Oil, Phenoxyethanol, Salvia Hispanica Seed Extract, Caprylyl Glycol, Ethylhexylglycerin, Hexylene Glycol, Polyquaternium-73, Butyrospermum Parkii (Shea) Butter, Opuntia Ficus-Indica (Prickly Pear) Seed Oil, Tetrasodium Glutamate Diacetate, Hylocereus Undatus Fruit Extract, Tocopherol, Moringa Oleifera (Moringa) Leaf Extract, Cereus Grandiflorus Extract, Citric Acid.",
+	"how_to_use": "- Use the wand to tame flyaways, smooth frizz, and style edges.",
+	"num_reviews": 980,
+	"overall_rating": 4.5,
+	"product_url": "https://www.sephora.com/ca/en/product/dae-cactus-fruit-3-in-1-styling-cream-with-taming-wand-P512145?skuId=2788925&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2788925-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "Taming Wand",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2788925-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "a must have for a slick back",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, brunette hair, Fair skin tone, Normal skin",
+			"review_text": "this product is a lifesaver for slick backs and I thought my slick backs were good until I used this product It  is the best and a good size for travelling"
+		},
+		{
+			"review_title": "So easy to use",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, black hair, mediumTan skin tone, Combination skin",
+			"review_text": "So easy to use lovely application, holds down fly aways all day"
+		},
+		{
+			"review_title": "I love it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+			"review_text": "I love this! It smells nicely and works great. Not too expensive either"
+		}
+	]
+}

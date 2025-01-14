@@ -1,0 +1,52 @@
+{
+	"product_id": "29",
+	"name": "Lid Joy Matte Liquid Eyeshadow",
+	"brand": "Ami Colé",
+	"categories": "Makeup, Eye, Eyeshadow",
+	"price": 22.0,
+	"about": "What it is: An easy-to-use, long-wearing, and crease-resistant, liquid-matte eyeshadow that adds a buildable.pop of color to lids...Highlighted Ingredients:.- Baobab Seed Oil: Prevents dryness around the eyelids..- Aloe Leaf Extract: Soothes eyelids..- Vitamin E: Nourishes the delicate eye area...Ingredient Callouts: This product is cruelty-free and vegan...What Else You Need to Know: This long-wearing, liquid-matte eyeshadow applies easily to lids, delivering customizable coverage from sheer to bold. The lightweight formula feels comfortable all day and delivers a pop of color without creasing or budging...Clinical Results: In a consumer study:.- 97% of people agree Lid Joy feels comfortable all day.- 97% of people agree Lid Joy feels lightweight on lids.- 97% of people agree Lid Joy is buildable......Clean at Sephora.",
+	"ingredients": "-Baobab Seed Oil: Prevents dryness around the eyelids..-Aloe Leaf Extract: Soothes eyelids..-Vitamin E: Nourishes the delicate eye area...Isododecane, Silica, Octyldodecanol, Hydrogenated Styrene/Isoprene Copolymer,.Trimethylsiloxysilicate, Synthetic Wax, Disteardimonium Hectorite, Propylene Carbonate,.Butyrospermum Parkii (Shea Butter), Theobroma Cacao (Cocoa) Seed Butter, Tocopherol,.Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Adansonia Digitata.Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Aloe Barbadensis Leaf Extract..[+/- (May Contain): Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891),.Yellow 5 Lake (CI 19140), Ultramarines (CI 77007)....The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+	"how_to_use": "Suggested Usage:.-Apply directly to eyelids and blend outwards with a brush..-Start with one dot for a soft, diffused look..-Apply additional layers for a higher impact.",
+	"num_reviews": 165,
+	"overall_rating": 4.2,
+	"product_url": "https://www.sephora.com/ca/en/product/lid-joy-matte-liquid-eyeshadow-P506785?skuId=2704260&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2704260-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "St. Louis",
+			"shade_descriptor": "marigold",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2704252-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Bed Stuy",
+			"shade_descriptor": "dark brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2704278-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Los Angeles",
+			"shade_descriptor": "sky blue",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2704245-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Harlem",
+			"shade_descriptor": "light brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2704260-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "Beautiful colour but it’s to expensive",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+			"review_text": "I love the color! I got a lot of compliments every time I wore it, but… it’s too expensive for the amount of product. I’ve only used it maybe 10 times, and it’s almost finished."
+		},
+		{
+			"review_title": "These cost less than others for the same amount",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+			"review_text": "Guys, just because the tube isn't full doesn't mean there isn't adequate product. Please look at the actual ounces in a product before writing your review. This has .13 ounces, which is the exact same amount in Armani liquid shadows, more than Ilia, and only .02 oz less than Stila liquid shadows. And these cost less than all of those. You also need the smallest dot of product to get really nice pigment. The sponge could definitely be softer and smaller because of that. But you get great value for the money and they last all day."
+		}
+	]
+}
