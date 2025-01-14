@@ -46,6 +46,8 @@ class Product(BaseModel):
     about: str = '' # Description of product
     ingredients: str = '' # Ingredients of product
     how_to_use: str = '' # Instructions on use
+    overall_rating: float = None # Overall Product Rating
+    num_reviews: int = None # Total Number of Reviews
     reviews: list[Review] = [] # List of all buyer reviews
     image_url: str = '' # Image URL
     product_url: str = '' # Product URL

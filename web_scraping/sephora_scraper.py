@@ -21,10 +21,15 @@ class SephoraScraper(BaseModel):
     product_database: list[Product] # Database of all products
     brand_urls_list: list[str] = [] # List of brand urls
     product_urls_list: list[str] = [] # List of product urls
-    product_id_counter: int = 1 # Product ID Tracker
+    product_id_counter: int = 329 # Product ID Tracker
 
     def write_to_file(self, product: Product):
-        filename = "product_id_" + str(product.id) + ".json"
+        filename = "products/product_id_" + str(product.id) + "_1.json"
+        
+        # Clean and escape special characters
+        product.ingredients = product.ingredients.replace('&nbsp;', ' ').replace('<', '').replace('>', '')
+        product.about = product.about.replace('&nbsp;', ' ').replace('<', '').replace('>', '')
+        product.how_to_use = product.how_to_use.replace('&nbsp;', ' ').replace('<', '').replace('>', '')
 
         with open(filename, 'x') as file:
             file.write('{')
@@ -36,11 +41,14 @@ class SephoraScraper(BaseModel):
             categories_string = ', '.join(f'{category}' for category in product.categories)
             file.write(f'\n\t"categories": "{categories_string}",')
             file.write(f'\n\t"price": {product.price},')
-            file.write(f'\n\t"size": "{product.size}",')
+            # file.write(f'\n\t"size": "{product.size}",')
             file.write(f'\n\t"about": "{product.about}",')
             file.write(f'\n\t"ingredients": "{product.ingredients}",')
             file.write(f'\n\t"how_to_use": "{product.how_to_use}",')
+            file.write(f'\n\t"num_reviews": {product.num_reviews},')
+            file.write(f'\n\t"overall_rating": {product.overall_rating},')
             file.write(f'\n\t"product_url": "{product.product_url}",')
+            file.write(f'\n\t"image_url": "{product.image_url}",')
 
             # Write product shades
             file.write(f'\n\t"shades": [')
@@ -136,6 +144,7 @@ class SephoraScraper(BaseModel):
 
         # Set product ID
         product.id = self.product_id_counter
+        print(product.id)
         self.product_id_counter += 1
 
         # Initialize Chrome driver (you might want to move this to __init__)
@@ -256,6 +265,39 @@ class SephoraScraper(BaseModel):
                 print(product.how_to_use)
             except:
                 product.how_to_use = ''
+
+            # Extract Image
+            image_element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-comp="Carousel "] button svg foreignObject img'))
+            )
+            product.image_url = image_element.get_attribute('src')  # Get the image URL
+            print(product.image_url)
+
+            # Extract Review Info
+            try:
+                # Wait for the ratings-reviews-container to be present
+                reviews_container = WebDriverWait(driver, 2).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, '#ratings-reviews-container'))
+                )
+
+                # Scroll to the reviews container
+                driver.execute_script("arguments[0].scrollIntoView();", reviews_container)
+
+                time.sleep(2)
+
+                # Get overall rating
+                rating = reviews_container.find_element(By.CSS_SELECTOR, '[class="css-1ac1x0l eanm77i0"]')
+                product.overall_rating = float(rating.text)
+                print(product.overall_rating)
+                
+                # Get num reviews
+                review_count = reviews_container.find_element(By.CSS_SELECTOR, '[class="css-nv7myq eanm77i0"]')
+                product.num_reviews = int((review_count.text).replace(',', '').split(' ')[0])
+                print(product.num_reviews)
+
+            except:
+                product.overall_rating = -1
+                product.num_reviews = 0
 
             # Extract Shades if Multiple Shades
             product.shades = self.scrape_product_shades(product_url)
@@ -392,7 +434,7 @@ class SephoraScraper(BaseModel):
                     pass
 
                 # Wait for the ratings-reviews-container to be present
-                reviews_container = WebDriverWait(driver, 10).until(
+                reviews_container = WebDriverWait(driver, 2).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, '#ratings-reviews-container'))
                 )
 
@@ -400,7 +442,7 @@ class SephoraScraper(BaseModel):
                 driver.execute_script("arguments[0].scrollIntoView();", reviews_container)
 
                 # Wait for a moment to ensure that the reviews have time to load
-                time.sleep(5)
+                time.sleep(2)
 
                 
                 # Now find all review containers within the reviews_container
@@ -437,6 +479,7 @@ class SephoraScraper(BaseModel):
                     try:
                         title = review.find_element(By.CSS_SELECTOR, '[class="css-m9drnf eanm77i0"]')
                         review_title = title.text
+                        review_title = review_title.replace('\n', ' ').replace('"','')
                         # print(review_title)
                     except:
                         pass
@@ -452,7 +495,7 @@ class SephoraScraper(BaseModel):
 
                     # Extract buyer description
                     try:
-                        description_element = WebDriverWait(review, 10).until(
+                        description_element = WebDriverWait(review, 1).until(
                             EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-2h4ti5 eanm77i0"]'))
                         )
                         if description_element:
@@ -464,7 +507,7 @@ class SephoraScraper(BaseModel):
                     # Extract review
                     try:
                         # Extract review
-                        product_review = WebDriverWait(review, 10).until(
+                        product_review = WebDriverWait(review, 1).until(
                             EC.presence_of_element_located((By.CSS_SELECTOR, '[class="css-1pw69zl eanm77i0"]'))
                         )
                         review_text = product_review.text
@@ -484,7 +527,7 @@ class SephoraScraper(BaseModel):
                 
                 # Find next page button and click if enabled
                 try:
-                    nextPageButton = WebDriverWait(driver, 10).until(
+                    nextPageButton = WebDriverWait(driver, 2).until(
                         EC.presence_of_element_located((By.CSS_SELECTOR, 'button[aria-label="Next page"]'))
                     )
                     
@@ -504,7 +547,6 @@ class SephoraScraper(BaseModel):
                         
                         # Click using JavaScript instead of direct click
                         driver.execute_script("arguments[0].click();", nextPageButton)
-                        time.sleep(2)  # Wait for page to load
                     else:
                         break
                     

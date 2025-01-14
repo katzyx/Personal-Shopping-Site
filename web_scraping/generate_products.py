@@ -12,7 +12,7 @@ def generate_products():
 
 def test_product():
     scraper = SephoraScraper(product_database=[])
-    scraper.scrape_product_info('https://www.sephora.com/ca/en/product/valentino-very-valentino-24-hour-long-wear-liquid-foundation-P501593?skuId=2615631&icid2=products%20grid:p501593:product')
+    scraper.scrape_product_info('https://www.sephora.com/ca/en/product/urban-decay-the-original-naked-palette-P513262?skuId=2823961&icid2=products%20grid:p513262:product')
     
     # shades: list[Shade] = scraper.scrape_product_shades('https://www.sephora.com/ca/en/product/valentino-very-valentino-24-hour-long-wear-liquid-foundation-P501593?skuId=2615631&icid2=products%20grid:p501593:product')
 
@@ -20,7 +20,7 @@ def test_product():
 
 def test_all_products():
     scraper = SephoraScraper(product_database=[])
-    with open('web_scraping/products.txt', 'r') as file:
+    with open('ind_product.txt', 'r') as file:
         for line in file:
             try:
                 scraper.scrape_product_info(line.strip())
@@ -54,4 +54,4 @@ def test_write():
     scraper.write_to_file(empty_product)
 
 if __name__ == "__main__": 
-    test_product()
+    test_all_products()
