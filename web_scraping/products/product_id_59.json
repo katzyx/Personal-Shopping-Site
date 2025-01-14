@@ -1,0 +1,48 @@
+{
+	"product_id": "59",
+	"name": "Luminous Silk Cheek Tint",
+	"brand": "Armani Beauty",
+	"categories": "Makeup, Cheek, Blush",
+	"price": 56.0,
+	"about": "What it is:A lightweight liquid blush that quickly melts into skin to deliver a luminous flush of color—for a glowing makeup look that lasts up to 12 hours..Coverage:Light.Finish:Natural.Formulation:Liquid.What Else You Need to Know:This hydrating cheek tint is made with Micro–fil™ technology, allowing it to blend seamlessly into skin—without looking patchy. The buildable formula can be used to create a healthy-looking flush of color or a sunkissed look.",
+	"ingredients": "Aqua/Water/Eau, Dimethicone, Isododecane, Butylene Glycol, Alcohol Denat., Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cetyl PEG/PPG-10/1 Dimethicone, Trimethyl Pentaphenyl Trisiloxane, Disteardimonium Hectorite, Polyglyceryl-4 Isostearate, Magnesium Sulfate, Phenoxyethanol, Synthetic Fluorphlogopite, Propylene Carbonate, PEG/PPG-18/18 Dimethicone, Lauroyl Lysine, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol [+/- May Contain: Mica, CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides, CI 15850/Red 7, CI 15985/Yellow 6 Lake].",
+	"how_to_use": "Suggested Usage:.-Using precision-tip applicator, apply one dot to apples of cheeks, then blend using fingertips or a brush for a natural-looking flush.  .-For a sunkissed look, apply two dots onto high points of cheekbones, blending upwards. Sweep excess across bridge of nose, forehead, and chin..-For maximum payoff and glow, layer any cheek tint with Luminous Silk Glow Blush in shade 50 (sold separately)..-Can also be applied to lips for a flush of color.",
+	"num_reviews": 958,
+	"overall_rating": 4.7,
+	"product_url": "https://www.sephora.com/ca/en/product/giorgio-armani-beauty-luminous-silk-cheek-tint-P511567?skuId=2751725&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2751725-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "62 Delicate Mauve",
+			"shade_descriptor": "dusty rose",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2750479-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "53 Bold Pink",
+			"shade_descriptor": "cool baby pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2751725-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "31 Vivid Coral",
+			"shade_descriptor": "bright coral",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2751758-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "41 Flaming Red",
+			"shade_descriptor": "true red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2751709-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "50.5 Rosy Peach",
+			"shade_descriptor": "peachy pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2751691-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "65 Intense Berry",
+			"shade_descriptor": "deep plum",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2751717-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+	]
+}

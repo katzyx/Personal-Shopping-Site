@@ -1,0 +1,68 @@
+{
+	"product_id": "589",
+	"name": "Balm Dotcom Lip Balm and Skin Salve",
+	"brand": "Glossier",
+	"categories": "Makeup, Lip, Lip Balms & Treatments",
+	"price": 22.0,
+	"about": "What it is: A moisturizing lip balm with antioxidants and emollients that nourishes for smooth, hydrated lips without the shine..Formulation Type: Lip Balm & Treatment..Benefits: Hydrating.Highlighted Ingredients:.- Castor Seed Oil: A plant-based extract that helps keep lips moisturized.- Beeswax: A naturally-derived emollient that leaves lips feeling cushiony.- Lanolin: A conditioning oil that nourishes and helps prevent dryness..Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free...What Else You Need to Know: An ultra-rich balm, now in its original formula, with antioxidants and natural emollients to nourish dryness. With a thick waxy texture, the balm seals in moisture and leaves lips smooth and hydrated...Flavor Descriptions:.-Birthday is sugary sweet with a subtle shimmer.-Strawberry is sweet and juicy with a jammy red tint.-Wild Fig is fresh and jammy with a slight coral tint.-Rose is sweet and floral with a baby pink tint.-Coconut is beachy, fruity and untinted.-Lavender is bright, floral and herbaceous with a purple tint.-Original fragrance-free, untinted.-Mint is fresh, cool and untinted.-Mango is fresh and juicy with a peachy-rose tint.",
+	"ingredients": "-Castor Seed Oil: A natural plant extract that keeps moisture locked in..-Beeswax: A natural emollient which acts as a moisture barrier..-Lanolin: A natural emollient that’s good for sensitive skin....Petrolatum, Ricinus Communis (Castor) Seed Oil, Beeswax/Cera Alba/Cire d’Abeille, Lanolin, Flavor/Aroma, Theobroma Grandiflorum Seed Butter, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopheryl Acetate, Tocopherol, BHT, Stevia Rebaudiana Leaf/Stem Extract, Iron Oxides (CI 77491), Red 7 Lake (CI 15850), Red 27 Lake (CI 45410), Red 30 Lake (CI 73360), Blue 1 Lake (CI 42090).",
+	"how_to_use": "Suggested Usage:..-Apply generously on lips for a lip balm treatment..-Use Original as a skin salve on any areas you need extra moisture, including the cuticles, elbows or knees.",
+	"num_reviews": 1467,
+	"overall_rating": 4.1,
+	"product_url": "https://www.sephora.com/ca/en/product/glossier-balm-dotcom-lip-balm-skin-salve-P512013?skuId=2771541&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2771541-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "Mint",
+			"shade_descriptor": "clear tinted",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771574-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Strawberry",
+			"shade_descriptor": "sheer berry red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771541-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Black Cherry",
+			"shade_descriptor": "deep burgundy red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2839397-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Coconut",
+			"shade_descriptor": "clear untinted",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771566-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Wild Fig",
+			"shade_descriptor": "sheer coral tint",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771624-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Original",
+			"shade_descriptor": "clear",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771558-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Lavender",
+			"shade_descriptor": "sheer purple tint",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771616-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Birthday",
+			"shade_descriptor": "soft shimmer clear",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771590-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Mango",
+			"shade_descriptor": "peachy-rose tint",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771608-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Rose",
+			"shade_descriptor": "sheer pink tint",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2771582-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+	]
+}

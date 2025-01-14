@@ -1,0 +1,430 @@
+{
+	"product_id": "1164",
+	"name": "Explicit Refillable Satin Lipstick",
+	"brand": "NARS",
+	"categories": "Makeup, Lip, Lipstick",
+	"price": 54.0,
+	"about": "What it is:A high-end dimensional satin lipstick that delivers long-lasting comfort with vibrant, pure-color payoff and creamy, smudge-resistant wear..Formulation Type:Lipstick.Benefits:Hydrating.Highlighted Ingredients:- Rosehip Seed Oil and Hyaluronic Acid: Lock in moisture..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, cruelty-free, and comes in recyclable packaging..What Else You Need to Know:Precision-tip bullet helps effortlessly define, contour, and sculpt lips. Luxe Comfort Complex hugs lips for lightweight, medium-to-full coverage infused with smoothing Rosehip Seed Oil and Hyaluronic Acid to lock in moisture. Refillable case—meet the new icon in sustainable luxury.",
+	"ingredients": "-Rosehip Seed Oil and Hyaluronic Acid: Lock in moisture..-Color Sculpt Technology: Delivers intense, dimensional color..-Luxe Comfort Complex: Hugs lips comfortably...Diisostearyl Malate, Polyethylene, Diphenylsiloxy Phenyl Trimethicone, Octyldodecanol, Polyglyceryl-2 Triisostearate, Trimethyl Pentaphenyl Trisiloxane, Hydrogenated Polydecene, Hydrogenated Polyisobutene, Ethylhexyl Olivate, Dimethicone, Mica, Sorbitan Sesquiisostearate, Bis-Behenyl/Phytosteryl Dimer Dilinoleate, Hydroxyapatite, Tocopherol, Squalane, Lauroyl Lysine, Dimethicone Crosspolymer, Glyceryl Behenate, Calcium Stearate, Rosa Canina Fruit Oil, Sodium Hyaluronate, Ethylhexyl Palmitate, Trihydroxystearin, Glucomannan, Phenoxyethanol, [+/-(May Contain/Peut Contenir): Blue 1 Lake (Ci 42090), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Red 6 (Ci 15850), Red 7 Lake (Ci 15850), Titanium Dioxide (Ci 77891), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)].",
+	"how_to_use": "Suggested Usage:.-Use the tip of the lipstick to hug the shape of the lip line and fill top lip. .-Press lips together to transfer excess color to the bottom lip. .-Perfect and fill the bottom lip. .-Swipe on an additional one to two layers to intensify color for desired opacity. .-Save your Explicit Lipstick case to refill; compatible with NARS Explicit Lipstick Refill...Refill Product Instructions:.-To refill, pull upward on your existing shade of Explicit Lipstick until removed. .-Insert your new refill into the case until you hear a click. .-Note: Case is needed for refill usage.",
+	"num_reviews": 342,
+	"overall_rating": 4.6,
+	"product_url": "https://www.sephora.com/ca/en/product/nars-explicit-refillable-satin-lipstick-P512469?skuId=2813855&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2797124-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "Blame – 829",
+			"shade_descriptor": "neutral pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797124-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Adulterous – 828",
+			"shade_descriptor": "blush pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797108-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Liaison – 821",
+			"shade_descriptor": "tan rose",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797223-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Devious – 831",
+			"shade_descriptor": "rosy pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797165-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Envy – 830",
+			"shade_descriptor": "mauve pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797181-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Indecent – 801",
+			"shade_descriptor": "warm beige",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797215-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Dirty Talk – 822",
+			"shade_descriptor": "rose pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797173-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Exposed – 800",
+			"shade_descriptor": "cool taupe",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797207-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "No Rules – 885",
+			"shade_descriptor": "cool berry",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797231-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Body Heat – 803",
+			"shade_descriptor": "tea brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797132-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Decadence – 832",
+			"shade_descriptor": "warm berry pink",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797140-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Excess – 806",
+			"shade_descriptor": "auburn brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797199-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "On Top – 807",
+			"shade_descriptor": "deep chestnut",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797249-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Rendez-vous – 805",
+			"shade_descriptor": "rose brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797256-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Bewitched – 809",
+			"shade_descriptor": "chocolate brown",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797116-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Unrestrained – 886",
+			"shade_descriptor": "deep garnet",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797272-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Desirous – 867",
+			"shade_descriptor": "brown red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797157-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Unauthorized – 863",
+			"shade_descriptor": "classic red",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2797264-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "Easy to wear",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "I love the warm tone of Indecent. This colour is so easy to wear. It also feels great on my lips."
+		},
+		{
+			"review_title": "Product is Top-Tier",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Normal skin",
+			"review_text": "This formula is absolutely amazing! I love lip products, from lipstick to lip balm so I’ve tried a lot. Sometimes the colors don’t match the picture, but #832 Decadence and #805 Rendez-vous do!"
+		},
+		{
+			"review_title": "First Red I’ve ever Loved.",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+			"review_text": "Love love love this color. Please don’t ever stop making this. It’s the best and most flattering red on my skin that I’ve found. It may not have extraordinary staying power (as I have found to be the case with most Sarin formulas), but what it lacks for in staying pays off in nourishment and moisture."
+		},
+		{
+			"review_title": "Color advertised is misleading to the actual color",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "Disappointed in the actual lipstick color .. definitely does not look mauve pink as advertised.   The color appears to be more of an orange apricot shade than a mauve pink shade."
+		},
+		{
+			"review_title": "colour advert not accurate/dosent last",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brunette hair, Olive skin tone, Combination skin",
+			"review_text": "I picked this up in store as a dopamine buy- I swatched quite a few of the shades and was really suprised that they look nothing like the brand pictures online. I love this shade but it's a 90s brown on me. it's nice and feels good but dosent last at all"
+		},
+		{
+			"review_title": "Devious - gorgeous!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+			"review_text": "This lipstick in the shade devious is a head turner.  Highly pigmented, long lasting formula.  I have light brown hair with blonde highlights, green eyes and light neutral skin. This color not only makes my teeth look incredibly white,  but also brings out the green in my eyes,  very flattering! Lots of compliments."
+		},
+		{
+			"review_title": "Devious - gorgeous!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+			"review_text": "This lipstick in the shade devious is a head turner.  Highly pigmented, long lasting formula.  I have light brown hair with blonde highlights, green eyes and light neutral skin. This color not only makes my teeth look incredibly white,  but also brings out the green in my eyes,  very flattering! Lots of compliments."
+		},
+		{
+			"review_title": "Gotta Try",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "NARS always delivers the best red lipsticks and these are now refillable! Cool !"
+		},
+		{
+			"review_title": "Blame Beautiful",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
+			"review_text": "This lipstick in the shade Blame is a beautiful warm pink.  It feels hydrating and has a nice sheen to it.  It is not long wearing on me, but I enjoy wearing it and would re-purchase especially if it is refillable.  There is no discernable fragrance which is very nice."
+		},
+		{
+			"review_title": "I am forever going to buy this!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+			"review_text": "Omg I am not a lipstick person usually, but I saw this used on a Sephora live NARS event and had to have it. The first application had me hooked. It’s phenomenal. Wears long, smooth, and deeply  pigmented"
+		},
+		{
+			"review_title": "Ugh",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+			"review_text": "This is, without question, the ugliest color ever created. It is a yellowy, tannish pink -- lots of yellow. In the pic/swatch/descrip it's a reasonable color -- but no! Perhaps a bad batch? Shudder"
+		},
+		{
+			"review_title": "Perfect Fall Lip 🍁",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Dry skin",
+			"review_text": "I wanted something that was wearable and easy to use. I found the perfect color, and the application was pretty easy for me. The lipstick wears well throughout the day! And the formula isn’t drying."
+		},
+		{
+			"review_title": "Colour in advert is a bit off",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, auburn hair, Light skin tone, Combination skin",
+			"review_text": "Got samples of Liaison, Rendezvous, No Rules and Unauthorized. I like the formula but the colours don’t match the advert so don’t buy based on the pictures.  Liaison was definitely more orange brown and Unauthorized was a fun bright red with orange tones. Though I have cool tone skin. No Rules and Rendezvous were more neutral and I really liked them."
+		},
+		{
+			"review_title": "Buy at store if possible.",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, brunette hair, Medium skin tone, Dry skin",
+			"review_text": "Unfortunately, I went by the picture and description of the color of this lipstick. It turned out to be nothing like what I wanted or expected, and not a color I could wear. It was very blah. It was certainly not worth the price. It is being returned."
+		},
+		{
+			"review_title": "Low quality lipstick ￼",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Normal skin",
+			"review_text": "I bought this for my grandma and it broke in the first week.￼"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Body Heat – 803 - tea brown",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+			"review_text": "Quite expensive as a Nars lipstick,but it’s a good one.Colour pay off is fantastic! It feels light and not drying.It lasts well on lips and very buttery.These are beautiful colour perfect for autumn and winter!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "On Top – 807 - deep chestnut",
+			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Dry skin",
+			"review_text": "Well I thought it was so expensive it will stay for a while but honestly it isn’t worth the money. I applied and then May be within an hour I have to apply it again and I mean I can buy same colour lipstick with less price and that will work better l work"
+		},
+		{
+			"review_title": "Creamy lipstick for lips can be used as a blush",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "Beautiful lip color for fall, a little goes a long way unless if you’re going for a bold lip look, very moisturizing can be used as a lip and cheek tint"
+		},
+		{
+			"review_title": "ENVY 😍",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
+			"review_text": "Ugh. Where have you been all my LIFE?! I typically don’t handle lipstick well - it’s either too much or makes me look washed out, but Envy is just right. Hard to explain the soft, subtle baby-lips-flush it gives but maaaaaaaan is it pretty! Buy it, you won’t regret!"
+		},
+		{
+			"review_title": "Everyday fall shade!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+			"review_text": "Beautiful color! It’s listed as a rose brown but it leans a little bit brick red on me. I had been looking for more of an every day shade in the red family anyway so I don’t mind. I love that it’s the perfect shade for fall too!"
+		},
+		{
+			"review_title": "Beautiful color, nice shine, and stays on!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "I saw a fall lip combo on social media platforms and it was the perfect color for brown and dark skinned girls. It’s the NARS No Rules lipstick and the Mac Lipliner in Chestnut. The combo is BEAUTIFUL. I get compliments on it all the time."
+		},
+		{
+			"review_title": "The perfect rosy pink",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+			"review_text": "Self prescribed winter & medium contrast. This color and formula is what I have been looking for, for YEARS. Perfect amount of pink for an everyday look. The formula is not shiny and not matte, it’s the perfect satin. This will be a repeat purchase"
+		},
+		{
+			"review_title": "Cool case. Nothing special lipstick.",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
+			"review_text": "The only thing you’re paying for is the magnetic case which is cool. The lipstick itself is nothing special. No staying power whatsoever. Stayed on for maybe half an hour."
+		},
+		{
+			"review_title": "Love it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+			"review_text": "I wore this with a huda lip liner I have in brown and this lipstick and color lasted the entire day. I would only wear these with lip liners for it not to bleed and long lasting. I just ordered exposed to see how that one is. Will be ordering more from NARS directly they have more color options."
+		},
+		{
+			"review_title": "Very good product….not a good price!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Deep skin tone, Normal skin",
+			"review_text": "This is one of the best lipsticks I’ve tried.  Even though I find it to be very pricey….i may purchase again."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Liaison – 821 - tan rose",
+			"review_buyer_description": "Brown eyes, red hair, Normal skin",
+			"review_text": "I made a video searching the colors Liaison, no shame, desirous ,last night! 💄✨ beautiful shades!!  My tik tok is Imnoterickaaa  https://www.tiktok.com/t/ZTFAspMnN/"
+		},
+		{
+			"review_title": "Nicely pigmented color, deep red",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+			"review_text": "Highly pigmented and velvety smooth application, long wearing"
+		},
+		{
+			"review_title": "love it but…",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Dry skin",
+			"review_text": "beautiful 90s chocolate brown color. the formula isn’t as satin as i expected it to be? it is a bit matte so i like to pair it with a gloss. also idk if it’s because of the dark color but it’s slightly patchy upon application? i absolutely adore the sleek magnetic packaging. don’t know if it’s worth $40 but i couldn’t find this color anywhere so i just went for it."
+		},
+		{
+			"review_title": "Try it first",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+			"review_text": "I wanted to love this new formula but for me there was no long wear as everyone else wrote about I still love nars"
+		},
+		{
+			"review_title": "Don’t hesitate, buy it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+			"review_text": "This formula is so hydrating and coming from someone who has dry lips, I’m telling you IT’S A MUST HAVE. I’m pretty basic and go for taupey brown nudes only but this shade is my perfect color."
+		},
+		{
+			"review_title": "Good",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Combination skin",
+			"review_text": "This is the best, long lasting, soft, non drying lipstick I’ve ever used! I’ll never use anything else! It’s literally the best! I tell everyone I know about it!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Unauthorized – 863 - classic red",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Beautiful color and so smooth. Lasts forever. I can go all night and this lipstick stays!"
+		},
+		{
+			"review_title": "Dirty Talk is the most beautiful lip color ever",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Oily skin",
+			"review_text": "I chose Dirty Talk (822) because I liked the color and it is suitable for my pale skin and dark hair. I would recommend this lip color to anyone who has pale skin and dark hair who wants to look natural."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Dirty Talk – 822 - rose pink",
+			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
+			"review_text": "Absolutely amazing shade and I will wear it daily ❤️"
+		},
+		{
+			"review_title": "Worth the splurge",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Normal skin",
+			"review_text": "Colour is really nice. Goes on smoothly and good staying power for a lipstick. Had to re-apply after lunch but that’s it. Most are gone just from morning coffee. It’s expensive but worth the splurge."
+		},
+		{
+			"review_title": "very good",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Gray eyes, blonde hair, Light skin tone, Combination skin",
+			"review_text": "I like NARS because it's looking great for me. I feel like princes when using new Explicit Refillable Satin Lipstick"
+		},
+		{
+			"review_title": "Beautiful",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Normal skin",
+			"review_text": "The formula is very nice and it has great color payoff. I love that it wasn’t too drying on my lips and the color was really pretty."
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "Rendez-vous – 805 - rose brown",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+			"review_text": "I received this as a sample and loved it! The packaging is beautiful and sustainable which is a perk. The formula goes on smoothly and the shade Rendez-vous is beautiful. Would recommend this if you don’t mind reapplying throughout the day."
+		},
+		{
+			"review_title": "Beautiful product",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+			"review_text": "This lipstick is ultra hydrating and super pigmented. It left my lips feeling moisturized and did not dry them out. Plus the packaging is absolutely gorgeous. The details are impressive!"
+		},
+		{
+			"review_title": "Colour off",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
+			"review_text": "Lipstick itself if ok, but colour is not pink at all, it’s an orangey tan colour.  Don’t buy this unless you can physically go into a store and chose the colour.  I won’t buy it again."
+		},
+		{
+			"review_title": "Beautiful Fall Shade",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Dry skin",
+			"review_text": "This lipstick is a perfect fall shade. It is described as a rose brown, but it does look a bit red on me. I love that the packaging is refillable, and the lipstick is nice and creamy"
+		},
+		{
+			"review_title": "Explicitly amazing lipstick",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Normal skin",
+			"review_text": "Absolutely love this lipstick. It’s creamy and has a huge color payoff. I especially love the uniquely tapered tip. It makes it easy to line your lips and hugs the contour, helping make them look fuller."
+		},
+		{
+			"review_title": "**Not at all neutral pink, went on orangey**",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+			"review_text": "This color was not at all neutral pink, it went on orangey. The swatch on the box is nothing like the actual color. Too bad,  I used to love NARS pink lipsticks but was very disappointed in the color. The formula is good though, too bad the colors are not as swatched."
+		},
+		{
+			"review_title": "No way",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Oily skin",
+			"review_text": "The colors are not as advertised. I bought three colors that looked completely different but when I received them were exactly the same and all too orange. They were advertised as pink. The formula is"
+		},
+		{
+			"review_title": "Ugh, Why NARS? Why?",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+			"review_text": "**PURCHASED PRODUCTS**  I purchased several shades of these thru NARS PRO as soon as they dropped. These are not even close to having the high end feel, the creaminess/smoothness or the color payoff as the Audacious formula. They do not wear well at all, so I would suggest a lip primer before use to try and extend the logevity. I'm pretty disappointed in this launch overall. I had high hopes but it's just meh, like most of the other reformulations on the market. I fear beauty brands have cheapened and lowered standards within the past couple years and now NARS falls victim, sadly. Be vigilant with your spending & research. Do not fall for the free or influencer (I despise that word) reviews. It's 98% BS to get more products or they're working directly with the companies. Read ingredients, compare them to drugstore or more affordable products and I think you'd be surprised. These higher end names used to mean higher end products, luxe and worth the cost, but not anymore."
+		},
+		{
+			"review_title": "Gorgeous color and formula",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Oily skin",
+			"review_text": "The lipstick wears beautifully. It is true satin finish. I do wish it had better lasting power."
+		}
+	]
+}
