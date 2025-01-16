@@ -21,10 +21,10 @@ class SephoraScraper(BaseModel):
     product_database: list[Product] # Database of all products
     brand_urls_list: list[str] = [] # List of brand urls
     product_urls_list: list[str] = [] # List of product urls
-    product_id_counter: int = 329 # Product ID Tracker
+    product_id_counter: int = 1 # Product ID Tracker
 
     def write_to_file(self, product: Product):
-        filename = "products/product_id_" + str(product.id) + "_1.json"
+        filename = "products/product_id_" + str(product.id) + ".json"
         
         # Clean and escape special characters
         product.ingredients = product.ingredients.replace('&nbsp;', ' ').replace('<', '').replace('>', '')

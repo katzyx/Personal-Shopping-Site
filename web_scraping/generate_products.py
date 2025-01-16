@@ -20,7 +20,7 @@ def test_product():
 
 def test_all_products():
     scraper = SephoraScraper(product_database=[])
-    with open('ind_product.txt', 'r') as file:
+    with open('products.txt', 'r') as file:
         for line in file:
             try:
                 scraper.scrape_product_info(line.strip())
