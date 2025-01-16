@@ -1,6 +1,7 @@
 import os
 import time
 import sys
+from threading import Thread
 
 from flask import Flask, render_template, make_response, session, request, redirect, url_for, flash, jsonify  # type: ignore
 from flask_bootstrap import Bootstrap # type: ignore 
@@ -20,7 +21,7 @@ bootstrap = Bootstrap(app)
 moment = Moment(app)
 
 app.secret_key = 'hello'
-
+results_storage = {}
 def get_cookie_value(cookie_name):
     return request.cookies.get(cookie_name)
 
@@ -68,6 +69,16 @@ def landing_what():
     # Rendering landing what page
     return render_template('landing_what.html')
 
+@app.route('/check_status', methods=['GET'])
+def check_status():
+    # Check if the background task is complete by checking session data
+    if 'products_list' in results_storage:
+        # If results are ready, send back 'done' and show the results
+        return jsonify({"status": "done"})
+    else:
+        # Otherwise, just say "still processing"
+        return jsonify({"status": "processing"})
+
 # Rending Products Page
 @app.route('/index', methods=['GET', 'POST'])
 def index():
@@ -81,8 +92,16 @@ def index():
         session['product_preferences'] = updated_preferences
 
         return redirect(url_for('index'))
+    
+    thread = Thread(target=getting_products, args=(user_details, product_preferences))
+    thread.start()
 
+    # Render loading page until computation is done
+    return render_template('loading.html')
+
+def getting_products(user_details, product_preferences):
     start_time = time.time()
+    results_storage.pop('products_list', None)
     # Call Python function to map inputs to products
     products_list: list[Product] = map_inputs(user_details, product_preferences)
 
@@ -95,7 +114,22 @@ def index():
     if len(products_list) == 0:
         print("empty")
         products_list = []
-    return render_template('index.html', products_list=products_list, blog=written_blog, time=time_elapsed, user_details=user_details)
+    
+    results_storage['products_list'] = products_list
+    results_storage['blog'] = written_blog
+    results_storage['time_elapsed'] = time_elapsed
+    results_storage['user_details'] = user_details
+
+@app.route('/display_results')
+def display_results():
+    # Retrieve the results from session
+    products_list = results_storage.get('products_list', [])
+    blog = results_storage.get('blog', '')
+    time_elapsed = results_storage.get('time_elapsed', '')
+    user_details = results_storage.get('user_details', '')
+
+    # Render the results page with the computed data
+    return render_template('index.html', products_list=products_list, blog=blog, time=time_elapsed, user_details=user_details)
 
 @app.route('/update_user_details', methods=['POST'])
 def update_user_details():
