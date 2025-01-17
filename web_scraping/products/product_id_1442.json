@@ -1,39 +1,38 @@
 {
-	"product_id": "1442",
-	"name": "Shark FlexStyle Air Styling & Drying System Storage Case",
-	"brand": "Shark Beauty",
-	"categories": "Hair, Tools",
-	"price": 69.98,
-	"about": "What it is:The lightweight, compact Shark FlexStyle™ Storage Case that holds your Shark FlexStyle™ and your Shark FlexStyle™ attachments..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Fine, Medium, and Thick.Key Benefits:- Vegan PU leather.What Else You Need to Know:The Shark FlexStyle™ Storage case is the optimal storage solution for your favorite air-styling and drying system to protect your tools in between uses. It has five compartments to fit your Shark FlexStyle™ and five of its accessories comfortably.",
-	"ingredients": "",
-	"how_to_use": "Suggested Usage:.- Between uses of your Shark FlexStyle, store it in this stylish and durable case.",
-	"num_reviews": 3,
-	"overall_rating": 4.3,
-	"product_url": "https://www.sephora.com/ca/en/product/shark-beauty-shark-flexstyle-air-styling-drying-system-storage-case-P509276?skuId=2728376&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2728376-main-zoom.jpg?imwidth=465",
-	"shades": [
-	],
-	"reviews": [
-		{
-			"review_title": "Not the best.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Meh. It’s a beautiful case and, yes.. it does store the shark which is great because what on earth are you going to do with all of those attachments? But.. no matter how I put them in there, the attachments fall out all over the place. I would not have spent so much if I knew this prior. Decent case, not worth the $ amount imo."
-		},
-		{
-			"review_title": "great organizer ! <3",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Medium skin tone, Dry skin",
-			"review_text": "I'm so glad I decided to get this . It's so much easier sorting everything in once place , I got my dryer from costco, and it came with all the extra attachments, and this has the perfect amount of space to hold it all, it was definitely worth the wait cause it's been out of stock for so long lol"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Amazing and I feel so organized. I can fit all my essentials in it !"
-		}
-	]
+    "product_id": "1442",
+    "name": "Shark FlexStyle Air Styling & Drying System Storage Case",
+    "brand": "Shark Beauty",
+    "categories": "Hair, Tools",
+    "price": 69.98,
+    "about": "What it is:The lightweight, compact Shark FlexStyleu2122 Storage Case that holds your Shark FlexStyleu2122 and your Shark FlexStyleu2122 attachments..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Fine, Medium, and Thick.Key Benefits:- Vegan PU leather.What Else You Need to Know:The Shark FlexStyleu2122 Storage case is the optimal storage solution for your favorite air-styling and drying system to protect your tools in between uses. It has five compartments to fit your Shark FlexStyleu2122 and five of its accessories comfortably.",
+    "ingredients": "",
+    "how_to_use": "Suggested Usage:.- Between uses of your Shark FlexStyle, store it in this stylish and durable case.",
+    "num_reviews": 3,
+    "overall_rating": 4.3,
+    "product_url": "https://www.sephora.com/ca/en/product/shark-beauty-shark-flexstyle-air-styling-drying-system-storage-case-P509276?skuId=2728376&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2728376-main-zoom.jpg?imwidth=465",
+    "shades": [],
+    "reviews": [
+        {
+            "review_title": "Not the best.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Meh. Itu2019s a beautiful case and, yes.. it does store the shark which is great because what on earth are you going to do with all of those attachments? But.. no matter how I put them in there, the attachments fall out all over the place. I would not have spent so much if I knew this prior. Decent case, not worth the $ amount imo."
+        },
+        {
+            "review_title": "great organizer ! <3",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Medium skin tone, Dry skin",
+            "review_text": "I'm so glad I decided to get this . It's so much easier sorting everything in once place , I got my dryer from costco, and it came with all the extra attachments, and this has the perfect amount of space to hold it all, it was definitely worth the wait cause it's been out of stock for so long lol"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Amazing and I feel so organized. I can fit all my essentials in it !"
+        }
+    ]
 }

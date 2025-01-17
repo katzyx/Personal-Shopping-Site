@@ -1,23 +1,22 @@
 {
-	"product_id": "30",
-	"name": "Light-Catching Highlighter Balm",
-	"brand": "Ami Colé",
-	"categories": "Makeup, Face, Highlighter",
-	"price": 30.0,
-	"about": "What it is:A lightweight highlighter balm with golden, light-reflective minerals for a dewy natural glow in seconds..Highlighted Ingredients:- Baobab Seed Oil: Hydrates and nourishes skin..Ingredient Callouts:This product is vegan, gluten-free, and cruelty-free..What Else You Need to Know:Made in one universally flattering shade with a translucent base, this subtle highlighter gives your skin a dewy, natural-looking glow.",
-	"ingredients": "-Baobab Seed Oil: Hydrates and nourishes skin...Diisostearyl Malate, Octyldodecanol, Octyldodecyl Neopentanoate, Polybutene, Tridecyl.Trimellitate, Hydrogenated Polyisobutene, Dibutyl Lauroyl Glutamide, Dibutyl.Ethylhexanoyl Glutamide, Silica Dimethyl Silylate, Adansonia Digitata Seed Oil, Calcium.Sodium Borosilicate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide,.Tocopherol, Titanium Dioxide (CI 77891).....The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Twist base and swipe or tap wherever you want a subtle glaze.",
-	"num_reviews": 20,
-	"overall_rating": 4.0,
-	"product_url": "https://www.sephora.com/ca/en/product/light-catching-highlighter-balm-P503763?skuId=2631695&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2631695-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Glaze",
-			"shade_descriptor": "clear with golden light-reflective minerals",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2631695-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "30",
+    "name": "Light-Catching Highlighter Balm",
+    "brand": "Ami Colu00e9",
+    "categories": "Makeup, Face, Highlighter",
+    "price": 30.0,
+    "about": "What it is:A lightweight highlighter balm with golden, light-reflective minerals for a dewy natural glow in seconds..Highlighted Ingredients:- Baobab Seed Oil: Hydrates and nourishes skin..Ingredient Callouts:This product is vegan, gluten-free, and cruelty-free..What Else You Need to Know:Made in one universally flattering shade with a translucent base, this subtle highlighter gives your skin a dewy, natural-looking glow.",
+    "ingredients": "-Baobab Seed Oil: Hydrates and nourishes skin...Diisostearyl Malate, Octyldodecanol, Octyldodecyl Neopentanoate, Polybutene, Tridecyl.Trimellitate, Hydrogenated Polyisobutene, Dibutyl Lauroyl Glutamide, Dibutyl.Ethylhexanoyl Glutamide, Silica Dimethyl Silylate, Adansonia Digitata Seed Oil, Calcium.Sodium Borosilicate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide,.Tocopherol, Titanium Dioxide (CI 77891).....The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Twist base and swipe or tap wherever you want a subtle glaze.",
+    "num_reviews": 20,
+    "overall_rating": 4.0,
+    "product_url": "https://www.sephora.com/ca/en/product/light-catching-highlighter-balm-P503763?skuId=2631695&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2631695-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Glaze",
+            "shade_descriptor": "clear with golden light-reflective minerals",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2631695-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

@@ -1,126 +1,126 @@
 {
-	"product_id": "329",
-	"name": "Yummy Skin Soothing Serum Skin Tint Foundation with Peptides + Ceramides",
-	"brand": "Danessa Myricks Beauty",
-	"categories": "Makeup, Face, Tinted Moisturizer",
-	"price": 49.0,
-	"about": "What it is:A hydrating and smoothing, skincare-infused skin tint that provides light coverage and a skin-like, radiant finish..Coverage:Light.Finish:Radiant.Formulation:Liquid.Highlighted Ingredients:- Vegan Collagen Peptides: Visibly smooth skin texture and plump fine lines..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:Our Yummy Skin Serum Tint visibly smooths skin while supercharging your skin with nourishing ingredients. This product includes 16 flexible shades that are optimized to address redness and unevenness for all skin tones.",
-	"ingredients": "-Vegan Collagen Peptides: Visibly smooth skin texture and plump fine lines..-Ceramides: Strengthen, care for, and protect the skin barrier..-Cactus Extract: An antioxidant booster that hydrates and soothes...Water/Aqua/Eau, Glycerin, Isododecane, Dimethicone, Propylene Glycol, Calcium Sodium Borosilicate, Caprylic/Capric Triglyceride, Hydrogenated Polyisobutene, Squalane, Xylitylglucoside, Anhydroxylitol, Sr-Hydrozoan Polypeptide-1, Sodium Hyaluronate, Ceramide Np, Phytosterols, Cactus (Opuntia Dillenii) Extract, Xylitol, Caprylhydroxamic Acid, Saccharide Isomerate, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Stearalkonium Hectorite, Propylene Carbonate, Coco Caprylate/Caprate, Glycerin Stearate, Betaine, Magnesium Sulfate, Glyceryl Caprylate, Pentylene Glycol, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sorbitan Isostearate, Butylene Glycol, Phosphatidylcholine, Hydroxyacetophenone, Ethylhexyl Hydroxystearate, Cetyl Peg/Ppg-10/1 Dimethicone, Triethoxycaprylylsilane, Aluminum Hydroxide, Potassium Sorbate, Phenoxyethanol, (+/-): Bismuth Oxychloride (Ci 77163), Titanium Dioxide (77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499).",
-	"how_to_use": "Suggested Usage:.-Squeeze a quarter-size amount onto your hand or a palette..-Swirl into your foundation with your fingertips, a brush, or a sponge..-Tap onto the center of your face where you have the most uneven tones..-Blend for an effortless finish that mimics a post-facial glow.",
-	"num_reviews": 1060,
-	"overall_rating": 4.5,
-	"product_url": "https://www.sephora.com/ca/en/product/yummy-skin-serum-tint-P506512?skuId=2682680&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2682680-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "16",
-			"shade_descriptor": "very deep with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682805-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "15",
-			"shade_descriptor": "deep skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682797-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "14",
-			"shade_descriptor": "deep skin with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682789-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "13",
-			"shade_descriptor": "dark skin with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682771-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "12",
-			"shade_descriptor": "dark skin with golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682763-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "11",
-			"shade_descriptor": "tan to dark skin with neutral olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682755-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "10",
-			"shade_descriptor": "tan skin with neutral olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682748-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "9",
-			"shade_descriptor": "medium to tan skin with neutral olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682730-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "8",
-			"shade_descriptor": "medium to tan skin with golden peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682722-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "8",
-			"shade_descriptor": "medium to tan skin with golden peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682722-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6",
-			"shade_descriptor": "medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682706-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "5",
-			"shade_descriptor": "light to medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682698-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4",
-			"shade_descriptor": "light skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682680-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3",
-			"shade_descriptor": "fair to light skin with golden yellow undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682672-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2",
-			"shade_descriptor": "fair skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682664-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1",
-			"shade_descriptor": "very fair skin with golden yellow undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2682656-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Beware if you have acne/ acne prone skin",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "I have dry skin and with the right prep, this product was amazing! By far the best color match but beware if you have acne prone skin because this gave me the worst breakout ever. I purchased in November and I’m still dealing with the scars."
-		},
-		{
-			"review_title": "Loveeee",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "I LOVE this product. I got the perfect shade it doesn’t even look like I’m wearing it. goes on smoothly and blends out very easy. You don’t need a lot. I’d say it’s light coverage for sure definitely buildable but I’m in AWE with this skin tint"
-		},
-		{
-			"review_title": "Makes skin look great",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I absolutely love this! Super buildable and makes your skin look beautiful. Do be careful with how you prep your skin and give ample drying time so there is no piling. It can get a touch oily looking on me but I only wear on days where I know I can reset my face halfway through."
-		},
-		{
-			"review_title": "Favourite product",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "This is my everyday/going out base. Coverage is light but does a great job at evening out skin. Leaves my face looking fresh and dewy without looking greasy. The best!"
-		}
-	]
+    "product_id": "329",
+    "name": "Yummy Skin Soothing Serum Skin Tint Foundation with Peptides + Ceramides",
+    "brand": "Danessa Myricks Beauty",
+    "categories": "Makeup, Face, Tinted Moisturizer",
+    "price": 49.0,
+    "about": "What it is:A hydrating and smoothing, skincare-infused skin tint that provides light coverage and a skin-like, radiant finish..Coverage:Light.Finish:Radiant.Formulation:Liquid.Highlighted Ingredients:- Vegan Collagen Peptides: Visibly smooth skin texture and plump fine lines..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:Our Yummy Skin Serum Tint visibly smooths skin while supercharging your skin with nourishing ingredients. This product includes 16 flexible shades that are optimized to address redness and unevenness for all skin tones.",
+    "ingredients": "-Vegan Collagen Peptides: Visibly smooth skin texture and plump fine lines..-Ceramides: Strengthen, care for, and protect the skin barrier..-Cactus Extract: An antioxidant booster that hydrates and soothes...Water/Aqua/Eau, Glycerin, Isododecane, Dimethicone, Propylene Glycol, Calcium Sodium Borosilicate, Caprylic/Capric Triglyceride, Hydrogenated Polyisobutene, Squalane, Xylitylglucoside, Anhydroxylitol, Sr-Hydrozoan Polypeptide-1, Sodium Hyaluronate, Ceramide Np, Phytosterols, Cactus (Opuntia Dillenii) Extract, Xylitol, Caprylhydroxamic Acid, Saccharide Isomerate, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Stearalkonium Hectorite, Propylene Carbonate, Coco Caprylate/Caprate, Glycerin Stearate, Betaine, Magnesium Sulfate, Glyceryl Caprylate, Pentylene Glycol, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sorbitan Isostearate, Butylene Glycol, Phosphatidylcholine, Hydroxyacetophenone, Ethylhexyl Hydroxystearate, Cetyl Peg/Ppg-10/1 Dimethicone, Triethoxycaprylylsilane, Aluminum Hydroxide, Potassium Sorbate, Phenoxyethanol, (+/-): Bismuth Oxychloride (Ci 77163), Titanium Dioxide (77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499).",
+    "how_to_use": "Suggested Usage:.-Squeeze a quarter-size amount onto your hand or a palette..-Swirl into your foundation with your fingertips, a brush, or a sponge..-Tap onto the center of your face where you have the most uneven tones..-Blend for an effortless finish that mimics a post-facial glow.",
+    "num_reviews": 1060,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/yummy-skin-serum-tint-P506512?skuId=2682680&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2682680-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "16",
+            "shade_descriptor": "very deep with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682805-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "15",
+            "shade_descriptor": "deep skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682797-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "14",
+            "shade_descriptor": "deep skin with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682789-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "13",
+            "shade_descriptor": "dark skin with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682771-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "12",
+            "shade_descriptor": "dark skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682763-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "11",
+            "shade_descriptor": "tan to dark skin with neutral olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682755-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "10",
+            "shade_descriptor": "tan skin with neutral olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682748-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "9",
+            "shade_descriptor": "medium to tan skin with neutral olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682730-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "8",
+            "shade_descriptor": "medium to tan skin with golden peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682722-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "8",
+            "shade_descriptor": "medium to tan skin with golden peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682722-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6",
+            "shade_descriptor": "medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682706-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "5",
+            "shade_descriptor": "light to medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682698-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4",
+            "shade_descriptor": "light skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682680-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3",
+            "shade_descriptor": "fair to light skin with golden yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682672-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2",
+            "shade_descriptor": "fair skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682664-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1",
+            "shade_descriptor": "very fair skin with golden yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2682656-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Beware if you have acne/ acne prone skin",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "I have dry skin and with the right prep, this product was amazing! By far the best color match but beware if you have acne prone skin because this gave me the worst breakout ever. I purchased in November and Iu2019m still dealing with the scars."
+        },
+        {
+            "review_title": "Loveeee",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I LOVE this product. I got the perfect shade it doesnu2019t even look like Iu2019m wearing it. goes on smoothly and blends out very easy. You donu2019t need a lot. Iu2019d say itu2019s light coverage for sure definitely buildable but Iu2019m in AWE with this skin tint"
+        },
+        {
+            "review_title": "Makes skin look great",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I absolutely love this! Super buildable and makes your skin look beautiful. Do be careful with how you prep your skin and give ample drying time so there is no piling. It can get a touch oily looking on me but I only wear on days where I know I can reset my face halfway through."
+        },
+        {
+            "review_title": "Favourite product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is my everyday/going out base. Coverage is light but does a great job at evening out skin. Leaves my face looking fresh and dewy without looking greasy. The best!"
+        }
+    ]
 }

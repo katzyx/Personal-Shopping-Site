@@ -1,44 +1,44 @@
 {
-	"product_id": "7",
-	"name": "Melonberry Vitamin C Frizz-Fighting Hair Gel",
-	"brand": "adwoa beauty",
-	"categories": "Hair, Hair Styling & Treatments, Hair Styling Products",
-	"price": 32.5,
-	"about": "What it is:A vitamin C-infused gel that helps to add shine and reduce unwanted frizz without weighing down fine hair..Hair Type:Curly.Hair Texture:Fine.Hair Concerns:- Curl-Enhancing.Key Benefits:- Controls frizz.Highlighted Ingredients:- Vitamin C: Boosts shine and promotes healthy hair and scalp..Ingredient Callouts:This product is vegan and cruelty-free..What Else You Need to Know:This smoothing gel features a blend of Kalahari melon, red raspberry, and strawberry seed oils that work in unison with rich extracts to fight humidity, add definition, and nourish curls. Squalane, hydrolyzed rice protein, and essential vitamins C and B5 maintain hair's hydration and overall health..Fragrance Description:Light berry.",
-	"ingredients": "-Vitamin C: Boosts shine and promotes healthy hair and scalp..-Strawberry Seed Oil: Encourages a healthy scalp environment and smooths hair to reduce frizz..-Squalane: Increases shine and hair's ability to retain moisture...Water (Aqua/Eau/Aqua), Glycerin, Xanthan Gum, Polyquaternium-11, Aloe Barbadensis Leaf Juice, Althaea Officinalis (Marshmallow) Root Extract, Fragaria Ananassa (Strawberry) Seed Oil, Rubus Idaeus (Raspberry) Seed Oil, Citrullus Lanatus (Kalahari Watermelon) Seed Oil, Argania Spinosa Kernel Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Fragrance (Parfum), Squalane, Diheptyl Succinate, Capryloyl Glycerin/ Sebacic Acid Copolymer, Hydrolyzed Rice.Protein, Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Phenoxyethanol, Caprylyl Glycol......The list of ingredients is subject to change, please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Apply to clean wet, damp, or dry hair and style as desired. .-Use a hooded dryer, diffuser, or allow to air dry.",
-	"num_reviews": 992,
-	"overall_rating": 4.4,
-	"product_url": "https://www.sephora.com/ca/en/product/adwoa-beauty-melonberry-vitamin-c-frizz-fighting-hair-gel-P505476?skuId=2679439&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2679439-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "8 oz / 227 mL",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2679439-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Perfect for fine curls",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
-			"review_text": "I have fine wavy curly hair and this product is perfect for me. It’s easy to spread the product throughout my hair and it dries with an easy to scrunch out cast. Left me with frizz free & bouncy curls!"
-		},
-		{
-			"review_title": "Great, but it depends on what you use with it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "The first time I tried this product (with the light moisture spray from Adwoa), I admit, I wasn’t impressed. I have fine curly hair (3b-3c) that frizzes easily, and I like when my curls are elongated, springy, and defined. However, I paired this with a curl crème that had no shea butter and was aloe based, and noticed I found the curl definition I was looking for. Now, I use it daily, and love it! So just check to see what curl based cream works for you before you use it."
-		},
-		{
-			"review_title": "Frizz fighter!",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Fair skin tone, Combination skin",
-			"review_text": "This product is great for a quick way to fight curl frizz! It leaves a great shine and light smell to my curls and I love that it’s a clean product without nasty extra chemicals I avoid from other brands. Unfortunately I wouldn’t purchase or use in my daily rotation due to my sensitivity to fragrance."
-		}
-	]
+    "product_id": "7",
+    "name": "Melonberry Vitamin C Frizz-Fighting Hair Gel",
+    "brand": "adwoa beauty",
+    "categories": "Hair, Hair Styling & Treatments, Hair Styling Products",
+    "price": 32.5,
+    "about": "What it is:A vitamin C-infused gel that helps to add shine and reduce unwanted frizz without weighing down fine hair..Hair Type:Curly.Hair Texture:Fine.Hair Concerns:- Curl-Enhancing.Key Benefits:- Controls frizz.Highlighted Ingredients:- Vitamin C: Boosts shine and promotes healthy hair and scalp..Ingredient Callouts:This product is vegan and cruelty-free..What Else You Need to Know:This smoothing gel features a blend of Kalahari melon, red raspberry, and strawberry seed oils that work in unison with rich extracts to fight humidity, add definition, and nourish curls. Squalane, hydrolyzed rice protein, and essential vitamins C and B5 maintain hair's hydration and overall health..Fragrance Description:Light berry.",
+    "ingredients": "-Vitamin C: Boosts shine and promotes healthy hair and scalp..-Strawberry Seed Oil: Encourages a healthy scalp environment and smooths hair to reduce frizz..-Squalane: Increases shine and hair's ability to retain moisture...Water (Aqua/Eau/Aqua), Glycerin, Xanthan Gum, Polyquaternium-11, Aloe Barbadensis Leaf Juice, Althaea Officinalis (Marshmallow) Root Extract, Fragaria Ananassa (Strawberry) Seed Oil, Rubus Idaeus (Raspberry) Seed Oil, Citrullus Lanatus (Kalahari Watermelon) Seed Oil, Argania Spinosa Kernel Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Fragrance (Parfum), Squalane, Diheptyl Succinate, Capryloyl Glycerin/ Sebacic Acid Copolymer, Hydrolyzed Rice.Protein, Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Phenoxyethanol, Caprylyl Glycol......The list of ingredients is subject to change, please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Apply to clean wet, damp, or dry hair and style as desired. .-Use a hooded dryer, diffuser, or allow to air dry.",
+    "num_reviews": 992,
+    "overall_rating": 4.4,
+    "product_url": "https://www.sephora.com/ca/en/product/adwoa-beauty-melonberry-vitamin-c-frizz-fighting-hair-gel-P505476?skuId=2679439&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2679439-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "8 oz / 227 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2679439-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Perfect for fine curls",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "I have fine wavy curly hair and this product is perfect for me. Itu2019s easy to spread the product throughout my hair and it dries with an easy to scrunch out cast. Left me with frizz free & bouncy curls!"
+        },
+        {
+            "review_title": "Great, but it depends on what you use with it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "The first time I tried this product (with the light moisture spray from Adwoa), I admit, I wasnu2019t impressed. I have fine curly hair (3b-3c) that frizzes easily, and I like when my curls are elongated, springy, and defined. However, I paired this with a curl cru00e8me that had no shea butter and was aloe based, and noticed I found the curl definition I was looking for. Now, I use it daily, and love it! So just check to see what curl based cream works for you before you use it."
+        },
+        {
+            "review_title": "Frizz fighter!",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Fair skin tone, Combination skin",
+            "review_text": "This product is great for a quick way to fight curl frizz! It leaves a great shine and light smell to my curls and I love that itu2019s a clean product without nasty extra chemicals I avoid from other brands. Unfortunately I wouldnu2019t purchase or use in my daily rotation due to my sensitivity to fragrance."
+        }
+    ]
 }

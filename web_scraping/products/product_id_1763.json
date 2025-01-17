@@ -1,33 +1,32 @@
 {
-	"product_id": "1763",
-	"name": "Libre Eau De Parfum",
-	"brand": "Yves Saint Laurent",
-	"categories": "Fragrance, Women, Perfume",
-	"price": 160.0,
-	"about": "Fragrance Family: Floral..Scent Type: Warm Floral..Key Notes: Lavender, Orange Blossom, Musk Accord..Fragrance Description: A bold, floral perfume for women where French lavender essence combines with sensual Moroccan orange blossom and daring musk accords to create a unique, long-lasting perfume...About the Bottle: This couture refillable perfume bottle has an oversized golden Cassandre logotype freely nailed into the glass like a jewel, sexy golden chains, and a black lacquered cap...A statement of value and sustainability, your Libre bottle can now be kept forever and refilled at home with a 100ml refill bottle. The 100ml refill bottle is compatible with the 10ml, 30ml, 50ml and, 90ml bottles stating refillable on the outer packaging. Refilling helps to save 41%* glass, 67%* metals and, 38%* plastic...*Calculation made on the comparison of 1 refillable 50ml bottle + 1 refill 100ml vs. 3 classic non-refillable 50ml bottles...About the Fragrance: A celebration of freedom, this daring yet distinctly floral and feminine fragrance is for those who do what they want and dare to be exactly who they are. Breaking boundaries and paving their own way, this women's perfume is inspired by the bold and the free.",
-	"ingredients": "Alcohol, Parfum/Fragrance, Aqua/Water, Limonene, Linalool, Benzyl Salicylate, Hydroxycitronellal, Benzyl Alcohol, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Coumarin, Geraniol, Methyl Anthranilate, Citronellol, Citral, Isoeugenol, Alpha-Isomethyl Ionone, Farnesol, Ci 14700/Red 4, Ci 19140/Yellow 5, Ci 60730/Ext. Violet 2.",
-	"how_to_use": "Suggested Usage:&nbsp;Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...Refill at home in 3 easy steps:&nbsp;.1. Once the spray bottle is empty, unscrew the pump.&nbsp;.2. Screw the refill onto the bottle neck, then unlock it into the ON position. The refill will stop automatically.&nbsp;.3. Turn the refill into the OFF position, then remove it. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
-	"num_reviews": 3864,
-	"overall_rating": 4.5,
-	"product_url": "https://www.sephora.com/ca/en/product/libre-eau-de-parfum-P448102?skuId=2249738&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2249738-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "3.04 oz / 90 mL eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3.04 oz / 90 mL eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3.04 oz / 90 mL eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "1763",
+    "name": "Libre Eau De Parfum",
+    "brand": "Yves Saint Laurent",
+    "categories": "Fragrance, Women, Perfume",
+    "price": 160.0,
+    "about": "Fragrance Family: Floral..Scent Type: Warm Floral..Key Notes: Lavender, Orange Blossom, Musk Accord..Fragrance Description: A bold, floral perfume for women where French lavender essence combines with sensual Moroccan orange blossom and daring musk accords to create a unique, long-lasting perfume...About the Bottle: This couture refillable perfume bottle has an oversized golden Cassandre logotype freely nailed into the glass like a jewel, sexy golden chains, and a black lacquered cap...A statement of value and sustainability, your Libre bottle can now be kept forever and refilled at home with a 100ml refill bottle. The 100ml refill bottle is compatible with the 10ml, 30ml, 50ml and, 90ml bottles stating refillable on the outer packaging. Refilling helps to save 41%* glass, 67%* metals and, 38%* plastic...*Calculation made on the comparison of 1 refillable 50ml bottle + 1 refill 100ml vs. 3 classic non-refillable 50ml bottles...About the Fragrance: A celebration of freedom, this daring yet distinctly floral and feminine fragrance is for those who do what they want and dare to be exactly who they are. Breaking boundaries and paving their own way, this women's perfume is inspired by the bold and the free.",
+    "ingredients": "Alcohol, Parfum/Fragrance, Aqua/Water, Limonene, Linalool, Benzyl Salicylate, Hydroxycitronellal, Benzyl Alcohol, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Coumarin, Geraniol, Methyl Anthranilate, Citronellol, Citral, Isoeugenol, Alpha-Isomethyl Ionone, Farnesol, Ci 14700/Red 4, Ci 19140/Yellow 5, Ci 60730/Ext. Violet 2.",
+    "how_to_use": "Suggested Usage:&nbsp;Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...Refill at home in 3 easy steps:&nbsp;.1. Once the spray bottle is empty, unscrew the pump.&nbsp;.2. Screw the refill onto the bottle neck, then unlock it into the ON position. The refill will stop automatically.&nbsp;.3. Turn the refill into the OFF position, then remove it. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+    "num_reviews": 3864,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/libre-eau-de-parfum-P448102?skuId=2249738&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2249738-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "3.04 oz / 90 mL eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3.04 oz / 90 mL eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3.04 oz / 90 mL eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2249746-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

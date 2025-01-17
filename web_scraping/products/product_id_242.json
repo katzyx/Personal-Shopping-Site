@@ -1,61 +1,61 @@
 {
-	"product_id": "242",
-	"name": "Courage Cream Lip & Cheek",
-	"brand": "Cheekbone Beauty",
-	"categories": "Makeup, Cheek, Blush",
-	"price": 27.0,
-	"about": "What it is: A multipurpose, highly pigmented, universally flattering lip-and-cheek cream that’s also clean and sustainable...Finish: Radiant.Formulation: Cream..Highlighted Ingredients: - Jojoba Oil: Moisturizes and ensures a smooth application..- Ricinus communis (Castor) Seed Oil: Is naturally moisturizing...Ingredient Callouts: This product is cruelty-free and comes in recyclable packaging...What Else You Need to Know: This richly pigmented, buildable, easy-to-apply cream is packed with hero ingredients, including moisturizing yet lightweight jojoba oil for a smooth application. It comes in 50 percent PCR mono-material packaging designed for easy recyclability...Clean.Clean at Sephora is our commitment to offering formulas that go beyond regulatory standards to avoid controversial ingredients without sacrificing effectiveness.",
-	"ingredients": "-Jojoba Oil: Moisturizes and ensures a smooth application..-Ricinus communis (Castor) Seed Oil: Is naturally moisturizing...Simmondsia Chinensis (Jojoba) Seed Oil, Silica, Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Isoamyl Laurate, Copernicia Cerifera (Carnauba) Wax, Oleic/Linoleic/Linolenic Polyglycerides, Mica, Euphorbia Cerifera (Candelilla) Wax, Hydrogenated Jojoba Oil, Tocopherol. May Contain/Peut Contenir [+/-] Titanium Dioxide (CI 77891), Iron Oxides (CI 77499, CI 77491), Red 7 Lake (CI 15850), Yellow 5 Lake (CI 19140), Red 27 Lake (CI 45410), Manganese Violet (CI 77742)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Apply blush shade with a brush or your fingertips along the apples of your cheeks, blending upwards for a lifted look..-You may also apply this shade as a pigmented lip color or blend it out for a soft flush of lip color...Recycling Instructions:.-Use the Cheekbone Beauty mail-back program through PACT. PACT sorts through hard-to-recycle packages by material type with the aim to find the highest and best use for all materials. This process ensures your beauty empties get properly recycled and sold back to beauty-packaging manufacturers to fulfill the circular economy.",
-	"num_reviews": 4,
-	"overall_rating": 5.0,
-	"product_url": "https://www.sephora.com/ca/en/product/cheekbone-courage-cream-lip-cheek-P512248?skuId=2809721&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2809721-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Elderberry",
-			"shade_descriptor": "soft mauve",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2809721-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Heartberry",
-			"shade_descriptor": "a rich berry red",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2809739-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Heartberry",
-			"shade_descriptor": "a rich berry red",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2809739-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "BEAUTIFUL",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Oily skin",
-			"review_text": "The color is stunning, it really brings out my green eyes, it is a year round color, it is pigmented yet buildable. I apply with the Sephora #99 brush from the cheeks all the way up the cheekbones and some on the nose to finish off. It is affordable yet high quality. Loving this brand and what they represent not to mention all of their products I’ve tried are excellent."
-		},
-		{
-			"review_title": "Natural everyday make up",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "Love it it’s very natural blends very nicely isn’t patchy. Doesn’t really feel like I have anything on my face. It’s very lightweight. I like how compact it is as well."
-		},
-		{
-			"review_title": "STUNNING, CREAMY, BLENDABLE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "I am absolutely in love with this formula it pairs beautifully with both powder and other cream products. I’m honestly shocked that I can put it over a full face of powder and it still looks so creamy and radiant! 1000/10 ✨"
-		},
-		{
-			"review_title": "Perfect summer shades",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "My absolute FAVOURITE product! I use this on my cheeks and my lips for a natural look. Looks like my skin is sunkissed without the sun damage! Absolutely love this product."
-		}
-	]
+    "product_id": "242",
+    "name": "Courage Cream Lip & Cheek",
+    "brand": "Cheekbone Beauty",
+    "categories": "Makeup, Cheek, Blush",
+    "price": 27.0,
+    "about": "What it is:u00a0A multipurpose, highly pigmented, universally flattering lip-and-cheek cream thatu2019s also clean and sustainable...Finish:u00a0Radiant.Formulation:u00a0Cream..Highlighted Ingredients:u00a0- Jojoba Oil: Moisturizes and ensures a smooth application..- Ricinus communis (Castor) Seed Oil: Is naturally moisturizing...Ingredient Callouts: This product is cruelty-free and comes in recyclable packaging...What Else You Need to Know: This richly pigmented, buildable, easy-to-apply cream is packed with hero ingredients, including moisturizing yet lightweight jojoba oil for a smooth application. It comes in 50 percent PCR mono-material packaging designed for easy recyclability...Clean.Clean at Sephora is our commitment to offering formulas that go beyond regulatory standards to avoid controversial ingredients without sacrificingu00a0effectiveness.",
+    "ingredients": "-Jojoba Oil: Moisturizes and ensures a smooth application..-Ricinus communis (Castor) Seed Oil: Is naturally moisturizing...Simmondsia Chinensis (Jojoba) Seed Oil, Silica, Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Isoamyl Laurate, Copernicia Cerifera (Carnauba) Wax, Oleic/Linoleic/Linolenic Polyglycerides, Mica, Euphorbia Cerifera (Candelilla) Wax, Hydrogenated Jojoba Oil, Tocopherol. May Contain/Peut Contenir [+/-] Titanium Dioxide (CI 77891), Iron Oxides (CI 77499, CI 77491), Red 7 Lake (CI 15850), Yellow 5 Lake (CI 19140), Red 27 Lake (CI 45410), Manganese Violet (CI 77742)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Apply blush shade with a brush or your fingertips along the apples of your cheeks, blending upwards for a lifted look..-You may also apply this shade as a pigmented lip color or blend it out for a soft flush of lip color...Recycling Instructions:.-Use the Cheekbone Beauty mail-back program through PACT. PACT sorts through hard-to-recycle packages by material type with the aim to find the highest and best use for all materials. This process ensures your beauty empties get properly recycled and sold back to beauty-packaging manufacturers to fulfill the circular economy.",
+    "num_reviews": 4,
+    "overall_rating": 5.0,
+    "product_url": "https://www.sephora.com/ca/en/product/cheekbone-courage-cream-lip-cheek-P512248?skuId=2809721&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2809721-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Elderberry",
+            "shade_descriptor": "soft mauve",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2809721-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Heartberry",
+            "shade_descriptor": "a rich berry red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2809739-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Heartberry",
+            "shade_descriptor": "a rich berry red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2809739-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "BEAUTIFUL",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "The color is stunning, it really brings out my green eyes, it is a year round color, it is pigmented yet buildable. I apply with the Sephora #99 brush from the cheeks all the way up the cheekbones and some on the nose to finish off. It is affordable yet high quality. Loving this brand and what they represent not to mention all of their products Iu2019ve tried are excellent."
+        },
+        {
+            "review_title": "Natural everyday make up",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "Love it itu2019s very natural blends very nicely isnu2019t patchy. Doesnu2019t really feel like I have anything on my face. Itu2019s very lightweight. I like how compact it is as well."
+        },
+        {
+            "review_title": "STUNNING, CREAMY, BLENDABLE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "I am absolutely in love with this formula it pairs beautifully with both powder and other cream products. Iu2019m honestly shocked that I can put it over a full face of powder and it still looks so creamy and radiant! 1000/10 u2728"
+        },
+        {
+            "review_title": "Perfect summer shades",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "My absolute FAVOURITE product! I use this on my cheeks and my lips for a natural look. Looks like my skin is sunkissed without the sun damage! Absolutely love this product."
+        }
+    ]
 }

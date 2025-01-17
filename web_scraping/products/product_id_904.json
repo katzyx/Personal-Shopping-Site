@@ -1,642 +1,642 @@
 {
-	"product_id": "904",
-	"name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
-	"brand": "KVD Beauty",
-	"categories": "Makeup, Face, Foundation",
-	"price": 57.0,
-	"about": "What it is: A non-comedogenic, lightweight serum foundation that covers blemishes, acne scars, and hyperpigmentation, while visibly blurring pores. The extreme long wear formula controls shine all day and stands up to sweat and humidity...Coverage: Full..Finish: Natural..Formulation: Liquid..Highlighted Ingredients:.- Quince Leaf Extract: Helps keep shine in check..- Apple Extract: Nourishes and keeps skin looking fresh..- Glycerin: Nourishes skin for all-day comfort...Ingredient Callouts: This product is vegan, cruelty-free, and comes in recyclable packaging...What Else You Need to Know: Packed with flexible elastomer pigments, this serum-light foundation covers everything from blemishes to acne scars to hyperpigmentation without feeling heavy on skin. This non-comedogenic formula visibly blurs pores, stands up to sweat and humidity, and it's flashback-free. When you try, let it dry: This foundation's shades look different when wet vs. fully dry because of the high percent of pigment and ingredients that help provide the extreme long wear. When you pick your shade, make sure to let it dry down completely to see the true color of the pigments...Clinical Results: In a consumer study on 30 volunteers, immediately after application:.- 100% agreed it was easy to apply.- 100% agreed it had a shine-free finish.- 93% agreed it felt lightweight on skin",
-	"ingredients": "-Quince Leaf Extract: Helps keep shine in check. .-Apple Extract: Nourishes and keeps skin looking fresh. .-Glycerin: Nourishes skin for all-day comfort. ..Aqua/Water/Eau, Dimethicone, Isododecane,  Trimethylsiloxysilicate, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, Pyrus Malus (Apple) Fruit Extract, Cydonia Oblonga Leaf Extract, Ethylhexylglycerin, Phenoxyethanol, Dimethicone Crosspolymer, Silica, Sodium Chloride, Dimethicone/Vinyl Dimethicone Crosspolymer, Magnesium Sulfate, Triethoxycaprylylsilane, Sodium Dehydroacetate, Disteardimonium Hectorite, Benzoic Acid, C24-28 Alkyl Methicone, Dehydroacetic Acid, Propylene Carbonate, Potassium Sorbate, Citric Acid, Sodium Benzoate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, Aluminum Hydroxide, Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891).",
-	"how_to_use": "Suggested Usage:...Find Your Match:.- Check out the undertone descriptors and dry swatch photos to find your best match..- Don't judge the shade by the bottle—most shades look deeper when fully dried down to the true color. ..Fully Custom Coverage:.- Shake well before each use..- Use a sponge to tap Good Apple into skin and build up to whatever level of coverage you want..- Use a dense foundation brush with a buffing motion for more immediate full coverage...Pump It Up:.- Start with 1 pea-size drop for buildable full coverage..- Use a full pump to add even more coverage..- A little goes a long way...Prep &amp; Set:.- Have enlarged pores? Try pressing Lock-It Pore-Refining Primer into skin before applying your foundation, focusing on areas where your pores are most visible..- Got oily areas? Lightly dust on Lock-It Setting Powder for a blurred, silky-smooth finish.",
-	"num_reviews": 1477,
-	"overall_rating": 4.0,
-	"product_url": "https://www.sephora.com/ca/en/product/kvd-vegan-beauty-good-apple-full-coverage-transfer-proof-vegan-serum-foundation-P504366?skuId=2646180&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2646180-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Light 002",
-			"shade_descriptor": "for very fair skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646016-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 004",
-			"shade_descriptor": "for fair skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646024-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 006",
-			"shade_descriptor": "for fair skin with cool pink undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646032-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 008",
-			"shade_descriptor": "for fair skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646040-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 010",
-			"shade_descriptor": "for light skin with cool pink undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646057-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 012",
-			"shade_descriptor": "for light skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646065-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 015",
-			"shade_descriptor": "for light skin with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646073-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 018",
-			"shade_descriptor": "for light skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646081-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 021",
-			"shade_descriptor": "for light skin with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646099-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 024",
-			"shade_descriptor": "for light skin with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646107-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 027",
-			"shade_descriptor": "for light to medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646115-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 030",
-			"shade_descriptor": "for light to medium skin with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646123-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 033",
-			"shade_descriptor": "for light to medium skin with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646131-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 036",
-			"shade_descriptor": "for light to medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646149-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 039",
-			"shade_descriptor": "for medium with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646156-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 042",
-			"shade_descriptor": "for medium with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646164-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 045",
-			"shade_descriptor": "for medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646172-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 048",
-			"shade_descriptor": "for medium skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646180-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 051",
-			"shade_descriptor": "for medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646198-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 057",
-			"shade_descriptor": "for medium to tan skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646214-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 060",
-			"shade_descriptor": "for medium to tan skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646222-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 066",
-			"shade_descriptor": "for medium to tan skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646248-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 068",
-			"shade_descriptor": "for tan skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646255-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 070",
-			"shade_descriptor": "for tan skin with warm terra cotta undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646263-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 072",
-			"shade_descriptor": "for tan to deep skin with neutral bronze undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646271-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 074",
-			"shade_descriptor": "for tan to deep skin with neutral bronze undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646289-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 076",
-			"shade_descriptor": "for tan to deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646297-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 078",
-			"shade_descriptor": "for tan to deep skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646305-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 080",
-			"shade_descriptor": "for deep skin with warm bronze undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646313-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 082",
-			"shade_descriptor": "for deep skin with cool neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646321-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 084",
-			"shade_descriptor": "for deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646339-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 086",
-			"shade_descriptor": "for deep skin with warm terra cotta undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646347-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 088",
-			"shade_descriptor": "for deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646354-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 090",
-			"shade_descriptor": "for deep skin with warm sienna undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646362-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 092",
-			"shade_descriptor": "for deep skin with neutral bronze undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646370-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 094",
-			"shade_descriptor": "for very deep skin with neutral golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646388-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 096",
-			"shade_descriptor": "for very deep skin with neutral golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646396-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 098",
-			"shade_descriptor": "for very deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2646404-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Light 002 - for very fair skin with neutral undertones",
-			"review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Dry skin",
-			"review_text": "This part was so weird on my face. It didn't blend no matter what I did no thank you"
-		},
-		{
-			"review_title": "Horrible Formula, NOT Full Coverage",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
-			"review_text": "This product is NOT full coverage 4 one. But also... This is not the same kind of formula as the lock-it she used to make. Havent bought this in years and saw this one and was like cool, lets try it, bought 2 bottles for black friday deal. I just gave this product a full try and OMG it is terrfible. My skin is combo but you wouldnt have gotten that impression with how cakey and greasy it looked after only and hour. My face also started to break out within 30 minutes of wearing it. Horrible formula no matter how you apply it. Do NOT recommend. It is a scam in my opinion."
-		},
-		{
-			"review_title": "love this foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Olive skin tone, Oily skin",
-			"review_text": "I really like this foundation. the coverage is full and it sets well, lasts all day. KVD really never misses"
-		},
-		{
-			"review_title": "Great coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Fair skin tone, Combination skin",
-			"review_text": "You have to use moisturizer before applying this foundation otherwise it’ll be real kinky and look keg on in my experience anyway I really like it because it is definitely full coverage and make sure skin looks so beautiful kind of like a porcelain doll skin. I’ve been using it for about a year now and I usually only use it if I need to cover up acne or some wrinkles or anything like that but make sure you use moisturizer And then apply the primer and then the foundation and it’ll be beautiful. I promise."
-		},
-		{
-			"review_title": "not sure of the hype",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "extremely full coverage but definitely not the best for dry skin. it works best with a korean foundation puff or a foundation spatula but wouldn’t recommend with brushes as it looks extremely streaky"
-		},
-		{
-			"review_title": "Don’t buy",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I bought this product on sale because I thought it would’ve been great. Had heard great things but it separates on my skin and isn’t made to last. It started gliding along my face. Also my glasses would make it come off on my nose and cheeks. Not a good foundation"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Light 012 - for light skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, gray hair, Fair skin tone, Oily skin",
-			"review_text": "I have been using this from a year and must say that this is the best full coverage foundation till the time I have used. This covers my redness, acne scare entirely. Must recommend foundation."
-		},
-		{
-			"review_title": "love this foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, auburn hair, Normal skin",
-			"review_text": "my current fave. ive used this before and loved it but I like to change it up. happy I came back to this one. it's all the good thing that a foundation should be for my skin type. I can get a  like skin sheerer coverage or build it to a fuller coverage when I need a bit more."
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Medium 033 - for light to medium skin with warm golden undertones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
-			"review_text": "Made my face look chalky and dried it out . Tried it again the next same thing"
-		},
-		{
-			"review_title": "Love it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Oily skin",
-			"review_text": "I love this founfation, it really is full coverage. Leaves your skin feeling so soft"
-		},
-		{
-			"review_title": "The must-have to ruin your makeup",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I simply don’t understand why people like it.   I moisturized my skin really good, then applied this foundation and did the rest of the makeup  - was good. But afte a while it turned into thiat.  I. Addition my skin has a  natural tone, but the shade 008 was yellow! How that could be good"
-		},
-		{
-			"review_title": "Great",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "Love it, I use it as a daily wear. Give me ample coverage for day to day wear"
-		},
-		{
-			"review_title": "Good foundation",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I have been using this for almost a year. You only need one pump and it’s lasted. Coverage is good and not cakey if applied correctly. It is buildable if needed. I have used my hands to apply but mostly use a brush stippling it on."
-		},
-		{
-			"review_title": "not worth it",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "dries out skin. skin did not look good- looked chalky."
-		},
-		{
-			"review_title": "Nice full coverage",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "The texture of this foundation is very nice because it applies smoothly and provides full coverage. It has a natural matte finish. Let the foundation dry first because the color while wet is lighter."
-		},
-		{
-			"review_title": "Better Options",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
-			"review_text": "Really wanted to love this product but it doesn’t perform as well as competitors. Has the tendency to settle in creases after some time, oxidize, and not have very long lasting power."
-		},
-		{
-			"review_title": "Full coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Normal skin",
-			"review_text": "I was so excited to finally try this foundation. I have problem skin from time to time and like a high coverage look. This was great for creating an even skin tone and covering blemishes for important occasions."
-		},
-		{
-			"review_title": "If you have a dry or combo skin, avoid using it.",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "I used this as a sample in the store, liked the coverage and texture, but when I used it at home, after a few hours my skin started to dry quickly and became very patchy. I have a combo skin."
-		},
-		{
-			"review_title": "Performed Well",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "This had decent coverage and performed well. My shade matched well enough. Nice finish, no bothersome scent and the packaging is so cute. Overall I enjoy!"
-		},
-		{
-			"review_title": "Not blown away.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "blonde hair, Fair skin tone, Normal skin",
-			"review_text": "This is not a top 5 foundation for me. I like the  fluidity of this, how I can build from light to medium coverage. What I don’t like is how it looks and wears after a couple hours. Could be a mixing foundation for me."
-		},
-		{
-			"review_title": "Very bad new version",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "I’ll give it one star compared to the old version of this KVD foundation. The old one used to be full coverage, matte, would last all day. This one doesn’t do any of that, makes my skin extremely oily, covers dark spots (not fully) for like 40 minutes and then fades off. Feels really greasy on the skin after a couple hours."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Light 008 - for fair skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "best foundation I have ever used! I love how it melts with my skin and I love how none of my skin imperfections are noticeable! 11/10"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Light 006 - for fair skin with cool pink undertones",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "Color match is spot on. Definitely not transfer resistant or long lasting. I used with the kvd primer and still didn’t help. After a few hours makeup became greasy and smeared. Blush and bronzer break down too. Wouldn’t buy again."
-		},
-		{
-			"review_title": "good if ur young",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Combination skin",
-			"review_text": "folds into every wrinkle u have not meant for Women above 20."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "puchssed at full price. color not the same as powder foundation. kind of thick to apply .does cover well no settling in fine lines."
-		},
-		{
-			"review_title": "Good one",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
-			"review_text": "I recieved this product in exhange for my honest review and overall i like the foundation.  Is a good one. The scent and the coverage was really good. You can blend so easy and the texture is so light."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Tan 066 - for medium to tan skin with cool undertones",
-			"review_buyer_description": "Normal skin",
-			"review_text": "I have used this product for years. And I will definitely stick with it."
-		},
-		{
-			"review_title": "Awesome foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Combination skin",
-			"review_text": "Great coverage, wore really well on my skin. Good for any season (aka not uncomfortable to use in Summer or Winter)"
-		},
-		{
-			"review_title": "Never use another foundation again!! So GREAT!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
-			"review_text": "I have tried 30 different kinds of foundation but this is the only one that has smooth full coverage & I only need two small pumps and it covers the entire face. Last long as well."
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "Light 008 - for fair skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, Oily skin",
-			"review_text": "Someone said  I used KVD lock it foundation for years, and this is Good Apple version is nothing like that. It's liquidy and moves on the skin. It is not lo g lasting. It is not full coverage. Do not waste time and money on it. and I agree 1000000%. How dare they try to pass it off as the brand I used to buy. This is such cheap trash. The pump doesn't even work, It's really low quality for how expensive it is."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Medium 048 - for medium skin with cool undertones",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "Sooo good. Covers acne scars and super natural skin like finish. I have not been this impressed w a foundation ever! Not to mention it is free of pore clogging ingredients!!! Hope KVD Never gets rid of this!"
-		},
-		{
-			"review_title": "My number one go to.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "Love this foundation she’s a perfect match for my skin from forehead to my lower neck, not cakey at all She feels like skin. I’ve worn this foundation from morning to night and only applied a press powder throughout the day since I do have really oily skin. Good apple did not make me feel greasy what so ever I will buy her again and again.  greasy or"
-		},
-		{
-			"review_title": "The best",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Normal skin",
-			"review_text": "The finishing is so smooth, pore-less. Cover almost my skin. That is serum base , so I don’t feel any dry. My skin is moisturized. Otherwise, I feel so lightweight , better than some brands I used to use before. The best thing is my make up still looks good after 5hours (maybe more) So perfect. Highly recommend!"
-		},
-		{
-			"review_title": "Can never find my shade",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Lightweight and good coverage. This foundation oxides like crazy tried 3 different shade and gave up."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Light 002 - for very fair skin with neutral undertones",
-			"review_buyer_description": "Gray eyes, brunette hair, Porcelain skin tone, Dry skin",
-			"review_text": "As a super pale gal, this was a wonderful shade. The coverage is really great! a little goes a long way so I encourage you to use a tiny bit of foundation and build up if needed. Make sure you let your moisturizer and primer settle onto the skin for a few minutes before applying the foundation. If you don't it may start to cake onto dry areas of the face."
-		},
-		{
-			"review_title": "Full coverage, but be careful with skin prep!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "Overall, I think this product was just okay. I just think it isn’t meant for my skin type (combination) Packaging: Love! Cute, luxurious glass bottle. Nice pump that allows you to dispense as much or as little product as you want, so you don’t waste. Formula: Definitely buildable full coverage! Natural matte finish. I thought this product sat really well on the oilier parts of my face surprisingly. However, it did noticeably cling to my dry spots and I did experience some pilling if I was not careful about skin prep beforehand (really letting my moisturizer soak in prior to application). It set itself down and felt lightweight on the skin. Makes you look perfected from far away, but looks a bit rough up close by accentuating dryness."
-		},
-		{
-			"review_title": "Long lasting/good finish/horrible oxidation",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "The way this foundation performs is great! However, it oxidizes SIGNIFICANTLY!!!! I can literally see as I’m applying the product that it darkens at least 2 shades before my eyes!  I’going to continuing to use because"
-		},
-		{
-			"review_title": "Good",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Oily skin",
-			"review_text": "This foundation is great goes on easy and covers great. It is very buildable. Doesn't leave my face feeling heavy and caked."
-		},
-		{
-			"review_title": "Full Coverage Without the Full Coverage Feel",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "I will be the first to say that full coverage foundations are not usually my favorite type. I lean towards medium and like to build them up, however this foundation gives you coverage without the weight. It’s breathable and light but still leaves you looking naturally flawless. If you’re curious it’s definitely worth a try."
-		},
-		{
-			"review_title": "Very Nice Product!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Dry skin",
-			"review_text": "I like this product. It offers nice coverage, but is not cakey and doesn't dry out my face."
-		},
-		{
-			"review_title": "Not good for my extreme dryness",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I really wanted to like this product, but it clung to all my dry patches and made my skin look a lot drier than it actually was. I would recommend that if you have a normal or oily skin, this might be a good option due to the oil absorbing properties in my skin. This might work well for people with dry skin as well, but I have extremely dry skin so take that into account.￼"
-		},
-		{
-			"review_title": "Great every day",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, red hair, Dry skin",
-			"review_text": "Great everyday foundation. Lightweight w/ good coverage. Its luminous so if your oily powder your T Zone and you’ll be good. I need a darker shade for summer, so will repurchase."
-		},
-		{
-			"review_title": "Not full coverage & not Long lasting",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Medium skin tone, Normal skin",
-			"review_text": "I used KVD lock it foundation for years, and this is Good Apple version is nothing like that. It's liquidy and moves on the skin. It is not lo g lasting. It is not full coverage. Do not waste time and money on it."
-		},
-		{
-			"review_title": "Stunning skin like full coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "This foundation is incredible, it's definitely full coverage but doesn't look or feel heavy. I blend it in sections since it dries down quick, first with a brush and then I stamp it with a beauty blender sprayed with Too Faced Hangover RX hydrating mist.  I made the mistake of powdering over my whole face and I looked like a corpse. This sets down matte and doesn't need powder.  The shade match 18 is impeccable."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Tan 060 - for medium to tan skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "For all the acne prone oily girlies this is for you! It feels so good and isn’t even heavy 10/10."
-		},
-		{
-			"review_title": "Great for acne prone skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "This foundation has amazing coverage. I break out easily and when I use this product it doesn’t make me breakout at all!"
-		},
-		{
-			"review_title": "Full coverage but light weight",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "This is a great foundation for an event. It is full coverage without feeling too heavy. I gave 4 stars because for me, it’s not an everyday. However, I do believe for the right person it could be a great everyday foundation."
-		},
-		{
-			"review_title": "Too dry",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Oily skin",
-			"review_text": "Theres nothing serum like about this product. Too dry so disappointed  FYI - I’m not buying expensive foundation at Sephora anymore"
-		},
-		{
-			"review_title": "Love this stuff",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I like it a lot. Doesn’t come off on my clothes or hands like my precious foundation. Great job KVD"
-		},
-		{
-			"review_title": "Great For Easily Clogged Pores And Acne Prone Skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Porcelain skin tone, Combination skin",
-			"review_text": "great foundation just have to set it quick so it doesn't oxidize too much, also a very peachy tone to it definitely not warm yellow toned."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Oily skin",
-			"review_text": "I am sharing my honest and authentic opinion, as a Sephora Beauty Insider Community Ambassador. I am so impressed with this foundation for so many reasons. The shade is perfect firstly. The foundation gives a good amount of coverage without looking cakey or heavy. It has a skin like feeling. It wesrs well thoughout the day. I can't ask more. This is my new go to every foundation."
-		},
-		{
-			"review_title": "Not sure",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
-			"review_text": "Was gifted the wrong shade so unfortunately i didn’t get to try it."
-		},
-		{
-			"review_title": "Good product, worth trying for buildable coverage!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I think the before and after shows the coverage! The texture is smooth with a water-like consistency la good middle between watery and creamy!). The finish is matte which I like but you have to be smart about how you apply setting powder to avoid being cakey! The package isn't the best quality wise but all the broke was the cap anyways.  Overall a good affordable product!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Tan 074 - for tan to deep skin with neutral bronze undertones",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "This color was not my match so that’s the reasoning for the rating. But i did apply it and it is lightweight and has coverage to it. The packaging is true Kat Von fashion."
-		},
-		{
-			"review_title": "Non comedogenic for the WIN",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I liked how this product was non comedogenic, that’s SUPER important to me as someone who is acne prone. I also liked the how the packaging was glass rather than plastic, it feels very luxurious. KVD beauty shades seem to run light"
-		},
-		{
-			"review_title": "Your skin but better",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "It’s like second skin. No separation, caking, creasing or transferring throughout the entire day. I have combo skin for reference. It didn’t accentuate any pores or texture and stayed put for 8+ hours. I honestly have nothing negative to say."
-		},
-		{
-			"review_title": "Great product!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I like this as it goes on smoothly without caking, looks so natural"
-		},
-		{
-			"review_title": "Love it !",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Deep skin tone, Combination skin",
-			"review_text": "I absolutely love this foundation . It goes on so smooth and the way it blends into my skin whewwww ! It’s definitely my go to foundation for my routine . I love that it’s not cakey and it even lasted after a Pilates session !"
-		},
-		{
-			"review_title": "full coverage, but lightweight !",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Oily skin",
-			"review_text": "I love this foundation. It is very full coverage while still not feeling thick or caked on. It still appears natural enough. The pump is easy to use and ensures no waste of product. I would definitely recommend!"
-		},
-		{
-			"review_title": "Beautiful Foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "This foundation sits beautiful on the skin. It feels light weight and not heavy due to it being a serum foundation. It can be build up to be more of a full coverage but is naturally a medium foundation."
-		},
-		{
-			"review_title": "Non comedogenic for the WIN",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I liked how this product was non comedogenic, that’s SUPER important to me as someone who is acne prone. I also liked the how the packaging was glass rather than plastic, it feels very luxurious. KVD beauty shades seem to run light"
-		},
-		{
-			"review_title": "Your skin but better",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "It’s like second skin. No separation, caking, creasing or transferring throughout the entire day. I have combo skin for reference. It didn’t accentuate any pores or texture and stayed put for 8+ hours. I honestly have nothing negative to say."
-		}
-	]
+    "product_id": "904",
+    "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+    "brand": "KVD Beauty",
+    "categories": "Makeup, Face, Foundation",
+    "price": 57.0,
+    "about": "What it is: A non-comedogenic, lightweight serum foundation that covers blemishes, acne scars, and hyperpigmentation, while visibly blurring pores. The extreme long wear formula controls shine all day and stands up to sweat and humidity...Coverage: Full..Finish: Natural..Formulation: Liquid..Highlighted Ingredients:.- Quince Leaf Extract: Helps keep shine in check..- Apple Extract: Nourishes and keeps skin looking fresh..- Glycerin: Nourishes skin for all-day comfort...Ingredient Callouts: This product is vegan, cruelty-free, and comes in recyclable packaging...What Else You Need to Know: Packed with flexible elastomer pigments, this serum-light foundation covers everything from blemishes to acne scars to hyperpigmentation without feeling heavy on skin. This non-comedogenic formula visibly blurs pores, stands up to sweat and humidity, and it's flashback-free. When you try, let it dry: This foundation's shades look different when wet vs. fully dry because of the high percent of pigment and ingredients that help provide the extreme long wear. When you pick your shade, make sure to let it dry down completely to see the true color of the pigments...Clinical Results: In a consumer study on 30 volunteers, immediately after application:.- 100% agreed it was easy to apply.- 100% agreed it had a shine-free finish.- 93% agreed it felt lightweight on skin",
+    "ingredients": "-Quince Leaf Extract: Helps keep shine in check. .-Apple Extract: Nourishes and keeps skin looking fresh. .-Glycerin: Nourishes skin for all-day comfort. ..Aqua/Water/Eau, Dimethicone, Isododecane,  Trimethylsiloxysilicate, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, Pyrus Malus (Apple) Fruit Extract, Cydonia Oblonga Leaf Extract, Ethylhexylglycerin, Phenoxyethanol, Dimethicone Crosspolymer, Silica, Sodium Chloride, Dimethicone/Vinyl Dimethicone Crosspolymer, Magnesium Sulfate, Triethoxycaprylylsilane, Sodium Dehydroacetate, Disteardimonium Hectorite, Benzoic Acid, C24-28 Alkyl Methicone, Dehydroacetic Acid, Propylene Carbonate, Potassium Sorbate, Citric Acid, Sodium Benzoate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, Aluminum Hydroxide, Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891).",
+    "how_to_use": "Suggested Usage:...Find Your Match:.- Check out the undertone descriptors and dry swatch photos to find your best match..- Don't judge the shade by the bottleu2014most shades look deeper when fully dried down to the true color. ..Fully Custom Coverage:.- Shake well before each use..- Use a sponge to tap Good Apple into skin and build up to whatever level of coverage you want..- Use a dense foundation brush with a buffing motion for more immediate full coverage...Pump It Up:.- Start with 1 pea-size drop for buildable full coverage..- Use a full pump to add even more coverage..- A little goes a long way...Prep &amp; Set:.- Have enlarged pores? Try pressing Lock-It Pore-Refining Primer into skin before applying your foundation, focusing on areas where your pores are most visible..- Got oily areas? Lightly dust on Lock-It Setting Powder for a blurred, silky-smooth finish.",
+    "num_reviews": 1477,
+    "overall_rating": 4.0,
+    "product_url": "https://www.sephora.com/ca/en/product/kvd-vegan-beauty-good-apple-full-coverage-transfer-proof-vegan-serum-foundation-P504366?skuId=2646180&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2646180-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Light 002",
+            "shade_descriptor": "for very fair skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646016-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 004",
+            "shade_descriptor": "for fair skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646024-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 006",
+            "shade_descriptor": "for fair skin with cool pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646032-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 008",
+            "shade_descriptor": "for fair skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646040-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 010",
+            "shade_descriptor": "for light skin with cool pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646057-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 012",
+            "shade_descriptor": "for light skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646065-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 015",
+            "shade_descriptor": "for light skin with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646073-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 018",
+            "shade_descriptor": "for light skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646081-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 021",
+            "shade_descriptor": "for light skin with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646099-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 024",
+            "shade_descriptor": "for light skin with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646107-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 027",
+            "shade_descriptor": "for light to medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646115-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 030",
+            "shade_descriptor": "for light to medium skin with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646123-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 033",
+            "shade_descriptor": "for light to medium skin with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646131-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 036",
+            "shade_descriptor": "for light to medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646149-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 039",
+            "shade_descriptor": "for medium with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646156-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 042",
+            "shade_descriptor": "for medium with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646164-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 045",
+            "shade_descriptor": "for medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646172-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 048",
+            "shade_descriptor": "for medium skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646180-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 051",
+            "shade_descriptor": "for medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646198-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 057",
+            "shade_descriptor": "for medium to tan skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646214-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 060",
+            "shade_descriptor": "for medium to tan skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646222-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 066",
+            "shade_descriptor": "for medium to tan skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646248-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 068",
+            "shade_descriptor": "for tan skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646255-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 070",
+            "shade_descriptor": "for tan skin with warm terra cotta undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646263-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 072",
+            "shade_descriptor": "for tan to deep skin with neutral bronze undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646271-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 074",
+            "shade_descriptor": "for tan to deep skin with neutral bronze undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646289-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 076",
+            "shade_descriptor": "for tan to deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646297-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 078",
+            "shade_descriptor": "for tan to deep skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646305-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 080",
+            "shade_descriptor": "for deep skin with warm bronze undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646313-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 082",
+            "shade_descriptor": "for deep skin with cool neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646321-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 084",
+            "shade_descriptor": "for deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646339-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 086",
+            "shade_descriptor": "for deep skin with warm terra cotta undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646347-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 088",
+            "shade_descriptor": "for deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646354-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 090",
+            "shade_descriptor": "for deep skin with warm sienna undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646362-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 092",
+            "shade_descriptor": "for deep skin with neutral bronze undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646370-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 094",
+            "shade_descriptor": "for very deep skin with neutral golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646388-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 096",
+            "shade_descriptor": "for very deep skin with neutral golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646396-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 098",
+            "shade_descriptor": "for very deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2646404-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Light 002 - for very fair skin with neutral undertones",
+            "review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "This part was so weird on my face. It didn't blend no matter what I did no thank you"
+        },
+        {
+            "review_title": "Horrible Formula, NOT Full Coverage",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+            "review_text": "This product is NOT full coverage 4 one. But also... This is not the same kind of formula as the lock-it she used to make. Havent bought this in years and saw this one and was like cool, lets try it, bought 2 bottles for black friday deal. I just gave this product a full try and OMG it is terrfible. My skin is combo but you wouldnt have gotten that impression with how cakey and greasy it looked after only and hour. My face also started to break out within 30 minutes of wearing it. Horrible formula no matter how you apply it. Do NOT recommend. It is a scam in my opinion."
+        },
+        {
+            "review_title": "love this foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Olive skin tone, Oily skin",
+            "review_text": "I really like this foundation. the coverage is full and it sets well, lasts all day. KVD really never misses"
+        },
+        {
+            "review_title": "Great coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Fair skin tone, Combination skin",
+            "review_text": "You have to use moisturizer before applying this foundation otherwise itu2019ll be real kinky and look keg on in my experience anyway I really like it because it is definitely full coverage and make sure skin looks so beautiful kind of like a porcelain doll skin. Iu2019ve been using it for about a year now and I usually only use it if I need to cover up acne or some wrinkles or anything like that but make sure you use moisturizer And then apply the primer and then the foundation and itu2019ll be beautiful. I promise."
+        },
+        {
+            "review_title": "not sure of the hype",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "extremely full coverage but definitely not the best for dry skin. it works best with a korean foundation puff or a foundation spatula but wouldnu2019t recommend with brushes as it looks extremely streaky"
+        },
+        {
+            "review_title": "Donu2019t buy",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I bought this product on sale because I thought it wouldu2019ve been great. Had heard great things but it separates on my skin and isnu2019t made to last. It started gliding along my face. Also my glasses would make it come off on my nose and cheeks. Not a good foundation"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Light 012 - for light skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, gray hair, Fair skin tone, Oily skin",
+            "review_text": "I have been using this from a year and must say that this is the best full coverage foundation till the time I have used. This covers my redness, acne scare entirely. Must recommend foundation."
+        },
+        {
+            "review_title": "love this foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, auburn hair, Normal skin",
+            "review_text": "my current fave. ive used this before and loved it but I like to change it up. happy I came back to this one. it's all the good thing that a foundation should be for my skin type. I can get a  like skin sheerer coverage or build it to a fuller coverage when I need a bit more."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Medium 033 - for light to medium skin with warm golden undertones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "Made my face look chalky and dried it out . Tried it again the next same thing"
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Oily skin",
+            "review_text": "I love this founfation, it really is full coverage. Leaves your skin feeling so soft"
+        },
+        {
+            "review_title": "The must-have to ruin your makeup",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I simply donu2019t understand why people like it.   I moisturized my skin really good, then applied this foundation and did the rest of the makeup  - was good. But afte a while it turned into thiat.  I. Addition my skin has a  natural tone, but the shade 008 was yellow! How that could be good"
+        },
+        {
+            "review_title": "Great",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Love it, I use it as a daily wear. Give me ample coverage for day to day wear"
+        },
+        {
+            "review_title": "Good foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I have been using this for almost a year. You only need one pump and itu2019s lasted. Coverage is good and not cakey if applied correctly. It is buildable if needed. I have used my hands to apply but mostly use a brush stippling it on."
+        },
+        {
+            "review_title": "not worth it",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "dries out skin. skin did not look good- looked chalky."
+        },
+        {
+            "review_title": "Nice full coverage",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "The texture of this foundation is very nice because it applies smoothly and provides full coverage. It has a natural matte finish. Let the foundation dry first because the color while wet is lighter."
+        },
+        {
+            "review_title": "Better Options",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "Really wanted to love this product but it doesnu2019t perform as well as competitors. Has the tendency to settle in creases after some time, oxidize, and not have very long lasting power."
+        },
+        {
+            "review_title": "Full coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Normal skin",
+            "review_text": "I was so excited to finally try this foundation. I have problem skin from time to time and like a high coverage look. This was great for creating an even skin tone and covering blemishes for important occasions."
+        },
+        {
+            "review_title": "If you have a dry or combo skin, avoid using it.",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I used this as a sample in the store, liked the coverage and texture, but when I used it at home, after a few hours my skin started to dry quickly and became very patchy. I have a combo skin."
+        },
+        {
+            "review_title": "Performed Well",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "This had decent coverage and performed well. My shade matched well enough. Nice finish, no bothersome scent and the packaging is so cute. Overall I enjoy!"
+        },
+        {
+            "review_title": "Not blown away.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "blonde hair, Fair skin tone, Normal skin",
+            "review_text": "This is not a top 5 foundation for me. I like the  fluidity of this, how I can build from light to medium coverage. What I donu2019t like is how it looks and wears after a couple hours. Could be a mixing foundation for me."
+        },
+        {
+            "review_title": "Very bad new version",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "Iu2019ll give it one star compared to the old version of this KVD foundation. The old one used to be full coverage, matte, would last all day. This one doesnu2019t do any of that, makes my skin extremely oily, covers dark spots (not fully) for like 40 minutes and then fades off. Feels really greasy on the skin after a couple hours."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Light 008 - for fair skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "best foundation I have ever used! I love how it melts with my skin and I love how none of my skin imperfections are noticeable! 11/10"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Light 006 - for fair skin with cool pink undertones",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Color match is spot on. Definitely not transfer resistant or long lasting. I used with the kvd primer and still didnu2019t help. After a few hours makeup became greasy and smeared. Blush and bronzer break down too. Wouldnu2019t buy again."
+        },
+        {
+            "review_title": "good if ur young",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Combination skin",
+            "review_text": "folds into every wrinkle u have not meant for Women above 20."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "puchssed at full price. color not the same as powder foundation. kind of thick to apply .does cover well no settling in fine lines."
+        },
+        {
+            "review_title": "Good one",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
+            "review_text": "I recieved this product in exhange for my honest review and overall i like the foundation.  Is a good one. The scent and the coverage was really good. You can blend so easy and the texture is so light."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Tan 066 - for medium to tan skin with cool undertones",
+            "review_buyer_description": "Normal skin",
+            "review_text": "I have used this product for years. And I will definitely stick with it."
+        },
+        {
+            "review_title": "Awesome foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Combination skin",
+            "review_text": "Great coverage, wore really well on my skin. Good for any season (aka not uncomfortable to use in Summer or Winter)"
+        },
+        {
+            "review_title": "Never use another foundation again!! So GREAT!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "I have tried 30 different kinds of foundation but this is the only one that has smooth full coverage & I only need two small pumps and it covers the entire face. Last long as well."
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "Light 008 - for fair skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Oily skin",
+            "review_text": "Someone said  I used KVD lock it foundation for years, and this is Good Apple version is nothing like that. It's liquidy and moves on the skin. It is not lo g lasting. It is not full coverage. Do not waste time and money on it. and I agree 1000000%. How dare they try to pass it off as the brand I used to buy. This is such cheap trash. The pump doesn't even work, It's really low quality for how expensive it is."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Medium 048 - for medium skin with cool undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Sooo good. Covers acne scars and super natural skin like finish. I have not been this impressed w a foundation ever! Not to mention it is free of pore clogging ingredients!!! Hope KVD Never gets rid of this!"
+        },
+        {
+            "review_title": "My number one go to.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "Love this foundation sheu2019s a perfect match for my skin from forehead to my lower neck, not cakey at all She feels like skin. Iu2019ve worn this foundation from morning to night and only applied a press powder throughout the day since I do have really oily skin. Good apple did not make me feel greasy what so ever I will buy her again and again.  greasy or"
+        },
+        {
+            "review_title": "The best",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Normal skin",
+            "review_text": "The finishing is so smooth, pore-less. Cover almost my skin. That is serum base , so I donu2019t feel any dry. My skin is moisturized. Otherwise, I feel so lightweight , better than some brands I used to use before. The best thing is my make up still looks good after 5hours (maybe more) So perfect. Highly recommend!"
+        },
+        {
+            "review_title": "Can never find my shade",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Lightweight and good coverage. This foundation oxides like crazy tried 3 different shade and gave up."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Light 002 - for very fair skin with neutral undertones",
+            "review_buyer_description": "Gray eyes, brunette hair, Porcelain skin tone, Dry skin",
+            "review_text": "As a super pale gal, this was a wonderful shade. The coverage is really great! a little goes a long way so I encourage you to use a tiny bit of foundation and build up if needed. Make sure you let your moisturizer and primer settle onto the skin for a few minutes before applying the foundation. If you don't it may start to cake onto dry areas of the face."
+        },
+        {
+            "review_title": "Full coverage, but be careful with skin prep!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "Overall, I think this product was just okay. I just think it isnu2019t meant for my skin type (combination) Packaging: Love! Cute, luxurious glass bottle. Nice pump that allows you to dispense as much or as little product as you want, so you donu2019t waste. Formula: Definitely buildable full coverage! Natural matte finish. I thought this product sat really well on the oilier parts of my face surprisingly. However, it did noticeably cling to my dry spots and I did experience some pilling if I was not careful about skin prep beforehand (really letting my moisturizer soak in prior to application). It set itself down and felt lightweight on the skin. Makes you look perfected from far away, but looks a bit rough up close by accentuating dryness."
+        },
+        {
+            "review_title": "Long lasting/good finish/horrible oxidation",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "The way this foundation performs is great! However, it oxidizes SIGNIFICANTLY!!!! I can literally see as Iu2019m applying the product that it darkens at least 2 shades before my eyes!  Iu2019going to continuing to use because"
+        },
+        {
+            "review_title": "Good",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Oily skin",
+            "review_text": "This foundation is great goes on easy and covers great. It is very buildable. Doesn't leave my face feeling heavy and caked."
+        },
+        {
+            "review_title": "Full Coverage Without the Full Coverage Feel",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "I will be the first to say that full coverage foundations are not usually my favorite type. I lean towards medium and like to build them up, however this foundation gives you coverage without the weight. Itu2019s breathable and light but still leaves you looking naturally flawless. If youu2019re curious itu2019s definitely worth a try."
+        },
+        {
+            "review_title": "Very Nice Product!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Dry skin",
+            "review_text": "I like this product. It offers nice coverage, but is not cakey and doesn't dry out my face."
+        },
+        {
+            "review_title": "Not good for my extreme dryness",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I really wanted to like this product, but it clung to all my dry patches and made my skin look a lot drier than it actually was. I would recommend that if you have a normal or oily skin, this might be a good option due to the oil absorbing properties in my skin. This might work well for people with dry skin as well, but I have extremely dry skin so take that into account.ufffc"
+        },
+        {
+            "review_title": "Great every day",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, red hair, Dry skin",
+            "review_text": "Great everyday foundation. Lightweight w/ good coverage. Its luminous so if your oily powder your T Zone and youu2019ll be good. I need a darker shade for summer, so will repurchase."
+        },
+        {
+            "review_title": "Not full coverage & not Long lasting",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Medium skin tone, Normal skin",
+            "review_text": "I used KVD lock it foundation for years, and this is Good Apple version is nothing like that. It's liquidy and moves on the skin. It is not lo g lasting. It is not full coverage. Do not waste time and money on it."
+        },
+        {
+            "review_title": "Stunning skin like full coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "This foundation is incredible, it's definitely full coverage but doesn't look or feel heavy. I blend it in sections since it dries down quick, first with a brush and then I stamp it with a beauty blender sprayed with Too Faced Hangover RX hydrating mist.  I made the mistake of powdering over my whole face and I looked like a corpse. This sets down matte and doesn't need powder.  The shade match 18 is impeccable."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Tan 060 - for medium to tan skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "For all the acne prone oily girlies this is for you! It feels so good and isnu2019t even heavy 10/10."
+        },
+        {
+            "review_title": "Great for acne prone skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This foundation has amazing coverage. I break out easily and when I use this product it doesnu2019t make me breakout at all!"
+        },
+        {
+            "review_title": "Full coverage but light weight",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "This is a great foundation for an event. It is full coverage without feeling too heavy. I gave 4 stars because for me, itu2019s not an everyday. However, I do believe for the right person it could be a great everyday foundation."
+        },
+        {
+            "review_title": "Too dry",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Oily skin",
+            "review_text": "Theres nothing serum like about this product. Too dry so disappointed  FYI - Iu2019m not buying expensive foundation at Sephora anymore"
+        },
+        {
+            "review_title": "Love this stuff",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "I like it a lot. Doesnu2019t come off on my clothes or hands like my precious foundation. Great job KVD"
+        },
+        {
+            "review_title": "Great For Easily Clogged Pores And Acne Prone Skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Porcelain skin tone, Combination skin",
+            "review_text": "great foundation just have to set it quick so it doesn't oxidize too much, also a very peachy tone to it definitely not warm yellow toned."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Oily skin",
+            "review_text": "I am sharing my honest and authentic opinion, as a Sephora Beauty Insider Community Ambassador. I am so impressed with this foundation for so many reasons. The shade is perfect firstly. The foundation gives a good amount of coverage without looking cakey or heavy. It has a skin like feeling. It wesrs well thoughout the day. I can't ask more. This is my new go to every foundation."
+        },
+        {
+            "review_title": "Not sure",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
+            "review_text": "Was gifted the wrong shade so unfortunately i didnu2019t get to try it."
+        },
+        {
+            "review_title": "Good product, worth trying for buildable coverage!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I think the before and after shows the coverage! The texture is smooth with a water-like consistency la good middle between watery and creamy!). The finish is matte which I like but you have to be smart about how you apply setting powder to avoid being cakey! The package isn't the best quality wise but all the broke was the cap anyways.  Overall a good affordable product!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Tan 074 - for tan to deep skin with neutral bronze undertones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "This color was not my match so thatu2019s the reasoning for the rating. But i did apply it and it is lightweight and has coverage to it. The packaging is true Kat Von fashion."
+        },
+        {
+            "review_title": "Non comedogenic for the WIN",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I liked how this product was non comedogenic, thatu2019s SUPER important to me as someone who is acne prone. I also liked the how the packaging was glass rather than plastic, it feels very luxurious. KVD beauty shades seem to run light"
+        },
+        {
+            "review_title": "Your skin but better",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "Itu2019s like second skin. No separation, caking, creasing or transferring throughout the entire day. I have combo skin for reference. It didnu2019t accentuate any pores or texture and stayed put for 8+ hours. I honestly have nothing negative to say."
+        },
+        {
+            "review_title": "Great product!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I like this as it goes on smoothly without caking, looks so natural"
+        },
+        {
+            "review_title": "Love it !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Combination skin",
+            "review_text": "I absolutely love this foundation . It goes on so smooth and the way it blends into my skin whewwww ! Itu2019s definitely my go to foundation for my routine . I love that itu2019s not cakey and it even lasted after a Pilates session !"
+        },
+        {
+            "review_title": "full coverage, but lightweight !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Oily skin",
+            "review_text": "I love this foundation. It is very full coverage while still not feeling thick or caked on. It still appears natural enough. The pump is easy to use and ensures no waste of product. I would definitely recommend!"
+        },
+        {
+            "review_title": "Beautiful Foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "This foundation sits beautiful on the skin. It feels light weight and not heavy due to it being a serum foundation. It can be build up to be more of a full coverage but is naturally a medium foundation."
+        },
+        {
+            "review_title": "Non comedogenic for the WIN",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I liked how this product was non comedogenic, thatu2019s SUPER important to me as someone who is acne prone. I also liked the how the packaging was glass rather than plastic, it feels very luxurious. KVD beauty shades seem to run light"
+        },
+        {
+            "review_title": "Your skin but better",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "Itu2019s like second skin. No separation, caking, creasing or transferring throughout the entire day. I have combo skin for reference. It didnu2019t accentuate any pores or texture and stayed put for 8+ hours. I honestly have nothing negative to say."
+        }
+    ]
 }

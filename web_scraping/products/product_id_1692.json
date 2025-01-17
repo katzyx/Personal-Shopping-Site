@@ -1,57 +1,57 @@
 {
-	"product_id": "1692",
-	"name": "Plant Fibre Lash Collection",
-	"brand": "Velour Lashes",
-	"categories": "Makeup, Eye, False Eyelashes",
-	"price": 24.5,
-	"about": "What it is: A pair of beginner-friendly, natural-looking false lashes that can be reused at least 20 times...Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, cruelty-free, and comes in recyclable packaging...What Else You Need to Know: Plant Fibre lashes are handmade with hemp-derived fibres on a full length black band for fluffy, natural-looking and lightweight comfort.",
-	"ingredients": "Hemp Fibres",
-	"how_to_use": "Suggested Usage:.How to Apply with Velour Lash Adhesive:.-Measure and trim the lash band to fit your natural lash line..-Apply a thin layer of Lash Adhesive to the band and wait 30 seconds..-Place the lash along your lash line and adjust as necessary...How to Apply with Velour Lash &amp; Go Eyeliner (sold separately):.-Measure and trim the lash band to fit your natural lash line..-Starting with one eye, apply Lash &amp; Go Eyeliner (sold separately) from inner to outer corner of your lash line..-Place the lash along your lash line when eyeliner is still wet. ..Recycling Instructions:.-Remove the sleeve from the box and take the lash tray out before recycling all pieces.",
-	"num_reviews": 174,
-	"overall_rating": 4.7,
-	"product_url": "https://www.sephora.com/ca/en/product/plant-fibre-lash-collection-P501532?skuId=2708998&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2708998-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Second Nature",
-			"shade_descriptor": "natural-looking and lightweight, the perfect everyday lash",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2604577-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "A New Leaf",
-			"shade_descriptor": "wispy and full volume for a fresh-faced look",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2604544-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cloud Nine",
-			"shade_descriptor": "ultra-wispy and gradually flared to create a sultry look",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2604536-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Butterfly Effect",
-			"shade_descriptor": "ulta-natural volume, fluttery wing-like look, hemp-derived fibers",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2708998-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Stargazing",
-			"shade_descriptor": "natural, round flirty lash, hemp-derived fibers",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2709004-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Okay.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, notSure skin tone, Combination skin",
-			"review_text": "Okay, but not as natural as “advertised.” I am personally not a fan of super full looking lashes, so I thought these looked nice for occasions. However, they are much fuller than what the picture shows them as. So if you prefer more natural looking sets I would say these are not for you."
-		},
-		{
-			"review_title": "Absolute must!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Such a cute pair of lashes!! My go-tos ALWAYS!! They’re so comfy & I barely feel them! I love the way they pull my glam together! Definitely will be purchasing again!"
-		}
-	]
+    "product_id": "1692",
+    "name": "Plant Fibre Lash Collection",
+    "brand": "Velour Lashes",
+    "categories": "Makeup, Eye, False Eyelashes",
+    "price": 24.5,
+    "about": "What it is: A pair of beginner-friendly, natural-looking false lashes that can be reused at least 20 times...Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, cruelty-free, and comes in recyclable packaging...What Else You Need to Know: Plant Fibre lashes are handmade with hemp-derived fibres on a full length black band for fluffy, natural-looking and lightweight comfort.",
+    "ingredients": "Hemp Fibres",
+    "how_to_use": "Suggested Usage:.How to Apply with Velour Lash Adhesive:.-Measure and trim the lash band to fit your natural lash line..-Apply a thin layer of Lash Adhesive to the band and wait 30 seconds..-Place the lash along your lash line and adjust as necessary...How to Apply with Velour Lash &amp; Go Eyeliner (sold separately):.-Measure and trim the lash band to fit your natural lash line..-Starting with one eye, apply Lash &amp; Go Eyeliner (sold separately) from inner to outer corner of your lash line..-Place the lash along your lash line when eyeliner is still wet. ..Recycling Instructions:.-Remove the sleeve from the box and take the lash tray out before recycling all pieces.",
+    "num_reviews": 174,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/plant-fibre-lash-collection-P501532?skuId=2708998&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2708998-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Second Nature",
+            "shade_descriptor": "natural-looking and lightweight, the perfect everyday lash",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2604577-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "A New Leaf",
+            "shade_descriptor": "wispy and full volume for a fresh-faced look",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2604544-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cloud Nine",
+            "shade_descriptor": "ultra-wispy and gradually flared to create a sultry look",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2604536-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Butterfly Effect",
+            "shade_descriptor": "ulta-natural volume, fluttery wing-like look, hemp-derived fibers",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2708998-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Stargazing",
+            "shade_descriptor": "natural, round flirty lash, hemp-derived fibers",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2709004-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Okay.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, notSure skin tone, Combination skin",
+            "review_text": "Okay, but not as natural as u201cadvertised.u201d I am personally not a fan of super full looking lashes, so I thought these looked nice for occasions. However, they are much fuller than what the picture shows them as. So if you prefer more natural looking sets I would say these are not for you."
+        },
+        {
+            "review_title": "Absolute must!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Such a cute pair of lashes!! My go-tos ALWAYS!! Theyu2019re so comfy & I barely feel them! I love the way they pull my glam together! Definitely will be purchasing again!"
+        }
+    ]
 }

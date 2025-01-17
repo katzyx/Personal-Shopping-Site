@@ -1,33 +1,32 @@
 {
-	"product_id": "769",
-	"name": "Gaultier Divine Eau de Parfum",
-	"brand": "Jean Paul Gaultier",
-	"categories": "Fragrance, Women, Perfume",
-	"price": 210.0,
-	"about": "Fragrance Family: Florals..Scent Type: Warm Florals..Key Notes: Lily, Salty Accord, Meringue..Fragrance Description: Gaultier Divine Eau de Parfum is an irresistible marine-floral fragrance by Jean Paul Gaultier. This perfume is a balancing act between floral and gourmand notes, featuring radiant lily at the heart of a bouquet of white flowers, kissed with delicious meringue, and infused with a salty breeze...About the Bottle: An homage to women, Gaultier Divine proudly shows off her curves. Gaultier's famous corset is much more than an item of lingerie, it is a precious jewel that honors women’s bodies and showcases their diversity: covered in gold, conical, and already iconic.",
-	"ingredients": "",
-	"how_to_use": "Suggested Usage:.-Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent.&nbsp;.-After applying, avoid rubbing or dabbing skin. This breaks down the fragrance, causing it to wear off more quickly.&nbsp;.-If you prefer placing fragrance on your wrists, be sure to reapply after frequent handwashing, as this tends to rinse off the scent.&nbsp;.-Replace fragrance after 12 months. Expired perfumes more than a year old lose the integrity of the original scent...Eau de Toilette or Eau de Parfum?: .The difference lies in the volume of perfume oil. While EDT contains five to nine percent, EDP contains more, usually eight to 14 percent. EDPs, therefore, last longer and smell more intense.",
-	"num_reviews": 199,
-	"overall_rating": 4.4,
-	"product_url": "https://www.sephora.com/ca/en/product/jean-paul-gaultier-gaultier-divine-eau-de-parfum-P512893?skuId=2822435&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2822435-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "1 oz / 30 ml eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1 oz / 30 ml eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1 oz / 30 ml eau de parfum spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "769",
+    "name": "Gaultier Divine Eau de Parfum",
+    "brand": "Jean Paul Gaultier",
+    "categories": "Fragrance, Women, Perfume",
+    "price": 210.0,
+    "about": "Fragrance Family: Florals..Scent Type: Warm Florals..Key Notes: Lily, Salty Accord, Meringue..Fragrance Description: Gaultier Divine Eau de Parfum is an irresistible marine-floral fragrance by Jean Paul Gaultier. This perfume is a balancing act between floral and gourmand notes, featuring radiant lily at the heart of a bouquet of white flowers, kissed with delicious meringue, and infused with a salty breeze...About the Bottle: An homage to women, Gaultier Divine proudly shows off her curves. Gaultier's famous corset is much more than an item of lingerie, it is a precious jewel that honors womenu2019s bodies and showcases their diversity: covered in gold, conical, and already iconic.",
+    "ingredients": "",
+    "how_to_use": "Suggested Usage:.-Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent.&nbsp;.-After applying, avoid rubbing or dabbing skin. This breaks down the fragrance, causing it to wear off more quickly.&nbsp;.-If you prefer placing fragrance on your wrists, be sure to reapply after frequent handwashing, as this tends to rinse off the scent.&nbsp;.-Replace fragrance after 12 months. Expired perfumes more than a year old lose the integrity of the original scent...Eau de Toilette or Eau de Parfum?: .The difference lies in the volume of perfume oil. While EDT contains five to nine percent, EDP contains more, usually eight to 14 percent. EDPs, therefore, last longer and smell more intense.",
+    "num_reviews": 199,
+    "overall_rating": 4.4,
+    "product_url": "https://www.sephora.com/ca/en/product/jean-paul-gaultier-gaultier-divine-eau-de-parfum-P512893?skuId=2822435&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2822435-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "1 oz / 30 ml eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1 oz / 30 ml eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1 oz / 30 ml eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778587-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

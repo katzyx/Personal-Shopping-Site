@@ -1,38 +1,37 @@
 {
-	"product_id": "967",
-	"name": "Sheer Band False Eyelashes",
-	"brand": "Lilly Lashes",
-	"categories": "Makeup, Eye, False Eyelashes",
-	"price": 27.0,
-	"about": "What it is:A versatile, stackable, and customizable lash woven on an invisible band that disappears into the lash line for natural glam looks..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:These easy-to-apply, handmade, faux mink, and sheer band lashes layer wispy and fluttery hairs onto an invisible lash band, adding an indetectable infusion of length and volume. Reusable up to 20 times, these lashes can be worn with or without eyeliner for ultimate makeup freedom.",
-	"ingredients": "Lashes: Synthetic Fibers..Lash Band: Plastic Yarn Fiber.",
-	"how_to_use": "Suggested Usage:.-Carefully remove lashes from the tray, sweeping under the lash and using a lash applicator to lightly grip lash band. Gently lift the band away from the tray, never pulling on the lash hairs..-Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly. .-Once your desired length is established, apply a thin layer of lash adhesive on the lash band and allow it to dry for 30 seconds..-Once the lash adhesive is tacky, carefully place the lash as close as possible to the lash line. .-Once comfortably applied to the lash line, finish with using a lash curler to help fuse your natural and false lash together.",
-	"num_reviews": 152,
-	"overall_rating": 4.5,
-	"product_url": "https://www.sephora.com/ca/en/product/sheer-band-lash-P506491?skuId=2689776&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2689776-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Persuasive",
-			"shade_descriptor": "flare lash, complementary to all eye shapes, natural fluttery length and volume",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2689776-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Desirable",
-			"shade_descriptor": "flare lash, complementary to all eye shapes, gradual wispy length and volume",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2689768-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Enticing",
-			"shade_descriptor": "half lash, complementary to all eye shapes, gradual wispy length and volume",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2689784-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Playful",
-			"shade_descriptor": "half lash, complementary to all eye shapes, natural fluttery length and volume",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2689792-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "967",
+    "name": "Sheer Band False Eyelashes",
+    "brand": "Lilly Lashes",
+    "categories": "Makeup, Eye, False Eyelashes",
+    "price": 27.0,
+    "about": "What it is:A versatile, stackable, and customizable lash woven on an invisible band that disappears into the lash line for natural glam looks..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:These easy-to-apply, handmade, faux mink, and sheer band lashes layer wispy and fluttery hairs onto an invisible lash band, adding an indetectable infusion of length and volume. Reusable up to 20 times, these lashes can be worn with or without eyeliner for ultimate makeup freedom.",
+    "ingredients": "Lashes: Synthetic Fibers..Lash Band: Plastic Yarn Fiber.",
+    "how_to_use": "Suggested Usage:.-Carefully remove lashes from the tray, sweeping under the lash and using a lash applicator to lightly grip lash band. Gently lift the band away from the tray, never pulling on the lash hairs..-Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly. .-Once your desired length is established, apply a thin layer of lash adhesive on the lash band and allow it to dry for 30 seconds..-Once the lash adhesive is tacky, carefully place the lash as close as possible to the lash line. .-Once comfortably applied to the lash line, finish with using a lash curler to help fuse your natural and false lash together.",
+    "num_reviews": 152,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/sheer-band-lash-P506491?skuId=2689776&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2689776-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Persuasive",
+            "shade_descriptor": "flare lash, complementary to all eye shapes, natural fluttery length and volume",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2689776-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Desirable",
+            "shade_descriptor": "flare lash, complementary to all eye shapes, gradual wispy length and volume",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2689768-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Enticing",
+            "shade_descriptor": "half lash, complementary to all eye shapes, gradual wispy length and volume",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2689784-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Playful",
+            "shade_descriptor": "half lash, complementary to all eye shapes, natural fluttery length and volume",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2689792-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

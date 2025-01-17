@@ -1,619 +1,619 @@
 {
-	"product_id": "1792",
-	"name": "Studio Fix 24-Hour Smooth Wear Concealer",
-	"brand": "MAC Cosmetics",
-	"categories": "Makeup, Face, Concealer",
-	"price": 41.0,
-	"about": "What it is:.What it does:",
-	"ingredients": "Cyclopentasiloxane, Water, Trimethylsiloxysilicate, Butylene Glycol, PEG/PPG-18/18 Dimethicone, Sorbitan Sesquioleate, Tribehenin, Magnesium Sulfate, Phenyl Trimethicone, Dimethicone Crosspolymer, Dimethicone, Methicone, Silica, Nylon-12, Olea Europaea (Olive) Leaf Extract, Algae Extract, Oryza Sativa (Rice) Bran Extract, Glycerin, Ethylhexylglycerin, Laureth-7, Xanthan Gum, Tocopheryl Acetate, Sodium Hyaluronate, Tocopherol, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Chlorphenesin, Sorbic Acid. May Contain (+/-): Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)...Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.",
-	"how_to_use": "Suggested Usage:.-Apply directly to skin using the wand applicator, and blend.",
-	"num_reviews": 63,
-	"overall_rating": 4.2,
-	"product_url": "https://www.sephora.com/ca/en/product/studio-fix-24-hour-smooth-wear-concealer-P37896458?skuId=2146686&icid2=products%20grid:p37896458:product",
-	"image_url": "https://www.sephora.com/productimages/sku/s2146686-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "NC15",
-			"shade_descriptor": "light beige w/ neutral undertone for fair to light skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146686-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC20",
-			"shade_descriptor": "golden beige w/ golden undertone for light skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146694-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC25",
-			"shade_descriptor": "light beige w/ golden peach undertone for light to medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146702-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC30",
-			"shade_descriptor": "golden beige w/ golden undertone for light to medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146710-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC35",
-			"shade_descriptor": "medium beige w/ golden neutral undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146728-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC38",
-			"shade_descriptor": "medium beige w/ peachy undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146736-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC40",
-			"shade_descriptor": "medium beige w/ golden undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146744-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC42",
-			"shade_descriptor": "peach w/ golden undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146751-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC43",
-			"shade_descriptor": "tanned peach w/ golden undertone for medium to dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146769-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC44",
-			"shade_descriptor": "deep peach w/ peach undertone for medium to dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146777-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC45",
-			"shade_descriptor": "caramel w/ golden undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146785-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC48",
-			"shade_descriptor": "bronze w/ neutral undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146793-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC50",
-			"shade_descriptor": "rich bronze w/ golden undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146801-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NC55",
-			"shade_descriptor": "terra cotta w/ neutral undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146819-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW10",
-			"shade_descriptor": "fair beige w/ neutral undertone for fair skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146827-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW15",
-			"shade_descriptor": "light beige w/ pinky undertone for fair skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146835-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW20",
-			"shade_descriptor": "rosy beige w/ rosy undertone for light skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146843-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW22",
-			"shade_descriptor": "neutral beige w/ neutral undertone for light skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146850-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW24",
-			"shade_descriptor": "rosy beige w/ neutral undertone for light to medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146868-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW25",
-			"shade_descriptor": "mid tone beige w/ peachy rose undertone for light to medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146876-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW28",
-			"shade_descriptor": "medium beige w/ neutral undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146884-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW30",
-			"shade_descriptor": "medium beige w/ rosy undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146892-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW32",
-			"shade_descriptor": "neutral beige w/ neutral undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146900-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW34",
-			"shade_descriptor": "tawny beige w/ rosy undertone for medium skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146918-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW35",
-			"shade_descriptor": "tawny beige w/ neutral undertone for medium to dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146926-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW40",
-			"shade_descriptor": "deep beige w/ rosy undertone for medium to dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146934-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW42",
-			"shade_descriptor": "deep beige w/ neutral undertone for medium to dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146942-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW45",
-			"shade_descriptor": "medium auburn w/ bronzed undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146959-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW50",
-			"shade_descriptor": "mahogany w/ red undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146967-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW51",
-			"shade_descriptor": "mahogany w/ neutral undertone for dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146975-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW53",
-			"shade_descriptor": "rich coffee w/ neutral undertone for deep dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146983-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "NW55",
-			"shade_descriptor": "rich coffee w/ red undertone for deep dark skin",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2146991-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": ""
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NW20 - rosy beige w/ rosy undertone for light skin",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "This concealer is so underrated. Lasts all day and provides great coverage. The only thing that concerns me is it has a subtle scent which makes me think it isn’t acne safe."
-		},
-		{
-			"review_title": "Not for me",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Dry skin",
-			"review_text": "I found that if I had to go back over and area I used it for some reason, it broke up much more than other concealers I've tried. Good colour match for pale skin, though."
-		},
-		{
-			"review_title": "its okay, not acne safe!",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Oily skin",
-			"review_text": "I like this product, the only thing i don’t like is that it broke me out so much! ive never seen any other concealer break me out this bad. Overall it does have a good coverage."
-		},
-		{
-			"review_title": "Amazing purchase",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "The product is amazing its is so light and looks so real. Very well satisfied. And yes it is long lasting too."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "NW24 - rosy beige w/ neutral undertone for light to medium skin",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I love this concealer it covers well but it’s more of a light coverage concealer. If you’re looking to completely cover pimples or dark circles this conflate might not do it for you. Over all good light coverage concealer.  c"
-		},
-		{
-			"review_title": "Love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Love this concealer, lightweight and doesn’t settle into creases under eyes. Blend and set with loose powder for extra long wear"
-		},
-		{
-			"review_title": "Formula Changed",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I have used this concealer for years and didn't have any issue. Purchased it this year and realized the formula had changed. It does not last anymore on the face and creases badly. It also gives no coverage and hard to build. If only they can go back to the previous formula. It's now more expensive with low quality. will not be buying again."
-		},
-		{
-			"review_title": "A must have in my routine❤️❤️❤️",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Fair skin tone, Combination skin",
-			"review_text": "I LOVE this concealer it’s the perfect one that I have found so far. The consistency of it is perfect and the coverage is not full coverage but perfect coverage for me it’s like medium coverage. I would definitely recommend this product if you are looking for a new concealer 10/10 in my opinion ❤️"
-		},
-		{
-			"review_title": "BEST CONCEALER",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "I truly don’t know why this product is never talked about?!  It’s soo underrated!!!! This concealer is a thin formula filled with lots of pigment, which is a dream come true in a concealer!! It’s not heavy or cakey at all and blends in like a dream."
-		},
-		{
-			"review_title": "Good starter concealer",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Oily skin",
-			"review_text": "Was recommended this by my cousin who works at MAC, overall decent concealer, but it tends to crease after a while"
-		},
-		{
-			"review_title": "if it ain't broke don't fix it.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Tan skin tone, Combination skin",
-			"review_text": "I have been using this concealer forever and a day.  it is straightforwardly everything you want from a concealer.    MAC is a reliably high quality make up company for many years now and this concealer is a good example of  why."
-		},
-		{
-			"review_title": "A must have in my makeup routine for sure!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Very good and covers under eyes nicely! I definitely recommend!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "NC20 - golden beige w/ golden undertone for light skin",
-			"review_buyer_description": "Brown eyes, blonde hair, Dry skin",
-			"review_text": "Very cakey and doesn't hide under eye bags. Do not recommend for over 40-year-old skin."
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I use this instead of my foundation and I love the coverage it provides and how easy it is to blend. On my 4th order now and don’t plan on replacing it anytime soon!"
-		},
-		{
-			"review_title": "A good concealer even w my problematic undereyes",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
-			"review_text": "No concealers work as well for me because I have flaky under eyes , even with rich cream but this one is one of the best I’ve tried and the shade is perfect . It’s rare that NW 24 is in stock online on Sephora’s site , but I’m so grateful I was able to grab it this time."
-		},
-		{
-			"review_title": "Perfect concealer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "Love this concealer, it’s the perfect amount of coverage and it doesn’t look patchy under eyes. I definitely recommend this concealer."
-		},
-		{
-			"review_title": "You will not regret it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "3rd purchase! BEST CONCEALER I DONT EVEN USE FOUNDATION ANYMORE. If I took time to leave a comment that means it really good lol"
-		},
-		{
-			"review_title": "A must-have in my routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Perfect for my dry under eyes and blends smoothly! I have tried many and this is definitely my top pick, perfect coverage for blemishes!"
-		},
-		{
-			"review_title": "Must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I bought this concealer to cover up my imperfections and works like wonders. It is super smooth to apply and blends perfectly into ur skin. Don’t hesitate any more, this one is perfect for u m"
-		},
-		{
-			"review_title": "Must have in my makeup bag",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone",
-			"review_text": "I love this concealer. Perfect coverage for under eyes. A definite must have"
-		},
-		{
-			"review_title": "MY EVERYDAY CONCEALER",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "Yoooo this stuff is amazing!!! I was on a hunt for a new concealer that I could wear thats lightweight and doesnt crease throughout the day and the sephora girl reccomended this to me. I like how I can layer more if I need more cobwrage but othwr than that its so good for higjlifhting indweneath the eyes!!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NC30 - golden beige w/ golden undertone for light to medium skin",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "I’m going to forever gatekeep this concealer it’s the best thing ever."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
-			"review_text": "Love this concealer. You don’t need to use a lot and it doesn’t cake."
-		},
-		{
-			"review_title": "Favourite Concealer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Normal skin",
-			"review_text": "Love, love, love!!! Coverage & shade match was perfection! I use this on of prep & prime highlight & my under eyes have never looked better! I will be taking this one to the grave with me!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NC15 - light beige w/ neutral undertone for fair to light skin",
-			"review_buyer_description": "Fair skin tone",
-			"review_text": "This is the best concealer I have ever used. It hardly creases under my eyes. I’ve tried a lot of concealers but none of them compare to this one"
-		},
-		{
-			"review_title": "great product",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Best concealer for face and under eyes. Really good application and color range. Have used it for years, will keep using it"
-		},
-		{
-			"review_title": "Less Coverage than Pro Longwear Concealer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "This is a good strobing/highlighting concealer. It’s lighter coverage and more natural look make it ideal for the complexion versus under eyes (depending on the darkness of your circles). It offers less coverage than Pro Longwear Concealer, so I wear it on days when my circles aren’t as pronounced and usually top it with Benefit’s Boing concealer on top for the optimal shade and coverage. If you have slight under eye darkness, you will like this, but for darker circles go with the Pro Longwear. I didn’t find a difference between the 12 hours and 24 hours of product wear, as Pro Longwear doesn’t wear off for me after the promised 12 hours and I always set with Boing on top."
-		},
-		{
-			"review_title": "Check my YT Channel “Nicole Avia” for a tutorial",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Dry skin",
-			"review_text": "I use this for my contour and hunny this definitely got the job done for me! I absolutely loved it. Especially if you have dry skin then this is definitely better to use than a foundation stick"
-		},
-		{
-			"review_title": "Amazing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "So I have been using the Mac Cosmetics prolong wear concealer for a long time and when I saw that they came out with this, I was really happy. I'm in shade #NC35 and I did buy from a Mac store at Scarborough Town Centre and it does work really well. It's definitely expensive, personally for me, but it does do what I want."
-		},
-		{
-			"review_title": "Nope not impressed",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Dry skin",
-			"review_text": "Unfortunately doesn’t cover my dark circles, another concealer bites the dust lol . It’s ok for a highlighter. I’ve found less expensive concealers that did a better job."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NW24 - rosy beige w/ neutral undertone for light to medium skin",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "First review ever but....this product is amazing!  I was really getting frustrated while wearing a mask because the dark circles and fine lines under my eyes seemed exaggerated.  I have tried WAY too many different products to help. I went in to the store and the MAC consultant was there. She helped me pick the right colour while socially distant (not easy) and she nailed it. But aside from the colour, more importantly it works!  My eyes look hydrated and have zero dark circles!!!  Seriously you have to try this product. It also lasts. Life changer for me."
-		},
-		{
-			"review_title": "My New Reliable!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "I started using this concealer last summer after no longer liking the one I had been using for 3 yrs prior. I have fair skin and most of the time, prominent dark circles under my eyes that are very noticeable. A swipe of this, some patting with a beauty sponge, and my under eye is brightened up and looking well rested. It has little scent (which is great) and the applicator brush is sturdy and easy to use. Product lasts a long time too, around 5-6 months for me but that’s dependent on how much you use. Formula is creamy, not greasy, and easy to blend."
-		},
-		{
-			"review_title": "White cast",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "I don't know if they changed the formula but it did not work for me like it had in the past. Too drying and creased immediately. Once stores open up i will be returning."
-		},
-		{
-			"review_title": "Doesn’t work for me",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Oily skin",
-			"review_text": "I really wanted to like this, but i just can’t. It doesn’t fully sink into my skin and gets really creasy and cakey and weird. Also, it totally comes off with the slightest bit of water or oil. Not worth it at all"
-		},
-		{
-			"review_title": "Beautiful finish but immediate breakout",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I’m so sad. I absolutely love this concealer. It’s full coverage but it still looks so skin like BUT it breaks me out SO BAD. Like literally after one use. I have to find a good dupe."
-		},
-		{
-			"review_title": "dependable good concealer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I'm embarrassed to say I've tried probably close to 50 concealers and own at least 10. I only use concealer for undereye. This one is seriously up there on my favourites list. I find it has solid coverage. At least medium. It's very dependable which I appreciate. It doesn't crease and lasts all day. You can set it or not, which I also appreciate. I don't find it gets cakey. It's sorta natural-matte. It does have a paint-y smell at first. The only weird thing is you really do have to swatch the colours for yourself. The colours are kinda off. Like I use nw24 in this but a lot of concealers even the lightest shade is too dark for my undereye. For reference I use nars rcc in vanilla. So pleased with this concealer and I love Mac in general."
-		},
-		{
-			"review_title": "Smooth and Stays Put",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "Love this concealer! Covers beautifully.  bought mine in a lighter shade so it really brightens under my eyes. Blends very well, hasn't gotten cakey for me yet. Sets well with powder, lasts all day or night. The name is very accurate."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "NC38 - medium beige w/ peachy undertone for medium skin",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
-			"review_text": "I didn't received the 24-hour smooth wear concealer"
-		},
-		{
-			"review_title": "make sure to swatch before you buy",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "This is a great product however the colours are completely different from the pump version. I would highly recommend swatching before you buy. I actually wasn't able to find a colour match in this version."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NC20 - golden beige w/ golden undertone for light skin",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I actually really love this formula. My MUA put this on me for my wedding and it held up beautifully on a 95% humidity day this summer on the east coast. I have a neutral undertone with light skin, slightly tan in the summer and this was a great shade for me. I’ve been getting away with it this winter too so far.   I love the consistency, it blends out beautifully without any creasing as the day goes on.   I use my Laura Mercier translucent powder to set my under eyes and it works like a dream together."
-		},
-		{
-			"review_title": "Smells bad, works good",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "This concealer brightens so well with just a tiny amount under your eyes. It is super blendable but has a pretty nasty chemical smell and its consistency is almost too watery for my liking. I usually blend a very small amount on top of my regular concealer and use this one to brighten."
-		},
-		{
-			"review_title": "Meh, don't hate it but don't love it",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
-			"review_text": "it is not medium coverage, more on the sheer to medium side. It stays through the day like it claims. Also for my preference, I don't set it and it does look good. BUT IT IS NOT BUILDABLE. Once it is dry/set down to your skin and you want to blend or put something on it, that concealer patch right there will move! It doesn't care if it is the same concealer. cream blush, etc. IT WILL MOVE. I tried to put the concealer on to cover that patch but it just move more. The concealer also oxidize a bit so beware."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "NC15 - light beige w/ neutral undertone for fair to light skin",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Great product, but I do find it is more sheer/medium coverage than buildable full. I might like Nars Radiant a little more than this one."
-		},
-		{
-			"review_title": "Best concealer that doesn’t settle into fine lines",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "Best concealer I’ve used to cover up dark circles under my eyes without settling into fine lines - I would highly recommend !!!"
-		},
-		{
-			"review_title": "amazing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "A must-have! Smooth, blends easy and lasts all day. Covers blemishes and works under eyes."
-		},
-		{
-			"review_title": "Not the level of coverage I was looking for",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
-			"review_text": "I bought this with the intention of using it under my eyes to conceal bluish/purple veins but it just doesn't provide the level of coverage I was looking for. It's my fault for not listening to when it says buildable coverage. But using it under my eyes I'd rather use less (with higher pigment) than layering it on so it doesn't cake up and make me look older. So now I just use it to define around my brows"
-		},
-		{
-			"review_title": "Perfect concealer, NO CREASING!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
-			"review_text": "I love this concealer! I decided to give this a try since I had a been a long time lover of Mac's Prolong wear concealer. The formula is very similar: full coverage, long lasting and doesn't crease even after all day wear! It really does remind me of the pro long wear except I do find it to be a tad bit more cakey, however, I do like the applicator on this better than the pro longwear."
-		},
-		{
-			"review_title": "Good formula for a reasonable price",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I like the formula of this product quite a bit. It's easy to blend, doesn't crease after being set with my Laura Mercier powder, and doesn't look patchy on my dry under-eye skin. I also think the price is very reasonable. However, I only give this 4/5 stars because the shade range only has two undertones to choose from for my skin tone (NC or NW). I selected NC15 because I am neutral to warm in undertone, but this pulls very yellow on me. The other option (NW15) seemed too pink, so I'd appreciate a more neutral option."
-		},
-		{
-			"review_title": "MAC does it again",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I’m a MAC loyalist and Studio Fix is the only foundation I will use. I was so excited to see Sephora has the concealer too!! This concealer is AMAZING and lasts all day without getting oily, clinging to dry patches, or separating. Full coverage and a little goes a long way. Goes perfect with the foundation. In love and have found my new go to!"
-		},
-		{
-			"review_title": "Oxidizes Too Much and Too Dark",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Normal skin",
-			"review_text": "This concealer oxidizes too much and goes really orange. The lightest shade isn’t light enough for me. Make some lighter shades!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NW20 - rosy beige w/ rosy undertone for light skin",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I love this concealer! It is super buildable, looks really natural, and always lasts all day!"
-		},
-		{
-			"review_title": "my new favorite concealer!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "lightweight full coverage that lasts all day even if I sweat"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NW22 - neutral beige w/ neutral undertone for light skin",
-			"review_buyer_description": "Green eyes, gray hair, Light skin tone, Combination skin",
-			"review_text": "my favourite concealer ever! i used to use the tarte shape tape but this has since taken over in my makeup routine!! completely covers up my dark circles and makes my skin look super smooth and fresh!"
-		},
-		{
-			"review_title": "Not for me",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This was waay too light for me.. nw15 is usually my shade but this stuff was practically white! Maybe i got a dud, though macs shades do seem to alternate with different formulas. Also it smells like paint, exactly like the studio fix fluid. I dont mind the foundation smelling, but not the concealer as its going near eyeballs. I also found the consistancy too difficult to work with and heavy. This was a bust for me. Next!"
-		},
-		{
-			"review_title": "Excellent coverage with no creasing.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "Love this concealer. I find it covers under eye bags really well without settling into fine lines. it does dry really fast so I recommend blending it immediately once you apply it. It really holds up all day and worked well for my very dark under eye area."
-		},
-		{
-			"review_title": "Love it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "The best concealer I've ever used. I have tried almost all concealers out there (or at least it feels that way) and I have some under eye issues including puffiness, dark circles and fine lines. I was recommended the NW as it has peach undertones to help with the dark circles. It creates slightly but doesnt look any worse than if I didn't have make up on.  The consistency is amazing and I put 2 layers on and the coverage is perfect. Highly recommend!!!"
-		},
-		{
-			"review_title": "Smooth concealer!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Dry skin",
-			"review_text": "I absolutely love this concealer! I've tried a few different concealers to brighten my under eyes but find they look cakey or makeupy - either right away or as the day wears on. The consistency of this MAC concealer spreads nicely but doesn't cling to my dry patches. I also like that there is a shade that matches my pale, but rose-toned skin."
-		},
-		{
-			"review_title": "For MAC Lovers, only.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, black hair, Porcelain skin tone, Normal skin",
-			"review_text": "I have been re-visiting the MAC line of products to try a few new things other than the basics I have been using from MAC over the years ... and, I was quite excited to try this new concealer.  Top marks for a great shade range.  Though, I just couldn't get past the smell of the product ... very strong alcohol scent (much stronger than the usual Studio Fix scent) I couldn't use it !!  I found the consistency quite thin and coverage not so great.  I expected a lot more from a MAC concealer.  If you are a MAC loyalist you may be able to get past the scent ... the only pros I can truly provide are the amazing shade range, bang on with that aspect ... smooth and bendable application.  I would not consider this concealer to be full coverage.  It's far too thin in consistency but the finish is quite nice.  It's one of those things ... you will either love it or hate it depending on your needs.  xx"
-		},
-		{
-			"review_title": "New staple for no makeup- makeup look",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "Purchased this a few days ago and it’s already a staple. I have sensitive and combination skin and have never had an issue with Mac products, but this really impressed me. I’ve been using it to cover acne scars and then using Nars creamy radiant under my eyes. This stays put all day. Just off the wand I am able to conceal my entire face, so it should last a long time. The coverage is medium, but light if that makes sense. It covers my scars easily (I blend it out with my finger), keeps me matte but not dry looking. It does such a great job that I don’t have to use foundation. Not sure I would recommend this for under the eyes though.  I also haven’t noticed a scent which I love.   For reference I’ve been trying to make NARS soft matte concealer work and found it just didn’t work the way I wanted it too. I didn’t like that I had to sheer it out. This MAC concealer is buildable and doesn’t have to be sheered out if you are going for a light makeup look.  The only thing I don’t like about it is the colour code. I am NW45 in studio fix fluid but NW51 in this concealer. For instance, NW50 in studio fix fluid (foundation) is too dark for me, but NW50 in this concealer is darker than NW51...makes no sense. Glad they added more shades, but it left me confused. I would recommend going In store to test out the shade. Don’t go with your studio fix fluid shade!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NC30 - golden beige w/ golden undertone for light to medium skin",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "This is the best concealer I ever used,easy to blend and not sit on lines or wrinkles makes my under eye hydrate and radiant ."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "NC25 - light beige w/ golden peach undertone for light to medium skin",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "The best concealer ever! It’s a medium coverage but you can build it to full! It’s not drying at all and stays on the whole day!"
-		},
-		{
-			"review_title": "wish it was better",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Expected a lot more of this product.  Did not live up the claim in which saying it was a medium to build able full coverage. It was sheer and it’s the first product I’ve ever used that my beauty blender soaked up the whole thing, so definitely try it out with a brush first if you prefer brushes! Really wish it worked out better but a + for all the yellow shades"
-		}
-	]
+    "product_id": "1792",
+    "name": "Studio Fix 24-Hour Smooth Wear Concealer",
+    "brand": "MAC Cosmetics",
+    "categories": "Makeup, Face, Concealer",
+    "price": 41.0,
+    "about": "What it is:.What it does:",
+    "ingredients": "Cyclopentasiloxane, Water, Trimethylsiloxysilicate, Butylene Glycol, PEG/PPG-18/18 Dimethicone, Sorbitan Sesquioleate, Tribehenin, Magnesium Sulfate, Phenyl Trimethicone, Dimethicone Crosspolymer, Dimethicone, Methicone, Silica, Nylon-12, Olea Europaea (Olive) Leaf Extract, Algae Extract, Oryza Sativa (Rice) Bran Extract, Glycerin, Ethylhexylglycerin, Laureth-7, Xanthan Gum, Tocopheryl Acetate, Sodium Hyaluronate, Tocopherol, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Chlorphenesin, Sorbic Acid. May Contain (+/-): Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)...Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.",
+    "how_to_use": "Suggested Usage:.-Apply directly to skin using the wand applicator, and blend.",
+    "num_reviews": 63,
+    "overall_rating": 4.2,
+    "product_url": "https://www.sephora.com/ca/en/product/studio-fix-24-hour-smooth-wear-concealer-P37896458?skuId=2146686&icid2=products%20grid:p37896458:product",
+    "image_url": "https://www.sephora.com/productimages/sku/s2146686-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "NC15",
+            "shade_descriptor": "light beige w/ neutral undertone for fair to light skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146686-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC20",
+            "shade_descriptor": "golden beige w/ golden undertone for light skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146694-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC25",
+            "shade_descriptor": "light beige w/ golden peach undertone for light to medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146702-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC30",
+            "shade_descriptor": "golden beige w/ golden undertone for light to medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146710-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC35",
+            "shade_descriptor": "medium beige w/ golden neutral undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146728-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC38",
+            "shade_descriptor": "medium beige w/ peachy undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146736-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC40",
+            "shade_descriptor": "medium beige w/ golden undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146744-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC42",
+            "shade_descriptor": "peach w/ golden undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146751-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC43",
+            "shade_descriptor": "tanned peach w/ golden undertone for medium to dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146769-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC44",
+            "shade_descriptor": "deep peach w/ peach undertone for medium to dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146777-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC45",
+            "shade_descriptor": "caramel w/ golden undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146785-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC48",
+            "shade_descriptor": "bronze w/ neutral undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146793-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC50",
+            "shade_descriptor": "rich bronze w/ golden undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146801-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NC55",
+            "shade_descriptor": "terra cotta w/ neutral undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146819-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW10",
+            "shade_descriptor": "fair beige w/ neutral undertone for fair skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146827-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW15",
+            "shade_descriptor": "light beige w/ pinky undertone for fair skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146835-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW20",
+            "shade_descriptor": "rosy beige w/ rosy undertone for light skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146843-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW22",
+            "shade_descriptor": "neutral beige w/ neutral undertone for light skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146850-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW24",
+            "shade_descriptor": "rosy beige w/ neutral undertone for light to medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146868-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW25",
+            "shade_descriptor": "mid tone beige w/ peachy rose undertone for light to medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146876-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW28",
+            "shade_descriptor": "medium beige w/ neutral undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146884-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW30",
+            "shade_descriptor": "medium beige w/ rosy undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146892-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW32",
+            "shade_descriptor": "neutral beige w/ neutral undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146900-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW34",
+            "shade_descriptor": "tawny beige w/ rosy undertone for medium skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146918-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW35",
+            "shade_descriptor": "tawny beige w/ neutral undertone for medium to dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146926-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW40",
+            "shade_descriptor": "deep beige w/ rosy undertone for medium to dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146934-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW42",
+            "shade_descriptor": "deep beige w/ neutral undertone for medium to dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146942-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW45",
+            "shade_descriptor": "medium auburn w/ bronzed undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146959-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW50",
+            "shade_descriptor": "mahogany w/ red undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146967-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW51",
+            "shade_descriptor": "mahogany w/ neutral undertone for dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146975-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW53",
+            "shade_descriptor": "rich coffee w/ neutral undertone for deep dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146983-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "NW55",
+            "shade_descriptor": "rich coffee w/ red undertone for deep dark skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2146991-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": ""
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NW20 - rosy beige w/ rosy undertone for light skin",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "This concealer is so underrated. Lasts all day and provides great coverage. The only thing that concerns me is it has a subtle scent which makes me think it isnu2019t acne safe."
+        },
+        {
+            "review_title": "Not for me",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Dry skin",
+            "review_text": "I found that if I had to go back over and area I used it for some reason, it broke up much more than other concealers I've tried. Good colour match for pale skin, though."
+        },
+        {
+            "review_title": "its okay, not acne safe!",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "I like this product, the only thing i donu2019t like is that it broke me out so much! ive never seen any other concealer break me out this bad. Overall it does have a good coverage."
+        },
+        {
+            "review_title": "Amazing purchase",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "The product is amazing its is so light and looks so real. Very well satisfied. And yes it is long lasting too."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "NW24 - rosy beige w/ neutral undertone for light to medium skin",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I love this concealer it covers well but itu2019s more of a light coverage concealer. If youu2019re looking to completely cover pimples or dark circles this conflate might not do it for you. Over all good light coverage concealer.  c"
+        },
+        {
+            "review_title": "Love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Love this concealer, lightweight and doesnu2019t settle into creases under eyes. Blend and set with loose powder for extra long wear"
+        },
+        {
+            "review_title": "Formula Changed",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I have used this concealer for years and didn't have any issue. Purchased it this year and realized the formula had changed. It does not last anymore on the face and creases badly. It also gives no coverage and hard to build. If only they can go back to the previous formula. It's now more expensive with low quality. will not be buying again."
+        },
+        {
+            "review_title": "A must have in my routineu2764ufe0fu2764ufe0fu2764ufe0f",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Fair skin tone, Combination skin",
+            "review_text": "I LOVE this concealer itu2019s the perfect one that I have found so far. The consistency of it is perfect and the coverage is not full coverage but perfect coverage for me itu2019s like medium coverage. I would definitely recommend this product if you are looking for a new concealer 10/10 in my opinion u2764ufe0f"
+        },
+        {
+            "review_title": "BEST CONCEALER",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I truly donu2019t know why this product is never talked about?!  Itu2019s soo underrated!!!! This concealer is a thin formula filled with lots of pigment, which is a dream come true in a concealer!! Itu2019s not heavy or cakey at all and blends in like a dream."
+        },
+        {
+            "review_title": "Good starter concealer",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Oily skin",
+            "review_text": "Was recommended this by my cousin who works at MAC, overall decent concealer, but it tends to crease after a while"
+        },
+        {
+            "review_title": "if it ain't broke don't fix it.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Tan skin tone, Combination skin",
+            "review_text": "I have been using this concealer forever and a day.  it is straightforwardly everything you want from a concealer.    MAC is a reliably high quality make up company for many years now and this concealer is a good example of  why."
+        },
+        {
+            "review_title": "A must have in my makeup routine for sure!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Very good and covers under eyes nicely! I definitely recommend!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "NC20 - golden beige w/ golden undertone for light skin",
+            "review_buyer_description": "Brown eyes, blonde hair, Dry skin",
+            "review_text": "Very cakey and doesn't hide under eye bags. Do not recommend for over 40-year-old skin."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I use this instead of my foundation and I love the coverage it provides and how easy it is to blend. On my 4th order now and donu2019t plan on replacing it anytime soon!"
+        },
+        {
+            "review_title": "A good concealer even w my problematic undereyes",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
+            "review_text": "No concealers work as well for me because I have flaky under eyes , even with rich cream but this one is one of the best Iu2019ve tried and the shade is perfect . Itu2019s rare that NW 24 is in stock online on Sephorau2019s site , but Iu2019m so grateful I was able to grab it this time."
+        },
+        {
+            "review_title": "Perfect concealer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "Love this concealer, itu2019s the perfect amount of coverage and it doesnu2019t look patchy under eyes. I definitely recommend this concealer."
+        },
+        {
+            "review_title": "You will not regret it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "3rd purchase! BEST CONCEALER I DONT EVEN USE FOUNDATION ANYMORE. If I took time to leave a comment that means it really good lol"
+        },
+        {
+            "review_title": "A must-have in my routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Perfect for my dry under eyes and blends smoothly! I have tried many and this is definitely my top pick, perfect coverage for blemishes!"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "I bought this concealer to cover up my imperfections and works like wonders. It is super smooth to apply and blends perfectly into ur skin. Donu2019t hesitate any more, this one is perfect for u m"
+        },
+        {
+            "review_title": "Must have in my makeup bag",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone",
+            "review_text": "I love this concealer. Perfect coverage for under eyes. A definite must have"
+        },
+        {
+            "review_title": "MY EVERYDAY CONCEALER",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Yoooo this stuff is amazing!!! I was on a hunt for a new concealer that I could wear thats lightweight and doesnt crease throughout the day and the sephora girl reccomended this to me. I like how I can layer more if I need more cobwrage but othwr than that its so good for higjlifhting indweneath the eyes!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NC30 - golden beige w/ golden undertone for light to medium skin",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Iu2019m going to forever gatekeep this concealer itu2019s the best thing ever."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
+            "review_text": "Love this concealer. You donu2019t need to use a lot and it doesnu2019t cake."
+        },
+        {
+            "review_title": "Favourite Concealer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Normal skin",
+            "review_text": "Love, love, love!!! Coverage & shade match was perfection! I use this on of prep & prime highlight & my under eyes have never looked better! I will be taking this one to the grave with me!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NC15 - light beige w/ neutral undertone for fair to light skin",
+            "review_buyer_description": "Fair skin tone",
+            "review_text": "This is the best concealer I have ever used. It hardly creases under my eyes. Iu2019ve tried a lot of concealers but none of them compare to this one"
+        },
+        {
+            "review_title": "great product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Best concealer for face and under eyes. Really good application and color range. Have used it for years, will keep using it"
+        },
+        {
+            "review_title": "Less Coverage than Pro Longwear Concealer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "This is a good strobing/highlighting concealer. Itu2019s lighter coverage and more natural look make it ideal for the complexion versus under eyes (depending on the darkness of your circles). It offers less coverage than Pro Longwear Concealer, so I wear it on days when my circles arenu2019t as pronounced and usually top it with Benefitu2019s Boing concealer on top for the optimal shade and coverage. If you have slight under eye darkness, you will like this, but for darker circles go with the Pro Longwear. I didnu2019t find a difference between the 12 hours and 24 hours of product wear, as Pro Longwear doesnu2019t wear off for me after the promised 12 hours and I always set with Boing on top."
+        },
+        {
+            "review_title": "Check my YT Channel u201cNicole Aviau201d for a tutorial",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Dry skin",
+            "review_text": "I use this for my contour and hunny this definitely got the job done for me! I absolutely loved it. Especially if you have dry skin then this is definitely better to use than a foundation stick"
+        },
+        {
+            "review_title": "Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "So I have been using the Mac Cosmetics prolong wear concealer for a long time and when I saw that they came out with this, I was really happy. I'm in shade #NC35 and I did buy from a Mac store at Scarborough Town Centre and it does work really well. It's definitely expensive, personally for me, but it does do what I want."
+        },
+        {
+            "review_title": "Nope not impressed",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Dry skin",
+            "review_text": "Unfortunately doesnu2019t cover my dark circles, another concealer bites the dust lol . Itu2019s ok for a highlighter. Iu2019ve found less expensive concealers that did a better job."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NW24 - rosy beige w/ neutral undertone for light to medium skin",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "First review ever but....this product is amazing!  I was really getting frustrated while wearing a mask because the dark circles and fine lines under my eyes seemed exaggerated.  I have tried WAY too many different products to help. I went in to the store and the MAC consultant was there. She helped me pick the right colour while socially distant (not easy) and she nailed it. But aside from the colour, more importantly it works!  My eyes look hydrated and have zero dark circles!!!  Seriously you have to try this product. It also lasts. Life changer for me."
+        },
+        {
+            "review_title": "My New Reliable!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "I started using this concealer last summer after no longer liking the one I had been using for 3 yrs prior. I have fair skin and most of the time, prominent dark circles under my eyes that are very noticeable. A swipe of this, some patting with a beauty sponge, and my under eye is brightened up and looking well rested. It has little scent (which is great) and the applicator brush is sturdy and easy to use. Product lasts a long time too, around 5-6 months for me but thatu2019s dependent on how much you use. Formula is creamy, not greasy, and easy to blend."
+        },
+        {
+            "review_title": "White cast",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "I don't know if they changed the formula but it did not work for me like it had in the past. Too drying and creased immediately. Once stores open up i will be returning."
+        },
+        {
+            "review_title": "Doesnu2019t work for me",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Oily skin",
+            "review_text": "I really wanted to like this, but i just canu2019t. It doesnu2019t fully sink into my skin and gets really creasy and cakey and weird. Also, it totally comes off with the slightest bit of water or oil. Not worth it at all"
+        },
+        {
+            "review_title": "Beautiful finish but immediate breakout",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Iu2019m so sad. I absolutely love this concealer. Itu2019s full coverage but it still looks so skin like BUT it breaks me out SO BAD. Like literally after one use. I have to find a good dupe."
+        },
+        {
+            "review_title": "dependable good concealer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I'm embarrassed to say I've tried probably close to 50 concealers and own at least 10. I only use concealer for undereye. This one is seriously up there on my favourites list. I find it has solid coverage. At least medium. It's very dependable which I appreciate. It doesn't crease and lasts all day. You can set it or not, which I also appreciate. I don't find it gets cakey. It's sorta natural-matte. It does have a paint-y smell at first. The only weird thing is you really do have to swatch the colours for yourself. The colours are kinda off. Like I use nw24 in this but a lot of concealers even the lightest shade is too dark for my undereye. For reference I use nars rcc in vanilla. So pleased with this concealer and I love Mac in general."
+        },
+        {
+            "review_title": "Smooth and Stays Put",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "Love this concealer! Covers beautifully.  bought mine in a lighter shade so it really brightens under my eyes. Blends very well, hasn't gotten cakey for me yet. Sets well with powder, lasts all day or night. The name is very accurate."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "NC38 - medium beige w/ peachy undertone for medium skin",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
+            "review_text": "I didn't received the 24-hour smooth wear concealer"
+        },
+        {
+            "review_title": "make sure to swatch before you buy",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "This is a great product however the colours are completely different from the pump version. I would highly recommend swatching before you buy. I actually wasn't able to find a colour match in this version."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NC20 - golden beige w/ golden undertone for light skin",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I actually really love this formula. My MUA put this on me for my wedding and it held up beautifully on a 95% humidity day this summer on the east coast. I have a neutral undertone with light skin, slightly tan in the summer and this was a great shade for me. Iu2019ve been getting away with it this winter too so far.   I love the consistency, it blends out beautifully without any creasing as the day goes on.   I use my Laura Mercier translucent powder to set my under eyes and it works like a dream together."
+        },
+        {
+            "review_title": "Smells bad, works good",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "This concealer brightens so well with just a tiny amount under your eyes. It is super blendable but has a pretty nasty chemical smell and its consistency is almost too watery for my liking. I usually blend a very small amount on top of my regular concealer and use this one to brighten."
+        },
+        {
+            "review_title": "Meh, don't hate it but don't love it",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
+            "review_text": "it is not medium coverage, more on the sheer to medium side. It stays through the day like it claims. Also for my preference, I don't set it and it does look good. BUT IT IS NOT BUILDABLE. Once it is dry/set down to your skin and you want to blend or put something on it, that concealer patch right there will move! It doesn't care if it is the same concealer. cream blush, etc. IT WILL MOVE. I tried to put the concealer on to cover that patch but it just move more. The concealer also oxidize a bit so beware."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "NC15 - light beige w/ neutral undertone for fair to light skin",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Great product, but I do find it is more sheer/medium coverage than buildable full. I might like Nars Radiant a little more than this one."
+        },
+        {
+            "review_title": "Best concealer that doesnu2019t settle into fine lines",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Best concealer Iu2019ve used to cover up dark circles under my eyes without settling into fine lines - I would highly recommend !!!"
+        },
+        {
+            "review_title": "amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "A must-have! Smooth, blends easy and lasts all day. Covers blemishes and works under eyes."
+        },
+        {
+            "review_title": "Not the level of coverage I was looking for",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "I bought this with the intention of using it under my eyes to conceal bluish/purple veins but it just doesn't provide the level of coverage I was looking for. It's my fault for not listening to when it says buildable coverage. But using it under my eyes I'd rather use less (with higher pigment) than layering it on so it doesn't cake up and make me look older. So now I just use it to define around my brows"
+        },
+        {
+            "review_title": "Perfect concealer, NO CREASING!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "I love this concealer! I decided to give this a try since I had a been a long time lover of Mac's Prolong wear concealer. The formula is very similar: full coverage, long lasting and doesn't crease even after all day wear! It really does remind me of the pro long wear except I do find it to be a tad bit more cakey, however, I do like the applicator on this better than the pro longwear."
+        },
+        {
+            "review_title": "Good formula for a reasonable price",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I like the formula of this product quite a bit. It's easy to blend, doesn't crease after being set with my Laura Mercier powder, and doesn't look patchy on my dry under-eye skin. I also think the price is very reasonable. However, I only give this 4/5 stars because the shade range only has two undertones to choose from for my skin tone (NC or NW). I selected NC15 because I am neutral to warm in undertone, but this pulls very yellow on me. The other option (NW15) seemed too pink, so I'd appreciate a more neutral option."
+        },
+        {
+            "review_title": "MAC does it again",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Iu2019m a MAC loyalist and Studio Fix is the only foundation I will use. I was so excited to see Sephora has the concealer too!! This concealer is AMAZING and lasts all day without getting oily, clinging to dry patches, or separating. Full coverage and a little goes a long way. Goes perfect with the foundation. In love and have found my new go to!"
+        },
+        {
+            "review_title": "Oxidizes Too Much and Too Dark",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Normal skin",
+            "review_text": "This concealer oxidizes too much and goes really orange. The lightest shade isnu2019t light enough for me. Make some lighter shades!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NW20 - rosy beige w/ rosy undertone for light skin",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I love this concealer! It is super buildable, looks really natural, and always lasts all day!"
+        },
+        {
+            "review_title": "my new favorite concealer!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "lightweight full coverage that lasts all day even if I sweat"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NW22 - neutral beige w/ neutral undertone for light skin",
+            "review_buyer_description": "Green eyes, gray hair, Light skin tone, Combination skin",
+            "review_text": "my favourite concealer ever! i used to use the tarte shape tape but this has since taken over in my makeup routine!! completely covers up my dark circles and makes my skin look super smooth and fresh!"
+        },
+        {
+            "review_title": "Not for me",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This was waay too light for me.. nw15 is usually my shade but this stuff was practically white! Maybe i got a dud, though macs shades do seem to alternate with different formulas. Also it smells like paint, exactly like the studio fix fluid. I dont mind the foundation smelling, but not the concealer as its going near eyeballs. I also found the consistancy too difficult to work with and heavy. This was a bust for me. Next!"
+        },
+        {
+            "review_title": "Excellent coverage with no creasing.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Love this concealer. I find it covers under eye bags really well without settling into fine lines. it does dry really fast so I recommend blending it immediately once you apply it. It really holds up all day and worked well for my very dark under eye area."
+        },
+        {
+            "review_title": "Love it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "The best concealer I've ever used. I have tried almost all concealers out there (or at least it feels that way) and I have some under eye issues including puffiness, dark circles and fine lines. I was recommended the NW as it has peach undertones to help with the dark circles. It creates slightly but doesnt look any worse than if I didn't have make up on.  The consistency is amazing and I put 2 layers on and the coverage is perfect. Highly recommend!!!"
+        },
+        {
+            "review_title": "Smooth concealer!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Dry skin",
+            "review_text": "I absolutely love this concealer! I've tried a few different concealers to brighten my under eyes but find they look cakey or makeupy - either right away or as the day wears on. The consistency of this MAC concealer spreads nicely but doesn't cling to my dry patches. I also like that there is a shade that matches my pale, but rose-toned skin."
+        },
+        {
+            "review_title": "For MAC Lovers, only.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, Porcelain skin tone, Normal skin",
+            "review_text": "I have been re-visiting the MAC line of products to try a few new things other than the basics I have been using from MAC over the years ... and, I was quite excited to try this new concealer.  Top marks for a great shade range.  Though, I just couldn't get past the smell of the product ... very strong alcohol scent (much stronger than the usual Studio Fix scent) I couldn't use it !!  I found the consistency quite thin and coverage not so great.  I expected a lot more from a MAC concealer.  If you are a MAC loyalist you may be able to get past the scent ... the only pros I can truly provide are the amazing shade range, bang on with that aspect ... smooth and bendable application.  I would not consider this concealer to be full coverage.  It's far too thin in consistency but the finish is quite nice.  It's one of those things ... you will either love it or hate it depending on your needs.  xx"
+        },
+        {
+            "review_title": "New staple for no makeup- makeup look",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "Purchased this a few days ago and itu2019s already a staple. I have sensitive and combination skin and have never had an issue with Mac products, but this really impressed me. Iu2019ve been using it to cover acne scars and then using Nars creamy radiant under my eyes. This stays put all day. Just off the wand I am able to conceal my entire face, so it should last a long time. The coverage is medium, but light if that makes sense. It covers my scars easily (I blend it out with my finger), keeps me matte but not dry looking. It does such a great job that I donu2019t have to use foundation. Not sure I would recommend this for under the eyes though.  I also havenu2019t noticed a scent which I love.   For reference Iu2019ve been trying to make NARS soft matte concealer work and found it just didnu2019t work the way I wanted it too. I didnu2019t like that I had to sheer it out. This MAC concealer is buildable and doesnu2019t have to be sheered out if you are going for a light makeup look.  The only thing I donu2019t like about it is the colour code. I am NW45 in studio fix fluid but NW51 in this concealer. For instance, NW50 in studio fix fluid (foundation) is too dark for me, but NW50 in this concealer is darker than NW51...makes no sense. Glad they added more shades, but it left me confused. I would recommend going In store to test out the shade. Donu2019t go with your studio fix fluid shade!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NC30 - golden beige w/ golden undertone for light to medium skin",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is the best concealer I ever used,easy to blend and not sit on lines or wrinkles makes my under eye hydrate and radiant ."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "NC25 - light beige w/ golden peach undertone for light to medium skin",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "The best concealer ever! Itu2019s a medium coverage but you can build it to full! Itu2019s not drying at all and stays on the whole day!"
+        },
+        {
+            "review_title": "wish it was better",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Expected a lot more of this product.  Did not live up the claim in which saying it was a medium to build able full coverage. It was sheer and itu2019s the first product Iu2019ve ever used that my beauty blender soaked up the whole thing, so definitely try it out with a brush first if you prefer brushes! Really wish it worked out better but a + for all the yellow shades"
+        }
+    ]
 }

@@ -1,65 +1,65 @@
 {
-	"product_id": "1468",
-	"name": "SKINPOWER Essence Serum",
-	"brand": "SK-II",
-	"categories": "Skincare, Moisturizers, Mists & Essences",
-	"price": 276.0,
-	"about": "What it is:An advanced serum that energizes and revitalizes aging skin, enhancing its natural power to promote a youthful and radiant complexion..Skin Type:Normal, Dry, Combination, and Oily.Skincare Concerns:Fine Lines and Wrinkles, Dryness, and Loss of Firmness and Elasticity.Highlighted Ingredients:- PITERA™: SK-II’s signature ingredient that supports skin’s natural regeneration..What Else You Need to Know:This power-infusing serum targets visible signs of skin aging. It hydrates to improve the appearance of fine lines and pores, for skin that looks soft and bouncy. Experience a revitalized and youthful-looking complexion with this lightweight and fast-absorbing formula.",
-	"ingredients": "-PITERA™: SK-II’s signature ingredient that supports skin’s natural regeneration..-Glycerin: Replenishes and retains moisture in dehydrated skin, keeping skin supple..-Niacinamide (Vitamin B3): Enhances dry skin’s natural surface barrier functioning with antioxidants...Water, Galactomyces Ferment Filtrate*, Glycerin, Butylene Glycol, Niacinamide, Polymethylsilsesquioxane, Peg-32, Pentylene Glycol, Xylitol, Peg/Ppg/Polybutylene Glycol-8/5/3 Glycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Dimethicone, Panthenol, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 20, Polyacrylamide, Benzyl Alcohol, Dimethiconol, Aminomethyl Propanol, C13-14 Isoparaffin, Disodium Edta, Paeonia Albiflora Root Extract, Sodium Benzoate, Xanthan Gum, Laureth-7, Peg-7 Glyceryl Cocoate, Methylparaben, Peg-11 Methyl Ether Dimethicone, Peg-100 Stearate, Fragrance, Houttuynia Cordata Extract, Palmitoyl Pentapeptide-4, Methylsilanol Tri-Peg-8 Glyceryl Cocoate, Polyquaternium-7, Zantedeschia Aethiopica Flower/Stem Extract. *PITERA.",
-	"how_to_use": "Suggested Usage:.-After cleansing and toning, dispense a small amount of the serum onto your palm..-Gently smooth it over the face and neck, using upward strokes..-Pat lightly until fully absorbed..-Follow with your favorite moisturizer..-Use morning and evening for optimal results.",
-	"num_reviews": 6,
-	"overall_rating": 4.0,
-	"product_url": "https://www.sephora.com/ca/en/product/sk-ii-skinpower-essence-P468410?skuId=2437564&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2437564-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "1.7 oz/ 50 mL",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2437564-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Beware it smells like Escada perfume",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
-			"review_text": "At first I was disappointed because they updated it (previously was unscented white serum in a red bottle). However I’ve been using it for the past few months (just finished the bottle) and I’m not mad at it. My main complaint is the perfumed scent. It reminds me of one of the Escada perfumes- not something I want to put on my face. Other than that, it’s been good for my face. It’s seems to help with acne and moisture. I found it works best with the essence - otherwise it’s a little too light. I will be buying another bottle today, I just wish they did something about the scent."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "I have had scar on my face from car accident since I was young. This product helped smooth out and blur out the scars. It definitely helped with skin texture and elasticity."
-		},
-		{
-			"review_title": "Pricey but Worth It",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "This product works. It is expensive, but worth it. I love SK-II, but even I have to acknowledge that their serums are pricey and don’t last long (unlike the rest of their products that are pricey but usually last for quite some time). As such, I have tried other brands to try to find a serum as good as this one at a cheaper price. Unfortunately, I have searched in vain. After a couple months of trying other serums I got this one again and the results were immediate. I could literally see the wrinkles on my forehead disappearing as the day went on. It is wild how effective this product is for plumping and softening wrinkles.  If you like other SK-II products, you should definitely give this one a try."
-		},
-		{
-			"review_title": "plumping and smoothing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
-			"review_text": "this is definitely not a replacement to the old product. it's different and it's good. it took me a little while to get used to the texture, but once I did I was happy I stuck through with it. i have oily skin, and it's my perfect morning under make up serum. it plumps, smooths, and evens out the skin tone. it doesn't make the skin glow like the rna serum, but it's better in a different way."
-		},
-		{
-			"review_title": "how is this an SK2 product?",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I got this since the SK 2 RNA Essence wasn’t available anymore. this doesn’t belong in the sk2 line. Firstly, the consistency is like thick water gel like silicone. 2nd, the smell is super strong. Ugh I feel gross even after it dries. I have to wash it off. I’m so disappointed they replace my favorite essence with this garbage. I will return this"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, black hair, Fair skin tone, Normal skin",
-			"review_text": "Haven’t tried this yet, but just received mine and Sephora needs to please update the website as the size is actually 50 mL / 1.6 fluid ounces, not 2.6 Oz."
-		}
-	]
+    "product_id": "1468",
+    "name": "SKINPOWER Essence Serum",
+    "brand": "SK-II",
+    "categories": "Skincare, Moisturizers, Mists & Essences",
+    "price": 276.0,
+    "about": "What it is:An advanced serum that energizes and revitalizes aging skin, enhancing its natural power to promote a youthful and radiant complexion..Skin Type:Normal, Dry, Combination, and Oily.Skincare Concerns:Fine Lines and Wrinkles, Dryness, and Loss of Firmness and Elasticity.Highlighted Ingredients:- PITERAu2122: SK-IIu2019s signature ingredient that supports skinu2019s natural regeneration..What Else You Need to Know:This power-infusing serum targets visible signs of skin aging. It hydrates to improve the appearance of fine lines and pores, for skin that looks soft and bouncy. Experience a revitalized and youthful-looking complexion with this lightweight and fast-absorbing formula.",
+    "ingredients": "-PITERAu2122: SK-IIu2019s signature ingredient that supports skinu2019s natural regeneration..-Glycerin: Replenishes and retains moisture in dehydrated skin, keeping skin supple..-Niacinamide (Vitamin B3): Enhances dry skinu2019s natural surface barrier functioning with antioxidants...Water, Galactomyces Ferment Filtrate*, Glycerin, Butylene Glycol, Niacinamide, Polymethylsilsesquioxane, Peg-32, Pentylene Glycol, Xylitol, Peg/Ppg/Polybutylene Glycol-8/5/3 Glycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Dimethicone, Panthenol, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 20, Polyacrylamide, Benzyl Alcohol, Dimethiconol, Aminomethyl Propanol, C13-14 Isoparaffin, Disodium Edta, Paeonia Albiflora Root Extract, Sodium Benzoate, Xanthan Gum, Laureth-7, Peg-7 Glyceryl Cocoate, Methylparaben, Peg-11 Methyl Ether Dimethicone, Peg-100 Stearate, Fragrance, Houttuynia Cordata Extract, Palmitoyl Pentapeptide-4, Methylsilanol Tri-Peg-8 Glyceryl Cocoate, Polyquaternium-7, Zantedeschia Aethiopica Flower/Stem Extract. *PITERA.",
+    "how_to_use": "Suggested Usage:.-After cleansing and toning, dispense a small amount of the serum onto your palm..-Gently smooth it over the face and neck, using upward strokes..-Pat lightly until fully absorbed..-Follow with your favorite moisturizer..-Use morning and evening for optimal results.",
+    "num_reviews": 6,
+    "overall_rating": 4.0,
+    "product_url": "https://www.sephora.com/ca/en/product/sk-ii-skinpower-essence-P468410?skuId=2437564&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2437564-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "1.7 oz/ 50 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2437564-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Beware it smells like Escada perfume",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "At first I was disappointed because they updated it (previously was unscented white serum in a red bottle). However Iu2019ve been using it for the past few months (just finished the bottle) and Iu2019m not mad at it. My main complaint is the perfumed scent. It reminds me of one of the Escada perfumes- not something I want to put on my face. Other than that, itu2019s been good for my face. Itu2019s seems to help with acne and moisture. I found it works best with the essence - otherwise itu2019s a little too light. I will be buying another bottle today, I just wish they did something about the scent."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "I have had scar on my face from car accident since I was young. This product helped smooth out and blur out the scars. It definitely helped with skin texture and elasticity."
+        },
+        {
+            "review_title": "Pricey but Worth It",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "This product works. It is expensive, but worth it. I love SK-II, but even I have to acknowledge that their serums are pricey and donu2019t last long (unlike the rest of their products that are pricey but usually last for quite some time). As such, I have tried other brands to try to find a serum as good as this one at a cheaper price. Unfortunately, I have searched in vain. After a couple months of trying other serums I got this one again and the results were immediate. I could literally see the wrinkles on my forehead disappearing as the day went on. It is wild how effective this product is for plumping and softening wrinkles.  If you like other SK-II products, you should definitely give this one a try."
+        },
+        {
+            "review_title": "plumping and smoothing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "this is definitely not a replacement to the old product. it's different and it's good. it took me a little while to get used to the texture, but once I did I was happy I stuck through with it. i have oily skin, and it's my perfect morning under make up serum. it plumps, smooths, and evens out the skin tone. it doesn't make the skin glow like the rna serum, but it's better in a different way."
+        },
+        {
+            "review_title": "how is this an SK2 product?",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I got this since the SK 2 RNA Essence wasnu2019t available anymore. this doesnu2019t belong in the sk2 line. Firstly, the consistency is like thick water gel like silicone. 2nd, the smell is super strong. Ugh I feel gross even after it dries. I have to wash it off. Iu2019m so disappointed they replace my favorite essence with this garbage. I will return this"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, Fair skin tone, Normal skin",
+            "review_text": "Havenu2019t tried this yet, but just received mine and Sephora needs to please update the website as the size is actually 50 mL / 1.6 fluid ounces, not 2.6 Oz."
+        }
+    ]
 }

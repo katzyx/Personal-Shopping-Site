@@ -1,23 +1,22 @@
 {
-	"product_id": "699",
-	"name": "BOSS Bottled Unlimited Eau de Toilette",
-	"brand": "Hugo Boss",
-	"categories": "Fragrance, Men, Cologne",
-	"price": 134.0,
-	"about": "Notes:.Style:",
-	"ingredients": "",
-	"how_to_use": "",
-	"num_reviews": 3,
-	"overall_rating": 4.7,
-	"product_url": "https://www.sephora.com/ca/en/product/boss-bottled-unlimited-P386161?skuId=1603174&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "3.4 oz / 100 ml eau de toilette spray",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "699",
+    "name": "BOSS Bottled Unlimited Eau de Toilette",
+    "brand": "Hugo Boss",
+    "categories": "Fragrance, Men, Cologne",
+    "price": 134.0,
+    "about": "Notes:.Style:",
+    "ingredients": "",
+    "how_to_use": "",
+    "num_reviews": 3,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/boss-bottled-unlimited-P386161?skuId=1603174&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "3.4 oz / 100 ml eau de toilette spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

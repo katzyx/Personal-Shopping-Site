@@ -1,60 +1,60 @@
 {
-	"product_id": "731",
-	"name": "Glaze Lip Oil",
-	"brand": "iNNBEAUTY PROJECT",
-	"categories": "Skincare, Lip Balms & Treatments",
-	"price": 24.5,
-	"about": "What it is:A juicy, non-sticky, and vegan lip-oil-gloss hybrid that gives you soft, plump-looking, and deliciously glossy lips, formulated with natural colors and flavors..Skin Type:Normal, Dry, Combination, and Oily.Formulation:Oil.Highlighted Ingredients:- Natural Red-Root and Jojoba Oils: Nourishing and healing oils that soothe and moisturize dry, chapped lips..Ingredient Callouts:This product is vegan, gluten-free, cruelty-free, and comes in recyclable packaging..What Else You Need to Know:Lips have no oil glands, so it is very important to protect, nourish, and moisturize them. Glaze gives you the shine of a gloss with the nourishing treatment of an oil—and zero stickiness. This oil-gloss hybrid feels ultra comfortable on lips, leaving you with a hint of color and mega shine.",
-	"ingredients": "-Natural Red-Root and Jojoba Oils: Nourishing and healing oils that soothe and moisturize dry, chapped lips..-Fermented Pomegranate: Helps to gently exfoliate so lips stay flake free..-Plant-Based Plumping Complex: Contains an active ingredient clinically proven to plump lips over time (Ecocert certified)....Erythrorhizon Root Oil Ferment Filtrate, Polyglyceryl-2 Isostearate/dimer Dilinoleate Copolymer, Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Silica Dimethyl Silylate, Lithospermum Erythrorhizon Root Extract, Dipalmitoyl Hydroxyproline, Natural Flavor, Dehydroacetic Acid, Punica Granatum (Pomegranate) Seed Oil, Stevioside, Malus Domestica (Apple fruit extract), Water/ Aqua, 1,.2-Hexanediol....The list of ingredients is subject to change, please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Apply on its own for a sheer wash of color or on top of your fave lipstick for a juicy, nourished pout. .-Can also be used as a treatment for super-dry, chapped lips...Recycling Instructions:.SUSTAINABILITY PLEDGE: .For every product we sell, we fund the removal of three units of plastic from landfills, waterways, and marine environments to be recycled and repurposed.",
-	"num_reviews": 489,
-	"overall_rating": 4.3,
-	"product_url": "https://www.sephora.com/ca/en/product/innbeauty-project-glaze-lip-oil-P471038?skuId=2763902&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Cinnamon Bun",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cookie",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2706695-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Piña Colada",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2714467-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Fruit Punch",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2740918-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cinnamon Bun",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Vanilla Mint",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2763910-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Pumpkin Spice Latte",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2802429-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Vanilla Mint",
-			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Oily skin",
-			"review_text": "This is so fun!! Tastes great and is very thick which l love! The shimmer really comes through!"
-		}
-	]
+    "product_id": "731",
+    "name": "Glaze Lip Oil",
+    "brand": "iNNBEAUTY PROJECT",
+    "categories": "Skincare, Lip Balms & Treatments",
+    "price": 24.5,
+    "about": "What it is:A juicy, non-sticky, and vegan lip-oil-gloss hybrid that gives you soft, plump-looking, and deliciously glossy lips, formulated with natural colors and flavors..Skin Type:Normal, Dry, Combination, and Oily.Formulation:Oil.Highlighted Ingredients:- Natural Red-Root and Jojoba Oils: Nourishing and healing oils that soothe and moisturize dry, chapped lips..Ingredient Callouts:This product is vegan, gluten-free, cruelty-free, and comes in recyclable packaging..What Else You Need to Know:Lips have no oil glands, so it is very important to protect, nourish, and moisturize them. Glaze gives you the shine of a gloss with the nourishing treatment of an oilu2014and zero stickiness. This oil-gloss hybrid feels ultra comfortable on lips, leaving you with a hint of color and mega shine.",
+    "ingredients": "-Natural Red-Root and Jojoba Oils: Nourishing and healing oils that soothe and moisturize dry, chapped lips..-Fermented Pomegranate: Helps to gently exfoliate so lips stay flake free..-Plant-Based Plumping Complex: Contains an active ingredient clinically proven to plump lips over time (Ecocert certified)....Erythrorhizon Root Oil Ferment Filtrate, Polyglyceryl-2 Isostearate/dimer Dilinoleate Copolymer, Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Silica Dimethyl Silylate, Lithospermum Erythrorhizon Root Extract, Dipalmitoyl Hydroxyproline, Natural Flavor, Dehydroacetic Acid, Punica Granatum (Pomegranate) Seed Oil, Stevioside, Malus Domestica (Apple fruit extract), Water/ Aqua, 1,.2-Hexanediol....The list of ingredients is subject to change, please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Apply on its own for a sheer wash of color or on top of your fave lipstick for a juicy, nourished pout. .-Can also be used as a treatment for super-dry, chapped lips...Recycling Instructions:.SUSTAINABILITY PLEDGE: .For every product we sell, we fund the removal of three units of plastic from landfills, waterways, and marine environments to be recycled and repurposed.",
+    "num_reviews": 489,
+    "overall_rating": 4.3,
+    "product_url": "https://www.sephora.com/ca/en/product/innbeauty-project-glaze-lip-oil-P471038?skuId=2763902&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Cinnamon Bun",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cookie",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2706695-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Piu00f1a Colada",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2714467-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Fruit Punch",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2740918-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cinnamon Bun",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2763902-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Vanilla Mint",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2763910-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Pumpkin Spice Latte",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2802429-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Vanilla Mint",
+            "review_buyer_description": "Blue eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "This is so fun!! Tastes great and is very thick which l love! The shimmer really comes through!"
+        }
+    ]
 }

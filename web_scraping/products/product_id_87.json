@@ -1,730 +1,730 @@
 {
-	"product_id": "87",
-	"name": "The Balance pH Balancing Gel Cleanser with Ginger Root Extract",
-	"brand": "BeautyBio",
-	"categories": "Skincare, Cleansers, Face Wash & Cleansers",
-	"price": 52.5,
-	"about": "What it is:A gel cleanser designed to gently balance skin’s pH to a 5.5 without stripping..Skin Type:Normal, Dry, Combination, and Oily.Skincare Concerns:Oiliness, Pores, and Acne and Blemishes.Formulation:Lightweight Gel.Highlighted Ingredients:.Ingredient Callouts:This product is vegan, cruelty-free, and gluten-free, and comes in recyclable packaging..What Else You Need to Know:The Balance helps restore skin to a slightly acidic pH of 5.5 where it can fight off stress, free radicals, and pollution while gently removing both face and eye makeup. The non-foaming formula means skin won’t feel tight and dry after use..Clinical Results:In a consumer-perception survey after using The Balance pH Balancing Gel Cleanser:",
-	"ingredients": "-Ginger Root Extract: Supports and helps soothe the appearance of reddened skin. .-Oat Kernel Extract: Supports a healthy, rosy glow in skin. .-Citric Acid: Helps restore pH balance while smoothing the look of skin’s texture...Water, Disodium Laureth Sulfosuccinate, Glycerin, Sodium Cocoyl Isethionate, Xanthan Gum, Cocamidopropyl Betaine, Sodium Lauroamphoacetate, Sodium Methyl Cocoyl Taurate, Avena Sativa (Oat) Kernel Extract, Bisabolol, Zingiber Officinale (Ginger) Root Extract, Phenoxyethanol, Caprylyl Glycol, Fragrance, Chlorphenesin, Citric Acid, Disodium Edta.",
-	"how_to_use": "Suggested Usage:.-Use AM and PM. .-Gently massage with a washcloth to help stimulate micro-circulation and micro-exfoliation.",
-	"num_reviews": 101,
-	"overall_rating": 4.3,
-	"product_url": "https://www.sephora.com/ca/en/product/the-balance-ph-balancing-gel-cleanser-P438643?skuId=2162998&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2162998-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "6 oz/ 180 mL",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2162998-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "I keep coming back to this one",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Dry skin",
-			"review_text": "I have bought this 3 times and it’s perfect for my combination skin. Gentle on my dry areas and rosacea but gets the sebaceous filaments /oils off. It’s expensive but a good investment in my case."
-		},
-		{
-			"review_title": "Gentle and doesn't dry out my skin",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I have been using this cleanser for a long time now and it has kept my skin pretty stable. It doesn't cause any irritation or dryness, and it lasts a long time. The fragrance seemed strong when I first smelled the bottle, so that worried me initially, but I don't notice it at all when I'm washing my face. The fragrance seems to wash off completely. I haven't been wearing much makeup lately so I can't comment on how well it washes off products - I might use a little extra or do a second rinse when I have on makeup. I don't feel like it necessarily gets down deep into my pores but it's solid as a gentle daily cleanser, especially if you have sensitive skin."
-		},
-		{
-			"review_title": "Never again",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I was told this product wouldn't dry my face, but it did. Wouldn't buy again"
-		},
-		{
-			"review_title": "It doesn't work for me",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
-			"review_text": "I bought it because the sellers of the store recommend it a lot, and they were very insistent. But unfortunately my skin dries a lot. My skin is mixed to oily and this product dries me out too much."
-		},
-		{
-			"review_title": "Decent product poor packaging",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "I’ve been using this product for a bit now and feel like my mixed feelings warrant a review. The product itself isn’t bad, maybe drying, but that can be solved with a good moisturizer after. I’m giving this three stars because the packaging is pretty poor. For the price, I’d expect better honestly. When you squeeze the bottle, way too much product comes out at once since it’s pretty liquidy. Also, the packaging itself is just cheap. I wish it came in glass or something better. You can just peel the label off and are left with a white plastic bottle a little too easily. If they updated their packaging I think I would consider repurchasing, but probably will switch back to something else."
-		},
-		{
-			"review_title": "IN LOVE!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Combination skin",
-			"review_text": "I’m OBSESSED!!!! It doesn’t leave my skin insanely dry after, which is a huge bonus. I hate feeling like a cleanser stripped my skin and this doesn’t do that. I really enjoy it. I feel like it cleanses my skin, if that makes sense. I can feel it cleaning? I don’t know. I really love it. A bit pricey but absolutely worth it for me. I believe it has a lot to do with my skin clearing up so much lately."
-		},
-		{
-			"review_title": "blue eyes blonde hair fair skin tone dry skin type",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "LOVE  it’s amazing,,, but I wish they made a cream or foaming version LOVED it thooo"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "Really impressed with this cleanser. I did not break out or have any other reactions. My facial skin feels so clean and perfect immediately after. I currently use it daily! My skin is a mix of oily and dry. After all these years of trying new cleansers. By far my favorite!"
-		},
-		{
-			"review_title": "Neither tamed nor improved acne; breakout worsened",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Had a bad breakout on my chin about 3.5 weeks ago. Was recommended by a store employee and have been using it + the vitamin C serum diligently for the past few weeks w/ no signs of improvement."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "Me reseca un poco la piel, y no me quita todo el maquillaje"
-		},
-		{
-			"review_title": "Sadly didn't work out",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, gray hair, Dry skin",
-			"review_text": "I purchased this on the recommendation of a very helpful beauty advisor because my usual Lancome cleanser was not available at either Lancome or Sephora.  It cleansed well, but my skin felt a bit dry.  I also wasn't too keen on the scent.  I don't know if I was just sensitive to the fragrance, but ended up with eye irritation and returned the product.  I did like the premise of the product, but unfortunately it isn't for me."
-		},
-		{
-			"review_title": "Gentle Cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
-			"review_text": "Gentle face wash that gets the job done well!! Pairs great with first using a coconut oil, wipe with gentle cloth and then use BeautyBio's pH Cleanser. My face has suffered from many other cleansers increasing damage and I am very glad to have this product available. I've used this cleanser for 4 years now."
-		},
-		{
-			"review_title": "I tried, I really tried",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "I tried it for awhile, washing with just my hands some of the time and with my Foreo Luna other times, nothing worked. The acne got worse and my face still felt dirty after using it."
-		},
-		{
-			"review_title": "Forever repurchasing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "The most perfect face wash ever! It’s gentle on the skin and great for sensitive skin. It has a minimal month feel and takes all of my make up off! Definitely a new holy grail."
-		},
-		{
-			"review_title": "Hard Pass",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
-			"review_text": "Absolutely terrible, all it did was dry my skin out."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "Leaves my face very smooth and soft. Only con is that the bottle is cheap. Didn’t believe the reviews until I used it."
-		},
-		{
-			"review_title": "Amazing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
-			"review_text": "That is the best gel I've ever used. My sensitive skin loves it!"
-		},
-		{
-			"review_title": "Did not work for me",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Will give this another shot in a few weeks, but I was using this regularly for 2 weeks, and my skin broke out terribly and was really oily. Switched to another cleaner I had and my skin normalized."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "Best face wash ever. Melts your makeup right off your face leaving it smooth and soft."
-		},
-		{
-			"review_title": "cheap bottle but it works",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
-			"review_text": "Honestly I used it for a month now, I don’t hate the smell, it smells like it s not using any artificial ingredients to try to make it smell better, it smells natural, which I do like. BUT the only down side for this brand, not just for this item, this brand seems to not like to make their product looks more high class.. the bottle looks cheap, and sometimes you might squeeze it too much because the bottle itself are so soft and hard to control how much it come out. When I first used it I accidentally squeeze so much out … very big waste and it happened few times.   Otherwise, it was good, I use it after my face treatment, dose not damage my skin at all."
-		},
-		{
-			"review_title": "LOVE LOVE LOVE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Absolutely love this face wash . I am very sensitive skin person and am picky on my face washes . I have tried for years finding a face wash that will soften , clear , and hydrate my face and I FOUND IT. You only need a pea  size amount and your set. I will never go back to any other face wash but this. It’s so light and refreshing also, I bought the moisturizer/primer with it and HOLY COW the two together is a match made in Heaven. Please try them both if not one. Their amazing. Will 100000% buy more when I run out"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "I really love this cleanser! I marked it down 1 star because it can be a little drying if you use too often (at least for me). At most I use it once a day when my face is on the oilier side, and every other day when I’m in a dry phase. That being said, it’s amazing at exfoliating gently, and makes your face feel truly clean without your skin feeling tight or squeaky. It essentially cleanses, exfoliates, and tones all in one. I definitely can say that my skin texture has improved and my skin has cleared up since I started using it several months ago!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, Tan skin tone, Combination skin",
-			"review_text": "absolutely love this! Ive noticed a difference in how my skin feels after two uses, and you don’t need a lot of product."
-		},
-		{
-			"review_title": "perfect for sensitive skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I have sensitive skin and rosacea. My rosacea has been getting quite rosy with having to wear a mask as well. Saw this and thought I would try it out. I am stunned by the results. I was a bit worried at first because it tingles when you wash your face, thought that may be too much drama for my skin but my skin loves this stuff. It took about 7-10 days but now my skin looks so great!! My face is less red. My breakouts have been reduced. This stuff really cleans my skin and doesn’t dry it out. It’s worth trying it out to see if your skin likes it. The only downfall is that it doesn’t remove all my eye makeup.  I have previously used Fresh Soy Cleanser and Drunk Elephant Beste - this one is way better for me. Highly  recommend!!"
-		},
-		{
-			"review_title": "needs new packaging",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
-			"review_text": "Love the product and formula but I travel a lot and this is the only product I have that bursts on airplanes. It’s been every time I’ve taken it on a plane wasting at least half the bottle."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Grey eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "Great product. Cleanses well, very soft to the face. One drop is needed only to clean perfectly.  The skin feels so fresh after."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I really like this cleanser. It is very gently and perfect for my sensitive skin. I have combination skin on the oiler side and easily clog and break out. This cleaners gives me a nice balance…I use it as my evening wash. It never dries out my skin like some other cleaners for oiler skin."
-		},
-		{
-			"review_title": "Hormonal Acne Win",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Really helped with my hormonal acne. The price is great for the size. Theres also no artificial colouring which I like.   It does have a strong odour (possibly tea tree oil) which can make it un-appealing if you’re sensitive to scents."
-		},
-		{
-			"review_title": "Don't understand the good reviews",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Combination skin",
-			"review_text": "Smells horrible and extremely drying. I think the size is decent for the price, if only it were a different product."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "This cleanser is amazing. Removes makeup and leaves skin clean without a tight feeling. Balances out your ph levels and has a fresh feeling. A little goes a long way!"
-		},
-		{
-			"review_title": "BUY IT!!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, Tan skin tone, Normal skin",
-			"review_text": "OMG!!! This cleanser is amazing!!!!! My skin is soooooooo soft and so clean after each application and the serum OMG! I’m in love with this brand! They had me with PH!"
-		},
-		{
-			"review_title": "Like a more gentle cetaphil",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
-			"review_text": "I consider Cetaphil the Holy Grail of face washes and this cleanser was very similar, except it was more gentle. Great scent and you don’t need a lot to get a nice lather. Left my skin feeling very smooth and even."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "My all time go to. Simple and effective with a clean, fresh result!"
-		},
-		{
-			"review_title": "Clean and Refreshed!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Normal skin",
-			"review_text": "The scent was unexpected.  Very clean and maybe eucalyptus?  The consistency is thinner and lathers well.  A little goes a long way but be careful when you pour or you'll waste some your first time.  My skin felt very refreshed after use."
-		},
-		{
-			"review_title": "Love this cleanser!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I love this cleanser! The scent is so nice and makes you feel like you're at a spa. The directions say to use a dime size amount which is very accurate - a little goes a long way! I use this morning and night and each time my skin feels so refreshed. It takes off all make up so easily without having to feel like you're scrubbing your face/eyes and irritating your skin. I can tell a noticeable difference in my skin even from using for a short time. My skin looks brighter and feels smooth and hydrated. I have fairly sensitive skin and have been able to use this cleanser with no issues. Highly recommend!!"
-		},
-		{
-			"review_title": "my favorite evening cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This is my favorite cleanser, especially for taking my makeup off at the end of the day.  It removes every trace of eye makeup and foundation and does not dry my skin out at all.  I love the light smell of it too.  This is also my go to cleanser when I travel because it’s great for morning and night and it doesn’t leak!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
-			"review_text": "Looking forward to using this product more! I’ve only used one time, but it was very gentle and made my skin feel so clean!"
-		},
-		{
-			"review_title": "A daily go-to",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "Light on the skin, and left my face feeling refreshed. Would highly recommend."
-		},
-		{
-			"review_title": "It's like a Caring Cleanser!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "I wasn't sure about the lack of suds produced by The Balance cleanser, however, my skin felt totally cleansed, healthy and hydrated after using it.  My skin also felt very nurtured or calm, which is amazing for a cleanser.  It's like it is a caring cleanser.  I would definitely recommend this to anyone, especially those with sensitive skin!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Love this cleanser. Very gentle, but still gets all the makeup off. Didn’t dry out my skin at all"
-		},
-		{
-			"review_title": "Love This !!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Fair skin tone, Combination skin",
-			"review_text": "I've been using this product for four months and I absolutely love it.  I have very sensitive skin and this is very gentle !!  It cleans well and doesn't dry out my skin !! I highly recommend it !! It's a GREAT cleanser !!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "I love this cleanser because I have sensitive skin.  This cleanser doesn't dry out your skin at all. I also have combination skin so it helps when I have a few break outs. I love how it takes off my eye makeup as well! I then love to use either the ultimate or zen bubble after."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "The best face wash! This product was incredibly gentle on my dry skin. Would highly recommend adding to your daily routine!"
-		},
-		{
-			"review_title": "the best!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
-			"review_text": "This is my absolute favorite face wash! I've been using it religiously for over a year and my skin feels amazing post-wash. It takes off all of my makeup but doesn't leave my skin feeling stripped and dry."
-		},
-		{
-			"review_title": "Excellent cleanser!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Skin feels SO good after using this. I only need a very small amount to wash my face. It’s very gentle, and gets all of my makeup and the day’s buildup off of my skin without the need to scrub vigorously."
-		},
-		{
-			"review_title": "Holy Grail",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
-			"review_text": "I love this gel cleanser so, so much. It feels gentle and does such a wonderful job removing makeup and grime from the day. Other cleansers have felt stripping or have left a film on the skin. Not this one. I’ve been through ... easily over ten bottles in the three years I’ve been using this. My only complaint is that it comes in a plastic bottle and I wish it were glass, which is more luxurious and better for the environment."
-		},
-		{
-			"review_title": "Worth the price",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "I was a little hesitant at first to spend so much on a cleanser. I’ve been using it for a week now and I am very happy with my purchase. I love the smell and texture. I have very dry skin (winter in Canada) and it doesn’t dehydrate my skin at all. I would definitely buy again."
-		},
-		{
-			"review_title": "Pass...",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Light skin tone, Combination skin",
-			"review_text": "Can’t remember the last time I’ve been this disappointed in a cleanser. I have not noticed any positive differences in my skin. Although my skin doesn’t feel stripped, I feel like it’s dulled my glow and no change in pigmentation. The packaging is awful... it’s super thin so even a slight squeeze of the bottle and the product squirts out everywhere. There are definitely more “ph balancing” cleansers out there that have better results!"
-		},
-		{
-			"review_title": "Stop thinking about it and get it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "I had terrible acne and really gave up on my skin until I tried this product when I tell you with the next months I looked like a completely different person considering how my skin changed . My hyperpigmentation reduced , the dark spots were slowly leaving and my acne gone . 10/10 would recommend"
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "It was okay, probably wouldn't buy it again. I didn't love the smell or the way it made my skin feel but my skin was pretty clear when using it."
-		},
-		{
-			"review_title": "LOVE IT",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Love this cleanser! Super gentle but skill gives me that fresh feeling without stripping the skin. I have combo skin and this works so well for me"
-		},
-		{
-			"review_title": "my fav",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This is my absolute favorite cleanser. I have dry skin that also over produces oil from years of stripping my skin. This is the only thing that I had found that does not make my skin feel right. Plus a little goes a long way and it does a good job removing my makeup."
-		},
-		{
-			"review_title": "Working for my sensitive combo skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, auburn hair, Fair skin tone, Combination skin",
-			"review_text": "I have been looking for cruelty free and clean skin products for my acne-prone sensitive skin and decided to try BeautyBio  because of the limited ingredients list. I have been using for 2 weeks now without any kind of skin reaction. I use the balance ph cleanser as my second cleanse as I always feel like I need a first cleanse with a makeup remover (currently using Drunk Elephant's micellar water as it is one of their products that doesn't seem to irritate my skin). The cleanser has almost no smell and lathers well with the recommended dime sized amount. My skin does not feel tight or stripped after cleansing. As with similar high-end clean brands my main criticism is the price, but given the results I'm seeing so far I am planning to purchase again. It is so nice to not have constant breakouts or itchy skin. Note: I also reviewed the zenbubble gel cream."
-		},
-		{
-			"review_title": "Great gentle cleanser",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "I heard really good things about this brand so I figured I would give this a try. It took a couple weeks of using this product daily to see results. My pores shrunk and my skin is very clear (except for that once a month mini breakout). It's gentle, very very light scent, and a little goes a looong way. It foams up a bit and leaves my skin feeling very clean and soft. I have very dry skin, but I didn't notice this making my skin more dry than normal. I think the price is pretty high for a cleanser, so I took a star off."
-		},
-		{
-			"review_title": "disappointing",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I Had high hopes for this. Unfortunately, I haven’t noticed any difference in my skin. Not worth the price!"
-		},
-		{
-			"review_title": "A winner, soft and gentle",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Really smooth, cleans well and skin is soft, feels good after. I don't use makeup, only powder, it removes it just fine. Very nice."
-		},
-		{
-			"review_title": "Does not remove makeup well",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Overall it is good. I have dry skin, and it did not react to this cleanser in any way.  The only thing is that it does not actually remove makeup well. My mascara is easily removed with any cleanser but this, and I have to use another one for eyes.  The smell is amazing though."
-		},
-		{
-			"review_title": "Contains citric acid",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
-			"review_text": "This product contains citric acid.. broke me out badly. It took me a while to figure out. Seems like a great product if you do not have sensitivity to vitamin c"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
-			"review_text": "I had to switch my face wash as I couldn’t get the one I normally used. I’m always so skeptical to try different stuff on my face as I have sensitive acne prone skin. But I took a risk on this product and it was worth it. I won’t try anything else now, my skin loves it and it’s so light and soft on it. Would definitely recommend!"
-		},
-		{
-			"review_title": "my favorite cleanser so gentle",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, fairLight skin tone, Combination skin",
-			"review_text": "This is my favorite cleanser. It has a shampoo type cap which is fine it’s a very runny consistency and you don’t need a lot. Like a quarter size is plenty with a splash of water and rub your hands together then apply. It’s not a flaming cleanser although it does foam every so slightly. It has a light tea tree scent which is very pleasant. I’ll say this it will not remove makeup so this is step two for me in a double cleanse at night after the Fresh oil cleanser and I use this in the morning. It’s very smooth feeling and gentle on the skin though you can feel and tell it’s doing it’s job cleansing but it’s very gentle, it has a calming sensation and it doesn’t strip the skin and dry it out. It is a little pricey at $35 but like I said a little bit in your hand the size of a quarter (which is not much because it’s runny so it’ll spread to the size of a quarter very quickly) If you’re on the fence there’s a $30 mini set with the cutest white leather case and a trial size of the serum and moisturizer with a 2 oz bottle of the cleanser which will give you a months worth of use to try it out I wish I could show the scent through the photo"
-		},
-		{
-			"review_title": "Cool Cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
-			"review_text": "Cools as it cleanses.  Great for quick cleanse everyday. Not heavy and leaves skin tingling clean."
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, fairLight skin tone, Combination skin",
-			"review_text": "Not worth it. Bad packaging. Made my skin appear worse."
-		},
-		{
-			"review_title": "Works wonders on my sensitive skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Light skin tone, Combination skin",
-			"review_text": "I have been searching for a product to alleviate my breakouts FOREVER, as I've had acne for years now. This cleanser works AMAZING on my skin!! My skin looks and feels so much better overall! Definitely recommend this product to those with acne or sensitive skin. I will point out that it took a little over a month to start seeing results, but now that my skin is used to the product, it's helping keep it clear from breakouts. Like most products, it takes a little time for your skin to get used to - and if you have sensitive skin, your skin might purge a bit at first. But once that period is over, it will be very worth it in my opinion!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "the best cleaner i’ve ever used. most cleansers i’ve used in the last left my acne prone skin feeling dry and stripped but this did not. i was pleasantly surprised to see how clean and healthy it makes my face feel. i’ve been using for about a month now and i am loving the results. this will be my new go to cleanser."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "Love this product! I had been experiencing several skin issues(dry patches, breakouts, redness and irritation) after just one or two uses my skin looked so much better. Now after using for about 2 weeks, my skin is BEAUTIFUL! I will definitely continue to buy this product!"
-		},
-		{
-			"review_title": "Holy Grail for My Skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "I have been struggling with acne recently and purchased this cleanser based on the reviews. I have incredibly oily and sensitive skin, and this cleanser left my skin feeling fresh and clean but not stripped like so many other cleansers have in the past. It smells great, and a little goes a long way. I use about a dime-sized portion. Not only has it helped with my acne, but it has evened out my skin tone. Will 100% purchase again."
-		},
-		{
-			"review_title": "love",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "everything I've been looking for in an everyday face wash. it cleans but doesnt dry out your skin. has been great for hormonal acne and gets all the makeup off ! love love love"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Amazing cleanser! It doesn’t leave your skin dry and removes every trace of make up."
-		},
-		{
-			"review_title": "great product!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "I have been using this cleanser for a couple of months and really love it. It’s gentle but my face feels very clean after using it. Not tight at all. No problems with sensitivity or dryness I have seen with other cleansers. I feel like it has also helped my breakouts and the texture of my skin. A little does go a long way. I will definitely repurchase."
-		},
-		{
-			"review_title": "It’s gentle but works so well",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This product is awesome! I have dry skin. Love how it feels gentle on my face - as in, it does not strip my face dry. However, my makeup and excess oil from the day is cleaned off.  It lathers well so you don’t have to squeeze out too much. It is liquid so be careful when you pour it out.  Little goes a long way!"
-		},
-		{
-			"review_title": "Too Drying",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
-			"review_text": "I guess I’m a rarity here, but this cleanser really stripped my skin. My skin is dry, and this was too much even if I added a couple of drops of oil to it. Another cleanser I can’t use. Oh well. Chalk it up to experience I suppose."
-		},
-		{
-			"review_title": "Love this cleanser!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "My previous go-to cleanser was the calendula one from Kiehls. I have to say that I think this one is 10x better as it lathers up really nicely and doesn’t leave my skin feeling so dry and tight. Plus a little bit goes a pretty long way. I have really sensitive skin but, fortunately, I’ve had no sensitivity issues with this product! I’m on my fourth bottle already!"
-		},
-		{
-			"review_title": "so far so good",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "So far so good! I love that this product cleans my face and doesn’t leave it feeling too tight and dry after. I recommend using a moisturizer after to lock in moisture / keep skin soft. I have been using this product for a couple days now and I notice some small bumps already clearing up. I have an oily T zone and a dry chin area but i feel as if this helps with my T zone staying oil free for the most part. I’ve been using in the morning at night. Also, this may be helping prevent some hormone related acne i tend to get around this time of month."
-		},
-		{
-			"review_title": "soft, convenient",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "brown hair, Fair skin tone, Normal skin",
-			"review_text": "Makes your skin soft! Only need a little bit and it goes a long way. Convenient for travel too!"
-		},
-		{
-			"review_title": "nothing special",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
-			"review_text": "Regular cleanser, nothing special. My shiseido was better."
-		},
-		{
-			"review_title": "well balanced cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "Favorite cleanser. This stuff is amazing. It balances out your skin and removes all dirt and makeup, even the tough eye makeup. Your skin is soft, refreshed and cleansed after without being stripped. This is hydrating as well. It was hard to find a good ph balancing cleanser so you are hydrated and still really clean without being stripped. All around great cleanser."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "Great face wash! My skin is so soft after using it for a little over a week! (But make sure to use something else to take off makeup, this doesn’t help with that)"
-		},
-		{
-			"review_title": "Disappointed",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
-			"review_text": "I was at an event where the woman who created BeautyBio was there talking about her products. She said if you were doing a multi step cleansing routine (I was) you were wasting your time and money. She said her cleanser was ph balanced and is all you need to remove all your makeup. Obviously I bought it and guess what? It doesn't remove all the make up. I still need to use my oil cleanser first to get most of it off then use BeautyBio which still doesn't get it all off. Waterproof mascara won't come off with this cleanser. So I feel  tricked and disappointed and I definitely will not buy this again."
-		},
-		{
-			"review_title": "Perfect product for your washing regimen!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Heard about the advantage of balancing your Ph levels, so decided to give this one a try after reading the reviews. I am pleased! Gentle enough to use both morning and night, although I change it up some by exfoliating. Hasn't broken out my sensitive skin and doesn't dry me out either. I will definitely be sticking with this product as my face feels smoother and oil is controlled with my combo skin."
-		},
-		{
-			"review_title": "Great cleanser and makeup remover",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "I love this cleanser, a dime-sized amount is all you need. It lathers up well, and leaves my face clean and soft. I use it to remove my makeup everyday. I have oily skin and acne, and I haven't seen any negative effects on my skin.  About to go onto my second bottle."
-		},
-		{
-			"review_title": "Great gentle cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This cleanser is fantastic, gentle, and does what it says. There is a very light scent that doesn't bother me at all. Using this has calmed my skin down quite a bit and I have reactive, irritable skin. This is very gentle but my skin still feels clean. My only gripe is the packaging--the lid on this clicks open very easily when traveling, the top opened up in my ziploc (thankfully I had it in one!) so I lost a lot of product into the plastic bag. I don't travel with it anymore but I have almost used up the whole bottle and will probably buy again."
-		},
-		{
-			"review_title": "Just Ok",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I've been using this product for about three months, and I haven't seen the same results that others have in regards to clearing up acne. That being said, a little does go a long way and if you like herbal scents then you might like this if you're looking to try new things. The price tag is too much for me to justify repurchasing since I didn't see any difference in-between this and $10 cleansers."
-		},
-		{
-			"review_title": "A prooducts junkie problem solver!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "I have been using this product for the past week and I’ve found that with my difficult skin and sporadic breakouts I’ve found something that has kept Me clear. I’m a products junkie and I’ve found only a few cleanser combinations work to keep my skin clear and the oiliness under control. I finally have one cleanser I can use for both day and night."
-		},
-		{
-			"review_title": "Really like!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Normal skin",
-			"review_text": "I’ve only been using this for 2 days, but so far I really like it! It’s very silky feeling as you’re washing your face and makes your face soft."
-		},
-		{
-			"review_title": "In Love",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "I absolutely love this cleanser! So gentle (great for my sensitive skin), smells like eucalyptus, calms my skin and keeps break outs controlled and at bay. Only need to use a dime-sized amount which makes the bottle last sooo long. I've used many cleansers for sensitive skin and this is now my holy grail. Very happy with this product."
-		},
-		{
-			"review_title": "NOPE",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "This broke my whole face out in small itchy white bumps. Returning ASAP!"
-		},
-		{
-			"review_title": "Perfect for both morning and evening cleanse",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "This is the best cleanser I've ever tried. This cleanser does it all for me. It's takes off make up, foams slightly but very gentle, giving a deep clean that feels cool and refreshing not dry and tight.  It makes skin look polished and bright. i think the formulation with the right pH is genius. It's perfect at night to take of makeup in one cleanse as well as a refreshing pick me up in the morning on sleepy tired skin. Based on the branding I assumed it would have a fruity girly scent, but it has an invigorating herbal eucalyptus smell which I love. This truly is the perfect cleanser for me."
-		},
-		{
-			"review_title": "Amazing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
-			"review_text": "Absolutely phenomenal, an incredible facial cleanser"
-		},
-		{
-			"review_title": "The best face wash I've found so far!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I've been using this face wash for about a month now, and I'm loving it! It leaves my face feeling clean but not overly dry. A little goes a very long way too. A dime sized amount is plenty, so the bottle should last a while. And I love that it feels very smooth and silky on the skin. I think my skin is looking better too since I switched to this. I'm noticing less irritation and fewer dry patches. I do wish this was fragrance free since I prefer that for my skin care products, but the smell is fine and hasn't irritated my sensitive skin. I will definitely repurchase this when my bottle runs low."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
-			"review_text": "I’ve been using this cleanser for almost two months. I can say the texture of my skin has changed, my face feels clean and smoother after using if. I have ordered a back up just in case so my face won’t go a day without it. Must buy!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "What a wonderful, wonderful cleanser! Most cleansers tend to strip everything from my skin - even the good things. Not this one. I use it all over my face and feel squeaky clean and not tight or dry or whatever other adverse feeling I used to get with other cleansers. Also, a little goes a long way with this product. I put on a small amount and the product disperses all over my entire face."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "Highly Recommended product! Fast delivery! beautiful smell"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "It smells so good! Does it have eucalyptus oil in it? It’s so refreshing and gentle. A little goes a long way, so I think it’s a very fair price. It’s been a lovely addition to my evening bath routine."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I absolutely love this cleanser! I have combination skin and this balances my skin so well. It is definitely my new holy grail!"
-		},
-		{
-			"review_title": "Happy Skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I love the texture of this gel. It’s a gentle cleanser for my sensitive combination skin. It does have a slight medicinal scent that throws me off every time I use it, but it’s not unpleasant. A dime-sized portion goes a long way."
-		},
-		{
-			"review_title": "LOVE THE BALANCE!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "My favorite cleanser ever.  I have a back up at all times.  I don't know what I would do without it since it is the only one that has not stripped my dry skin.  <3"
-		},
-		{
-			"review_title": "I’m obsessed",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I've been looking for months for something to clear my skin I finally found my holy grail after a weeks use my acne was clearing up and smell so good"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I absolutely love this cleanser!!!  My face always feels so fresh and clean after using it but it's not drying. I've enjoyed all the products I have purchased from this line so far!"
-		},
-		{
-			"review_title": "Love BeautyBio",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "Love this cleaner, I have the dreaded combo T zone skin and since I've been using the cleaner it seems to have leveled out and I'm less oily than I usually am.  I will be buying and using more of this as it seems to work better than other cleaners I have used in the past."
-		},
-		{
-			"review_title": "Great Cleanser",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "So happy I found this cleanser!! I have been searching for the perfect morning cleanser to start my day, and I believe this is it! It smells amazing and better prepares my skin for my serum and moisturizer. I am so happy Sephora is now carrying BeautyBio."
-		},
-		{
-			"review_title": "invigorating clean",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "Love this product!  My face feels really clean and invigorated. Leave a slight tingle."
-		}
-	]
+    "product_id": "87",
+    "name": "The Balance pH Balancing Gel Cleanser with Ginger Root Extract",
+    "brand": "BeautyBio",
+    "categories": "Skincare, Cleansers, Face Wash & Cleansers",
+    "price": 52.5,
+    "about": "What it is:A gel cleanser designed to gently balance skinu2019s pH to a 5.5 without stripping..Skin Type:Normal, Dry, Combination, and Oily.Skincare Concerns:Oiliness, Pores, and Acne and Blemishes.Formulation:Lightweight Gel.Highlighted Ingredients:.Ingredient Callouts:This product is vegan, cruelty-free, and gluten-free, and comes in recyclable packaging..What Else You Need to Know:The Balance helps restore skin to a slightly acidic pH of 5.5 where it can fight off stress, free radicals, and pollution while gently removing both face and eye makeup. The non-foaming formula means skin wonu2019t feel tight and dry after use..Clinical Results:In a consumer-perception survey after using The Balance pH Balancing Gel Cleanser:",
+    "ingredients": "-Ginger Root Extract: Supports and helps soothe the appearance of reddened skin. .-Oat Kernel Extract: Supports a healthy, rosy glow in skin. .-Citric Acid: Helps restore pH balance while smoothing the look of skinu2019s texture...Water, Disodium Laureth Sulfosuccinate, Glycerin, Sodium Cocoyl Isethionate, Xanthan Gum, Cocamidopropyl Betaine, Sodium Lauroamphoacetate, Sodium Methyl Cocoyl Taurate, Avena Sativa (Oat) Kernel Extract, Bisabolol, Zingiber Officinale (Ginger) Root Extract, Phenoxyethanol, Caprylyl Glycol, Fragrance, Chlorphenesin, Citric Acid, Disodium Edta.",
+    "how_to_use": "Suggested Usage:.-Use AM and PM. .-Gently massage with a washcloth to help stimulate micro-circulation and micro-exfoliation.",
+    "num_reviews": 101,
+    "overall_rating": 4.3,
+    "product_url": "https://www.sephora.com/ca/en/product/the-balance-ph-balancing-gel-cleanser-P438643?skuId=2162998&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2162998-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "6 oz/ 180 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2162998-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "I keep coming back to this one",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "I have bought this 3 times and itu2019s perfect for my combination skin. Gentle on my dry areas and rosacea but gets the sebaceous filaments /oils off. Itu2019s expensive but a good investment in my case."
+        },
+        {
+            "review_title": "Gentle and doesn't dry out my skin",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I have been using this cleanser for a long time now and it has kept my skin pretty stable. It doesn't cause any irritation or dryness, and it lasts a long time. The fragrance seemed strong when I first smelled the bottle, so that worried me initially, but I don't notice it at all when I'm washing my face. The fragrance seems to wash off completely. I haven't been wearing much makeup lately so I can't comment on how well it washes off products - I might use a little extra or do a second rinse when I have on makeup. I don't feel like it necessarily gets down deep into my pores but it's solid as a gentle daily cleanser, especially if you have sensitive skin."
+        },
+        {
+            "review_title": "Never again",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I was told this product wouldn't dry my face, but it did. Wouldn't buy again"
+        },
+        {
+            "review_title": "It doesn't work for me",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
+            "review_text": "I bought it because the sellers of the store recommend it a lot, and they were very insistent. But unfortunately my skin dries a lot. My skin is mixed to oily and this product dries me out too much."
+        },
+        {
+            "review_title": "Decent product poor packaging",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "Iu2019ve been using this product for a bit now and feel like my mixed feelings warrant a review. The product itself isnu2019t bad, maybe drying, but that can be solved with a good moisturizer after. Iu2019m giving this three stars because the packaging is pretty poor. For the price, Iu2019d expect better honestly. When you squeeze the bottle, way too much product comes out at once since itu2019s pretty liquidy. Also, the packaging itself is just cheap. I wish it came in glass or something better. You can just peel the label off and are left with a white plastic bottle a little too easily. If they updated their packaging I think I would consider repurchasing, but probably will switch back to something else."
+        },
+        {
+            "review_title": "IN LOVE!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+            "review_text": "Iu2019m OBSESSED!!!! It doesnu2019t leave my skin insanely dry after, which is a huge bonus. I hate feeling like a cleanser stripped my skin and this doesnu2019t do that. I really enjoy it. I feel like it cleanses my skin, if that makes sense. I can feel it cleaning? I donu2019t know. I really love it. A bit pricey but absolutely worth it for me. I believe it has a lot to do with my skin clearing up so much lately."
+        },
+        {
+            "review_title": "blue eyes blonde hair fair skin tone dry skin type",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "LOVE  itu2019s amazing,,, but I wish they made a cream or foaming version LOVED it thooo"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "Really impressed with this cleanser. I did not break out or have any other reactions. My facial skin feels so clean and perfect immediately after. I currently use it daily! My skin is a mix of oily and dry. After all these years of trying new cleansers. By far my favorite!"
+        },
+        {
+            "review_title": "Neither tamed nor improved acne; breakout worsened",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Had a bad breakout on my chin about 3.5 weeks ago. Was recommended by a store employee and have been using it + the vitamin C serum diligently for the past few weeks w/ no signs of improvement."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "Me reseca un poco la piel, y no me quita todo el maquillaje"
+        },
+        {
+            "review_title": "Sadly didn't work out",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, gray hair, Dry skin",
+            "review_text": "I purchased this on the recommendation of a very helpful beauty advisor because my usual Lancome cleanser was not available at either Lancome or Sephora.  It cleansed well, but my skin felt a bit dry.  I also wasn't too keen on the scent.  I don't know if I was just sensitive to the fragrance, but ended up with eye irritation and returned the product.  I did like the premise of the product, but unfortunately it isn't for me."
+        },
+        {
+            "review_title": "Gentle Cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "Gentle face wash that gets the job done well!! Pairs great with first using a coconut oil, wipe with gentle cloth and then use BeautyBio's pH Cleanser. My face has suffered from many other cleansers increasing damage and I am very glad to have this product available. I've used this cleanser for 4 years now."
+        },
+        {
+            "review_title": "I tried, I really tried",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "I tried it for awhile, washing with just my hands some of the time and with my Foreo Luna other times, nothing worked. The acne got worse and my face still felt dirty after using it."
+        },
+        {
+            "review_title": "Forever repurchasing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "The most perfect face wash ever! Itu2019s gentle on the skin and great for sensitive skin. It has a minimal month feel and takes all of my make up off! Definitely a new holy grail."
+        },
+        {
+            "review_title": "Hard Pass",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "Absolutely terrible, all it did was dry my skin out."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Leaves my face very smooth and soft. Only con is that the bottle is cheap. Didnu2019t believe the reviews until I used it."
+        },
+        {
+            "review_title": "Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "That is the best gel I've ever used. My sensitive skin loves it!"
+        },
+        {
+            "review_title": "Did not work for me",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Will give this another shot in a few weeks, but I was using this regularly for 2 weeks, and my skin broke out terribly and was really oily. Switched to another cleaner I had and my skin normalized."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Best face wash ever. Melts your makeup right off your face leaving it smooth and soft."
+        },
+        {
+            "review_title": "cheap bottle but it works",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "Honestly I used it for a month now, I donu2019t hate the smell, it smells like it s not using any artificial ingredients to try to make it smell better, it smells natural, which I do like. BUT the only down side for this brand, not just for this item, this brand seems to not like to make their product looks more high class.. the bottle looks cheap, and sometimes you might squeeze it too much because the bottle itself are so soft and hard to control how much it come out. When I first used it I accidentally squeeze so much out u2026 very big waste and it happened few times.   Otherwise, it was good, I use it after my face treatment, dose not damage my skin at all."
+        },
+        {
+            "review_title": "LOVE LOVE LOVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Absolutely love this face wash . I am very sensitive skin person and am picky on my face washes . I have tried for years finding a face wash that will soften , clear , and hydrate my face and I FOUND IT. You only need a pea  size amount and your set. I will never go back to any other face wash but this. Itu2019s so light and refreshing also, I bought the moisturizer/primer with it and HOLY COW the two together is a match made in Heaven. Please try them both if not one. Their amazing. Will 100000% buy more when I run out"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "I really love this cleanser! I marked it down 1 star because it can be a little drying if you use too often (at least for me). At most I use it once a day when my face is on the oilier side, and every other day when Iu2019m in a dry phase. That being said, itu2019s amazing at exfoliating gently, and makes your face feel truly clean without your skin feeling tight or squeaky. It essentially cleanses, exfoliates, and tones all in one. I definitely can say that my skin texture has improved and my skin has cleared up since I started using it several months ago!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, Tan skin tone, Combination skin",
+            "review_text": "absolutely love this! Ive noticed a difference in how my skin feels after two uses, and you donu2019t need a lot of product."
+        },
+        {
+            "review_title": "perfect for sensitive skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I have sensitive skin and rosacea. My rosacea has been getting quite rosy with having to wear a mask as well. Saw this and thought I would try it out. I am stunned by the results. I was a bit worried at first because it tingles when you wash your face, thought that may be too much drama for my skin but my skin loves this stuff. It took about 7-10 days but now my skin looks so great!! My face is less red. My breakouts have been reduced. This stuff really cleans my skin and doesnu2019t dry it out. Itu2019s worth trying it out to see if your skin likes it. The only downfall is that it doesnu2019t remove all my eye makeup.  I have previously used Fresh Soy Cleanser and Drunk Elephant Beste - this one is way better for me. Highly  recommend!!"
+        },
+        {
+            "review_title": "needs new packaging",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "Love the product and formula but I travel a lot and this is the only product I have that bursts on airplanes. Itu2019s been every time Iu2019ve taken it on a plane wasting at least half the bottle."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Grey eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "Great product. Cleanses well, very soft to the face. One drop is needed only to clean perfectly.  The skin feels so fresh after."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I really like this cleanser. It is very gently and perfect for my sensitive skin. I have combination skin on the oiler side and easily clog and break out. This cleaners gives me a nice balanceu2026I use it as my evening wash. It never dries out my skin like some other cleaners for oiler skin."
+        },
+        {
+            "review_title": "Hormonal Acne Win",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Really helped with my hormonal acne. The price is great for the size. Theres also no artificial colouring which I like.   It does have a strong odour (possibly tea tree oil) which can make it un-appealing if youu2019re sensitive to scents."
+        },
+        {
+            "review_title": "Don't understand the good reviews",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Rich skin tone, Combination skin",
+            "review_text": "Smells horrible and extremely drying. I think the size is decent for the price, if only it were a different product."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "This cleanser is amazing. Removes makeup and leaves skin clean without a tight feeling. Balances out your ph levels and has a fresh feeling. A little goes a long way!"
+        },
+        {
+            "review_title": "BUY IT!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, Tan skin tone, Normal skin",
+            "review_text": "OMG!!! This cleanser is amazing!!!!! My skin is soooooooo soft and so clean after each application and the serum OMG! Iu2019m in love with this brand! They had me with PH!"
+        },
+        {
+            "review_title": "Like a more gentle cetaphil",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Light skin tone, Combination skin",
+            "review_text": "I consider Cetaphil the Holy Grail of face washes and this cleanser was very similar, except it was more gentle. Great scent and you donu2019t need a lot to get a nice lather. Left my skin feeling very smooth and even."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "My all time go to. Simple and effective with a clean, fresh result!"
+        },
+        {
+            "review_title": "Clean and Refreshed!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Normal skin",
+            "review_text": "The scent was unexpected.  Very clean and maybe eucalyptus?  The consistency is thinner and lathers well.  A little goes a long way but be careful when you pour or you'll waste some your first time.  My skin felt very refreshed after use."
+        },
+        {
+            "review_title": "Love this cleanser!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I love this cleanser! The scent is so nice and makes you feel like you're at a spa. The directions say to use a dime size amount which is very accurate - a little goes a long way! I use this morning and night and each time my skin feels so refreshed. It takes off all make up so easily without having to feel like you're scrubbing your face/eyes and irritating your skin. I can tell a noticeable difference in my skin even from using for a short time. My skin looks brighter and feels smooth and hydrated. I have fairly sensitive skin and have been able to use this cleanser with no issues. Highly recommend!!"
+        },
+        {
+            "review_title": "my favorite evening cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This is my favorite cleanser, especially for taking my makeup off at the end of the day.  It removes every trace of eye makeup and foundation and does not dry my skin out at all.  I love the light smell of it too.  This is also my go to cleanser when I travel because itu2019s great for morning and night and it doesnu2019t leak!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "Looking forward to using this product more! Iu2019ve only used one time, but it was very gentle and made my skin feel so clean!"
+        },
+        {
+            "review_title": "A daily go-to",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Light on the skin, and left my face feeling refreshed. Would highly recommend."
+        },
+        {
+            "review_title": "It's like a Caring Cleanser!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "I wasn't sure about the lack of suds produced by The Balance cleanser, however, my skin felt totally cleansed, healthy and hydrated after using it.  My skin also felt very nurtured or calm, which is amazing for a cleanser.  It's like it is a caring cleanser.  I would definitely recommend this to anyone, especially those with sensitive skin!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Love this cleanser. Very gentle, but still gets all the makeup off. Didnu2019t dry out my skin at all"
+        },
+        {
+            "review_title": "Love This !!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Fair skin tone, Combination skin",
+            "review_text": "I've been using this product for four months and I absolutely love it.  I have very sensitive skin and this is very gentle !!  It cleans well and doesn't dry out my skin !! I highly recommend it !! It's a GREAT cleanser !!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "I love this cleanser because I have sensitive skin.  This cleanser doesn't dry out your skin at all. I also have combination skin so it helps when I have a few break outs. I love how it takes off my eye makeup as well! I then love to use either the ultimate or zen bubble after."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "The best face wash! This product was incredibly gentle on my dry skin. Would highly recommend adding to your daily routine!"
+        },
+        {
+            "review_title": "the best!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "This is my absolute favorite face wash! I've been using it religiously for over a year and my skin feels amazing post-wash. It takes off all of my makeup but doesn't leave my skin feeling stripped and dry."
+        },
+        {
+            "review_title": "Excellent cleanser!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Skin feels SO good after using this. I only need a very small amount to wash my face. Itu2019s very gentle, and gets all of my makeup and the dayu2019s buildup off of my skin without the need to scrub vigorously."
+        },
+        {
+            "review_title": "Holy Grail",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "I love this gel cleanser so, so much. It feels gentle and does such a wonderful job removing makeup and grime from the day. Other cleansers have felt stripping or have left a film on the skin. Not this one. Iu2019ve been through ... easily over ten bottles in the three years Iu2019ve been using this. My only complaint is that it comes in a plastic bottle and I wish it were glass, which is more luxurious and better for the environment."
+        },
+        {
+            "review_title": "Worth the price",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "I was a little hesitant at first to spend so much on a cleanser. Iu2019ve been using it for a week now and I am very happy with my purchase. I love the smell and texture. I have very dry skin (winter in Canada) and it doesnu2019t dehydrate my skin at all. I would definitely buy again."
+        },
+        {
+            "review_title": "Pass...",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Light skin tone, Combination skin",
+            "review_text": "Canu2019t remember the last time Iu2019ve been this disappointed in a cleanser. I have not noticed any positive differences in my skin. Although my skin doesnu2019t feel stripped, I feel like itu2019s dulled my glow and no change in pigmentation. The packaging is awful... itu2019s super thin so even a slight squeeze of the bottle and the product squirts out everywhere. There are definitely more u201cph balancingu201d cleansers out there that have better results!"
+        },
+        {
+            "review_title": "Stop thinking about it and get it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "I had terrible acne and really gave up on my skin until I tried this product when I tell you with the next months I looked like a completely different person considering how my skin changed . My hyperpigmentation reduced , the dark spots were slowly leaving and my acne gone . 10/10 would recommend"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "It was okay, probably wouldn't buy it again. I didn't love the smell or the way it made my skin feel but my skin was pretty clear when using it."
+        },
+        {
+            "review_title": "LOVE IT",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Love this cleanser! Super gentle but skill gives me that fresh feeling without stripping the skin. I have combo skin and this works so well for me"
+        },
+        {
+            "review_title": "my fav",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This is my absolute favorite cleanser. I have dry skin that also over produces oil from years of stripping my skin. This is the only thing that I had found that does not make my skin feel right. Plus a little goes a long way and it does a good job removing my makeup."
+        },
+        {
+            "review_title": "Working for my sensitive combo skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "I have been looking for cruelty free and clean skin products for my acne-prone sensitive skin and decided to try BeautyBio  because of the limited ingredients list. I have been using for 2 weeks now without any kind of skin reaction. I use the balance ph cleanser as my second cleanse as I always feel like I need a first cleanse with a makeup remover (currently using Drunk Elephant's micellar water as it is one of their products that doesn't seem to irritate my skin). The cleanser has almost no smell and lathers well with the recommended dime sized amount. My skin does not feel tight or stripped after cleansing. As with similar high-end clean brands my main criticism is the price, but given the results I'm seeing so far I am planning to purchase again. It is so nice to not have constant breakouts or itchy skin. Note: I also reviewed the zenbubble gel cream."
+        },
+        {
+            "review_title": "Great gentle cleanser",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "I heard really good things about this brand so I figured I would give this a try. It took a couple weeks of using this product daily to see results. My pores shrunk and my skin is very clear (except for that once a month mini breakout). It's gentle, very very light scent, and a little goes a looong way. It foams up a bit and leaves my skin feeling very clean and soft. I have very dry skin, but I didn't notice this making my skin more dry than normal. I think the price is pretty high for a cleanser, so I took a star off."
+        },
+        {
+            "review_title": "disappointing",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I Had high hopes for this. Unfortunately, I havenu2019t noticed any difference in my skin. Not worth the price!"
+        },
+        {
+            "review_title": "A winner, soft and gentle",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Really smooth, cleans well and skin is soft, feels good after. I don't use makeup, only powder, it removes it just fine. Very nice."
+        },
+        {
+            "review_title": "Does not remove makeup well",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Overall it is good. I have dry skin, and it did not react to this cleanser in any way.  The only thing is that it does not actually remove makeup well. My mascara is easily removed with any cleanser but this, and I have to use another one for eyes.  The smell is amazing though."
+        },
+        {
+            "review_title": "Contains citric acid",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "This product contains citric acid.. broke me out badly. It took me a while to figure out. Seems like a great product if you do not have sensitivity to vitamin c"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "I had to switch my face wash as I couldnu2019t get the one I normally used. Iu2019m always so skeptical to try different stuff on my face as I have sensitive acne prone skin. But I took a risk on this product and it was worth it. I wonu2019t try anything else now, my skin loves it and itu2019s so light and soft on it. Would definitely recommend!"
+        },
+        {
+            "review_title": "my favorite cleanser so gentle",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, fairLight skin tone, Combination skin",
+            "review_text": "This is my favorite cleanser. It has a shampoo type cap which is fine itu2019s a very runny consistency and you donu2019t need a lot. Like a quarter size is plenty with a splash of water and rub your hands together then apply. Itu2019s not a flaming cleanser although it does foam every so slightly. It has a light tea tree scent which is very pleasant. Iu2019ll say this it will not remove makeup so this is step two for me in a double cleanse at night after the Fresh oil cleanser and I use this in the morning. Itu2019s very smooth feeling and gentle on the skin though you can feel and tell itu2019s doing itu2019s job cleansing but itu2019s very gentle, it has a calming sensation and it doesnu2019t strip the skin and dry it out. It is a little pricey at $35 but like I said a little bit in your hand the size of a quarter (which is not much because itu2019s runny so itu2019ll spread to the size of a quarter very quickly) If youu2019re on the fence thereu2019s a $30 mini set with the cutest white leather case and a trial size of the serum and moisturizer with a 2 oz bottle of the cleanser which will give you a months worth of use to try it out I wish I could show the scent through the photo"
+        },
+        {
+            "review_title": "Cool Cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+            "review_text": "Cools as it cleanses.  Great for quick cleanse everyday. Not heavy and leaves skin tingling clean."
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, fairLight skin tone, Combination skin",
+            "review_text": "Not worth it. Bad packaging. Made my skin appear worse."
+        },
+        {
+            "review_title": "Works wonders on my sensitive skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Light skin tone, Combination skin",
+            "review_text": "I have been searching for a product to alleviate my breakouts FOREVER, as I've had acne for years now. This cleanser works AMAZING on my skin!! My skin looks and feels so much better overall! Definitely recommend this product to those with acne or sensitive skin. I will point out that it took a little over a month to start seeing results, but now that my skin is used to the product, it's helping keep it clear from breakouts. Like most products, it takes a little time for your skin to get used to - and if you have sensitive skin, your skin might purge a bit at first. But once that period is over, it will be very worth it in my opinion!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "the best cleaner iu2019ve ever used. most cleansers iu2019ve used in the last left my acne prone skin feeling dry and stripped but this did not. i was pleasantly surprised to see how clean and healthy it makes my face feel. iu2019ve been using for about a month now and i am loving the results. this will be my new go to cleanser."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Love this product! I had been experiencing several skin issues(dry patches, breakouts, redness and irritation) after just one or two uses my skin looked so much better. Now after using for about 2 weeks, my skin is BEAUTIFUL! I will definitely continue to buy this product!"
+        },
+        {
+            "review_title": "Holy Grail for My Skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "I have been struggling with acne recently and purchased this cleanser based on the reviews. I have incredibly oily and sensitive skin, and this cleanser left my skin feeling fresh and clean but not stripped like so many other cleansers have in the past. It smells great, and a little goes a long way. I use about a dime-sized portion. Not only has it helped with my acne, but it has evened out my skin tone. Will 100% purchase again."
+        },
+        {
+            "review_title": "love",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "everything I've been looking for in an everyday face wash. it cleans but doesnt dry out your skin. has been great for hormonal acne and gets all the makeup off ! love love love"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Amazing cleanser! It doesnu2019t leave your skin dry and removes every trace of make up."
+        },
+        {
+            "review_title": "great product!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I have been using this cleanser for a couple of months and really love it. Itu2019s gentle but my face feels very clean after using it. Not tight at all. No problems with sensitivity or dryness I have seen with other cleansers. I feel like it has also helped my breakouts and the texture of my skin. A little does go a long way. I will definitely repurchase."
+        },
+        {
+            "review_title": "Itu2019s gentle but works so well",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This product is awesome! I have dry skin. Love how it feels gentle on my face - as in, it does not strip my face dry. However, my makeup and excess oil from the day is cleaned off.  It lathers well so you donu2019t have to squeeze out too much. It is liquid so be careful when you pour it out.  Little goes a long way!"
+        },
+        {
+            "review_title": "Too Drying",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "I guess Iu2019m a rarity here, but this cleanser really stripped my skin. My skin is dry, and this was too much even if I added a couple of drops of oil to it. Another cleanser I canu2019t use. Oh well. Chalk it up to experience I suppose."
+        },
+        {
+            "review_title": "Love this cleanser!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "My previous go-to cleanser was the calendula one from Kiehls. I have to say that I think this one is 10x better as it lathers up really nicely and doesnu2019t leave my skin feeling so dry and tight. Plus a little bit goes a pretty long way. I have really sensitive skin but, fortunately, Iu2019ve had no sensitivity issues with this product! Iu2019m on my fourth bottle already!"
+        },
+        {
+            "review_title": "so far so good",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "So far so good! I love that this product cleans my face and doesnu2019t leave it feeling too tight and dry after. I recommend using a moisturizer after to lock in moisture / keep skin soft. I have been using this product for a couple days now and I notice some small bumps already clearing up. I have an oily T zone and a dry chin area but i feel as if this helps with my T zone staying oil free for the most part. Iu2019ve been using in the morning at night. Also, this may be helping prevent some hormone related acne i tend to get around this time of month."
+        },
+        {
+            "review_title": "soft, convenient",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "brown hair, Fair skin tone, Normal skin",
+            "review_text": "Makes your skin soft! Only need a little bit and it goes a long way. Convenient for travel too!"
+        },
+        {
+            "review_title": "nothing special",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "Regular cleanser, nothing special. My shiseido was better."
+        },
+        {
+            "review_title": "well balanced cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "Favorite cleanser. This stuff is amazing. It balances out your skin and removes all dirt and makeup, even the tough eye makeup. Your skin is soft, refreshed and cleansed after without being stripped. This is hydrating as well. It was hard to find a good ph balancing cleanser so you are hydrated and still really clean without being stripped. All around great cleanser."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Great face wash! My skin is so soft after using it for a little over a week! (But make sure to use something else to take off makeup, this doesnu2019t help with that)"
+        },
+        {
+            "review_title": "Disappointed",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "I was at an event where the woman who created BeautyBio was there talking about her products. She said if you were doing a multi step cleansing routine (I was) you were wasting your time and money. She said her cleanser was ph balanced and is all you need to remove all your makeup. Obviously I bought it and guess what? It doesn't remove all the make up. I still need to use my oil cleanser first to get most of it off then use BeautyBio which still doesn't get it all off. Waterproof mascara won't come off with this cleanser. So I feel  tricked and disappointed and I definitely will not buy this again."
+        },
+        {
+            "review_title": "Perfect product for your washing regimen!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Heard about the advantage of balancing your Ph levels, so decided to give this one a try after reading the reviews. I am pleased! Gentle enough to use both morning and night, although I change it up some by exfoliating. Hasn't broken out my sensitive skin and doesn't dry me out either. I will definitely be sticking with this product as my face feels smoother and oil is controlled with my combo skin."
+        },
+        {
+            "review_title": "Great cleanser and makeup remover",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "I love this cleanser, a dime-sized amount is all you need. It lathers up well, and leaves my face clean and soft. I use it to remove my makeup everyday. I have oily skin and acne, and I haven't seen any negative effects on my skin.  About to go onto my second bottle."
+        },
+        {
+            "review_title": "Great gentle cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This cleanser is fantastic, gentle, and does what it says. There is a very light scent that doesn't bother me at all. Using this has calmed my skin down quite a bit and I have reactive, irritable skin. This is very gentle but my skin still feels clean. My only gripe is the packaging--the lid on this clicks open very easily when traveling, the top opened up in my ziploc (thankfully I had it in one!) so I lost a lot of product into the plastic bag. I don't travel with it anymore but I have almost used up the whole bottle and will probably buy again."
+        },
+        {
+            "review_title": "Just Ok",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I've been using this product for about three months, and I haven't seen the same results that others have in regards to clearing up acne. That being said, a little does go a long way and if you like herbal scents then you might like this if you're looking to try new things. The price tag is too much for me to justify repurchasing since I didn't see any difference in-between this and $10 cleansers."
+        },
+        {
+            "review_title": "A prooducts junkie problem solver!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "I have been using this product for the past week and Iu2019ve found that with my difficult skin and sporadic breakouts Iu2019ve found something that has kept Me clear. Iu2019m a products junkie and Iu2019ve found only a few cleanser combinations work to keep my skin clear and the oiliness under control. I finally have one cleanser I can use for both day and night."
+        },
+        {
+            "review_title": "Really like!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Normal skin",
+            "review_text": "Iu2019ve only been using this for 2 days, but so far I really like it! Itu2019s very silky feeling as youu2019re washing your face and makes your face soft."
+        },
+        {
+            "review_title": "In Love",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "I absolutely love this cleanser! So gentle (great for my sensitive skin), smells like eucalyptus, calms my skin and keeps break outs controlled and at bay. Only need to use a dime-sized amount which makes the bottle last sooo long. I've used many cleansers for sensitive skin and this is now my holy grail. Very happy with this product."
+        },
+        {
+            "review_title": "NOPE",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "This broke my whole face out in small itchy white bumps. Returning ASAP!"
+        },
+        {
+            "review_title": "Perfect for both morning and evening cleanse",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "This is the best cleanser I've ever tried. This cleanser does it all for me. It's takes off make up, foams slightly but very gentle, giving a deep clean that feels cool and refreshing not dry and tight.  It makes skin look polished and bright. i think the formulation with the right pH is genius. It's perfect at night to take of makeup in one cleanse as well as a refreshing pick me up in the morning on sleepy tired skin. Based on the branding I assumed it would have a fruity girly scent, but it has an invigorating herbal eucalyptus smell which I love. This truly is the perfect cleanser for me."
+        },
+        {
+            "review_title": "Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "Absolutely phenomenal, an incredible facial cleanser"
+        },
+        {
+            "review_title": "The best face wash I've found so far!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I've been using this face wash for about a month now, and I'm loving it! It leaves my face feeling clean but not overly dry. A little goes a very long way too. A dime sized amount is plenty, so the bottle should last a while. And I love that it feels very smooth and silky on the skin. I think my skin is looking better too since I switched to this. I'm noticing less irritation and fewer dry patches. I do wish this was fragrance free since I prefer that for my skin care products, but the smell is fine and hasn't irritated my sensitive skin. I will definitely repurchase this when my bottle runs low."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "Iu2019ve been using this cleanser for almost two months. I can say the texture of my skin has changed, my face feels clean and smoother after using if. I have ordered a back up just in case so my face wonu2019t go a day without it. Must buy!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "What a wonderful, wonderful cleanser! Most cleansers tend to strip everything from my skin - even the good things. Not this one. I use it all over my face and feel squeaky clean and not tight or dry or whatever other adverse feeling I used to get with other cleansers. Also, a little goes a long way with this product. I put on a small amount and the product disperses all over my entire face."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Highly Recommended product! Fast delivery! beautiful smell"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "It smells so good! Does it have eucalyptus oil in it? Itu2019s so refreshing and gentle. A little goes a long way, so I think itu2019s a very fair price. Itu2019s been a lovely addition to my evening bath routine."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I absolutely love this cleanser! I have combination skin and this balances my skin so well. It is definitely my new holy grail!"
+        },
+        {
+            "review_title": "Happy Skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "I love the texture of this gel. Itu2019s a gentle cleanser for my sensitive combination skin. It does have a slight medicinal scent that throws me off every time I use it, but itu2019s not unpleasant. A dime-sized portion goes a long way."
+        },
+        {
+            "review_title": "LOVE THE BALANCE!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "My favorite cleanser ever.  I have a back up at all times.  I don't know what I would do without it since it is the only one that has not stripped my dry skin.  <3"
+        },
+        {
+            "review_title": "Iu2019m obsessed",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I've been looking for months for something to clear my skin I finally found my holy grail after a weeks use my acne was clearing up and smell so good"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I absolutely love this cleanser!!!  My face always feels so fresh and clean after using it but it's not drying. I've enjoyed all the products I have purchased from this line so far!"
+        },
+        {
+            "review_title": "Love BeautyBio",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Love this cleaner, I have the dreaded combo T zone skin and since I've been using the cleaner it seems to have leveled out and I'm less oily than I usually am.  I will be buying and using more of this as it seems to work better than other cleaners I have used in the past."
+        },
+        {
+            "review_title": "Great Cleanser",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "So happy I found this cleanser!! I have been searching for the perfect morning cleanser to start my day, and I believe this is it! It smells amazing and better prepares my skin for my serum and moisturizer. I am so happy Sephora is now carrying BeautyBio."
+        },
+        {
+            "review_title": "invigorating clean",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "Love this product!  My face feels really clean and invigorated. Leave a slight tingle."
+        }
+    ]
 }

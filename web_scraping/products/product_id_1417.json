@@ -1,32 +1,31 @@
 {
-	"product_id": "1417",
-	"name": "Nourishing & Repairing Hand Mask",
-	"brand": "SEPHORA COLLECTION",
-	"categories": "Bath & Body, Body Moisturizers, Hand Cream & Foot Cream",
-	"price": 7.0,
-	"about": "What it is:A pair of nourishing, moisturizing hand masks with a festive, limited-edition look to pamper your hands this holiday season!.Skin Type:Normal, Dry, Combination, and Oily.What Else You Need to Know:These hand masks are enriched with wild mango butter in a new, limited-edition festive design. This year, they’re covered in stars to evoke icy winter skies. The masks are formulated with 95 percent natural ingredients to moisturize, nourish, and soften hands in as little as 15 minutes.",
-	"ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Pentaerythrityl Tetraethylhexanoate, Cetearyl Olivate, Ethyl Olivate, 1,2-Hexanediol, Octyldodecanol, Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Glyceryl Stearate, Sorbitan Olivate, Squalane, Stearic Acid, Irvingia Gabonensis Kernel Butter, Parfum (Fragrance), Hydrogenated Coco-Glycerides, Arginine, Carbomer, O-Cymen-5-Ol, Ethylhexylglycerin, Sodium Hyaluronate, Olea Europaea (Olive) Leaf Extract, Tocopherol.",
-	"how_to_use": "Suggested Usage:.-Apply to clean, dry hands. .-Leave on for 15 minutes. .-Gently massage in any remaining product after you remove the masks. .-No need to rinse.",
-	"num_reviews": 4,
-	"overall_rating": 5.0,
-	"product_url": "https://www.sephora.com/ca/en/product/nourishing-repairing-hand-mask-P513641?skuId=2779866&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2779866-main-zoom.jpg?imwidth=465",
-	"shades": [
-	],
-	"reviews": [
-		{
-			"review_title": "Hand Mask",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Normal skin",
-			"review_text": "This was an excellent hand mask. I am unhappy that they won’t ship this product anymore."
-		},
-		{
-			"review_title": "Perfect for really dry hands!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
-			"review_text": "I bought a pair for my boyfriend since he’s always working with his hands (mechanic) and his hands get so dry and itchy. He left them on longer than 15 minutes due to how itchy they were. He said his hands feel so much better and wants me to buy more!"
-		}
-	]
+    "product_id": "1417",
+    "name": "Nourishing & Repairing Hand Mask",
+    "brand": "SEPHORA COLLECTION",
+    "categories": "Bath & Body, Body Moisturizers, Hand Cream & Foot Cream",
+    "price": 7.0,
+    "about": "What it is:A pair of nourishing, moisturizing hand masks with a festive, limited-edition look to pamper your hands this holiday season!.Skin Type:Normal, Dry, Combination, and Oily.What Else You Need to Know:These hand masks are enriched with wild mango butter in a new, limited-edition festive design. This year, theyu2019re covered in stars to evoke icy winter skies. The masks are formulated with 95 percent natural ingredients to moisturize, nourish, and soften hands in as little as 15 minutes.",
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Pentaerythrityl Tetraethylhexanoate, Cetearyl Olivate, Ethyl Olivate, 1,2-Hexanediol, Octyldodecanol, Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Glyceryl Stearate, Sorbitan Olivate, Squalane, Stearic Acid, Irvingia Gabonensis Kernel Butter, Parfum (Fragrance), Hydrogenated Coco-Glycerides, Arginine, Carbomer, O-Cymen-5-Ol, Ethylhexylglycerin, Sodium Hyaluronate, Olea Europaea (Olive) Leaf Extract, Tocopherol.",
+    "how_to_use": "Suggested Usage:.-Apply to clean, dry hands. .-Leave on for 15 minutes. .-Gently massage in any remaining product after you remove the masks. .-No need to rinse.",
+    "num_reviews": 4,
+    "overall_rating": 5.0,
+    "product_url": "https://www.sephora.com/ca/en/product/nourishing-repairing-hand-mask-P513641?skuId=2779866&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2779866-main-zoom.jpg?imwidth=465",
+    "shades": [],
+    "reviews": [
+        {
+            "review_title": "Hand Mask",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Normal skin",
+            "review_text": "This was an excellent hand mask. I am unhappy that they wonu2019t ship this product anymore."
+        },
+        {
+            "review_title": "Perfect for really dry hands!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "I bought a pair for my boyfriend since heu2019s always working with his hands (mechanic) and his hands get so dry and itchy. He left them on longer than 15 minutes due to how itchy they were. He said his hands feel so much better and wants me to buy more!"
+        }
+    ]
 }

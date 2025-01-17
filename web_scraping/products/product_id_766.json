@@ -1,23 +1,22 @@
 {
-	"product_id": "766",
-	"name": "Face Buff Energizing Scrub",
-	"brand": "Jack Black",
-	"categories": "Skincare, Cleansers, Exfoliators",
-	"price": 40.5,
-	"about": "What it is:....What it is formulated to do:....What else you need to know:..",
-	"ingredients": "Aqua (Water/Eau), Glyceryl Stearate, Hexylene Glycol, Polylactic Acid, Cetyl Alcohol, Ceteth-2, Disodium Cocoamphodiacetate, Sodium C14-16 Olefin Sulfonate, Menthyl Lactate, Caprylic/Capric Triglyceride, Allantoin, Mentha Piperita (Peppermint/Menthe poivrée) Oil, Glycerin*, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Cucumis Sativus (Cucumber/Concombre) Fruit Extract*, Glycyrrhiza Glabra (Licorice/Réglisse) Root Extract*, Calendula Officinalis Flower Extract*, Squalane, Bambusa Arundinacea Stem Powder, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Magnesium Aluminum Silicate, Ascorbic Acid, Fragrance (Parfum), Polysorbate 60, Ethylhexylglycerin, Phenoxyethanol, Sodium Glycolate, Coconut Acid, Sodium Diglycolate, Hexadecene, Tetradecene, Myristyl Alcohol, Stearyl Alcohol, Sorbitan Isostearate, Titanium Dioxide, Sodium Sulfate, Quartz, Sodium Benzoate, Butylphenyl Methylpropional, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Benzyl Salicylate, Citronellol, Coumarin, Limonene, Geraniol, Hydroxycitronellal, Linalool.",
-	"how_to_use": "",
-	"num_reviews": 268,
-	"overall_rating": 4.7,
-	"product_url": "https://www.sephora.com/ca/en/product/face-buff-energizing-scrub-P12571?skuId=1176205&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s1176205-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "6 oz/ 177 mL",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1176205-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "766",
+    "name": "Face Buff Energizing Scrub",
+    "brand": "Jack Black",
+    "categories": "Skincare, Cleansers, Exfoliators",
+    "price": 40.5,
+    "about": "What it is:....What it is formulated to do:....What else you need to know:..",
+    "ingredients": "Aqua (Water/Eau), Glyceryl Stearate, Hexylene Glycol, Polylactic Acid, Cetyl Alcohol, Ceteth-2, Disodium Cocoamphodiacetate, Sodium C14-16 Olefin Sulfonate, Menthyl Lactate, Caprylic/Capric Triglyceride, Allantoin, Mentha Piperita (Peppermint/Menthe poivru00e9e) Oil, Glycerin*, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Cucumis Sativus (Cucumber/Concombre) Fruit Extract*, Glycyrrhiza Glabra (Licorice/Ru00e9glisse) Root Extract*, Calendula Officinalis Flower Extract*, Squalane, Bambusa Arundinacea Stem Powder, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Magnesium Aluminum Silicate, Ascorbic Acid, Fragrance (Parfum), Polysorbate 60, Ethylhexylglycerin, Phenoxyethanol, Sodium Glycolate, Coconut Acid, Sodium Diglycolate, Hexadecene, Tetradecene, Myristyl Alcohol, Stearyl Alcohol, Sorbitan Isostearate, Titanium Dioxide, Sodium Sulfate, Quartz, Sodium Benzoate, Butylphenyl Methylpropional, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Benzyl Salicylate, Citronellol, Coumarin, Limonene, Geraniol, Hydroxycitronellal, Linalool.",
+    "how_to_use": "",
+    "num_reviews": 268,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/face-buff-energizing-scrub-P12571?skuId=1176205&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s1176205-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "6 oz/ 177 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1176205-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }
