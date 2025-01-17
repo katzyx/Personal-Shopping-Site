@@ -96,12 +96,14 @@ class UserInput:
                 
         # If we've exhausted retries, return a safe default
         if retry_count >= max_retries:
-            print(f"Maximum retries ({max_retries}) reached. Returning default JSON.")
-            if type == 'who':
-                reply = '{"Age":"25","Sex":"Unknown","Skin Tone":"Unknown","Skin Type":"Unknown"}'
-            elif type == 'what':
-                reply = '{"Products":"","Price":[0,99999999],"Brand":""}'
-
+            print(f"Maximum retries ({max_retries}) reached. Returning default price JSON.")
+            try:
+                if type == 'what':
+                    data['Price'] = [0,999]
+                reply = json.dumps(data)
+            except Exception as e:
+                print(f"Error processing JSON: {e}")
+                reply = "{}"
         # For debugging purposes
         print(reply)
 
