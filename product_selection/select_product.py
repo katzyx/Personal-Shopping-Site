@@ -18,7 +18,7 @@ NUMBER_PRODUCTS_RETURNED = 11
 class Product:
     def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url):
         self.name: str = name # Product name
-        self.type: str = type # Product type
+        self.type: list[str] = type # Product categories
         self.brand: str = brand # Product brand
         self.color: list[str] = color# List of all product colors (all shades)
         self.price: float = price # Price of product in CAD
@@ -46,24 +46,31 @@ class BasicSelection:
         df = pd.read_csv(self.csv_file)
 
         for r in range(0, df.shape[0]):            
-            # split string from dataset into list
-            color = df.iloc[r, 2]
-            color_list = color.split(',')
-
-            ingr = df.iloc[r, 7]
-            ingr_list = ingr.split(',')
+            # Convert categories string to list
+            categories = df.iloc[r, 3].split(',') if isinstance(df.iloc[r, 3], str) else []
+            categories = [cat.strip() for cat in categories]
+            
+            # Convert shades string to list
+            shades = df.iloc[r, 4].split(',') if isinstance(df.iloc[r, 4], str) else []
+            shades = [shade.strip() for shade in shades]
+            
+            # Convert ingredients string to list
+            ingr = df.iloc[r, 8] if isinstance(df.iloc[r, 8], str) else ''
+            ingr_list = [i.strip() for i in ingr.split(',') if i.strip()]
 
             # Create product object to append to product database
-            temp_product = Product(name = df.iloc[r, 0],
-                                   type = df.iloc[r, 1],
-                                   brand = df.iloc[r, 2],
-                                   color = color_list,
-                                   price = df.iloc[r, 4],
-                                   size = str(df.iloc[r, 5]),
-                                   formula = df.iloc[r, 6],
-                                   ingredients = ingr_list,
-                                   about = df.iloc[r, 8],
-                                   url = df.iloc[r, 9]) 
+            temp_product = Product(
+                name=df.iloc[r, 1],      # name
+                type=categories,          # categories as type
+                brand=df.iloc[r, 2],      # brand
+                color=shades,            # shades as color
+                price=df.iloc[r, 5],      # price
+                size=str(df.iloc[r, 6]),  # size
+                formula='',              # empty formula
+                ingredients=ingr_list,    # ingredients list
+                about=df.iloc[r, 7],      # about
+                url=df.iloc[r, 10]        # image_url
+            )
             
             self.product_database.append(temp_product)
     
@@ -117,9 +124,15 @@ class BasicSelection:
         for product in self.product_database:
             matches = 0
 
-            # If product is specified and does not match, skip product (put in matchces = 0)
+            # If products are specified, check if any of the requested products match any of the product's categories
             if 'Products' in self.user_info['what']:
-                if product.get_attribute('Products') not in self.user_info['what']['Products']:
+                product_matches = False
+                for requested_product in self.user_info['what']['Products']:
+                    if requested_product in product.type:  # Check if requested product is in the product's categories
+                        product_matches = True
+                        break
+                
+                if not product_matches:
                     if matches in product_match:
                         product_match[matches].append(product)
                     else:
@@ -132,6 +145,8 @@ class BasicSelection:
                     if prompt == 'Price':
                         if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
                             matches += 1
+                    elif prompt == 'Products':
+                        matches += 1  # We already handled this above
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
             
