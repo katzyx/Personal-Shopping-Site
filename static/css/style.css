@@ -43,9 +43,24 @@ body, html {
     opacity: 0.6;
   }
 
-  .accounts:hover{
+  .bag {
+    opacity: 70%;
+  }
+
+  .accounts {
+    opacity: 70%;
+  }
+
+  .bag:hover {
+    opacity: 100%;
     cursor: pointer;
   }
+
+  .accounts:hover{
+    opacity: 100%;
+    cursor: pointer;
+  }
+
   .web_name{
     z-index: 4;
   }
@@ -323,4 +338,18 @@ body, html {
     0% { opacity: 1; }
     70% { opacity: 1; }
     100% { opacity: 0; }
+  }
+
+  .add_to_bag {
+    background-color: white;
+  }
+
+  .add_to_bag:hover {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+  }
+
+  .add_to_bag:active {
+    cursor: pointer;
   }
