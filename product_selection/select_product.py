@@ -43,7 +43,7 @@ class BasicSelection:
         self.user_info: dict = {} # Provided user information
 
     def parse_dataset(self):
-        df = pd.read_csv(self.csv_file, nrows=320)
+        df = pd.read_csv(self.csv_file)
 
         for r in range(0, df.shape[0]):            
             # Convert categories string to list
