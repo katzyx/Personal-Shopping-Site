@@ -212,8 +212,10 @@
         {% if products_list|length > i %}
         <div style="flex: 14%; padding: 0.5em 0em">
           <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p>{{products_list[i].name}}</p>
-          <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+          <p style="height: 80px;">{{products_list[i].name}}</p>
+          <p style="height: 30px;">
+            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+          </p>
           <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
           <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
         </div>
@@ -253,8 +255,10 @@
             {% if products_list|length > i %}
               <div style="flex: 1; padding: 0.5em 1em;">
                 <img src="{{products_list[i].url}}" height="200em" width="125em">
-                <p>{{products_list[i].name}}</p>
-                <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+                <p style="height: 80px;">{{products_list[i].name}}</p>
+                <p style="height: 30px;">
+                  <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+                </p>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
                 <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
               </div>
