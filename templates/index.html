@@ -212,8 +212,8 @@
         {% if products_list|length > i %}
         <div style="flex: 14%; padding: 0.5em 0em">
           <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p style="height: 80px;">{{products_list[i].name}}</p>
-          <p style="height: 30px;">
+          <p class="prod_name">{{products_list[i].name}}</p>
+          <p class="prod_brand">
             <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
           </p>
           <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
@@ -255,8 +255,8 @@
             {% if products_list|length > i %}
               <div style="flex: 1; padding: 0.5em 1em;">
                 <img src="{{products_list[i].url}}" height="200em" width="125em">
-                <p style="height: 80px;">{{products_list[i].name}}</p>
-                <p style="height: 30px;">
+                <p class="prod_name">{{products_list[i].name}}</p>
+                <p class="prod_brand">
                   <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
                 </p>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
