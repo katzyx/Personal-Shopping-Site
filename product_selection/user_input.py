@@ -51,9 +51,13 @@ class UserInput:
         print(reply)
 
         # Add checks to see if output is correct
-        while True:
+        max_retries = 3  # Maximum number of retries
+        retry_count = 0
+        
+        while retry_count < max_retries:
             rerun = False
             message = ""
+            retry_count += 1
 
             # Check output is JSON
             try: 
@@ -89,7 +93,17 @@ class UserInput:
                     reply = "{}"
             else:
                 break
-            
+                
+        # If we've exhausted retries, return a safe default
+        if retry_count >= max_retries:
+            print(f"Maximum retries ({max_retries}) reached. Returning default price JSON.")
+            try:
+                if type == 'what':
+                    data['Price'] = [0,999]
+                reply = json.dumps(data)
+            except Exception as e:
+                print(f"Error processing JSON: {e}")
+                reply = "{}"
         # For debugging purposes
         print(reply)
 
