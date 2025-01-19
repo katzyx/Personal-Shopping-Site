@@ -70,3 +70,16 @@ body {
     transition: transform 1.5s ease-in-out, background-color 1s ease-in-out;
     background-color: black; /* Transition the landing page background to black */
   }
+
+  .submit_button {
+    background-color: #333;
+  }
+
+  .submit_button:hover {
+    opacity: 60%;
+    cursor: pointer;
+  }
+
+  .submit_button:active {
+    cursor: pointer;
+  }
