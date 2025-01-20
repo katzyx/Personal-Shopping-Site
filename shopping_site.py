@@ -120,7 +120,7 @@ def getting_products(user_details, product_preferences):
     results_storage['time_elapsed'] = time_elapsed
     results_storage['user_details'] = user_details
 
-@app.route('/display_results')
+@app.route('/display_results', methods=['GET', 'POST'])
 def display_results():
     # Retrieve the results from session
     products_list = results_storage.get('products_list', [])
