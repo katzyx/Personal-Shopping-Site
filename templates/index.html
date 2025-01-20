@@ -207,11 +207,14 @@
 
     <!-- This section is where images are displayed -->
     {% if products_list %}
+    <p style="font-size: large; text-align: center; margin-top: -5px; margin-bottom: 30px;"><b>Our Recommendations for You</b></p>
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
         {% if products_list|length > i %}
         <div style="flex: 14%; padding: 0.5em 0em">
-          <img src="{{products_list[i].url}}" height="200em" width="125em">
+          <div height="200em" style="margin-bottom: 3em;">
+            <img src="{{products_list[i].url}}" width="125em">
+          </div>
           <p class="prod_name">{{products_list[i].name}}</p>
           <p class="prod_brand">
             <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
@@ -254,7 +257,9 @@
           {% for i in range(7,11) %}
             {% if products_list|length > i %}
               <div style="flex: 1; padding: 0.5em 1em;">
-                <img src="{{products_list[i].url}}" height="200em" width="125em">
+                <div height="200em" style="margin-bottom: 3em;">
+                  <img src="{{products_list[i].url}}" width="125em">
+                </div>
                 <p class="prod_name">{{products_list[i].name}}</p>
                 <p class="prod_brand">
                   <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
