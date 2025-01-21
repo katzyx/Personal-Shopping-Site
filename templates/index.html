@@ -211,7 +211,7 @@
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
         {% if products_list|length > i %}
-        <div style="flex: 14%; padding: 0.5em 0em">
+        <div class="product_div" style="flex: 14%; padding: 0.5em 0em">
           <div height="200em" style="margin-bottom: 3em;">
             <img src="{{products_list[i].url}}" width="125em">
           </div>
@@ -256,7 +256,7 @@
         <div style="display: flex; justify-content: space-around;">
           {% for i in range(7,11) %}
             {% if products_list|length > i %}
-              <div style="flex: 1; padding: 0.5em 1em;">
+              <div class="product_div2" style="flex: 1; padding: 0.5em 1em;">
                 <div height="200em" style="margin-bottom: 3em;">
                   <img src="{{products_list[i].url}}" width="125em">
                 </div>
