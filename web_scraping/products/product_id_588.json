@@ -1,32 +1,31 @@
 {
-	"product_id": "588",
-	"name": "Hybrid Liquid Eyeliner",
-	"brand": "Glamnetic",
-	"categories": "Makeup, Eye, Eyeliner",
-	"price": 51.5,
-	"about": "What it is:A clear, fast-drying magnetic-adhesive hybrid liner that provides a long-lasting, powerful grip on Glamnetic Magnetic Lashes..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:Glamnetic's breakthrough magnetic-adhesive hybrid liner holds lashes securely in place all day and night. Mess-free and easy-to-apply, this invisible, fast-drying latex-free formula has an ultrafine brush that effortlessly glides with precision along the lash line for a natural, barely-there look.",
-	"ingredients": "Water (Aqua/Eau), Styrene/Acrylates Copolymer, Propylene Glycol, Xanthan Gum, Biotin, Hyaluronic Acid, Tocopherol, Phenoxyethanol, Iron Oxides (Cl77499).",
-	"how_to_use": "Suggested Usage:.-Make sure natural lashes are clean and dry..-Starting from the inner corner of your eye working outwards, glide Hybrid Liquid Magnetic Eyeliner along your upper lash line. .-For optimal magnetic connection, make sure your Magnetic Eyeliner is as thick as the width of the magnets and that there are no visible gaps..-Wait 30 seconds, allowing your Magnetic Eyeliner to dry almost completely..-Using your fingers, gently place your Glamnetic Magnetic Lashes (sold separately) on to your Magnetic Eyeliner, allowing the magnets to connect and gently tug to ensure the grip is secure. .-Adjust lash placement as needed.",
-	"num_reviews": 43,
-	"overall_rating": 4.0,
-	"product_url": "https://www.sephora.com/ca/en/product/glamnetic-hybrid-liquid-eyeliner-P509136?skuId=2694867&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2694867-main-zoom.jpg?imwidth=465",
-	"shades": [
-	],
-	"reviews": [
-		{
-			"review_title": "Save your money",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "If I could give this product, zero stars I would. There was no hold. It irritated my eyelids. it was sticky when it dried. The only positive I could possibly say is that it does go on with a film with a white-ish tint but dries clear. Hopefully it works for you, but it did not work for me at all."
-		},
-		{
-			"review_title": "doesn't work for me",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "I'm not sure if I got a bad batch or what but my magnetic lashes will not stay on with this glue. they work fine with the regular stuff, just not the clear. disappointed."
-		}
-	]
+    "product_id": "588",
+    "name": "Hybrid Liquid Eyeliner",
+    "brand": "Glamnetic",
+    "categories": "Makeup, Eye, Eyeliner",
+    "price": 51.5,
+    "about": "What it is:A clear, fast-drying magnetic-adhesive hybrid liner that provides a long-lasting, powerful grip on Glamnetic Magnetic Lashes..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, and cruelty-free..What Else You Need to Know:Glamnetic's breakthrough magnetic-adhesive hybrid liner holds lashes securely in place all day and night. Mess-free and easy-to-apply, this invisible, fast-drying latex-free formula has an ultrafine brush that effortlessly glides with precision along the lash line for a natural, barely-there look.",
+    "ingredients": "Water (Aqua/Eau), Styrene/Acrylates Copolymer, Propylene Glycol, Xanthan Gum, Biotin, Hyaluronic Acid, Tocopherol, Phenoxyethanol, Iron Oxides (Cl77499).",
+    "how_to_use": "Suggested Usage:.-Make sure natural lashes are clean and dry..-Starting from the inner corner of your eye working outwards, glide Hybrid Liquid Magnetic Eyeliner along your upper lash line. .-For optimal magnetic connection, make sure your Magnetic Eyeliner is as thick as the width of the magnets and that there are no visible gaps..-Wait 30 seconds, allowing your Magnetic Eyeliner to dry almost completely..-Using your fingers, gently place your Glamnetic Magnetic Lashes (sold separately) on to your Magnetic Eyeliner, allowing the magnets to connect and gently tug to ensure the grip is secure. .-Adjust lash placement as needed.",
+    "num_reviews": 43,
+    "overall_rating": 4.0,
+    "product_url": "https://www.sephora.com/ca/en/product/glamnetic-hybrid-liquid-eyeliner-P509136?skuId=2694867&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2694867-main-zoom.jpg?imwidth=465",
+    "shades": [],
+    "reviews": [
+        {
+            "review_title": "Save your money",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "If I could give this product, zero stars I would. There was no hold. It irritated my eyelids. it was sticky when it dried. The only positive I could possibly say is that it does go on with a film with a white-ish tint but dries clear. Hopefully it works for you, but it did not work for me at all."
+        },
+        {
+            "review_title": "doesn't work for me",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "I'm not sure if I got a bad batch or what but my magnetic lashes will not stay on with this glue. they work fine with the regular stuff, just not the clear. disappointed."
+        }
+    ]
 }

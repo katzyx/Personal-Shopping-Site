@@ -1,387 +1,387 @@
 {
-	"product_id": "1779",
-	"name": "Lightform Extended Hydration Foundation",
-	"brand": "Morphe",
-	"categories": "Makeup, Face, Foundation",
-	"price": 28.0,
-	"about": "What it is:A buildable medium-coverage foundation that’s clinically shown to improve skin’s natural radiance, hydration, and barrier function in as little as one week..Coverage:Medium.Finish:Radiant.Formulation:Liquid.Highlighted Ingredients:- Hyaluronic Acid: Improves radiance, hydration, and barrier function in as little as one week..What Else You Need to Know:This medium-coverage foundation diffuses imperfections instantly while a HydroRelief Complex improves skin’s moisture balance and barrier function over time. It is also clinically shown to hydrate for up to 16 hours, leaving skin with a lasting natural radiance that glows from within..Clinical Results:Based on an independent consumer study of 32 subjects, immediately:",
-	"ingredients": "-Hyaluronic Acid: Improves radiance, hydration, and barrier function in as little as one week..-Biomimetic HydroRelief Complex of Natural Moisturizing Sugars and Natural Moisturizing Humectants: Moisturizing...Water (Aqua, Eau), Dimethicone, Isoamyl Laurate, Trimethylsiloxysilicate, PEG-10 Dimethicone, Butylene Glycol, Phenylisopropyl Dimethicone, Zea Mays (Corn) Starch, Disteardimonium Hectorite, Glycerin, PEG/PPG-18/18 Dimethicone, Sodium Chloride, Silica, Phenoxyethanol, Polypropylsilsesquioxane, Propylene Carbonate, Triethoxycaprylylsilane, Pentylene Glycol, Sodium Hyaluronate, Ethylhexylglycerin, Citric Acid, Fructose, Sodium Hydroxide, Urea, Allantoin, Maltose, Sodium Lactate, Sodium PCA, Trehalose, Glucose, Tocopherol, Aluminum Hydroxide +/- May Contain/Peut Contenir: Titanium Dioxide (CI 77891), Bismuth Oxychloride (CI 77163), Iron Oxides (CI 77491, CI 77492, CI 77499).",
-	"how_to_use": "Suggested Usage:.-Gently shake bottle for best results..-Start by applying one pump of foundation, then fully blend into skin..-Add another layer to build coverage..-Set foundation with Bake and Set Setting Powder or Continuous Setting Mist (each sold separately) for added dimension and extended wear..-Apply skincare and a primer for perfectly prepped skin..-Dispense one pump of foundation onto the large end of the Dual Ended Complexion Brush (sold separately) or damp beauty sponge..-Press into skin starting at the center of your face and buff outward for a naturally diffused finish..-To build overall coverage, add another pump and buff into skin..-For targeted coverage, use the smaller end of the brush or pointed tip of the sponge to stipple more foundation to desired areas..-Set foundation to amplify longevity and radiance of foundation or Bake and Set Setting Powder (sold separately) for a soft matte finish.",
-	"num_reviews": 27,
-	"overall_rating": 3.4,
-	"product_url": "https://www.sephora.com/ca/en/product/morphe-lightform-extended-hydration-foundation-P510145?skuId=2755353&icid2=products%20grid:p510145:product",
-	"image_url": "https://www.sephora.com/productimages/sku/s2755353-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Deep 34W",
-			"shade_descriptor": "(deep with red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755304-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 35W",
-			"shade_descriptor": "(deepest with slightly golden red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755312-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 36N",
-			"shade_descriptor": "(deepest with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755320-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 30W",
-			"shade_descriptor": "(deep with slightly golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755338-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 29N",
-			"shade_descriptor": "(deep rich with neutral red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755346-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 01N",
-			"shade_descriptor": "(fairest with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755353-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 02N",
-			"shade_descriptor": "(fair with neutral peach undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755361-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 03C",
-			"shade_descriptor": "(fair with pink undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755379-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 04W",
-			"shade_descriptor": "(light with golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755387-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 05N",
-			"shade_descriptor": "(light with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755395-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 06C",
-			"shade_descriptor": "(light with pink undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755403-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Light 07W",
-			"shade_descriptor": "(light medium with slightly golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755411-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 08N",
-			"shade_descriptor": "(light medium with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755429-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 09W",
-			"shade_descriptor": "(medium with slightly peach undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755437-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 10C",
-			"shade_descriptor": "(medium with pink undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755445-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 11N",
-			"shade_descriptor": "(medium with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755452-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 12W",
-			"shade_descriptor": "(medium with golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755460-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 13N",
-			"shade_descriptor": "(medium tan with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755478-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Medium 14W",
-			"shade_descriptor": "(medium tan with olive undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755486-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 15N",
-			"shade_descriptor": "(tan with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755494-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 16N",
-			"shade_descriptor": "(tan with neutral golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755502-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 17W",
-			"shade_descriptor": "(tan with olive undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755510-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 18W",
-			"shade_descriptor": "(tan with golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755528-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 19C",
-			"shade_descriptor": "(tan with slightly pink undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755536-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 20W",
-			"shade_descriptor": "(tan with golden red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755544-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 21C",
-			"shade_descriptor": "(deep tan with cool undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755551-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 22W",
-			"shade_descriptor": "(deep tan with olive undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755569-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 23C",
-			"shade_descriptor": "(rich with cool undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755577-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 24W",
-			"shade_descriptor": "(rich with golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755585-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 25N",
-			"shade_descriptor": "(rich with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755593-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 28W",
-			"shade_descriptor": "(deep rich with golden red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755601-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 26N",
-			"shade_descriptor": "(rich with neutral golden undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755619-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich 27N",
-			"shade_descriptor": "(deep rich with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755627-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 32N",
-			"shade_descriptor": "(deep with neutral undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755635-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 31W",
-			"shade_descriptor": "(deep with slightly red undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755643-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep 33W",
-			"shade_descriptor": "(deep with slightly olive undertones)",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2755650-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Medium 10C - (medium with pink undertones)",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "Literally my new go to! This is a great foundation. Light weight but good coverage and perfect colour matching available."
-		},
-		{
-			"review_title": "0/10 review",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Do not recommend, it is patchy and thick and doesn’t feel nice on the skin. Wasted my money on this and will be going back to my covergirl skin milk."
-		},
-		{
-			"review_title": "Horrible",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Rich skin tone, Dry skin",
-			"review_text": "Worst foundation ever it was patchy. The minute I put the foundation on it started to shed."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Rich 29N - (deep rich with neutral red undertones)",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "This is one of the best foundations i’ve used. Not only does it work well with my skincare but it also helps hydrate my skin further. It also feels very lightweight and the shade match is insane! Absolutely love it"
-		},
-		{
-			"review_title": "My everyday foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "Amazing colour match 11n, goes on smooth, a little goes a long way and oxidizes quickly! Recommended for all makeup you prep your skin I have dry skin so I would use moisturizer prior to applying anyfoundation or it will come out blotchy. Not sure why it's so under rated this foundation, it has hyaluronic acid and other great ingredients."
-		},
-		{
-			"review_title": "I’ll be the hype woman it deserves",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
-			"review_text": "Shocks me that this is rated so low because it’s my absolute fav. After purchasing fenty, Estée Lauder, Mac… this one outperformed them all. Purchasing my fourth bottle and am just shocked at the reviews. Blends easily, goes on smooth and doesn’t seperate."
-		},
-		{
-			"review_title": "Not for dry skin",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I typically like sheer foundations but this is not it. Overall coverage is fine but wears on the skin awfully. It clings to dry patches and makes my skin looks like scales. I always prep my skin because it dry but even with that it just don’t work. The colour I find runs yellow and doesn’t feel like a true neutral to me"
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "Tan 17W - (tan with olive undertones)",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
-			"review_text": "This foundation gives a natural glow to the skin which I love. It blends easily and doesn’t look much heavy on the skin. My only issue is that it oxidizes a bit so I prefer mixing a different foundation with this which is a darker chase."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "Light 02N - (fair with neutral peach undertones)",
-			"review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Normal skin",
-			"review_text": "The formula is great but it doesn’t go on as smooth as I wish. It goes on quite blotchy."
-		},
-		{
-			"review_title": "Must have!!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I love it!! It blends very nicely! The amount of product you get is very good for how long it lasts. I bought a bottle of it in mid April and didn't need to buy a new one until end of August."
-		},
-		{
-			"review_title": "Lightweight and silky",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "I have been using this product for the last two weeks and quite like it. I do feel like it will not last very long. It’s very watery when applying and I would say it has more of a medium coverage. It is super lightweight and the colour match was great. I would purchase this again."
-		},
-		{
-			"review_title": "Did not work for me",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "Was really hoping this foundation was going to work for me after looking at reviews and watching review videos but unfortunately it doesn’t. First off does not feel good on my face. I have rosacea and dry sensitive skin. It also oxidizes. It may work for people with more oily skin and not sensitive.sensitivities￼"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Medium 10C - (medium with pink undertones)",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "Morphe never fail to impress me. It is a full coverage foundation, silicone finish, and lasts like 12hrs to me. It oxidize so fast like a minute or two so i HIGHLY suggest visit Sephora store to swatch and wait for the best result."
-		},
-		{
-			"review_title": "Very Nice Affordable Foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I think if you’re not dry or dehydrated skin type, don’t go crazy with skin prep. Because I have dehydrated skin did my normal skincare and this wore really nicely throughout the day! The colour was perfect, don’t go based on the colour in the bottle or a swatch. One applied onto the face the true colour comes through. It’s nice lightweight with good coverage. Not heavy or cakey looking. I got 04w and got matched to 11n on the shade finder. So I wouldn’t trust that either. You might have to go in store and have it applied so you can find your right shade. Worth a try for sure!!"
-		},
-		{
-			"review_title": "Not it",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "Not it for me, sits on the skin and slides around. It really dries down orangey. Clings to the fine hair on the skin, unless you are derma-planing or have a naturally moist texture I don’t think it’s good."
-		},
-		{
-			"review_title": "Separates",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "Can’t tell if I like it.. it kinda looks peanut buttery if you know what I mean, it separates on my nose as well :( was so excited to try this out"
-		},
-		{
-			"review_title": "Perfect colour match",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I wanted to love this so much! The colour match was perfect!!  Unfortunately this product doesn’t stay. It moved into corners and separated. No amount of setting powder or setting spray could keep the product in place :(  Uncorked"
-		},
-		{
-			"review_title": "Very good- but needs some neutral shades",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Fair skin tone, Dry skin",
-			"review_text": "I find this to be very hydrating with strong medium coverage, mostly covers redness, goes on like a lotion, and is very comfortable to wear. I like this best with a serum underneath, and no setting powder. This is one of the few foundations I have that can go under the eyes as well. Do need to use a bit of concealer with this but not much. Smoothing over pores, self setting, looks hydrating. I have dry skin with rosacea and find this soothing. I am 1N2 estee lauder in winter and bought 01 which was too light. Mixed it with nars liquid bronzer. Looks great. Then purchased 03 which I can wear on it's own but it is quite peachy. My skin tone is fair light neutral. Most of the shades looked too orange or yellow. They need some neutral shades. I put the lightest Kosas setting powder over the 03 which lightened it, but killed the glow. Does not sit in or highlight pores, and applies best with fingers. Worth the price if you can find a shade."
-		},
-		{
-			"review_title": "Try it for sure!!!!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Dry skin",
-			"review_text": "I am giving this 5 stars but I’m basing it off a 10 hour review. I have extremely sensitive skin, which oxidizes very easily. I purchased this because I wanted something which was cheaper and light weight. I absolutely love it. My skin looks great (I did prep it well) and it’s stayed on!!! It’s light weight but gives a nice shine!"
-		},
-		{
-			"review_title": "A very nice foundation for the price.",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "This will be my new daily, non-fancy foundation for my combination skin. I have slightly oil forehead and dry cheeks with some dry patches. This WILL cling to those dry patches, so either prep well or ensure you get an excellent shade match. I also have light-medium neutral-yellow or neutral-warm skin and found that I went with a lighter shade in this foundation than recommended because it is quite pigmented plus it slightly oxidizes. The best match I found was 04W even though the Shade Match told me I would be 11N. 04W is a tad light on me but the yellow pigments help blend it into my tone instead of washing me out. It's a neutral-yellow light shade that may also work for light yellow-olive. 07W was a close match for me also when first applied, but dried down to an overly warm and slightly darker shade than the rest of me. For other foundation matches, I am Estee Lauder Doublewear 2W1 and Armani Silk 4.5. I swatched 06C in-store and while it is a very pink tone, it also blended in OK just that I looked slightly tan. 8N may have also worked well for me but I did not try.  The best part of this foundation is that it feels very comfortable, lightweight, is self-setting/slightly mattifying but has a natural finish. The mineral pigments seem fine enough to also blend in well, not look cakey and mask-like. I don't like the pump because it spurts out a set amount of foundation but that's ok because it layers well, has a thin viscosity. It has no special blurring effect but that's fine with me."
-		},
-		{
-			"review_title": "Great wear, buildable and price point 10/10",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
-			"review_text": "Excellent long wearing super hydrating but non greasy foundation . Not only is the price point fantastic but the shade range is great. Incredible buildable coverage that doesn’t settle into those fine lines as the day goes on . Leaves a hydrating satin finish and is amazing !"
-		},
-		{
-			"review_title": "If you can find your shade",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Combination skin",
-			"review_text": "I cannot find my perfect shade. I do not want to see any orange pink orange or red in my foundations. I am olive skin and there are 2 shades in the tan section which is great!. I swore I was 17w because 22w ( I can tell on the model would pull red). The 17w looked nice and yellow so I ordered it online since stores do not have testers. Welp the 17w was too light on my skin but the undertone was perfect.  I ordered the 22w and I was correct, it pulls red on my skin once I blended it to my neck. I have to blend to my neck because of hyperpigmentation. Even pulling it down a bit on my neck you can see my actual undertone is different. I would have to put foundation all over my neck and I don't want to do that. I ended up putting a green powder on my neck to counteract the red. But the 22w (it is darker than my skin tone) does look nice on my face once I put concealer and powder. The foundation feels nice and wears nice. The price is great as well. it covers my hyperpigmentation very well.    Not sure if I will keep the 17w.. mixing the 17w and the 22w together would give me my perfect shade.....maybe I should try the 18w but I feel that would pull orange. Not sure if the 15 and 16 shades would be too light and pink since they are neutral shades. No stock or testers in store ."
-		},
-		{
-			"review_title": "better than I expected",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
-			"review_text": "I couldn't find my shade match using one shade so I mixed medium 8N and 11 N and found that it matched perfectly.  By mixing these two neutral shades I experienced only slight oxidation by the end of the day and found that it wore phenomenally.  The foundation is for the most part self setting and with my dry skin never separated or faded on me throughout the day.  It offers medium to full coverage and I used about 1 pump of the shade 8N and 3/4 pump of 11 N to get a slightly darker more olive shade than the Nars light reflecting foundation in the shade Punjab."
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, notSure skin tone, Normal skin",
-			"review_text": "TERRIBLE!! they colour matched me in store and recommended i get medium 11N, way to dark and orange for my skin now i have to go all the way back to the store and deal with this headache again."
-		},
-		{
-			"review_title": "Oxydation makes the foundation too orange",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "The texture is great - being made in Italy you can feel the lightness and hydration level. But the colour is very opaque and oxidizes in different tints of orange."
-		},
-		{
-			"review_title": "shade match isn’t good",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I bought this in the third lightest shade- it’s sooooo orange! like it should classify as a medium shade…not light. the shades matches are horrible but the actual formula is very nice and doesn’t feel  silicone-y at all, but definitely make sure you shade match IN store"
-		},
-		{
-			"review_title": "Okayyyyyyyyy Morphe, I see you!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Oily skin",
-			"review_text": "This foundation really took me by surprise. It applied beautifully, leaving a natural finish behind. I applied it with a sponge and it really casts a second skin look, very undetectable. This applies sheer and can easily be build up to medium coverage, perfect for day to day. This is also a great price for an 1oz product thats made in Italy. Definitely worth giving it a try for sure!"
-		}
-	]
+    "product_id": "1779",
+    "name": "Lightform Extended Hydration Foundation",
+    "brand": "Morphe",
+    "categories": "Makeup, Face, Foundation",
+    "price": 28.0,
+    "about": "What it is:A buildable medium-coverage foundation thatu2019s clinically shown to improve skinu2019s natural radiance, hydration, and barrier function in as little as one week..Coverage:Medium.Finish:Radiant.Formulation:Liquid.Highlighted Ingredients:- Hyaluronic Acid: Improves radiance, hydration, and barrier function in as little as one week..What Else You Need to Know:This medium-coverage foundation diffuses imperfections instantly while a HydroRelief Complex improves skinu2019s moisture balance and barrier function over time. It is also clinically shown to hydrate for up to 16 hours, leaving skin with a lasting natural radiance that glows from within..Clinical Results:Based on an independent consumer study of 32 subjects, immediately:",
+    "ingredients": "-Hyaluronic Acid: Improves radiance, hydration, and barrier function in as little as one week..-Biomimetic HydroRelief Complex of Natural Moisturizing Sugars and Natural Moisturizing Humectants: Moisturizing...Water (Aqua, Eau), Dimethicone, Isoamyl Laurate, Trimethylsiloxysilicate, PEG-10 Dimethicone, Butylene Glycol, Phenylisopropyl Dimethicone, Zea Mays (Corn) Starch, Disteardimonium Hectorite, Glycerin, PEG/PPG-18/18 Dimethicone, Sodium Chloride, Silica, Phenoxyethanol, Polypropylsilsesquioxane, Propylene Carbonate, Triethoxycaprylylsilane, Pentylene Glycol, Sodium Hyaluronate, Ethylhexylglycerin, Citric Acid, Fructose, Sodium Hydroxide, Urea, Allantoin, Maltose, Sodium Lactate, Sodium PCA, Trehalose, Glucose, Tocopherol, Aluminum Hydroxide +/- May Contain/Peut Contenir: Titanium Dioxide (CI 77891), Bismuth Oxychloride (CI 77163), Iron Oxides (CI 77491, CI 77492, CI 77499).",
+    "how_to_use": "Suggested Usage:.-Gently shake bottle for best results..-Start by applying one pump of foundation, then fully blend into skin..-Add another layer to build coverage..-Set foundation with Bake and Set Setting Powder or Continuous Setting Mist (each sold separately) for added dimension and extended wear..-Apply skincare and a primer for perfectly prepped skin..-Dispense one pump of foundation onto the large end of the Dual Ended Complexion Brush (sold separately) or damp beauty sponge..-Press into skin starting at the center of your face and buff outward for a naturally diffused finish..-To build overall coverage, add another pump and buff into skin..-For targeted coverage, use the smaller end of the brush or pointed tip of the sponge to stipple more foundation to desired areas..-Set foundation to amplify longevity and radiance of foundation or Bake and Set Setting Powder (sold separately) for a soft matte finish.",
+    "num_reviews": 27,
+    "overall_rating": 3.4,
+    "product_url": "https://www.sephora.com/ca/en/product/morphe-lightform-extended-hydration-foundation-P510145?skuId=2755353&icid2=products%20grid:p510145:product",
+    "image_url": "https://www.sephora.com/productimages/sku/s2755353-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Deep 34W",
+            "shade_descriptor": "(deep with red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755304-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 35W",
+            "shade_descriptor": "(deepest with slightly golden red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755312-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 36N",
+            "shade_descriptor": "(deepest with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755320-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 30W",
+            "shade_descriptor": "(deep with slightly golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755338-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 29N",
+            "shade_descriptor": "(deep rich with neutral red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755346-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 01N",
+            "shade_descriptor": "(fairest with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755353-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 02N",
+            "shade_descriptor": "(fair with neutral peach undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755361-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 03C",
+            "shade_descriptor": "(fair with pink undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755379-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 04W",
+            "shade_descriptor": "(light with golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755387-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 05N",
+            "shade_descriptor": "(light with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755395-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 06C",
+            "shade_descriptor": "(light with pink undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755403-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Light 07W",
+            "shade_descriptor": "(light medium with slightly golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755411-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 08N",
+            "shade_descriptor": "(light medium with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755429-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 09W",
+            "shade_descriptor": "(medium with slightly peach undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755437-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 10C",
+            "shade_descriptor": "(medium with pink undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755445-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 11N",
+            "shade_descriptor": "(medium with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755452-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 12W",
+            "shade_descriptor": "(medium with golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755460-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 13N",
+            "shade_descriptor": "(medium tan with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755478-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Medium 14W",
+            "shade_descriptor": "(medium tan with olive undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755486-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 15N",
+            "shade_descriptor": "(tan with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755494-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 16N",
+            "shade_descriptor": "(tan with neutral golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755502-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 17W",
+            "shade_descriptor": "(tan with olive undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755510-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 18W",
+            "shade_descriptor": "(tan with golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755528-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 19C",
+            "shade_descriptor": "(tan with slightly pink undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755536-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 20W",
+            "shade_descriptor": "(tan with golden red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755544-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 21C",
+            "shade_descriptor": "(deep tan with cool undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755551-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 22W",
+            "shade_descriptor": "(deep tan with olive undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755569-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 23C",
+            "shade_descriptor": "(rich with cool undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755577-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 24W",
+            "shade_descriptor": "(rich with golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755585-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 25N",
+            "shade_descriptor": "(rich with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755593-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 28W",
+            "shade_descriptor": "(deep rich with golden red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755601-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 26N",
+            "shade_descriptor": "(rich with neutral golden undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755619-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich 27N",
+            "shade_descriptor": "(deep rich with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755627-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 32N",
+            "shade_descriptor": "(deep with neutral undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755635-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 31W",
+            "shade_descriptor": "(deep with slightly red undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755643-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep 33W",
+            "shade_descriptor": "(deep with slightly olive undertones)",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2755650-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Medium 10C - (medium with pink undertones)",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "Literally my new go to! This is a great foundation. Light weight but good coverage and perfect colour matching available."
+        },
+        {
+            "review_title": "0/10 review",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Do not recommend, it is patchy and thick and doesnu2019t feel nice on the skin. Wasted my money on this and will be going back to my covergirl skin milk."
+        },
+        {
+            "review_title": "Horrible",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Rich skin tone, Dry skin",
+            "review_text": "Worst foundation ever it was patchy. The minute I put the foundation on it started to shed."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Rich 29N - (deep rich with neutral red undertones)",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "This is one of the best foundations iu2019ve used. Not only does it work well with my skincare but it also helps hydrate my skin further. It also feels very lightweight and the shade match is insane! Absolutely love it"
+        },
+        {
+            "review_title": "My everyday foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "Amazing colour match 11n, goes on smooth, a little goes a long way and oxidizes quickly! Recommended for all makeup you prep your skin I have dry skin so I would use moisturizer prior to applying anyfoundation or it will come out blotchy. Not sure why it's so under rated this foundation, it has hyaluronic acid and other great ingredients."
+        },
+        {
+            "review_title": "Iu2019ll be the hype woman it deserves",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "Shocks me that this is rated so low because itu2019s my absolute fav. After purchasing fenty, Estu00e9e Lauder, Macu2026 this one outperformed them all. Purchasing my fourth bottle and am just shocked at the reviews. Blends easily, goes on smooth and doesnu2019t seperate."
+        },
+        {
+            "review_title": "Not for dry skin",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I typically like sheer foundations but this is not it. Overall coverage is fine but wears on the skin awfully. It clings to dry patches and makes my skin looks like scales. I always prep my skin because it dry but even with that it just donu2019t work. The colour I find runs yellow and doesnu2019t feel like a true neutral to me"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "Tan 17W - (tan with olive undertones)",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "This foundation gives a natural glow to the skin which I love. It blends easily and doesnu2019t look much heavy on the skin. My only issue is that it oxidizes a bit so I prefer mixing a different foundation with this which is a darker chase."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "Light 02N - (fair with neutral peach undertones)",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Normal skin",
+            "review_text": "The formula is great but it doesnu2019t go on as smooth as I wish. It goes on quite blotchy."
+        },
+        {
+            "review_title": "Must have!!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I love it!! It blends very nicely! The amount of product you get is very good for how long it lasts. I bought a bottle of it in mid April and didn't need to buy a new one until end of August."
+        },
+        {
+            "review_title": "Lightweight and silky",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "I have been using this product for the last two weeks and quite like it. I do feel like it will not last very long. Itu2019s very watery when applying and I would say it has more of a medium coverage. It is super lightweight and the colour match was great. I would purchase this again."
+        },
+        {
+            "review_title": "Did not work for me",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "Was really hoping this foundation was going to work for me after looking at reviews and watching review videos but unfortunately it doesnu2019t. First off does not feel good on my face. I have rosacea and dry sensitive skin. It also oxidizes. It may work for people with more oily skin and not sensitive.sensitivitiesufffc"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Medium 10C - (medium with pink undertones)",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Morphe never fail to impress me. It is a full coverage foundation, silicone finish, and lasts like 12hrs to me. It oxidize so fast like a minute or two so i HIGHLY suggest visit Sephora store to swatch and wait for the best result."
+        },
+        {
+            "review_title": "Very Nice Affordable Foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I think if youu2019re not dry or dehydrated skin type, donu2019t go crazy with skin prep. Because I have dehydrated skin did my normal skincare and this wore really nicely throughout the day! The colour was perfect, donu2019t go based on the colour in the bottle or a swatch. One applied onto the face the true colour comes through. Itu2019s nice lightweight with good coverage. Not heavy or cakey looking. I got 04w and got matched to 11n on the shade finder. So I wouldnu2019t trust that either. You might have to go in store and have it applied so you can find your right shade. Worth a try for sure!!"
+        },
+        {
+            "review_title": "Not it",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Not it for me, sits on the skin and slides around. It really dries down orangey. Clings to the fine hair on the skin, unless you are derma-planing or have a naturally moist texture I donu2019t think itu2019s good."
+        },
+        {
+            "review_title": "Separates",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "Canu2019t tell if I like it.. it kinda looks peanut buttery if you know what I mean, it separates on my nose as well :( was so excited to try this out"
+        },
+        {
+            "review_title": "Perfect colour match",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I wanted to love this so much! The colour match was perfect!!  Unfortunately this product doesnu2019t stay. It moved into corners and separated. No amount of setting powder or setting spray could keep the product in place :(  Uncorked"
+        },
+        {
+            "review_title": "Very good- but needs some neutral shades",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Fair skin tone, Dry skin",
+            "review_text": "I find this to be very hydrating with strong medium coverage, mostly covers redness, goes on like a lotion, and is very comfortable to wear. I like this best with a serum underneath, and no setting powder. This is one of the few foundations I have that can go under the eyes as well. Do need to use a bit of concealer with this but not much. Smoothing over pores, self setting, looks hydrating. I have dry skin with rosacea and find this soothing. I am 1N2 estee lauder in winter and bought 01 which was too light. Mixed it with nars liquid bronzer. Looks great. Then purchased 03 which I can wear on it's own but it is quite peachy. My skin tone is fair light neutral. Most of the shades looked too orange or yellow. They need some neutral shades. I put the lightest Kosas setting powder over the 03 which lightened it, but killed the glow. Does not sit in or highlight pores, and applies best with fingers. Worth the price if you can find a shade."
+        },
+        {
+            "review_title": "Try it for sure!!!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Dry skin",
+            "review_text": "I am giving this 5 stars but Iu2019m basing it off a 10 hour review. I have extremely sensitive skin, which oxidizes very easily. I purchased this because I wanted something which was cheaper and light weight. I absolutely love it. My skin looks great (I did prep it well) and itu2019s stayed on!!! Itu2019s light weight but gives a nice shine!"
+        },
+        {
+            "review_title": "A very nice foundation for the price.",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "This will be my new daily, non-fancy foundation for my combination skin. I have slightly oil forehead and dry cheeks with some dry patches. This WILL cling to those dry patches, so either prep well or ensure you get an excellent shade match. I also have light-medium neutral-yellow or neutral-warm skin and found that I went with a lighter shade in this foundation than recommended because it is quite pigmented plus it slightly oxidizes. The best match I found was 04W even though the Shade Match told me I would be 11N. 04W is a tad light on me but the yellow pigments help blend it into my tone instead of washing me out. It's a neutral-yellow light shade that may also work for light yellow-olive. 07W was a close match for me also when first applied, but dried down to an overly warm and slightly darker shade than the rest of me. For other foundation matches, I am Estee Lauder Doublewear 2W1 and Armani Silk 4.5. I swatched 06C in-store and while it is a very pink tone, it also blended in OK just that I looked slightly tan. 8N may have also worked well for me but I did not try.  The best part of this foundation is that it feels very comfortable, lightweight, is self-setting/slightly mattifying but has a natural finish. The mineral pigments seem fine enough to also blend in well, not look cakey and mask-like. I don't like the pump because it spurts out a set amount of foundation but that's ok because it layers well, has a thin viscosity. It has no special blurring effect but that's fine with me."
+        },
+        {
+            "review_title": "Great wear, buildable and price point 10/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
+            "review_text": "Excellent long wearing super hydrating but non greasy foundation . Not only is the price point fantastic but the shade range is great. Incredible buildable coverage that doesnu2019t settle into those fine lines as the day goes on . Leaves a hydrating satin finish and is amazing !"
+        },
+        {
+            "review_title": "If you can find your shade",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Combination skin",
+            "review_text": "I cannot find my perfect shade. I do not want to see any orange pink orange or red in my foundations. I am olive skin and there are 2 shades in the tan section which is great!. I swore I was 17w because 22w ( I can tell on the model would pull red). The 17w looked nice and yellow so I ordered it online since stores do not have testers. Welp the 17w was too light on my skin but the undertone was perfect.  I ordered the 22w and I was correct, it pulls red on my skin once I blended it to my neck. I have to blend to my neck because of hyperpigmentation. Even pulling it down a bit on my neck you can see my actual undertone is different. I would have to put foundation all over my neck and I don't want to do that. I ended up putting a green powder on my neck to counteract the red. But the 22w (it is darker than my skin tone) does look nice on my face once I put concealer and powder. The foundation feels nice and wears nice. The price is great as well. it covers my hyperpigmentation very well.    Not sure if I will keep the 17w.. mixing the 17w and the 22w together would give me my perfect shade.....maybe I should try the 18w but I feel that would pull orange. Not sure if the 15 and 16 shades would be too light and pink since they are neutral shades. No stock or testers in store ."
+        },
+        {
+            "review_title": "better than I expected",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "I couldn't find my shade match using one shade so I mixed medium 8N and 11 N and found that it matched perfectly.  By mixing these two neutral shades I experienced only slight oxidation by the end of the day and found that it wore phenomenally.  The foundation is for the most part self setting and with my dry skin never separated or faded on me throughout the day.  It offers medium to full coverage and I used about 1 pump of the shade 8N and 3/4 pump of 11 N to get a slightly darker more olive shade than the Nars light reflecting foundation in the shade Punjab."
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, notSure skin tone, Normal skin",
+            "review_text": "TERRIBLE!! they colour matched me in store and recommended i get medium 11N, way to dark and orange for my skin now i have to go all the way back to the store and deal with this headache again."
+        },
+        {
+            "review_title": "Oxydation makes the foundation too orange",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "The texture is great - being made in Italy you can feel the lightness and hydration level. But the colour is very opaque and oxidizes in different tints of orange."
+        },
+        {
+            "review_title": "shade match isnu2019t good",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I bought this in the third lightest shade- itu2019s sooooo orange! like it should classify as a medium shadeu2026not light. the shades matches are horrible but the actual formula is very nice and doesnu2019t feel  silicone-y at all, but definitely make sure you shade match IN store"
+        },
+        {
+            "review_title": "Okayyyyyyyyy Morphe, I see you!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Oily skin",
+            "review_text": "This foundation really took me by surprise. It applied beautifully, leaving a natural finish behind. I applied it with a sponge and it really casts a second skin look, very undetectable. This applies sheer and can easily be build up to medium coverage, perfect for day to day. This is also a great price for an 1oz product thats made in Italy. Definitely worth giving it a try for sure!"
+        }
+    ]
 }

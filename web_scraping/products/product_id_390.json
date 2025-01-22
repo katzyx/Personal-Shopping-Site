@@ -1,583 +1,583 @@
 {
-	"product_id": "390",
-	"name": "Glow Cream",
-	"brand": "Dr. Barbara Sturm",
-	"categories": "Skincare, Moisturizers, Moisturizers",
-	"price": 324.0,
-	"about": "What it is:A moisturizer to target visible signs of aging, inspired by Barbara Sturm’s Glow Drops (sold separately), for immediate hydration and luminosity..Skin Type:Normal, Dry, and Combination.Skincare Concerns:Fine Lines and Wrinkles, Dryness, and Dullness.Formulation:Cream.Highlighted Ingredients:- Bistorta Root Extract: Visibly smooths fine lines and increases radiance..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free..What Else You Need to Know:Combining advanced science with nutrient- and hydration-rich ingredients, Glow Cream is ideal for anyone wishing to boost their skin’s visible vitality, both immediately and in the long term. It’s fragrance-free and suitable for all skin types, including sensitive skin.",
-	"ingredients": "-Bistorta Root Extract: Visibly smooths fine lines and increases radiance..-Triple Hyaluronic Acid: Provides intensive hydration..-Light-Reflecting Pearl Pigments: Deliver instant shimmer...Aqua/Water/Eau, Octyldodecanol, C12-15 Alkyl Benzoate, Glycerin, Butyrospermum Parkii (Shea) Butter, Decyl Oleate, Zea Mays (Corn) Germ Oil, Cetearyl Alcohol, Hydrogenated Vegetable Glycerides, Lactobacillus/Portulaca Oleracea Ferment Extract, Butylene Glycol, Sorbitol, Potassium Cetyl Phosphate, Cocoglycerides, Dimethylimidazolidinone Rice Starch, Tocopheryl Acetate, Polygonum Bistorta Root Extract, Rosa Canina Fruit Extract, Saccharide Isomerate, Squalane, Panthenol, Ethylhexylglycerin, Sodium Hyaluronate, Tocopherol, Biosaccharide Gum-1, Leuconostoc/Radish Root Ferment Filtrate, Caprylyl Glycol, Synthetic Fluorphlogopite, Hydrogenated Palm Glycerides, Mica, Microcrystalline Cellulose, Sclerotium Gum, Helianthus Annuus (Sunflower) Seed Oil, Cellulose Gum, Hexylene Glycol, Xanthan Gum, Tin Oxide, Silica, Alumina, Citric Acid, Pantolactone, Phenoxyethanol, Sodium Benzoate, CI 77891, CI 77491.",
-	"how_to_use": "Suggested Usage:.-Apply evenly to your face, neck, and décolleté, after cleansing or applying your preferred Dr. Barbara Sturm serum (sold separately)..-Use daily.",
-	"num_reviews": 80,
-	"overall_rating": 4.7,
-	"product_url": "https://www.sephora.com/ca/en/product/dr-barbara-sturm-glow-cream-P511547?skuId=2777019&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2777019-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "1.69 oz / 50 ml",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2777019-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Such a pretty glow",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Normal skin",
-			"review_text": "This is so pretty on your skin. I wasn’t expecting much results but I was blown away by the amount of glow it gives!! The texture is nice and I don’t seem to smell much of a scent. I put it on as part of my last step in my morning skincare routine."
-		},
-		{
-			"review_title": "Do not recommend",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "I don’t like the pearlescent “glow” this product provides. It makes my face look vaguely metallic. It does effectively moisturize my face. I have used other Dr Barbara Sturm products I would recommend before this cream, such as their foaming cleanser."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I’ve always heard good things about Dr Barbara Sturm products and now I can confirm for myself. I absolutely adore this glow cream and may just repurchase it once I’m done with this tub. I noticed a difference right after one day of wearing it and I think that speaks volumes on its effectiveness."
-		},
-		{
-			"review_title": "a true glow cream!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "This glow cream is so magnificent. I love how much hydration I get from it while it also not being TOO thick. I use it int he morning for my daily skincare routine and it works well under all my products. But my favorite way to use it is at night. It’s the final cream I use before I got to bed and my skin loves it!!!! I wake up looking very glowyyyy! Would highly recommend"
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "The order was not delivered and returned to the sender, I had to travel without the products, they did not solve my delivery problem"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "I was extremely excited to get and use this product but after trying and experimenting I can’t say that I love it. As for pros, there is not an overwhelming smell, and it didn’t cause a break out on my sensitive skin. I also do get a beautiful glow. As for cons this does pill this with and without makeup. Also as a medium-dark complected black woman, the white cast is evident. My partner asked if I had on sunscreen one day while wearing it. I may still use on my color bones and neck for the moisturization and glow but it’s not my favorite."
-		},
-		{
-			"review_title": "Insta glow cream",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
-			"review_text": "Shout out to the bestie in the Q&A having a winge about the reviews!   Here’s my review, I received Dr Barbara Sturms glow cream approximately 12 days ago. After 12 days of morning use here’s my honest review. - lightweight yet creamy texture. Love how this melted into the skin - It does leave a glow, just like the name it does do what you expect. Gives a nice subtle glow. I’ve enjoyed using this on my face and shoulders.  - Hydrating! With it being summer my skin has seen a thrashing of sun and sunscreen. This cream seems to be holding up on my face and shoulders and my skin isn’t feeling dried out by midday   This product is pricey, but has a shelf life of 12 months after opening. So for those looking for luxury and longevity this one will look after you. I love the instant luminosity this product gives. I don’t wear makeup daily so I love products that have skin enhancing benefits.   Could I see myself buying the glow lineup? Most definitely, I’ve done some research into the brand, the mission and philosophies, and reviews that were organic. There’s a reason people love this brand and skincare lineup.   Much like any luxury skincare lineup, you’re paying for the process behind the product. I for one love this cream, it hasn’t broken me out, plays nice with my tretinoin, and I’ve gotten more compliments on my skin in the last week than I have in the last year. Is that a testament to the cream? I’m going with yes."
-		},
-		{
-			"review_title": "Nice moisturizer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
-			"review_text": "I recieved the glow cream in exchange for my honest thoughts. I really love that this product doesn’t have a smell. And the consistency is really nice on the skin. It really left my skin with a nice glow and I could visibly see a difference! Not sure it’s worth it for the cost but it is a nice cream And very lightweight"
-		},
-		{
-			"review_title": "A SKINCARE MUST HAVE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Medium skin tone, Normal skin",
-			"review_text": "This Dr.Barbara Strum Glow Cream is my new favorite moisturizer! It is so rich and creamy and gives you the most beautiful glow. It keeps your skin hydrated while giving it some luminosity. This cream has so many great benefits including smoothing the appearance of fine wrinkles and refining pores. I am obsessed with how velvety and creamy this moisturizer feels. It is definitely a staple in my skincare routine!"
-		},
-		{
-			"review_title": "I’m obsessed with it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Normal skin",
-			"review_text": "I can’t remember if I have ever tried something amazing as this cream. It gives my skin an instant glow and provides a long lasting hydration. The texture is silky and creamy, and goes nicely, without being greasy or heavy. Love the light-reflecting pearl pigments, that leave a beautiful, yet subtle shimmer. Just amazing."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
-			"review_text": "Wow the reflectiveness in this product is beautiful! I’ve been applying it to my shoulder and neck when I wear a tube top or spaghetti strap. Also my skin feels so much more softer and plumped. There is no weird smell which I appreciate"
-		},
-		{
-			"review_title": "Obsessed with this cream👏🏽⭐️",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "This cream feels really nice and smooth on my skin and I love the soft glowy effect that it gives. It doesn’t have much smell which is good because I do get tired of those quickly. It has amazing quality ingredients and transforms my skin quickly. I will recommend to my friends who want to add some glass skin effect to their routines. 10/10⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️"
-		},
-		{
-			"review_title": "Loved",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Normal skin",
-			"review_text": "Loved this product worth every cent I received this product in exchange for a review and this is so worth it. I would definitely purchase this with my own money when I run out love this product so much. 🧍🏽‍♀️💕"
-		},
-		{
-			"review_title": "Radiant glow in a jar!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "This cream is an absolute gem if you’re looking to achieve that coveted radiant glow! The formula is lightweight and feels so luxurious on the skin.. a little goes a long way! I LOVE that this hydrates my skin without leaving any sticky residue. This includes wild rose extract which helps refine my pores and evens out complexion, while the hyaluronic acid keeps my skin feeling plump and moisturized! This has subtle luminescent pigments and it gives my skin a natural, dewy finish that looks fresh! The results are worth every penny!"
-		},
-		{
-			"review_title": "rehydrated!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "after using the Dr. Barbara Sturm glow cream, I have noticed a difference in my skin in the morning after application. My skin feels softer and bouncier than I have ever seen it, I use this as a preventative way for wrinkles"
-		},
-		{
-			"review_title": "A must have imo",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Combination skin",
-			"review_text": "Dr. Sturm Glow Cream is a holy grail product for anyone looking to enhance their skin's radiance. It is a lightweight cream and absorbs quickly, giving the skin a dewy look without feeling greasy. With ingredients like purslane, triple hyaluronic acid, it hydrates deeply, giving an amazing glow in my skin.  Though on the pricier side, the results and luxurious feel make it a worthwhile investment for myself and will continue to purchase this. It's luxury in a jar with results."
-		},
-		{
-			"review_title": "Transformed my skin in 3 days",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Normal skin",
-			"review_text": "I’ve only been using this cream for a few days, yet my skin looks completely transformed. Prior to adding this to my routine, my skin was honestly a hot mess. I was breaking out like I hadn’t experienced since highschool and was overall really imbalanced. My combo skin was one side of the extreme to the other with my t zone like an oil slick and the rest was the sahara. Fast forward literally three days into using this as my daytime cream and my skin is balanced, smooth, and glowing. I’m amazed at how quickly this worked and cannot wait to see the long term results if the short term have been so good already. It’s lightweight, yet moisturizing. It provides such a glowy smooth canvas that’s perfect prior to makeup application (or on its own). The glow never looks greasy. My skin looks plump, healthy, and lit from within. If you want to invest in your skin, Dr. Barbara Sturm is worth the price in my opinion."
-		},
-		{
-			"review_title": "a must have in my skincare routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I have no words to explain how amazing this glow cream is, I was speechless with the results and I can’t stop to use it every day, my skin looks AMAZING and I already received compliments about it, a product that I completely recommend"
-		},
-		{
-			"review_title": "must have for full glam days!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
-			"review_text": "this moisturizer is pricey but it’s so worth it. i’ve never tried anything so beautiful in my life and it gets better the more you use it. I love this during the day because the light reflecting pearl powder gives you the most beautiful glow! must try and I will be wearing this on my wedding day"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I've recently added the GLOW CREAM by Dr. Barbara Sturm to my skincare regimen, and it's quickly become a favorite. This luxurious cream is formulated to enhance the skin's natural radiance and provide a healthy, luminous glow."
-		},
-		{
-			"review_title": "WOW",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "My skin really loves this moisturizer. After a long day and a night out I was not expecting my complexion to be so radiant immediately after application before bed. I also awoke to the best my skin has probably ever felt. The radiance had faded but my pores and lines all became very subtle over night I was pleasantly surprised! I ended up wearing this cream again and honestly could wear just it and feel so confident but I decided to try it layered with makeup on top and I am so happy with how it is wearing! I really love the pearlescent effect it gives the skin at first. I want to try more from the line now."
-		},
-		{
-			"review_title": "Anti Age Skincare",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Love the way this made my skin feel!!! Gives a natural glow to my skin. Moisturizing and plumping to my skin. I recommend you try this product if you are looking for hydration, plump young skin, and a luminous look!"
-		},
-		{
-			"review_title": "Amazing Hydration",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Dry skin",
-			"review_text": "I love this amazing new glow cream and I’ve already seen immediate results! It’s a rich, creamy moisturizer that imparts an immediate luminosity to the complexion and provides both instant and long-term hydration for a supercharged glow!"
-		},
-		{
-			"review_title": "Good Addition to My Daily Skin Routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Normal skin",
-			"review_text": "I recently tested out the Glow Cream by Dr. Barbara Sturm and was amazed by how it immediately illuminated and refreshed my skin. The lightweight texture absorbs rapidly, leaving a luminous and dewy look without any greasiness. Packed with potent antioxidants and anti-aging components, it not only enhances my skin's inherent radiance but also actively enhances its overall quality and complexion. Considering its costly price, I hoped for more visible long-term results in addition to the instant glow."
-		},
-		{
-			"review_title": "Burst of hydration",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "The STRUM glow cream feels so rich and luxurious upon first touch. It’s a heavy cream which definitely delivers on moisture. I used it overnight and woke up to my skin feeling soft and hydrated  . I noticed a subtle glow as well , and I may need to give it a few days of continuous use to see the maximum glow effect"
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Normal skin",
-			"review_text": "I love this stuff! It makes my skin look so young, moisturized and glowy. I’d highly recommend to anyone that yea this is worth every coin! I’ve used it twice so far and I’ve been complimented both times."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "Now I understand why the Glow Cream is much talked about and has rave reviews… it’s name is fitting, this cream will truly make you glow. My skin is very dry and this cream is like a jar of moisture and hydration! Love it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "Absolutely love Dr. Sturm and this glow cream is amazing! it makes my skin look so dewy and hydrated, without being too greasy. Definitely recommend trying this out. It also feels so luxurious with nice packing, which is a plus."
-		},
-		{
-			"review_title": "Radiant + Hydrating!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Deep skin tone, Combination skin",
-			"review_text": "This cream feels luxurious! It's rich but not too thick for daytime use. It leaves my skin feeling dewy and it has a lovely glow. I love how fresh my skin looks and feels but most of all I love the subtle warmth my skin has after using this cream!"
-		},
-		{
-			"review_title": "I love this cream!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This moisturizer is like crack for the skin. My face absolutely loves it! I don’t find that it makes me oily. The price is kind of terrifying, but, the results are worth it. I have not had any breakouts and my skin looks like glass skin!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "This cream makes my skin so glowy and hydrated! It’s great for putting on right before makeup and creates such a dewy look. I love the product but I’m not sure if it’s worth the money, it’s similar to other cheaper products."
-		},
-		{
-			"review_title": "Good cream",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I received the Dr. Barbara Sturm Glow Cream from Skeepers and have been using it for a few days. The cream has a luxurious feel and leaves my skin with a beautiful, radiant glow. It’s lightweight, absorbs quickly, and doesn’t leave a greasy residue. My skin feels hydrated and smooth all day. I appreciate that it’s made in Germany and has high-quality ingredients. Highly recommend!"
-		},
-		{
-			"review_title": "Worth every penny!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Dry skin",
-			"review_text": "I’ve had multiple bottles of this cream and I love it so much. It is expensive, but no other skincare product compares to it in my opinion. My skin looks so hydrated and glowy whenever I am using this consistently. It is one of the only products that has worked for my drier skin!"
-		},
-		{
-			"review_title": "healthy glowing skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
-			"review_text": "a really nice hydrating base for makeup, it lays nicely and doesn’t pill under, i also like using this without makeup because it makes the skin looks healthy and glowy. there is a finely milled shimmer in this but nothing chunky it just helps give the skin a lit from within glow!"
-		},
-		{
-			"review_title": "Must have for a natural glow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Oily skin",
-			"review_text": "With just a little amount, this product gives the most amazing glow! The first use and I was completely amazed. I will be using this product up until my wedding day, and thereafter. This is a must have for that natural summer glow!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "This cream is moisture personified! So luxurious and rich, my favorite consistency in a cream. I especially love using it after my night time skin care where I use a strong retinol to provide that extra boost of moisture. The light reflecting pearl pigments do exactly what they say, but because I am of a darker complexion, it leaves me with an ashy hue. So, I opt for night time application of this product.  All in all, I will continue using it!"
-		},
-		{
-			"review_title": "Beautiful glow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "Dr. Barbara Strum Glow Cream is a light and fast absorbing cream. I have mostly dry skin, but heavier creams have made my skin more oily in the past. My skin feels hydrated without getting oily and really glows! My fine lines are much less noticeable. I love that it is fragrance free and also gluten free and cruelty-free. I highly recommend this cream."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I loved this product! It’s lightweight, has minimal fragrance which is great for my acne prone skin, and goes on so smoothly. As soon as I apply it you can tell there is a glow and kind of a filter effect."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "I absolutely love how much more moisturized my skin is after using this! My skin feels so much more supple and smooth and filler which is amazing! I can notice a huge difference in my skin health after using this."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "A glow cream indeed.apart from the price point of this product it’s really a great cream. You can splurge on it if you want. I loved and enjoyed the experience of using it and the results it gave me. The glow from within might just make me splurge on another jar"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I absolutely love this product! It feels so rich and smooth, blends into the skin like a dream, and provides my face with a blast of hydration! I struggle with dry skin and my skin has completely transformed since using this product every night. I have also noticed my pores are tighter and smaller, and my skin feels like plump and radiant. I couldn’t be more happy with my skin results!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "I am usually not a shimmer type of person but this glow cream has such fine shimmer that I don’t mind it at all! However, because of the shimmer, I would only recommend using this during the day for a nice glow. It is hydrating enough for warm weather but I think once it gets colder, I will need something more moisturizing (I have normal to dry skin). It is a nice cream, but the price point is very steep."
-		},
-		{
-			"review_title": "Summertime must have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I have been LOVING this. Making my 37 year old skin look like that good good. On days when super dry I add it on top of moisturizer, but normally can wear alone as my moisturizer, illuminator and primer.  I’ve been super happy with it and the look it gives my skin!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, auburn hair, Combination skin",
-			"review_text": "I really wanted to love this face cream! It has a lovely texture, adds a nice glow to the skin, and it doesn’t smell bad at all! However, it does pill a lot under makeup (i’ve tried multiple different foundations with the same results, unfortunately). Definitely good for no makeup days, though!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
-			"review_text": "Finally, I've become acquainted with this magical cream! I often saw it on the store shelves, and now it's in my hands, and I'm very happy about it! Because it's incredible! I feel changes after using this cream; my skin has become firmer and glowing, and it only took a small amount to cover my entire face! This jar will last a very long time!  Also, the cream itself is airy and light, which is very important. It has almost no scent, which is great because the fragrance in many other creams used to bother me, but here everything is just perfect! I definitely recommend it! And, of course, I think I’ll be buying a lot more from this brand!"
-		},
-		{
-			"review_title": "a great addition to your skincare routine",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "The Dr. Barbara Sturm Glow Cream is a lightweight moisturizer that adds an instant radiant glow to your skin. It absorbs quickly, hydrates well, and leaves your complexion looking fresh and luminous. Pros: • Lightweight and non-greasy • Provides a noticeable glow • Hydrates effectively Overall, a great addition to your skincare routine for a healthy, glowing look."
-		},
-		{
-			"review_title": "Amazing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I love it, been using during the summer and like how hydrated leaves my skin,  it’s very smooth and love that is fragrance free, perfect for sensitive skin, my skin looks so good and absorbs really well! Definitely recommend it!"
-		},
-		{
-			"review_title": "LOVE the glow",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, red hair, Fair skin tone, Normal skin",
-			"review_text": "I recently tried Dr. Barbara Sturm's Glow Cream, and it's a game-changer for my skincare routine. This cream delivers an instant, luminous glow without feeling heavy. It's packed with powerful ingredients like purslane and hyaluronic acid, which deeply hydrate and rejuvenate the skin. The texture is lightweight and absorbs quickly, leaving my skin looking radiant and feeling incredibly smooth. Perfect for a natural, healthy-looking glow! Highly recommend it for anyone seeking a luminous complexion."
-		},
-		{
-			"review_title": "Love the glow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Dry skin",
-			"review_text": "I love this glow cream to utilize under my makeup as skin prep. You can immediately see the pearlescent glow as the moisturizer is applied. It gives the illusion of a brighter face and more awake look. I also like that it isn’t heavily fragranced and is lightweight. I can definitely tell a difference compared to more lower end options of moisturizers which don’t give the same glow. If you want that dewy look before putting on makeup or primer, I highly recommend the glow cream."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair",
-			"review_text": "This is my new favorite moisturizing cream. If you're like me and you love to look glowy, then this is just the right product for you! This glow cream leaves me looking glowy as ever and I love to use it by itself or under my makeup as a glowy base."
-		},
-		{
-			"review_title": "Love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I love this new moisturizer! I used it for a few days and i can see a total new glow on my skin! I love how hydrated and plumped my skin looks. It also has very light reflecting pigments that add an extra flow without being too shimmery. I also love the formula its not greasy! A must try!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This Glow Cream feels amazing on my skin. It’s very easy to apply and a little goes a long way. I will be adding this into my usual skin care routine. It smells really pleasant and my skin looks nice after use"
-		},
-		{
-			"review_title": "The perfect first step in my makeup routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "Love this glow cream! My face feels very hydrated and after a few weeks of use, I can see a positive difference in fine lines and pores. Also, I love that there are light reflecting pearl pigments - it looks great under a glowy makeup look!"
-		},
-		{
-			"review_title": "Glowy & hydrating",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "Wow! So glowy and hydrating. My 2 fave ingredients in face cream hyaluronic acid and rose extract. It’s scent free though. Packaging is nice and comes with safety seal. It’s formulated without all those bad things too!"
-		},
-		{
-			"review_title": "An amazing cream!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Combination skin",
-			"review_text": "This cream is amazing and I’m so shocked that I didn’t try this sooner. I am going to get this again because the results are so clear! I feel this helped give me a rosier complexion. The scent is also subtle and not overpowering at all.  "
-		},
-		{
-			"review_title": "Diamond skin ❤️",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
-			"review_text": "Oh my God. I'm crazy about this cream. This is something incredible and something I have never tried before. The first thing that catches your eye is the simple but very beautiful tube that contains the cream. It is a beautiful and matte white box with a beautiful pale pink cream color inside. The cream is very easy and pleasant to apply. It is absorbed instantly and after application the skin becomes even and beautiful in color, thanks to this there is no need for foundation. The skin glows and radiates glow from within. It is used economically and you want it and it smells amazing. It's a waste for us girls."
-		},
-		{
-			"review_title": "I really love this pearly cream",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "This glow cream is one packed with amazing results. A powerful anti-aging luxurious cream that instantly illuminates the skin. Formulated with light-reflecting pearl pigments, this cream gives your complexion a radiant shimmer while smoothing out any imperfections. Hyaluronic Acid deeply hydrates, while potent ingredients like Bistorta Root and Exopolysaccharides work to enhance your skin’s natural luminosity. I love this formula it melts right into the skin for a glow that lasts all day!! Say sayonara to tired-looking skin as this gem revitalizes and refines, leaving you with a radiant like never before. It’s skin care formulated to work."
-		},
-		{
-			"review_title": "Instant Glow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Normal skin",
-			"review_text": "I absolutely have been loving this glow cream! I've been applying it in the mornings after cleansing my face. It has such a lightweight texture. It's got a very pretty pearly pink color to it. It literally gives my skin an instant glow! It keeps my skin hydrated without feeling sticky or greasy. I can wear it alone or it works great under my makeup!"
-		},
-		{
-			"review_title": "This cream is a must-try",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "Receiving Dr. Barbara Sturm's Glow Cream as a gift was a true delight. This luxurious cream has quickly become a favorite in my skincare routine. From the first application, I noticed an immediate boost in radiance. The lightweight texture absorbs effortlessly, providing a perfect base for makeup or a natural glow on no-makeup days. Infused with potent anti-aging ingredients and light-reflecting particles, this cream not only hydrates but also enhances the skin's luminosity. Over a few days, my complexion appeared noticeably brighter and more even-toned. The subtle, pleasant scent adds to the overall pampering experience. While it comes with a premium price tag, the results justify the investment. Dr. Barbara Sturm's Glow Cream delivers on its promise of radiant, healthy-looking skin, making it a worthwhile addition to any skincare regimen. If you're seeking an effective glow-enhancing product, this cream is a must-try."
-		},
-		{
-			"review_title": "Just gorgeous!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Normal skin",
-			"review_text": "I think the only way to summarize this product is gorgeous! The texture is beautiful - rich but light and refreshing. It feels really moisturizing, but not so heavy I couldn’t use it in warm weather. My skin had been feeling quite dull lately and this left my skin super soft and honestly really renewed and refreshed. I can’t wait to keep using it and see what the long term anti aging benefits bring me. If I see results there combined with what a lovely experience it is to use it will absolutely be worth the price tag. I definitely recommend giving it a try if you’re thinking about it!"
-		},
-		{
-			"review_title": "The glow is UNREAL",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Normal skin",
-			"review_text": "This is luxury luxury luxury!!! If you’re in the market for a LUXURIOUS face cream this is for you! Not only did this moisturizer leave my face feeling so soft, but it also provided a glowing glow that lasted all day. I didn’t even have to use primer! Also, a little goes a long way, use a nickel size for the entire face."
-		},
-		{
-			"review_title": "Luxe Skincare",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I was really excited to try this product. It seemed like a luxury product because of the ingredients and the price listed. I was very satisfied with getting to try this brand, product and I like the glow cream. I think it’s a great addition to my skin care routine!"
-		},
-		{
-			"review_title": "Worth the price tag",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I've noticed a noticeable improvement in my skin's radiance since incorporating this glow cream into my daily regimen. It delivers a healthy, luminous glow that lasts throughout the day. My complexion looks more even-toned, and fine lines appear softened."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "I had never tried Sturm’s products, so this was a nice chance to! The glass container is a great size and feels very luxurious. There is a foil protector that comes off easily if you peel very slowly. The cream is a little thick, but rubs out into a nice, moisturizing layer. A little goes a long way with this product and the shine it gives is spectacular!"
-		},
-		{
-			"review_title": "Like a filter for the skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Combination skin",
-			"review_text": "I wanted not to love this cream because of the price tag, but wow, it is gorgeous! It’s like a filter for the skin. The light reflecting pearl pigments give the skin this amazing glow from within, but it also overall makes your skin look better. When I use this I don’t feel the need to wear foundation over top. Will probably save this for special occasions due to the price."
-		},
-		{
-			"review_title": "Luxury in a bottle!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This is such a luxurious cream. The texture is amazing and it’s lightweight for me. There’s a nice faint smell but it’s not overpowering. My skin feels instantly hydrated and glowing. I am very impressed! This is pure luxury to use!!!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "The glow is real!! I didn’t believe the pictures I saw of the glow people were getting from this product but then I tried it for myself and oh my word!!! It is is amazing but I will be savoring it because it is definitely pricey."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
-			"review_text": "This moisturizer gives me an amazing and healthy glow! It is both lightweight and moisturizing and makes my skin look fantastic! Even my fiancé has been enjoying it and likes the way that it makes his skin feel!"
-		},
-		{
-			"review_title": "Instant glow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I’ve never tried a product from Barbara sturm but heard great things so I was really excited to try this. I love all things skincare especially creams and moisturizers and this one did not disappoint. There is no fragrance which is great for people with sensitive skin , the cream is a pretty light pink color and looks glowy on the skin, almost a little iridescent. It lays on the skin really nicely and my dry skin instantly looked healthier, hydrated and radiant!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Dry skin",
-			"review_text": "Dr. Barbara Sturm's GLOW CREAM is a luxurious moisturizer that imparts instant radiance and long-term hydration. Infused with Polygonum Bistorta Root, Triple Hyaluronic Acid, and light-reflecting pearl pigments, it smooths, hydrates, and protects for a luminous complexion."
-		},
-		{
-			"review_title": "Long term hydration",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
-			"review_text": "I am very surprised with this product. It leaves my skin a very healthy glow. It's rich, but not too thick. It provides long-term moisturizing and hydrating, the scent is fabulous and the feel as well. Not too heavy but definitely very moisturizing! I put this under my makeup every morning. I would highly recommend it."
-		},
-		{
-			"review_title": "Glowing!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This gives me such a beautiful glow! The pearlescent tint is unlike any other moisturizer I have ever tried. I love all of Dr. Barbara sturm products but this is absolutely my new favorite! Such great texture and quality."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "The Glow Cream by Dr. Barbara Sturm is my favorite moisturizer right now. It is lightweight but hydrating and leaves my skin looking super healthy and glowy! This moisturizer smooths out any wrinkles and fine lines I have and plumps my face immediately."
-		},
-		{
-			"review_title": "Glowing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "What a beautiful glow it gives to your skin! The cream is the perfect blend, not to thick and applied easily. My skin looks and feels so much more hydrated. I look forward to seeing more results with my skin."
-		},
-		{
-			"review_title": "instant glow up",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "This Glow Cream has become my go-to base for makeup and the final step in my nighttime skincare routine. Since I started using it, I wake up with soft, radiant skin. It gives my makeup a glowy finish and makes my face look hydrated and healthy. It instantly brightens my complexion, and on no-makeup days, I use it with a bit of skin tint for a healthy, non-greasy glow."
-		},
-		{
-			"review_title": "A win for glowing skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "The name is real. This cream makes my skin glow! It’s so hydrating, and leaves my skin so dewy! I can’t say enough about how good it feels. It feels amazing on my skin, and keeps it hydrated and glowing all day long. I also really like how it smells. It’s pricey, but worth it."
-		},
-		{
-			"review_title": "Great cream",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Combination skin",
-			"review_text": "Since I started using this cream in my daily skincare routine, my skin has looked much better. It has acquired a healthy glow, becoming soft and hydrated. My complexion has become more even. The packaging is matte, cute and simple, which I love because I prefer minimalism. The cream has a powdery, light scent that lingers on my skin for a few minutes, but I like it. I love this cream for its healthy glow and hydration."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
-			"review_text": "The Glow Cream by Barbara Sturm is a hydrating and glowing moisturizer. The formula provides dazzling luminousity to the skin, and layers incredibly well with other skincare steps. I absolutely adore this luxurious cream!"
-		},
-		{
-			"review_title": "Gives the glowww",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "This cream is not to thick and blends right into the skin, I don’t have to put work for it to evenly blend. Because this product contains Bistorta Root Extract I see much more radiance to my skin when I apply it. I also noticed that because of Triple Hyaluronic Acid my skin is super hydrated. But because it has Light-Reflecting Pearl Pigments I see a beautiful glow to my skin whenever I apply this cream. It feels so luxurious and I love it.  One thing I’m just not a fan of the packaging! The foil seal is super hard to open and when I do I end up losing a lot of product for how expensive this cream is. Thats why I took off a star Besides that I love this cream and the effect it has."
-		},
-		{
-			"review_title": "Great product bad packaging",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I’m an all time Sturm Fan. This cream is made for me I feel! No complaint about the product. The cream doesn’t feel Oily which I love. But if you like a mat look this isn’t for you. With the money? Sturm is always worth the money. I religiously used sturm products for 3 years, and then stopped. 3 kids life is expensive. And, I noticed the change in my skin as I look back at my old photos it’s prominent. So these products do work and they are made of clean ingredients which you can use while pregnant and nursing. So as long as sturm continues with the clean ingredients I will always use their product. You get what you pay for.   The 3 star is for packaging and the amount of product that get wasted on the process of opening the cream. The foil seal on these creams are like… the bomb. You can never remove it!! I cut my hand open trying to remove the foil seal with a knife, the only way I can open the product.  My only request to Sturm team is please look into making your foil seals a bit more removable friendly? It is too hard to remove and in the process I end up wasting a whole lot of expensive product."
-		}
-	]
+    "product_id": "390",
+    "name": "Glow Cream",
+    "brand": "Dr. Barbara Sturm",
+    "categories": "Skincare, Moisturizers, Moisturizers",
+    "price": 324.0,
+    "about": "What it is:A moisturizer to target visible signs of aging, inspired by Barbara Sturmu2019s Glow Drops (sold separately), for immediate hydration and luminosity..Skin Type:Normal, Dry, and Combination.Skincare Concerns:Fine Lines and Wrinkles, Dryness, and Dullness.Formulation:Cream.Highlighted Ingredients:- Bistorta Root Extract: Visibly smooths fine lines and increases radiance..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free..What Else You Need to Know:Combining advanced science with nutrient- and hydration-rich ingredients, Glow Cream is ideal for anyone wishing to boost their skinu2019s visible vitality, both immediately and in the long term. Itu2019s fragrance-free and suitable for all skin types, including sensitive skin.",
+    "ingredients": "-Bistorta Root Extract: Visibly smooths fine lines and increases radiance..-Triple Hyaluronic Acid: Provides intensive hydration..-Light-Reflecting Pearl Pigments: Deliver instant shimmer...Aqua/Water/Eau, Octyldodecanol, C12-15 Alkyl Benzoate, Glycerin, Butyrospermum Parkii (Shea) Butter, Decyl Oleate, Zea Mays (Corn) Germ Oil, Cetearyl Alcohol, Hydrogenated Vegetable Glycerides, Lactobacillus/Portulaca Oleracea Ferment Extract, Butylene Glycol, Sorbitol, Potassium Cetyl Phosphate, Cocoglycerides, Dimethylimidazolidinone Rice Starch, Tocopheryl Acetate, Polygonum Bistorta Root Extract, Rosa Canina Fruit Extract, Saccharide Isomerate, Squalane, Panthenol, Ethylhexylglycerin, Sodium Hyaluronate, Tocopherol, Biosaccharide Gum-1, Leuconostoc/Radish Root Ferment Filtrate, Caprylyl Glycol, Synthetic Fluorphlogopite, Hydrogenated Palm Glycerides, Mica, Microcrystalline Cellulose, Sclerotium Gum, Helianthus Annuus (Sunflower) Seed Oil, Cellulose Gum, Hexylene Glycol, Xanthan Gum, Tin Oxide, Silica, Alumina, Citric Acid, Pantolactone, Phenoxyethanol, Sodium Benzoate, CI 77891, CI 77491.",
+    "how_to_use": "Suggested Usage:.-Apply evenly to your face, neck, and du00e9colletu00e9, after cleansing or applying your preferred Dr. Barbara Sturm serum (sold separately)..-Use daily.",
+    "num_reviews": 80,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/dr-barbara-sturm-glow-cream-P511547?skuId=2777019&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2777019-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "1.69 oz / 50 ml",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2777019-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Such a pretty glow",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Normal skin",
+            "review_text": "This is so pretty on your skin. I wasnu2019t expecting much results but I was blown away by the amount of glow it gives!! The texture is nice and I donu2019t seem to smell much of a scent. I put it on as part of my last step in my morning skincare routine."
+        },
+        {
+            "review_title": "Do not recommend",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "I donu2019t like the pearlescent u201cglowu201d this product provides. It makes my face look vaguely metallic. It does effectively moisturize my face. I have used other Dr Barbara Sturm products I would recommend before this cream, such as their foaming cleanser."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Iu2019ve always heard good things about Dr Barbara Sturm products and now I can confirm for myself. I absolutely adore this glow cream and may just repurchase it once Iu2019m done with this tub. I noticed a difference right after one day of wearing it and I think that speaks volumes on its effectiveness."
+        },
+        {
+            "review_title": "a true glow cream!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "This glow cream is so magnificent. I love how much hydration I get from it while it also not being TOO thick. I use it int he morning for my daily skincare routine and it works well under all my products. But my favorite way to use it is at night. Itu2019s the final cream I use before I got to bed and my skin loves it!!!! I wake up looking very glowyyyy! Would highly recommend"
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "The order was not delivered and returned to the sender, I had to travel without the products, they did not solve my delivery problem"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "I was extremely excited to get and use this product but after trying and experimenting I canu2019t say that I love it. As for pros, there is not an overwhelming smell, and it didnu2019t cause a break out on my sensitive skin. I also do get a beautiful glow. As for cons this does pill this with and without makeup. Also as a medium-dark complected black woman, the white cast is evident. My partner asked if I had on sunscreen one day while wearing it. I may still use on my color bones and neck for the moisturization and glow but itu2019s not my favorite."
+        },
+        {
+            "review_title": "Insta glow cream",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+            "review_text": "Shout out to the bestie in the Q&A having a winge about the reviews!   Hereu2019s my review, I received Dr Barbara Sturms glow cream approximately 12 days ago. After 12 days of morning use hereu2019s my honest review. - lightweight yet creamy texture. Love how this melted into the skin - It does leave a glow, just like the name it does do what you expect. Gives a nice subtle glow. Iu2019ve enjoyed using this on my face and shoulders.  - Hydrating! With it being summer my skin has seen a thrashing of sun and sunscreen. This cream seems to be holding up on my face and shoulders and my skin isnu2019t feeling dried out by midday   This product is pricey, but has a shelf life of 12 months after opening. So for those looking for luxury and longevity this one will look after you. I love the instant luminosity this product gives. I donu2019t wear makeup daily so I love products that have skin enhancing benefits.   Could I see myself buying the glow lineup? Most definitely, Iu2019ve done some research into the brand, the mission and philosophies, and reviews that were organic. Thereu2019s a reason people love this brand and skincare lineup.   Much like any luxury skincare lineup, youu2019re paying for the process behind the product. I for one love this cream, it hasnu2019t broken me out, plays nice with my tretinoin, and Iu2019ve gotten more compliments on my skin in the last week than I have in the last year. Is that a testament to the cream? Iu2019m going with yes."
+        },
+        {
+            "review_title": "Nice moisturizer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "I recieved the glow cream in exchange for my honest thoughts. I really love that this product doesnu2019t have a smell. And the consistency is really nice on the skin. It really left my skin with a nice glow and I could visibly see a difference! Not sure itu2019s worth it for the cost but it is a nice cream And very lightweight"
+        },
+        {
+            "review_title": "A SKINCARE MUST HAVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Medium skin tone, Normal skin",
+            "review_text": "This Dr.Barbara Strum Glow Cream is my new favorite moisturizer! It is so rich and creamy and gives you the most beautiful glow. It keeps your skin hydrated while giving it some luminosity. This cream has so many great benefits including smoothing the appearance of fine wrinkles and refining pores. I am obsessed with how velvety and creamy this moisturizer feels. It is definitely a staple in my skincare routine!"
+        },
+        {
+            "review_title": "Iu2019m obsessed with it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Normal skin",
+            "review_text": "I canu2019t remember if I have ever tried something amazing as this cream. It gives my skin an instant glow and provides a long lasting hydration. The texture is silky and creamy, and goes nicely, without being greasy or heavy. Love the light-reflecting pearl pigments, that leave a beautiful, yet subtle shimmer. Just amazing."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "Wow the reflectiveness in this product is beautiful! Iu2019ve been applying it to my shoulder and neck when I wear a tube top or spaghetti strap. Also my skin feels so much more softer and plumped. There is no weird smell which I appreciate"
+        },
+        {
+            "review_title": "Obsessed with this creamud83dudc4fud83cudffdu2b50ufe0f",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "This cream feels really nice and smooth on my skin and I love the soft glowy effect that it gives. It doesnu2019t have much smell which is good because I do get tired of those quickly. It has amazing quality ingredients and transforms my skin quickly. I will recommend to my friends who want to add some glass skin effect to their routines. 10/10u2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0fu2b50ufe0f"
+        },
+        {
+            "review_title": "Loved",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "Loved this product worth every cent I received this product in exchange for a review and this is so worth it. I would definitely purchase this with my own money when I run out love this product so much. ud83euddcdud83cudffdu200du2640ufe0fud83dudc95"
+        },
+        {
+            "review_title": "Radiant glow in a jar!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "This cream is an absolute gem if youu2019re looking to achieve that coveted radiant glow! The formula is lightweight and feels so luxurious on the skin.. a little goes a long way! I LOVE that this hydrates my skin without leaving any sticky residue. This includes wild rose extract which helps refine my pores and evens out complexion, while the hyaluronic acid keeps my skin feeling plump and moisturized! This has subtle luminescent pigments and it gives my skin a natural, dewy finish that looks fresh! The results are worth every penny!"
+        },
+        {
+            "review_title": "rehydrated!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "after using the Dr. Barbara Sturm glow cream, I have noticed a difference in my skin in the morning after application. My skin feels softer and bouncier than I have ever seen it, I use this as a preventative way for wrinkles"
+        },
+        {
+            "review_title": "A must have imo",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Combination skin",
+            "review_text": "Dr. Sturm Glow Cream is a holy grail product for anyone looking to enhance their skin's radiance. It is a lightweight cream and absorbs quickly, giving the skin a dewy look without feeling greasy. With ingredients like purslane, triple hyaluronic acid, it hydrates deeply, giving an amazing glow in my skin.  Though on the pricier side, the results and luxurious feel make it a worthwhile investment for myself and will continue to purchase this. It's luxury in a jar with results."
+        },
+        {
+            "review_title": "Transformed my skin in 3 days",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Normal skin",
+            "review_text": "Iu2019ve only been using this cream for a few days, yet my skin looks completely transformed. Prior to adding this to my routine, my skin was honestly a hot mess. I was breaking out like I hadnu2019t experienced since highschool and was overall really imbalanced. My combo skin was one side of the extreme to the other with my t zone like an oil slick and the rest was the sahara. Fast forward literally three days into using this as my daytime cream and my skin is balanced, smooth, and glowing. Iu2019m amazed at how quickly this worked and cannot wait to see the long term results if the short term have been so good already. Itu2019s lightweight, yet moisturizing. It provides such a glowy smooth canvas thatu2019s perfect prior to makeup application (or on its own). The glow never looks greasy. My skin looks plump, healthy, and lit from within. If you want to invest in your skin, Dr. Barbara Sturm is worth the price in my opinion."
+        },
+        {
+            "review_title": "a must have in my skincare routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I have no words to explain how amazing this glow cream is, I was speechless with the results and I canu2019t stop to use it every day, my skin looks AMAZING and I already received compliments about it, a product that I completely recommend"
+        },
+        {
+            "review_title": "must have for full glam days!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
+            "review_text": "this moisturizer is pricey but itu2019s so worth it. iu2019ve never tried anything so beautiful in my life and it gets better the more you use it. I love this during the day because the light reflecting pearl powder gives you the most beautiful glow! must try and I will be wearing this on my wedding day"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I've recently added the GLOW CREAM by Dr. Barbara Sturm to my skincare regimen, and it's quickly become a favorite. This luxurious cream is formulated to enhance the skin's natural radiance and provide a healthy, luminous glow."
+        },
+        {
+            "review_title": "WOW",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "My skin really loves this moisturizer. After a long day and a night out I was not expecting my complexion to be so radiant immediately after application before bed. I also awoke to the best my skin has probably ever felt. The radiance had faded but my pores and lines all became very subtle over night I was pleasantly surprised! I ended up wearing this cream again and honestly could wear just it and feel so confident but I decided to try it layered with makeup on top and I am so happy with how it is wearing! I really love the pearlescent effect it gives the skin at first. I want to try more from the line now."
+        },
+        {
+            "review_title": "Anti Age Skincare",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Love the way this made my skin feel!!! Gives a natural glow to my skin. Moisturizing and plumping to my skin. I recommend you try this product if you are looking for hydration, plump young skin, and a luminous look!"
+        },
+        {
+            "review_title": "Amazing Hydration",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Dry skin",
+            "review_text": "I love this amazing new glow cream and Iu2019ve already seen immediate results! Itu2019s a rich, creamy moisturizer that imparts an immediate luminosity to the complexion and provides both instant and long-term hydration for a supercharged glow!"
+        },
+        {
+            "review_title": "Good Addition to My Daily Skin Routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Normal skin",
+            "review_text": "I recently tested out the Glow Cream by Dr. Barbara Sturm and was amazed by how it immediately illuminated and refreshed my skin. The lightweight texture absorbs rapidly, leaving a luminous and dewy look without any greasiness. Packed with potent antioxidants and anti-aging components, it not only enhances my skin's inherent radiance but also actively enhances its overall quality and complexion. Considering its costly price, I hoped for more visible long-term results in addition to the instant glow."
+        },
+        {
+            "review_title": "Burst of hydration",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "The STRUM glow cream feels so rich and luxurious upon first touch. Itu2019s a heavy cream which definitely delivers on moisture. I used it overnight and woke up to my skin feeling soft and hydrated  . I noticed a subtle glow as well , and I may need to give it a few days of continuous use to see the maximum glow effect"
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Normal skin",
+            "review_text": "I love this stuff! It makes my skin look so young, moisturized and glowy. Iu2019d highly recommend to anyone that yea this is worth every coin! Iu2019ve used it twice so far and Iu2019ve been complimented both times."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "Now I understand why the Glow Cream is much talked about and has rave reviewsu2026 itu2019s name is fitting, this cream will truly make you glow. My skin is very dry and this cream is like a jar of moisture and hydration! Love it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Absolutely love Dr. Sturm and this glow cream is amazing! it makes my skin look so dewy and hydrated, without being too greasy. Definitely recommend trying this out. It also feels so luxurious with nice packing, which is a plus."
+        },
+        {
+            "review_title": "Radiant + Hydrating!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Deep skin tone, Combination skin",
+            "review_text": "This cream feels luxurious! It's rich but not too thick for daytime use. It leaves my skin feeling dewy and it has a lovely glow. I love how fresh my skin looks and feels but most of all I love the subtle warmth my skin has after using this cream!"
+        },
+        {
+            "review_title": "I love this cream!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This moisturizer is like crack for the skin. My face absolutely loves it! I donu2019t find that it makes me oily. The price is kind of terrifying, but, the results are worth it. I have not had any breakouts and my skin looks like glass skin!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "This cream makes my skin so glowy and hydrated! Itu2019s great for putting on right before makeup and creates such a dewy look. I love the product but Iu2019m not sure if itu2019s worth the money, itu2019s similar to other cheaper products."
+        },
+        {
+            "review_title": "Good cream",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "I received the Dr. Barbara Sturm Glow Cream from Skeepers and have been using it for a few days. The cream has a luxurious feel and leaves my skin with a beautiful, radiant glow. Itu2019s lightweight, absorbs quickly, and doesnu2019t leave a greasy residue. My skin feels hydrated and smooth all day. I appreciate that itu2019s made in Germany and has high-quality ingredients. Highly recommend!"
+        },
+        {
+            "review_title": "Worth every penny!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Dry skin",
+            "review_text": "Iu2019ve had multiple bottles of this cream and I love it so much. It is expensive, but no other skincare product compares to it in my opinion. My skin looks so hydrated and glowy whenever I am using this consistently. It is one of the only products that has worked for my drier skin!"
+        },
+        {
+            "review_title": "healthy glowing skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "a really nice hydrating base for makeup, it lays nicely and doesnu2019t pill under, i also like using this without makeup because it makes the skin looks healthy and glowy. there is a finely milled shimmer in this but nothing chunky it just helps give the skin a lit from within glow!"
+        },
+        {
+            "review_title": "Must have for a natural glow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Oily skin",
+            "review_text": "With just a little amount, this product gives the most amazing glow! The first use and I was completely amazed. I will be using this product up until my wedding day, and thereafter. This is a must have for that natural summer glow!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "This cream is moisture personified! So luxurious and rich, my favorite consistency in a cream. I especially love using it after my night time skin care where I use a strong retinol to provide that extra boost of moisture. The light reflecting pearl pigments do exactly what they say, but because I am of a darker complexion, it leaves me with an ashy hue. So, I opt for night time application of this product.  All in all, I will continue using it!"
+        },
+        {
+            "review_title": "Beautiful glow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Dr. Barbara Strum Glow Cream is a light and fast absorbing cream. I have mostly dry skin, but heavier creams have made my skin more oily in the past. My skin feels hydrated without getting oily and really glows! My fine lines are much less noticeable. I love that it is fragrance free and also gluten free and cruelty-free. I highly recommend this cream."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I loved this product! Itu2019s lightweight, has minimal fragrance which is great for my acne prone skin, and goes on so smoothly. As soon as I apply it you can tell there is a glow and kind of a filter effect."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "I absolutely love how much more moisturized my skin is after using this! My skin feels so much more supple and smooth and filler which is amazing! I can notice a huge difference in my skin health after using this."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "A glow cream indeed.apart from the price point of this product itu2019s really a great cream. You can splurge on it if you want. I loved and enjoyed the experience of using it and the results it gave me. The glow from within might just make me splurge on another jar"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I absolutely love this product! It feels so rich and smooth, blends into the skin like a dream, and provides my face with a blast of hydration! I struggle with dry skin and my skin has completely transformed since using this product every night. I have also noticed my pores are tighter and smaller, and my skin feels like plump and radiant. I couldnu2019t be more happy with my skin results!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "I am usually not a shimmer type of person but this glow cream has such fine shimmer that I donu2019t mind it at all! However, because of the shimmer, I would only recommend using this during the day for a nice glow. It is hydrating enough for warm weather but I think once it gets colder, I will need something more moisturizing (I have normal to dry skin). It is a nice cream, but the price point is very steep."
+        },
+        {
+            "review_title": "Summertime must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I have been LOVING this. Making my 37 year old skin look like that good good. On days when super dry I add it on top of moisturizer, but normally can wear alone as my moisturizer, illuminator and primer.  Iu2019ve been super happy with it and the look it gives my skin!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, auburn hair, Combination skin",
+            "review_text": "I really wanted to love this face cream! It has a lovely texture, adds a nice glow to the skin, and it doesnu2019t smell bad at all! However, it does pill a lot under makeup (iu2019ve tried multiple different foundations with the same results, unfortunately). Definitely good for no makeup days, though!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "Finally, I've become acquainted with this magical cream! I often saw it on the store shelves, and now it's in my hands, and I'm very happy about it! Because it's incredible! I feel changes after using this cream; my skin has become firmer and glowing, and it only took a small amount to cover my entire face! This jar will last a very long time!  Also, the cream itself is airy and light, which is very important. It has almost no scent, which is great because the fragrance in many other creams used to bother me, but here everything is just perfect! I definitely recommend it! And, of course, I think Iu2019ll be buying a lot more from this brand!"
+        },
+        {
+            "review_title": "a great addition to your skincare routine",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "The Dr. Barbara Sturm Glow Cream is a lightweight moisturizer that adds an instant radiant glow to your skin. It absorbs quickly, hydrates well, and leaves your complexion looking fresh and luminous. Pros: u2022 Lightweight and non-greasy u2022 Provides a noticeable glow u2022 Hydrates effectively Overall, a great addition to your skincare routine for a healthy, glowing look."
+        },
+        {
+            "review_title": "Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I love it, been using during the summer and like how hydrated leaves my skin,  itu2019s very smooth and love that is fragrance free, perfect for sensitive skin, my skin looks so good and absorbs really well! Definitely recommend it!"
+        },
+        {
+            "review_title": "LOVE the glow",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, Fair skin tone, Normal skin",
+            "review_text": "I recently tried Dr. Barbara Sturm's Glow Cream, and it's a game-changer for my skincare routine. This cream delivers an instant, luminous glow without feeling heavy. It's packed with powerful ingredients like purslane and hyaluronic acid, which deeply hydrate and rejuvenate the skin. The texture is lightweight and absorbs quickly, leaving my skin looking radiant and feeling incredibly smooth. Perfect for a natural, healthy-looking glow! Highly recommend it for anyone seeking a luminous complexion."
+        },
+        {
+            "review_title": "Love the glow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Dry skin",
+            "review_text": "I love this glow cream to utilize under my makeup as skin prep. You can immediately see the pearlescent glow as the moisturizer is applied. It gives the illusion of a brighter face and more awake look. I also like that it isnu2019t heavily fragranced and is lightweight. I can definitely tell a difference compared to more lower end options of moisturizers which donu2019t give the same glow. If you want that dewy look before putting on makeup or primer, I highly recommend the glow cream."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair",
+            "review_text": "This is my new favorite moisturizing cream. If you're like me and you love to look glowy, then this is just the right product for you! This glow cream leaves me looking glowy as ever and I love to use it by itself or under my makeup as a glowy base."
+        },
+        {
+            "review_title": "Love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I love this new moisturizer! I used it for a few days and i can see a total new glow on my skin! I love how hydrated and plumped my skin looks. It also has very light reflecting pigments that add an extra flow without being too shimmery. I also love the formula its not greasy! A must try!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This Glow Cream feels amazing on my skin. Itu2019s very easy to apply and a little goes a long way. I will be adding this into my usual skin care routine. It smells really pleasant and my skin looks nice after use"
+        },
+        {
+            "review_title": "The perfect first step in my makeup routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "Love this glow cream! My face feels very hydrated and after a few weeks of use, I can see a positive difference in fine lines and pores. Also, I love that there are light reflecting pearl pigments - it looks great under a glowy makeup look!"
+        },
+        {
+            "review_title": "Glowy & hydrating",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "Wow! So glowy and hydrating. My 2 fave ingredients in face cream hyaluronic acid and rose extract. Itu2019s scent free though. Packaging is nice and comes with safety seal. Itu2019s formulated without all those bad things too!"
+        },
+        {
+            "review_title": "An amazing cream!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Combination skin",
+            "review_text": "This cream is amazing and Iu2019m so shocked that I didnu2019t try this sooner. I am going to get this again because the results are so clear! I feel this helped give me a rosier complexion. The scent is also subtle and not overpowering at all.  "
+        },
+        {
+            "review_title": "Diamond skin u2764ufe0f",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+            "review_text": "Oh my God. I'm crazy about this cream. This is something incredible and something I have never tried before. The first thing that catches your eye is the simple but very beautiful tube that contains the cream. It is a beautiful and matte white box with a beautiful pale pink cream color inside. The cream is very easy and pleasant to apply. It is absorbed instantly and after application the skin becomes even and beautiful in color, thanks to this there is no need for foundation. The skin glows and radiates glow from within. It is used economically and you want it and it smells amazing. It's a waste for us girls."
+        },
+        {
+            "review_title": "I really love this pearly cream",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "This glow cream is one packed with amazing results. A powerful anti-aging luxurious cream that instantly illuminates the skin. Formulated with light-reflecting pearl pigments, this cream gives your complexion a radiant shimmer while smoothing out any imperfections. Hyaluronic Acid deeply hydrates, while potent ingredients like Bistorta Root and Exopolysaccharides work to enhance your skinu2019s natural luminosity. I love this formula it melts right into the skin for a glow that lasts all day!! Say sayonara to tired-looking skin as this gem revitalizes and refines, leaving you with a radiant like never before. Itu2019s skin care formulated to work."
+        },
+        {
+            "review_title": "Instant Glow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Normal skin",
+            "review_text": "I absolutely have been loving this glow cream! I've been applying it in the mornings after cleansing my face. It has such a lightweight texture. It's got a very pretty pearly pink color to it. It literally gives my skin an instant glow! It keeps my skin hydrated without feeling sticky or greasy. I can wear it alone or it works great under my makeup!"
+        },
+        {
+            "review_title": "This cream is a must-try",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "Receiving Dr. Barbara Sturm's Glow Cream as a gift was a true delight. This luxurious cream has quickly become a favorite in my skincare routine. From the first application, I noticed an immediate boost in radiance. The lightweight texture absorbs effortlessly, providing a perfect base for makeup or a natural glow on no-makeup days. Infused with potent anti-aging ingredients and light-reflecting particles, this cream not only hydrates but also enhances the skin's luminosity. Over a few days, my complexion appeared noticeably brighter and more even-toned. The subtle, pleasant scent adds to the overall pampering experience. While it comes with a premium price tag, the results justify the investment. Dr. Barbara Sturm's Glow Cream delivers on its promise of radiant, healthy-looking skin, making it a worthwhile addition to any skincare regimen. If you're seeking an effective glow-enhancing product, this cream is a must-try."
+        },
+        {
+            "review_title": "Just gorgeous!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Normal skin",
+            "review_text": "I think the only way to summarize this product is gorgeous! The texture is beautiful - rich but light and refreshing. It feels really moisturizing, but not so heavy I couldnu2019t use it in warm weather. My skin had been feeling quite dull lately and this left my skin super soft and honestly really renewed and refreshed. I canu2019t wait to keep using it and see what the long term anti aging benefits bring me. If I see results there combined with what a lovely experience it is to use it will absolutely be worth the price tag. I definitely recommend giving it a try if youu2019re thinking about it!"
+        },
+        {
+            "review_title": "The glow is UNREAL",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Normal skin",
+            "review_text": "This is luxury luxury luxury!!! If youu2019re in the market for a LUXURIOUS face cream this is for you! Not only did this moisturizer leave my face feeling so soft, but it also provided a glowing glow that lasted all day. I didnu2019t even have to use primer! Also, a little goes a long way, use a nickel size for the entire face."
+        },
+        {
+            "review_title": "Luxe Skincare",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I was really excited to try this product. It seemed like a luxury product because of the ingredients and the price listed. I was very satisfied with getting to try this brand, product and I like the glow cream. I think itu2019s a great addition to my skin care routine!"
+        },
+        {
+            "review_title": "Worth the price tag",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I've noticed a noticeable improvement in my skin's radiance since incorporating this glow cream into my daily regimen. It delivers a healthy, luminous glow that lasts throughout the day. My complexion looks more even-toned, and fine lines appear softened."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "I had never tried Sturmu2019s products, so this was a nice chance to! The glass container is a great size and feels very luxurious. There is a foil protector that comes off easily if you peel very slowly. The cream is a little thick, but rubs out into a nice, moisturizing layer. A little goes a long way with this product and the shine it gives is spectacular!"
+        },
+        {
+            "review_title": "Like a filter for the skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Combination skin",
+            "review_text": "I wanted not to love this cream because of the price tag, but wow, it is gorgeous! Itu2019s like a filter for the skin. The light reflecting pearl pigments give the skin this amazing glow from within, but it also overall makes your skin look better. When I use this I donu2019t feel the need to wear foundation over top. Will probably save this for special occasions due to the price."
+        },
+        {
+            "review_title": "Luxury in a bottle!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This is such a luxurious cream. The texture is amazing and itu2019s lightweight for me. Thereu2019s a nice faint smell but itu2019s not overpowering. My skin feels instantly hydrated and glowing. I am very impressed! This is pure luxury to use!!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "The glow is real!! I didnu2019t believe the pictures I saw of the glow people were getting from this product but then I tried it for myself and oh my word!!! It is is amazing but I will be savoring it because it is definitely pricey."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
+            "review_text": "This moisturizer gives me an amazing and healthy glow! It is both lightweight and moisturizing and makes my skin look fantastic! Even my fiancu00e9 has been enjoying it and likes the way that it makes his skin feel!"
+        },
+        {
+            "review_title": "Instant glow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "Iu2019ve never tried a product from Barbara sturm but heard great things so I was really excited to try this. I love all things skincare especially creams and moisturizers and this one did not disappoint. There is no fragrance which is great for people with sensitive skin , the cream is a pretty light pink color and looks glowy on the skin, almost a little iridescent. It lays on the skin really nicely and my dry skin instantly looked healthier, hydrated and radiant!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Dry skin",
+            "review_text": "Dr. Barbara Sturm's GLOW CREAM is a luxurious moisturizer that imparts instant radiance and long-term hydration. Infused with Polygonum Bistorta Root, Triple Hyaluronic Acid, and light-reflecting pearl pigments, it smooths, hydrates, and protects for a luminous complexion."
+        },
+        {
+            "review_title": "Long term hydration",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
+            "review_text": "I am very surprised with this product. It leaves my skin a very healthy glow. It's rich, but not too thick. It provides long-term moisturizing and hydrating, the scent is fabulous and the feel as well. Not too heavy but definitely very moisturizing! I put this under my makeup every morning. I would highly recommend it."
+        },
+        {
+            "review_title": "Glowing!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This gives me such a beautiful glow! The pearlescent tint is unlike any other moisturizer I have ever tried. I love all of Dr. Barbara sturm products but this is absolutely my new favorite! Such great texture and quality."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "The Glow Cream by Dr. Barbara Sturm is my favorite moisturizer right now. It is lightweight but hydrating and leaves my skin looking super healthy and glowy! This moisturizer smooths out any wrinkles and fine lines I have and plumps my face immediately."
+        },
+        {
+            "review_title": "Glowing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "What a beautiful glow it gives to your skin! The cream is the perfect blend, not to thick and applied easily. My skin looks and feels so much more hydrated. I look forward to seeing more results with my skin."
+        },
+        {
+            "review_title": "instant glow up",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "This Glow Cream has become my go-to base for makeup and the final step in my nighttime skincare routine. Since I started using it, I wake up with soft, radiant skin. It gives my makeup a glowy finish and makes my face look hydrated and healthy. It instantly brightens my complexion, and on no-makeup days, I use it with a bit of skin tint for a healthy, non-greasy glow."
+        },
+        {
+            "review_title": "A win for glowing skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "The name is real. This cream makes my skin glow! Itu2019s so hydrating, and leaves my skin so dewy! I canu2019t say enough about how good it feels. It feels amazing on my skin, and keeps it hydrated and glowing all day long. I also really like how it smells. Itu2019s pricey, but worth it."
+        },
+        {
+            "review_title": "Great cream",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Combination skin",
+            "review_text": "Since I started using this cream in my daily skincare routine, my skin has looked much better. It has acquired a healthy glow, becoming soft and hydrated. My complexion has become more even. The packaging is matte, cute and simple, which I love because I prefer minimalism. The cream has a powdery, light scent that lingers on my skin for a few minutes, but I like it. I love this cream for its healthy glow and hydration."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+            "review_text": "The Glow Cream by Barbara Sturm is a hydrating and glowing moisturizer. The formula provides dazzling luminousity to the skin, and layers incredibly well with other skincare steps. I absolutely adore this luxurious cream!"
+        },
+        {
+            "review_title": "Gives the glowww",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "This cream is not to thick and blends right into the skin, I donu2019t have to put work for it to evenly blend. Because this product contains Bistorta Root Extract I see much more radiance to my skin when I apply it. I also noticed that because of Triple Hyaluronic Acid my skin is super hydrated. But because it has Light-Reflecting Pearl Pigments I see a beautiful glow to my skin whenever I apply this cream. It feels so luxurious and I love it.  One thing Iu2019m just not a fan of the packaging! The foil seal is super hard to open and when I do I end up losing a lot of product for how expensive this cream is. Thats why I took off a star Besides that I love this cream and the effect it has."
+        },
+        {
+            "review_title": "Great product bad packaging",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Iu2019m an all time Sturm Fan. This cream is made for me I feel! No complaint about the product. The cream doesnu2019t feel Oily which I love. But if you like a mat look this isnu2019t for you. With the money? Sturm is always worth the money. I religiously used sturm products for 3 years, and then stopped. 3 kids life is expensive. And, I noticed the change in my skin as I look back at my old photos itu2019s prominent. So these products do work and they are made of clean ingredients which you can use while pregnant and nursing. So as long as sturm continues with the clean ingredients I will always use their product. You get what you pay for.   The 3 star is for packaging and the amount of product that get wasted on the process of opening the cream. The foil seal on these creams are likeu2026 the bomb. You can never remove it!! I cut my hand open trying to remove the foil seal with a knife, the only way I can open the product.  My only request to Sturm team is please look into making your foil seals a bit more removable friendly? It is too hard to remove and in the process I end up wasting a whole lot of expensive product."
+        }
+    ]
 }

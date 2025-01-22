@@ -1,935 +1,934 @@
 {
-	"product_id": "152",
-	"name": "Flat Iron Hair Straightener with Aloe-Infused Ceramic Plates",
-	"brand": "BondiBoost",
-	"categories": "Hair, Tools, Hair Straighteners & Flat Irons",
-	"price": 160.5,
-	"about": "What it is:A one-inch, aloe-infused flat iron with ceramic-coated tourmaline plates to add shine and reduce frizz while straightening or curling hair..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Fine, Medium, and Thick.Hair Concerns:- Frizz.Key Benefits:- Aloe nourishes hair during styling.What Else You Need to Know:Infused with nourishing aloe, this flat iron makes it so that you no longer have to feel guilty about hitting your hair with heat. Ionic technology reduces frizz and adds shine while ceramic-coated, floating tourmaline plates provide even heat distribution and an easy glide for silky-smooth results.",
-	"ingredients": "",
-	"how_to_use": "Suggested Usage:.For a smooth style:.-Separate hair into small sections..-Smooth flat iron from root to ends...For waves:.-Separate hair into sections..-Smooth flat iron throughout hair, slowly rotating the tool as you move toward the ends. .-Let set, then run fingers through hair to loosen up the waves.",
-	"num_reviews": 132,
-	"overall_rating": 4.9,
-	"product_url": "https://www.sephora.com/ca/en/product/bondi-boost-aloe-infused-flat-iron-P509256?skuId=2717254&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2717254-main-zoom.jpg?imwidth=465",
-	"shades": [
-	],
-	"reviews": [
-		{
-			"review_title": "Staple for straight hair",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Combination skin",
-			"review_text": "First off let me just say I love Bondiboost. This flat Iorn does not disappoint. I tend to have frizzy hair but this flat Iorn calms it when I want to straighten my hair. I will forever be a Bondiboost partner."
-		},
-		{
-			"review_title": "The best",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "This is honestly the best hair straightener i have used ever. it works so good with only one pass through my hair so my hair doesn’t get damaged!"
-		},
-		{
-			"review_title": "Talk About OVERrated",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Medium skin tone, Dry skin",
-			"review_text": "I truly cannot understand the hype about this piece of garbage! I had been feeling unimpressed with my classic GHD iron and decided to give this a try. I used 370° which is a safe temperature and it did nothing for my hair. I have a thick, slightly wavy texture and that is the standard temp I use. Even the plates were kind of sliding back and forth - side to side. What a piece of junk! Stick with reputable brands and don't waste your money on this crap."
-		},
-		{
-			"review_title": "Enjoyed this straigthener!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Fair skin tone, Normal skin",
-			"review_text": "I really liked this straigthener and the temp controls...the reason I took away a star is because I just am more in love with the BondiBoost Airburst Styler straigthener. It is a FAVORITE and I have used it almost daily since Fall 2023."
-		},
-		{
-			"review_title": "Awesome for travel",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I have been using it since August. Came back here to tell you that it works in Europe, too (with the adapter), even though it says here it doesn't. I took it to my vacation in Spain, because I can both straighten my hair extensions and curl them. No need to carry multiple hair stylers on your trip. I also love that it has a display, so I can be sure at which temperature it is operating... I even styled the bangs with it on my synthetic wig."
-		},
-		{
-			"review_title": "Grrreat for frizz",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "Soo good with my hair and super great for frizz!!!"
-		},
-		{
-			"review_title": "Must have for all the girls 👌",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "This is my first straightening iron and I was nervous but it works wonderfully I'm able to straighten all of my hair in about 10 minutes and it looks beautiful and it's so easy to do. It has up and down buttons for the heat control and it heats up super fast. Best part is it glides on hair making me n my hair happy 😊"
-		},
-		{
-			"review_title": "Made my hair shiny!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "This straightener revived my love of having straight hair! It was so easy to use with only a power on/off button and +/- for changing the temperature. Using it was even easier as my hair passed through it easily. This is a huge plus for me as I have both long and thick hair. Most straighteners are more difficult and they don’t make my hair shiny. The ceramic plates made my hair look shiny, and I noticed my hair felt soft (not burnt). Loved using this and will definitely reuse it more!"
-		},
-		{
-			"review_title": "This hair straightener is magical!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Combination skin",
-			"review_text": "This hair straightener is magical! My hair is left shiny and very soft."
-		},
-		{
-			"review_title": "Absolutely love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Love love this straighter. Super easy to use and gives my thin hair such a shiny look. Highly recommend!"
-		},
-		{
-			"review_title": "So Amazing!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I really love this flat iron. Its high tech and quality, with features like the temperature control, and also leaves my hair feeling so shiny and healthy after using it. The aloe really changes the game- I'll use this straightener forever!"
-		},
-		{
-			"review_title": "super sleek and convenient!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Combination skin",
-			"review_text": "this is a lovely straightener! i love the digital temperature so you can see how quickly it’s heating up! super convenient! so sleek too!"
-		},
-		{
-			"review_title": "Very impressed!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Tan skin tone, Combination skin",
-			"review_text": "This flat iron works wonders! My hair has never looked so sleek and shiny. I love that it’s infused with aloe, making the straightening process much gentler on my hair. The ceramic plates glide smoothly and heat up quickly, delivering professional results at home. Perfect for achieving both straight and curled styles. Definitely a must-have!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I love this tool! It is so easy to use and doesn't pull on my hair while I use it. I have thick hair so it usually takes a little bit to straighten my hair but this flat iron is light so my arm doesn't get tired while using it. Can't recommend enough!!"
-		},
-		{
-			"review_title": "Obsessed with this tool!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
-			"review_text": "I am obsessed with this iron! It so stylish and so easy to use. It doesn’t damage my hair, pretty gentle. Lightweight in my hand while I use it, my arm doesn’t get tired. I love straightening and curling my hair with it as well, very versatile and smooth."
-		},
-		{
-			"review_title": "I love this product!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I have been using this product for a few weeks now, and by far it is the BEST for straightning my hair. I am so in love with it, i use it everyday, and will continue to use it as long as I can. It is super reliable"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "I am still learning how to use a flat iron.. This one from BondiBoost is beginner-friendly! What I love the most about it is that strands of hair did not get stuck on the sides of the hot plate.. which was my usual unfortunate experience in the salon.. 😬😪  It did not dry my hair, frizz was gone, and hair is soft🥰.   My hair in the picture is not pin straight but I only set to the lowest and did not run the flat iron to fully dry my hair. I already like it.   This is a great styling tool and easy to use! Thank you BondiBoost 😍"
-		},
-		{
-			"review_title": "Must have product",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Oily skin",
-			"review_text": "This straighter is a must have. It doesn’t pull your hair, hair comes out looking smooth and I love the cover that goes over the top"
-		},
-		{
-			"review_title": "Love the technology!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Dry skin",
-			"review_text": "Finally replacing my high school straightener and SO glad I did! I love how the technology on this is so easy to read and that the buttons are on the inside so you are not accidentally hitting them and changing the temp! I also love that bc its ion tech it heats so quickly and the aloe plates allow it to easily glide through my hair. Love this tool can't say it enough!"
-		},
-		{
-			"review_title": "Smooths my curly hair so well!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "LOVE this straightener! I have 3b/3c curls and while I mostly wear my hair curly, I do like to straighten it every now and then. But, I struggle to get my hair nice and smooth without frizz and poofiness. I was amazed at how sleek this straighter smoothed my hair, and I love that you can easily adjust the temperature. And it heats up so fast!! Highly recommend 🤭"
-		},
-		{
-			"review_title": "Such a great tool!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "Love how smooth it leaves my hair! It’s pretty compact who is a plus for me and also like that you can adjust the temperature. Highly recommend it!"
-		},
-		{
-			"review_title": "A must!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes",
-			"review_text": "Love love this new straightener!! Was very impressed with how it left my hair. Smooth and sleek! After having the same straightener for 10+ years, this was a total upgrade"
-		},
-		{
-			"review_title": "My favorite hair straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "All I can say about this hair straightener it is the Best one I have ever used in my entire Life! It heat up very fast which is a plus for me. It has a digital heating screen which I love. It is light weight and very easy to use. I recommend this to all the ladies with wavy and curly hair."
-		},
-		{
-			"review_title": "MUST HAVE FOR HEALTHIER HAIR",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "The aloe-infused flat iron is perfect for anyone who also struggles with frizzy hair. It usually takes some time for my hair to de-frizz after straightening it, but that problem was avoided with this product. It keeps my hair soft and exactly how I styled it, even in humidity. Not to mention, it is also the perfect travel size, comes with a silicone cover to keep it safe, and heats up quickly. Won’t be using any other flat iron from now on!"
-		},
-		{
-			"review_title": "Best Flat Iron ever!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "I loved it!! I couldn’t wait so I used it as soon as I get it! I normally have a lot of frizz and lots of baby hair from postpartum and this flat iron is AMAZING! You can adjust the temperature as desired and the ceramic plates are infused with aloe, so it makes the end of it very soft and nice!"
-		},
-		{
-			"review_title": "Silky smooth!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I love the BondiBoost Aloe Infused Flat Iron, I couldn’t wait to use it when I got it yesterday! The adjustable heat setting let me choose lower temperature that was safe for my damaged hair and aloe infused plates left my hair soft, shiny and frizz free!!!  This will be by far my new favorite tool!"
-		},
-		{
-			"review_title": "A must-have Flat Iron!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "This product was so amazing and it made my hair less frizzy! The size is also prefect since I travel a lot and I cannot wait to use it!"
-		},
-		{
-			"review_title": "Loving this Flat Iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "After using this product over the past few weeks, I feel the change of my hair, I love the result! my hair has no more frizz and I feel more confident with myself and this chance. Besides I can have my hair without a ponny tail and feel more fresh only with hair down. another point with this iron is the package is so confortable and have your own case protector and I can take on my trips, the size let me to keep on my bag if I want."
-		},
-		{
-			"review_title": "My new favorite!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Combination skin",
-			"review_text": "I absolutely love this straightener! I love that the plates are infused with aloe so I feel like my hair is getting added protection (although it's important to use heat protectant!) My hair is typically super frizzy so this straightener does a great job at combating the frizziness away. I also love how easy it was to curl as well. I would highly recomend this straightener to my friends and family!"
-		},
-		{
-			"review_title": "AMAZING! 10/10",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "WOW! This is my new favorite hair straightener!!! It heats up super fast and doesn’t burn my hair. It leaves my hair super silky, shiny, and straight! You can also try curling it with this straightener and it works as well! Overall 10/10 and highly recommend getting this!!! I’ve recommended it to all my family and friends."
-		},
-		{
-			"review_title": "Must buy!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Absolutely love it! My hair is smooth straight and looks so sleek!"
-		},
-		{
-			"review_title": "My favorite flat iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "This is my absolute favorite hair tool that I have used by far. My hair feels so much smoother and healthier using this flat iron, it feels like it doesn't damage my hair as much as other flat irons. I love Bondi Boost!"
-		},
-		{
-			"review_title": "Get it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Oily skin",
-			"review_text": "Completely obsessed! Makes my hair silky smooth! Highly recommend!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "I love this straightener. It is easy to use, and it does not damage my hair. It works perfectly in my hair routine."
-		},
-		{
-			"review_title": "LIFE CHANGING",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Combination skin",
-			"review_text": "When I first received this, obviously I was excited but I wasn't really expecting anything crazy because flat irons are all the same, right? WRONG! This flat iron cut my 'getting ready' time in HALF this morning! It was like heckin magic. Seriously best and fastest flat iron I've ever used."
-		},
-		{
-			"review_title": "Wavy hair approved!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "Love the temperature settings and how fast it gets hot. I also like that it comes with a silicon sleeve and has a really sturdy plug in cord. I would prefer a locking button for travel but it’s fine with the sleeve. Size is very easy to use, store, and travel with. I have wavy hair and usually my straight hair style will last me max an hour, this time it lasted about 4 days— 10/10!"
-		},
-		{
-			"review_title": "Must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "This product is amazing! It straightens hair very quickly and effectively and leaves the hair extremely smooth with no kinks. Would definitely recommend for all girls routines and hair types!"
-		},
-		{
-			"review_title": "My Go-To Flat Iron for Sleek, Shiny Hair!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "I’ve been using the Bondi Boost flat iron for a few weeks now, and I’m absolutely in love with it! My hair is naturally wavy and prone to frizz, but this straightener works like magic. It heats up quickly, glides smoothly through my hair, and leaves it super sleek and shiny without any damage. I also love how lightweight it is, making it easy to handle, especially when I’m in a rush. If you’re looking for a flat iron that delivers salon-quality results at home, this is the one!"
-		},
-		{
-			"review_title": "Love everything about this!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I switched out my babybliss flat iron for this. It has my hair looking and feeling amazing. I love silky and shiny my hair looks and feels. You can tell it is infused with aloe. It doesn't weigh your hair down. Perfect for straightening or curling. Works on different hair types. All my children and different curly hair I love how it works for all of us. It's definitely a great buy."
-		},
-		{
-			"review_title": "Good quality",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "The Flat Iron Hair Straightener with Aloe-Infused Ceramic Plates is a game-changer for my hair routine. From the first use, I noticed how smoothly it glides through my hair without any pulling or snagging. The aloe infusion is a bonus, leaving my hair feeling softer and healthier after each use. I love that it heats up quickly and maintains a consistent temperature, which makes straightening my hair so much faster. My hair looks sleek, shiny, and frizz-free all day long. It's lightweight, easy to handle, and perfect for everyday use. Highly recommended for anyone looking for a quality flat iron!"
-		},
-		{
-			"review_title": "Nice Find!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "The BondiBoost Aloe Flat Iron is a nice find! It leaves hair softer and shinier thanks to the aloe infusion. It heats up quickly and has adjustable settings, which is handy. If you want a gentle flat iron that works well, it's worth a look!"
-		},
-		{
-			"review_title": "This is more than what I expected",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I feel genuinely lucky to try this bondiboost flat iron, my hair feels so soft and shiny, no more freeze and I feel is gentle with my hair, the technology that this use reduce frizz and is perfect for damage hair like mine, algo is good for do my waves."
-		},
-		{
-			"review_title": "My new daily hair tool",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Normal skin",
-			"review_text": "Great Product. Leaves hair smooth and glossy. I have used this product to both straighten and curl my hair so it is very versatile with styling your hair. Highly recommend this product. Bondi Boost never fails the hair."
-		},
-		{
-			"review_title": "Loving it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I’ve been using this straightener for over a week and I’m loving it! My hair is wavy and has natural frizz that is so hard to tame but I have noticed a decrease in frizz when I use this straightener. I love that the plates are aloe infused which helps to keep my hair healthy!"
-		},
-		{
-			"review_title": "the best discovery for my hair",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Dry skin",
-			"review_text": "Since I started straightening my hair with this product, I keep receiving compliments on how nice and shiny my hair is, it looks super healthy and I love it, definitely the best investment and at a great price."
-		},
-		{
-			"review_title": "Saying goodbye to my high school sweetheart",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Dry skin",
-			"review_text": "Okay not to be completely dramatic but after using the same Chi since high school, I'm now 33 mind you lol, I gave the aloe infused flat iron by Bondi a shot and the results were jarring!!!! I love that you can moderate the heat temperature as I prefer to use less heat and it straightened my hair so quick and fast and beautifully. The iron did not snag or feel as if it was tugging or rough on my hair and left a beautiful subtle shine. After 18 years I'm finally breaking up with my Chi for my newfound obsession in this Bondi Boost iron ◡̈"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "It doesn't feel like it's damaging your hair like other straightening irons, it feels like its making it so smooth and silky while keeping it healthy. I also LOVE that the heat automatically turns off after 45 minutes, cures any anxiety I have about that"
-		},
-		{
-			"review_title": "ABSOLUTE GAME CHANGER",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Combination skin",
-			"review_text": "I can not say enough amazing things about this product. The way it straightens my hair in one single motion through my hair is incredible. Also so easy to curl my hair with as well so its like a two in one. Buying for everyone in my life"
-		},
-		{
-			"review_title": "A Must!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "Have been using this BondiBoost flat iron for 3 weeks now and I'm LOVING it, hair frizz doesnt exist anymore and material is amazing for your hair care"
-		},
-		{
-			"review_title": "A must have in your hair routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Combination skin",
-			"review_text": "After using this straightener I can’t ever go back to anything other my Aloe infused flatiron my hair is so thin and most flat irons would either burn it or damage but omg the BondiBoost flat iron has me speechless it left my hair straight, feeling so soft and healthy for 4 days it has never felt to amazing you can tell the quality of the product was made by the hair gurus it took less then 10 min to straightened my hair I am in love , if you had one thing to buy that is worth everything single dollar is this BondiBoost it’s the only hot tool you’ll ever invest your money in and ever need I 10/10 would recommend it to everyone who wants healthy sleek shiny hair for days ."
-		},
-		{
-			"review_title": "Love this product it’s a must have!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Normal skin",
-			"review_text": "This has helped keep my hair smooth and shiny. This product doesn’t burn my hair even though I straighten my hair every day it keeps my hair looking healthy:)) really happy with the results."
-		},
-		{
-			"review_title": "LOVE IT",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Oily skin",
-			"review_text": "Absolutely LOVE this product!! Worked so nicely!!!"
-		},
-		{
-			"review_title": "My fav straight iron!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Normal skin",
-			"review_text": "I was super excited to use this straightener! First off, it’s just pretty and also has a very cool silicone like cover so when you’re done using it, the iron can be safely stored or left on your counter top.   Now let’s get into styling. This iron went through my hair like butter! My hair looked so smooth and shiny too!"
-		},
-		{
-			"review_title": "Only Straightener for Me",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "Love this straightener so much! Makes my hair so silky soft and look so so shiny!"
-		},
-		{
-			"review_title": "A MUST HAVE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "This has helped keep my hair smooth and shiny. It doesn’t pull your hair it glides right through! I am for sure buying more things!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Tan skin tone, Combination skin",
-			"review_text": "Absolutely love this product! It works great in my hair leaving it feeling good and healthy after using heat."
-		},
-		{
-			"review_title": "Worth your money!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
-			"review_text": "After I have been using the tool and honestly it’s been such a game changer! I don’t have to go through with it so many times, once does the job."
-		},
-		{
-			"review_title": "Must-have flat Iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Dry skin",
-			"review_text": "This flat iron worked miracles. I loved how it made me hair sleek and smooth as a finishing touch. I would definitely recommend buying this product as it promotes healthier looking hair! Overall, this was a 10/10 product and my ultimate favorite straightener!"
-		},
-		{
-			"review_title": "A wavy hair must have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "Keeps my naturally wavy and frizzy hair silky smooth! Also glides well to create straightener curls."
-		},
-		{
-			"review_title": "Must have for the summer!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Normal skin",
-			"review_text": "This flat iron hair is the best flat iron i have ever used my hair always looks silky when i use it it is to die for."
-		},
-		{
-			"review_title": "My new fav!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Have been looking for a flat iron that wouldn’t break the bank but also not fry my hair and I’ve found it! My hair is think and curly and with other products I would have to go over one strand multiple times, but not with this one it’s amazing, great results, doesn’t damage hair as much because of the aloe infused plates and leaves hair feeling sleek, shiny and healthy."
-		},
-		{
-			"review_title": "GAMECHANGER!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Normal skin",
-			"review_text": "Obsessed with this!! I feel like my biggest problem with straighteners in the past has been my hair always feels so dry, frizzy, and almost like burnt afterward. But I think the Aloe infused in this must make a huge difference because my hair actually feels healthy after using this to straighten it! Love it!"
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "After using this product I am OBSESSED!!! My hair feels so smooth and looks so sleek! This will for sure be replacing my old straightener . Its prefect design allows it to not tip over on your counter.  It is perfect size for traveling and easy to wrap up . It also comes with a great silicone sleeve to put it in when done .   It got up to temperature so fast I was shocked"
-		},
-		{
-			"review_title": "BEST Hair Straightener on the Market.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "After using this product only two times I seriously have never used a better straightener in my life. I have very curly and frizzy hair and as a current college student I am always styling it. This iron doesn't leave your hair looking fried or dead and also straightens with just one pass, when normally my hair type takes 3 or 4. Additionally this straighten has held much better throughout the night and follow day. I 100% recommend this to anyone. I got so many compliments on my hair the first day I used this."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Normal skin",
-			"review_text": "I’m not usually the best with change & have been using the same straightener for many many years except it was time for a new one so i said goodbye & hello to Bondi! I couldn’t be happier to be using the Aloe Infused BondiBoost now!! It leaves my hair looking so silky & smooth. There’s many temp settings which is nice. I love the sleek look of it (i love white) and I really like the protectant cover to put back on after use!!"
-		},
-		{
-			"review_title": "Best Flat Iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Combination skin",
-			"review_text": "I love this straight iron, it protects my hair from getting fried as I have wavy curly hair and thick.  Use it with a heat protectant.  I would recommend to everyone!"
-		},
-		{
-			"review_title": "Obsessed with this FLAT IRON!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I’ve found my new hair BFF: the Aloe-Infused Flat Iron. I have baby fine hair and this flat iron is a game changer! 🌿 It’s got aloe powder blended into the plates, so every swipe leaves my hair shiny, smooth, and frizz-free—like a mini spa treatment for my strands! Plus, with its ionic technology and ceramic-coated tourmaline plates, it glides through my hair effortlessly and evenly distributes heat. I used to worry about heat damage, but now my hair looks sleek and can handle anything, even humidity. Totally obsessed!"
-		},
-		{
-			"review_title": "My new favourite hair straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I love this straightener it has a wide range of temperature settings and it leaves the hair super straight & it also holds curls if you curl your hair with a straightener."
-		},
-		{
-			"review_title": "My New Favorite Hair Tool!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Dry skin",
-			"review_text": "This flat iron is SO nice! It has a wide range of temperature settings, doesn’t pull my hair, heats up so quickly, and leaves my hair shiny and straight all day! I’m obsessed!"
-		},
-		{
-			"review_title": "Best hair straightener!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "I love this hair straightener! It heats up so fast and make my hair so soft and silky. My new go to hair straightener."
-		},
-		{
-			"review_title": "Amazing!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "This product is absolutely wonderful!! If you’re looking for a new straighter, this is the one!! I would recommend to anyoneeee. Love, love, love this!"
-		},
-		{
-			"review_title": "Top notch Hair straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Combination skin",
-			"review_text": "I was on the hunt for a new straightener and this one I had to try based off reviews and once again BondiBoost did not disappoint! I love how straight my hair gets whether it’s the full head or just a few strands I need to fix and I feel no damage at all! This is a must have"
-		},
-		{
-			"review_title": "The BondiBoost Flat Iron Hair Straightener is fant",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Normal skin",
-			"review_text": "The silicone cover is a great storage feature I was expecting to use, and the buttons being inside are a smart design—I never accidentally change the settings while styling. The aloe-infused ceramic plates leaves my hair sleek and shiny. Highly recommend!"
-		},
-		{
-			"review_title": "A must-have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I loved using this straightener. Ever since I got my Dyson, I can't remember the last time I used a straightener but this was amazing! My hair didn't feel damaged and its stayed straight for days!"
-		},
-		{
-			"review_title": "Must buy!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
-			"review_text": "My hair has never stayed so straight!!! I am so completely obsessed. Doesn’t feel damaged at all."
-		},
-		{
-			"review_title": "Not for me",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Oily skin",
-			"review_text": "Honesty I had higher hopes for this flat iron. I have fine curly frizzy hair and I had to put the heat to 360+ degrees for my hair to get semi smooth. Over all not impressed and will be returning."
-		},
-		{
-			"review_title": "10/10!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "I absolutely love this straightener! I bought it to add waves to my shorter hair and it is perfect. heats up super quickly, smooth, and feels high quality. it works way better than a curling iron for making waves for me, I'm so happy with it!! no complaints here 👌"
-		},
-		{
-			"review_title": "It’s okay",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "I bought this straightener after reading all the reviews and knowing that it wouldn’t break the bank. Although it does the job, I believe it’s not a saving grace like everyone raved about. The cons I have are that it gets hot easily, smells of burning and I still have frizz after. Other than that - it does the job."
-		},
-		{
-			"review_title": "Excellent!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I have fine, frizzy hair and a lot of it. This flat iron is amazing. It heats up quickly, does not pull my hair out or leave a burning smell, and has a sleeve to insert the flat iron into. I highly recommend!"
-		},
-		{
-			"review_title": "Super Flat Iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I chose the BondiBoost flat iron after reading the positive reviews. After using it for several weeks I can say that I am very pleased with this purchase. I recommend it to those looking for a flat iron that works really well."
-		},
-		{
-			"review_title": "If you’re searching for a good straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I haven’t had a straightener in years and was on the hunt for the perfect one. After reading many reviews I am glad this is the one I ended up purchasing. Def the best hair straightener I’ve used"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "A great straightener.  I have long curly hair and this works great .  Really like this and a fairly good price point too."
-		},
-		{
-			"review_title": "Overhyped.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "Overhyped. I wanted to try a new straightener and the reviews were perfect everywhere the straightener is listed. It does what any average straightener does. My hair did not feel any difference comparable to other straighteners. I had high hopes because of the ceramic plates and it being “aloe-infused”."
-		},
-		{
-			"review_title": "Helps with Frizz!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "This straightener is the best I've ever had from the moment I opened the box. I usually have to warm up to a straightener, but this feels professional, doesn't pull and best of all....I live in TX and while our humidity is just starting, it seems to be keeping the frizz down a decent amount. My past straighteners have never helped with it at all (and I spent big money on the Dyson straightener last time). If you are in the market for a new straightener, definitely consider this one."
-		},
-		{
-			"review_title": "Fantastic flat iron!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "I love this straightener. I have very fine hair that's prone to frizz. The plates glide effortlessly and it heats up quick! I use it at a pretty low temperature, 240° and my hair looks smooth and shiny and feels very soft. I doubt the Aloe-Infused plates have anything to do with it as it sounds like a gimmick, but this flat iron is the best I've tried."
-		},
-		{
-			"review_title": "Great Hair Straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Oily skin",
-			"review_text": "I’ve been searching for a replacement for my current hair straightener for well over a year. After trying different hair straighteners from Sephora (including the CHI), I think my search if finally over. This one checks off all the boxes for me - affordable price (especially when on sale), feels high quality in the hand, hair glides on the plates, heats up quickly, looks beautiful. I truly don’t have any qualms with it. Very happy I was able to clinch one before it sold out!"
-		},
-		{
-			"review_title": "Affordable Success",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Light skin tone, Dry skin",
-			"review_text": "During the last sale I tried 2 different hair straighteners with no success. Even expensive options just did not really wow me. This product, low profile & great price point, has met my needs. The most remarkable thing about this iron is the speed at which it heats up. In a matter of maybe 2 minutes it’s hot & ready to go. Multiple levels of heat make it easy to adjust. Results will speak for themselves."
-		},
-		{
-			"review_title": "Best straightener I have ever owned!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "This straightener is absolutely amazing! It left my hair so soft and full of shine! I previously had the GHD Platinum, and I thought it was really good, but this is WAY BETTER! I ABSOLUTELY LOVE IT! My hair is medium thick and has a wave to it and this makes it nice and smooth straight! I would highly recommend! No wonder it is always out of stock!   I have also tried to T3, CHI, GHD, DRYBAR, AVANTI and this one destroys them all!"
-		},
-		{
-			"review_title": "Highly recommend",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I am so in love with this flat iron. It straightens my hair with two passes at the most. I’ve tried almost  every high end straightener and this one is by far the best. I am so happy with my purchase."
-		},
-		{
-			"review_title": "Easy to use",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Dry skin",
-			"review_text": "This is a fabulous hair straightener! The aloe infused plates add shine and are so smooth. My hair is naturally straight and fine, but it is nice to touch it up to keep it straight without flyaways. I’m still working on making it curl with the straightener… I’m need more practice! Highly recommend this tool and BondiBoost is the best! I love all of their products and this one won’t disappoint either!"
-		},
-		{
-			"review_title": "Hello sleek hair!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "If you want silky smooth straightener, then look no further! This straightener not only looks beautiful displayed in the bathroom, it gives you the straightest and shiniest hair you could imagine! Love it so much!"
-		},
-		{
-			"review_title": "Must have !!!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "I love this hair straightener, I have the most frizzy hair that exist, and with this hair straightener with one pass the frizz was gone. I really really recommend this product. the aloe infused really help my hair it left it was super silky.  and silky. Really really really recommend this pross baby"
-		},
-		{
-			"review_title": "Aloe infused plates makes hair smooth and shiny !",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Dry skin",
-			"review_text": "This is a cutting edge uniquely designed flat iron. I don’t flat iron my hair much, but I will be from now on . I am amazed at how much shine this gave my hair and my style lasted for several days. The aloe infused plates nourish the hair and add shine . I love that this flat iron has a 360 degree swivel cord, a very quick heat up and automatic shutoff. Bondi Boost, you’ve done it again !"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "The first thing that I noticed about this is how lightweight it is and how easy it was to hold. I suffer from bad arthritis in my dominant thumb and this is huge for me! Heats up super fast, and left my hair much smoother than my previous flat iron. Super smooth, no snagging."
-		},
-		{
-			"review_title": "Wow",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "I love this Flat Iron , as it saves time and is super light weight . The design of it is so pretty and of course I want show all my friends how quickly it heats up . My hair has never looked so smooth and somehow I’m much more confident in public, I absolutely love it. I would highly recommend this product."
-		},
-		{
-			"review_title": "A must-have in my hair routine!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
-			"review_text": "BondiBoost’s aloe-infused flat iron has become a staple in my hair routine!! Whether I want my hair pin straight or curled, this flat iron does both - and the best part is it doesn’t damage my hair like other flat irons because of the aloe-infused plates. My hair looks so silky afterwards and I will not be using any other flat iron anymore!"
-		},
-		{
-			"review_title": "Post Gym Hair Care Must Have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Oily skin",
-			"review_text": "I absolutely love this flat iron! It doesn't smoke out my hair and it's the perfect tool to add to my post gym haircare routine!"
-		},
-		{
-			"review_title": "Love it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I loved this flat iron! It heated up super quick. It came with a silicon top for the flat iron which I thought was super cool. It didn’t pull my hair or anything. Made everything super smooth!"
-		},
-		{
-			"review_title": "Perfect for your hair!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Normal skin",
-			"review_text": "I absolutely love this hair straightener because it leaves my hair smooth and lost lasting when I curl it. I love that it heats up fast and it comes with it’s protector . I love that it is lightweight and its color.  I would rrr"
-		},
-		{
-			"review_title": "I am absolutely in love with this flat iron!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
-			"review_text": "It has a temperature setting with a large range, which is very important to me. The cable is long enough to be comfortable to use. Leaves hair extremely shiny and soft. There is no feeling of dry, burnt, damaged hair, but it looks very healthy and well-groomed. Definitely a great choice! I also really like the protective rubber so I don't have to worry about damaging the surface I drop it on. The design is very nice, the final edges are excellent, rounded and do not pull the hair at all. I am very satisfied!"
-		},
-		{
-			"review_title": "So shiny",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, Tan skin tone, Combination skin",
-			"review_text": "Such an amazing straightener! Leaves your hair so shiny and smooth in contrast to other straighteners that leave your hair looking dull and feeling damaged"
-		},
-		{
-			"review_title": "Amazing!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "The first thing I did when I received it was to use it all at once and I loved the result, it left my hair smooth and shiny. Highly recommended!"
-		},
-		{
-			"review_title": "BEST FLAT IRON EVER!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Normal skin",
-			"review_text": "BEST FLAT IRON I’ve ever owned. Leaves my hair so silky with only one pass. Could not recommend more"
-		},
-		{
-			"review_title": "My top choice for shiny & healthy hair",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Oily skin",
-			"review_text": "I took an 8-month break from flat irons, and Bondi Boost's Aloe-Infused Flat Iron was my first choice back. It's a game-changer! My hair has never looked this shiny and healthy after using a straightener. The Aloe feature really works on frizz. It's so easy to use, no guilt, just sleek hair vibes! I also love the swivel cord, it makes the process so satisfying. Works like a charm on my frizz hair. I highly recommend it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair",
-			"review_text": "I just received this straightener and have been using it ever since! Because the straightener is infused with aloe it glides right through your hair and makes it straight without being frizzy!  reccomend th"
-		},
-		{
-			"review_title": "Must have!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, black hair, notSure skin tone, Oily skin",
-			"review_text": "This flat iron is a game-changer! It not only straightens hair flawlessly but also leaves it feeling incredibly smooth and nourished. It's a must-have for anyone seeking salon-quality results at home."
-		},
-		{
-			"review_title": "Perfect!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I absolutely love this straightener and the way it glides through my hair!"
-		},
-		{
-			"review_title": "A mustttt!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair",
-			"review_text": "I recently have tried this product and it is super amazing it has helped my first come down so much I totally recommend this product. It is the best flat iron I have ever had. Especially since it has aloe in it!!!"
-		},
-		{
-			"review_title": "My New Favorite Straightener",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
-			"review_text": "This flatiron is amazing. My hair is so silky and shiny after using it. Very easy to use and recommend this to all of my friends !"
-		},
-		{
-			"review_title": "Love this Flat Iron!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "After trying out the new Aloe-infused flat iron, I fell in love with it! After one pass my hair is straight and smooth and does not leave my hair feeling dry or frizzy. The quality of the flat iron is also very nice and it took my hair care routine to the next level! In the future, I will for sure be purchasing more products from Bondi Boost!"
-		},
-		{
-			"review_title": "Need this product in your life!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "I recently tried this product and it's been amazing. Not only does it leave my hair smooth but it also reduces frizz. It's really gentle on my hair and would definitely recommend!!!"
-		},
-		{
-			"review_title": "BondiBoost Flat Iron for the Win!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I used my straightener for the first time today and just wow! It was so easy to use, it left my hair so shiny, and it did not snag my hair at all. This is literally the smoothest flat iron I have ever owned. Well done BondiBoost!"
-		},
-		{
-			"review_title": "Love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "I love this straightening iron! The aloe helps reduce frizz and makes my hair so smooth! Doesn't pull the hair at all and does a great job at straightening!"
-		},
-		{
-			"review_title": "MY NEW FAVORITE STRAIGHTENER!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "This is my favorite new straightner!! I love my results. It heats up really fast. It is definitely worth the price! I love the results it gives me and I use it everyday!!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "A main concern with heat tools is damaged hair. I just received this product and tested it out and love the results after the first use. It was easy to use. My hair was shiny and healthy looking. I have wavy and frizzy hair. The Bondi post straightener helped my hair look more healthier and sleek."
-		},
-		{
-			"review_title": "Love it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "I love how this straighener leaves my hair, this is a MUST HAVE ! 💕"
-		},
-		{
-			"review_title": "EVERYDAY GAME CHANGER",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "I am loving this product I just received it and it is amazing. It is aloe infused so you will have less hair damage and goes up to 480° which means your hair will be straight in the best way possible GET  THIS!"
-		},
-		{
-			"review_title": "An everyday straighter!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, mediumTan skin tone, Combination skin",
-			"review_text": "I received the Bondi Boost Alo-Inflused Flat Iron a I love it! It makes my hair feel extra smooth and healthy! This flat iron doesn’t leave my hair feeling dry, it gives my hair the shine and feel I love!  would high"
-		},
-		{
-			"review_title": "This hair straightener is a new FAV",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "This hair straightener is a NEED it glides through your hair so smoothly and left my hair feeling soft and NOT dry! It’s definitely worth the money"
-		},
-		{
-			"review_title": "Straightener Game Changer!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I use a straightener on a daily basis so I was super excited to try this out and it did not disappoint! It really does glide on your hair, more than any other straightener that I've tried. The shine after using is great, I didn't even add any finishing products after my first use and my hair looked so silky and shiny. I especially like to use my straightener to put curls/waves into my hair and this works great, I can slide it down my hair length in one movement without any pulling. Even though I have naturally straight hair, I do sometimes like to still run a straightener through to smooth it out or put a little flip at the ends. This one tool does all of that! The super fast heat-up is great, sometimes you need a quick touchup and don't have time to wait for the tool to fully heat up. I like that the buttons are on the inside so that I don't accidently shut it off or change the temp. And the variable temperature control means I can use this on my real hair or even to touchup wigs for cosplay events and not damage them. I'm so happy to add this to my hair toolbox, I feel like it's going to speed up my morning routine! One of the photos is after I used it for waves and the second is after I straightened the waves."
-		},
-		{
-			"review_title": "Must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "This product is absolutely amazing it presses my hair so well and keeps my curls tight it’s an amazing product and I totally recommend"
-		},
-		{
-			"review_title": "Everyone needs this",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
-			"review_text": "As a mother of 4 my me time is very limited and this beautiful gem knew that! Lol seriously tho, it only took about 15 mins to straighten my crazy dry frizzy hair and made it looks so freakin shiny and feel so soft!! I’m in LOVE with this!!! All I used was the heat protector spray and I didn’t even have to go over any strands a second time. It’s a slim beautiful straightener that gets the job done. I love this!!! I added my photos, ignore the dead ends please lol"
-		},
-		{
-			"review_title": "Amazing! Love this Flat Iron",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "Goodbye, frizz .. Hello straight Shiny hair! Best flat iron I ever used. Heats up fast. Glide through the hair so smoothly. You can also curl your hair with it, and it doesn't snag the hair. BondiBoost got it right with this one! I 100% recommend it."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
-			"review_text": "It smooths, it glides, it doesn’t tug! What more can you want? This is my new go to straightener. It keeps my hair silky smooth with the added benefit of aloe! Just buy it, you won’t regret it!"
-		},
-		{
-			"review_title": "Amazingggg new product",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Normal skin",
-			"review_text": "Instantly fell in love with this one. I have thick coarse hair and lots of it. I can straighten my hair in just 5 minutes . 10/10 for sure"
-		},
-		{
-			"review_title": "I'm in love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "I am in love with this straightener. It glides through my hair so effortlessly and gives my hair a flawless, sleek look. I used to avoid flat irons because they always felt like they were break my hair shafts with every pass."
-		},
-		{
-			"review_title": "the best flat iron ive used so far!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Light skin tone, Normal skin",
-			"review_text": "This is a great straightener.  It glided through my hair with ease.  It didn't make it flat or greasy looking like others have in the past.  2 days later my hair is still sleek and didn't refriz like it usually does.    Its lightweight, has a variety of temperature settings and a rubber cap to keep it closed and safe when not in use."
-		},
-		{
-			"review_title": "Glides through hair like butter , amazing aloe!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Absolutely LOVE this tool!! It made my hair so soft and super shiny! No frizz! It glides through hair like butter and also creates some really fun curls along with making hair sleek. So the options are great! Love the silicone cap that come with it, makes for easier storage. Shuts off after 45 minutes, so definitely another great feature for those busy, hectic days! I give it a thumbs up and it is among my favorite tools for sure!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "blonde hair",
-			"review_text": "Needed to replace my super old straighter from high school (literally have had it forever) and saw an influencer raving about this one. She got a straight blowout look and her layers looked AMAZING. Tried myself and it worked great! Definitely worth the price -- cheaper than going to the salon!"
-		},
-		{
-			"review_title": "This flat iron was a game changer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
-			"review_text": "I have long, straight as a pin hair and let me tell you, this flat iron gave me shiny and silky curls that lasted for days. It is beautifully designed and it is so easy to use. It glides through your hair smoothly, makes your hair real shiny, and gets rid of frizzies. My hair has never looked better and I love it!!!"
-		},
-		{
-			"review_title": "Gotta have it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Fair skin tone, Dry skin",
-			"review_text": "Love this product! It's so pretty and easy to use. It does a cute beeping sound when it turns on and you can set the temp to anything you want. It also straightens well."
-		}
-	]
+    "product_id": "152",
+    "name": "Flat Iron Hair Straightener with Aloe-Infused Ceramic Plates",
+    "brand": "BondiBoost",
+    "categories": "Hair, Tools, Hair Straighteners & Flat Irons",
+    "price": 160.5,
+    "about": "What it is:A one-inch, aloe-infused flat iron with ceramic-coated tourmaline plates to add shine and reduce frizz while straightening or curling hair..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Fine, Medium, and Thick.Hair Concerns:- Frizz.Key Benefits:- Aloe nourishes hair during styling.What Else You Need to Know:Infused with nourishing aloe, this flat iron makes it so that you no longer have to feel guilty about hitting your hair with heat. Ionic technology reduces frizz and adds shine while ceramic-coated, floating tourmaline plates provide even heat distribution and an easy glide for silky-smooth results.",
+    "ingredients": "",
+    "how_to_use": "Suggested Usage:.For a smooth style:.-Separate hair into small sections..-Smooth flat iron from root to ends...For waves:.-Separate hair into sections..-Smooth flat iron throughout hair, slowly rotating the tool as you move toward the ends. .-Let set, then run fingers through hair to loosen up the waves.",
+    "num_reviews": 132,
+    "overall_rating": 4.9,
+    "product_url": "https://www.sephora.com/ca/en/product/bondi-boost-aloe-infused-flat-iron-P509256?skuId=2717254&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2717254-main-zoom.jpg?imwidth=465",
+    "shades": [],
+    "reviews": [
+        {
+            "review_title": "Staple for straight hair",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Combination skin",
+            "review_text": "First off let me just say I love Bondiboost. This flat Iorn does not disappoint. I tend to have frizzy hair but this flat Iorn calms it when I want to straighten my hair. I will forever be a Bondiboost partner."
+        },
+        {
+            "review_title": "The best",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "This is honestly the best hair straightener i have used ever. it works so good with only one pass through my hair so my hair doesnu2019t get damaged!"
+        },
+        {
+            "review_title": "Talk About OVERrated",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Medium skin tone, Dry skin",
+            "review_text": "I truly cannot understand the hype about this piece of garbage! I had been feeling unimpressed with my classic GHD iron and decided to give this a try. I used 370u00b0 which is a safe temperature and it did nothing for my hair. I have a thick, slightly wavy texture and that is the standard temp I use. Even the plates were kind of sliding back and forth - side to side. What a piece of junk! Stick with reputable brands and don't waste your money on this crap."
+        },
+        {
+            "review_title": "Enjoyed this straigthener!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Fair skin tone, Normal skin",
+            "review_text": "I really liked this straigthener and the temp controls...the reason I took away a star is because I just am more in love with the BondiBoost Airburst Styler straigthener. It is a FAVORITE and I have used it almost daily since Fall 2023."
+        },
+        {
+            "review_title": "Awesome for travel",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I have been using it since August. Came back here to tell you that it works in Europe, too (with the adapter), even though it says here it doesn't. I took it to my vacation in Spain, because I can both straighten my hair extensions and curl them. No need to carry multiple hair stylers on your trip. I also love that it has a display, so I can be sure at which temperature it is operating... I even styled the bangs with it on my synthetic wig."
+        },
+        {
+            "review_title": "Grrreat for frizz",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Soo good with my hair and super great for frizz!!!"
+        },
+        {
+            "review_title": "Must have for all the girls ud83dudc4c",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "This is my first straightening iron and I was nervous but it works wonderfully I'm able to straighten all of my hair in about 10 minutes and it looks beautiful and it's so easy to do. It has up and down buttons for the heat control and it heats up super fast. Best part is it glides on hair making me n my hair happy ud83dude0a"
+        },
+        {
+            "review_title": "Made my hair shiny!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This straightener revived my love of having straight hair! It was so easy to use with only a power on/off button and +/- for changing the temperature. Using it was even easier as my hair passed through it easily. This is a huge plus for me as I have both long and thick hair. Most straighteners are more difficult and they donu2019t make my hair shiny. The ceramic plates made my hair look shiny, and I noticed my hair felt soft (not burnt). Loved using this and will definitely reuse it more!"
+        },
+        {
+            "review_title": "This hair straightener is magical!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+            "review_text": "This hair straightener is magical! My hair is left shiny and very soft."
+        },
+        {
+            "review_title": "Absolutely love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Love love this straighter. Super easy to use and gives my thin hair such a shiny look. Highly recommend!"
+        },
+        {
+            "review_title": "So Amazing!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I really love this flat iron. Its high tech and quality, with features like the temperature control, and also leaves my hair feeling so shiny and healthy after using it. The aloe really changes the game- I'll use this straightener forever!"
+        },
+        {
+            "review_title": "super sleek and convenient!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Combination skin",
+            "review_text": "this is a lovely straightener! i love the digital temperature so you can see how quickly itu2019s heating up! super convenient! so sleek too!"
+        },
+        {
+            "review_title": "Very impressed!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Tan skin tone, Combination skin",
+            "review_text": "This flat iron works wonders! My hair has never looked so sleek and shiny. I love that itu2019s infused with aloe, making the straightening process much gentler on my hair. The ceramic plates glide smoothly and heat up quickly, delivering professional results at home. Perfect for achieving both straight and curled styles. Definitely a must-have!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I love this tool! It is so easy to use and doesn't pull on my hair while I use it. I have thick hair so it usually takes a little bit to straighten my hair but this flat iron is light so my arm doesn't get tired while using it. Can't recommend enough!!"
+        },
+        {
+            "review_title": "Obsessed with this tool!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
+            "review_text": "I am obsessed with this iron! It so stylish and so easy to use. It doesnu2019t damage my hair, pretty gentle. Lightweight in my hand while I use it, my arm doesnu2019t get tired. I love straightening and curling my hair with it as well, very versatile and smooth."
+        },
+        {
+            "review_title": "I love this product!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I have been using this product for a few weeks now, and by far it is the BEST for straightning my hair. I am so in love with it, i use it everyday, and will continue to use it as long as I can. It is super reliable"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "I am still learning how to use a flat iron.. This one from BondiBoost is beginner-friendly! What I love the most about it is that strands of hair did not get stuck on the sides of the hot plate.. which was my usual unfortunate experience in the salon.. ud83dude2cud83dude2a  It did not dry my hair, frizz was gone, and hair is softud83eudd70.   My hair in the picture is not pin straight but I only set to the lowest and did not run the flat iron to fully dry my hair. I already like it.   This is a great styling tool and easy to use! Thank you BondiBoost ud83dude0d"
+        },
+        {
+            "review_title": "Must have product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Oily skin",
+            "review_text": "This straighter is a must have. It doesnu2019t pull your hair, hair comes out looking smooth and I love the cover that goes over the top"
+        },
+        {
+            "review_title": "Love the technology!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Dry skin",
+            "review_text": "Finally replacing my high school straightener and SO glad I did! I love how the technology on this is so easy to read and that the buttons are on the inside so you are not accidentally hitting them and changing the temp! I also love that bc its ion tech it heats so quickly and the aloe plates allow it to easily glide through my hair. Love this tool can't say it enough!"
+        },
+        {
+            "review_title": "Smooths my curly hair so well!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "LOVE this straightener! I have 3b/3c curls and while I mostly wear my hair curly, I do like to straighten it every now and then. But, I struggle to get my hair nice and smooth without frizz and poofiness. I was amazed at how sleek this straighter smoothed my hair, and I love that you can easily adjust the temperature. And it heats up so fast!! Highly recommend ud83eudd2d"
+        },
+        {
+            "review_title": "Such a great tool!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "Love how smooth it leaves my hair! Itu2019s pretty compact who is a plus for me and also like that you can adjust the temperature. Highly recommend it!"
+        },
+        {
+            "review_title": "A must!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes",
+            "review_text": "Love love this new straightener!! Was very impressed with how it left my hair. Smooth and sleek! After having the same straightener for 10+ years, this was a total upgrade"
+        },
+        {
+            "review_title": "My favorite hair straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "All I can say about this hair straightener it is the Best one I have ever used in my entire Life! It heat up very fast which is a plus for me. It has a digital heating screen which I love. It is light weight and very easy to use. I recommend this to all the ladies with wavy and curly hair."
+        },
+        {
+            "review_title": "MUST HAVE FOR HEALTHIER HAIR",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "The aloe-infused flat iron is perfect for anyone who also struggles with frizzy hair. It usually takes some time for my hair to de-frizz after straightening it, but that problem was avoided with this product. It keeps my hair soft and exactly how I styled it, even in humidity. Not to mention, it is also the perfect travel size, comes with a silicone cover to keep it safe, and heats up quickly. Wonu2019t be using any other flat iron from now on!"
+        },
+        {
+            "review_title": "Best Flat Iron ever!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "I loved it!! I couldnu2019t wait so I used it as soon as I get it! I normally have a lot of frizz and lots of baby hair from postpartum and this flat iron is AMAZING! You can adjust the temperature as desired and the ceramic plates are infused with aloe, so it makes the end of it very soft and nice!"
+        },
+        {
+            "review_title": "Silky smooth!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I love the BondiBoost Aloe Infused Flat Iron, I couldnu2019t wait to use it when I got it yesterday! The adjustable heat setting let me choose lower temperature that was safe for my damaged hair and aloe infused plates left my hair soft, shiny and frizz free!!!  This will be by far my new favorite tool!"
+        },
+        {
+            "review_title": "A must-have Flat Iron!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "This product was so amazing and it made my hair less frizzy! The size is also prefect since I travel a lot and I cannot wait to use it!"
+        },
+        {
+            "review_title": "Loving this Flat Iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "After using this product over the past few weeks, I feel the change of my hair, I love the result! my hair has no more frizz and I feel more confident with myself and this chance. Besides I can have my hair without a ponny tail and feel more fresh only with hair down. another point with this iron is the package is so confortable and have your own case protector and I can take on my trips, the size let me to keep on my bag if I want."
+        },
+        {
+            "review_title": "My new favorite!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Combination skin",
+            "review_text": "I absolutely love this straightener! I love that the plates are infused with aloe so I feel like my hair is getting added protection (although it's important to use heat protectant!) My hair is typically super frizzy so this straightener does a great job at combating the frizziness away. I also love how easy it was to curl as well. I would highly recomend this straightener to my friends and family!"
+        },
+        {
+            "review_title": "AMAZING! 10/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "WOW! This is my new favorite hair straightener!!! It heats up super fast and doesnu2019t burn my hair. It leaves my hair super silky, shiny, and straight! You can also try curling it with this straightener and it works as well! Overall 10/10 and highly recommend getting this!!! Iu2019ve recommended it to all my family and friends."
+        },
+        {
+            "review_title": "Must buy!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Absolutely love it! My hair is smooth straight and looks so sleek!"
+        },
+        {
+            "review_title": "My favorite flat iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "This is my absolute favorite hair tool that I have used by far. My hair feels so much smoother and healthier using this flat iron, it feels like it doesn't damage my hair as much as other flat irons. I love Bondi Boost!"
+        },
+        {
+            "review_title": "Get it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Oily skin",
+            "review_text": "Completely obsessed! Makes my hair silky smooth! Highly recommend!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "I love this straightener. It is easy to use, and it does not damage my hair. It works perfectly in my hair routine."
+        },
+        {
+            "review_title": "LIFE CHANGING",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Combination skin",
+            "review_text": "When I first received this, obviously I was excited but I wasn't really expecting anything crazy because flat irons are all the same, right? WRONG! This flat iron cut my 'getting ready' time in HALF this morning! It was like heckin magic. Seriously best and fastest flat iron I've ever used."
+        },
+        {
+            "review_title": "Wavy hair approved!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Love the temperature settings and how fast it gets hot. I also like that it comes with a silicon sleeve and has a really sturdy plug in cord. I would prefer a locking button for travel but itu2019s fine with the sleeve. Size is very easy to use, store, and travel with. I have wavy hair and usually my straight hair style will last me max an hour, this time it lasted about 4 daysu2014 10/10!"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "This product is amazing! It straightens hair very quickly and effectively and leaves the hair extremely smooth with no kinks. Would definitely recommend for all girls routines and hair types!"
+        },
+        {
+            "review_title": "My Go-To Flat Iron for Sleek, Shiny Hair!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "Iu2019ve been using the Bondi Boost flat iron for a few weeks now, and Iu2019m absolutely in love with it! My hair is naturally wavy and prone to frizz, but this straightener works like magic. It heats up quickly, glides smoothly through my hair, and leaves it super sleek and shiny without any damage. I also love how lightweight it is, making it easy to handle, especially when Iu2019m in a rush. If youu2019re looking for a flat iron that delivers salon-quality results at home, this is the one!"
+        },
+        {
+            "review_title": "Love everything about this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I switched out my babybliss flat iron for this. It has my hair looking and feeling amazing. I love silky and shiny my hair looks and feels. You can tell it is infused with aloe. It doesn't weigh your hair down. Perfect for straightening or curling. Works on different hair types. All my children and different curly hair I love how it works for all of us. It's definitely a great buy."
+        },
+        {
+            "review_title": "Good quality",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "The Flat Iron Hair Straightener with Aloe-Infused Ceramic Plates is a game-changer for my hair routine. From the first use, I noticed how smoothly it glides through my hair without any pulling or snagging. The aloe infusion is a bonus, leaving my hair feeling softer and healthier after each use. I love that it heats up quickly and maintains a consistent temperature, which makes straightening my hair so much faster. My hair looks sleek, shiny, and frizz-free all day long. It's lightweight, easy to handle, and perfect for everyday use. Highly recommended for anyone looking for a quality flat iron!"
+        },
+        {
+            "review_title": "Nice Find!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "The BondiBoost Aloe Flat Iron is a nice find! It leaves hair softer and shinier thanks to the aloe infusion. It heats up quickly and has adjustable settings, which is handy. If you want a gentle flat iron that works well, it's worth a look!"
+        },
+        {
+            "review_title": "This is more than what I expected",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I feel genuinely lucky to try this bondiboost flat iron, my hair feels so soft and shiny, no more freeze and I feel is gentle with my hair, the technology that this use reduce frizz and is perfect for damage hair like mine, algo is good for do my waves."
+        },
+        {
+            "review_title": "My new daily hair tool",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Normal skin",
+            "review_text": "Great Product. Leaves hair smooth and glossy. I have used this product to both straighten and curl my hair so it is very versatile with styling your hair. Highly recommend this product. Bondi Boost never fails the hair."
+        },
+        {
+            "review_title": "Loving it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Iu2019ve been using this straightener for over a week and Iu2019m loving it! My hair is wavy and has natural frizz that is so hard to tame but I have noticed a decrease in frizz when I use this straightener. I love that the plates are aloe infused which helps to keep my hair healthy!"
+        },
+        {
+            "review_title": "the best discovery for my hair",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Dry skin",
+            "review_text": "Since I started straightening my hair with this product, I keep receiving compliments on how nice and shiny my hair is, it looks super healthy and I love it, definitely the best investment and at a great price."
+        },
+        {
+            "review_title": "Saying goodbye to my high school sweetheart",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Dry skin",
+            "review_text": "Okay not to be completely dramatic but after using the same Chi since high school, I'm now 33 mind you lol, I gave the aloe infused flat iron by Bondi a shot and the results were jarring!!!! I love that you can moderate the heat temperature as I prefer to use less heat and it straightened my hair so quick and fast and beautifully. The iron did not snag or feel as if it was tugging or rough on my hair and left a beautiful subtle shine. After 18 years I'm finally breaking up with my Chi for my newfound obsession in this Bondi Boost iron u25e1u0308"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "It doesn't feel like it's damaging your hair like other straightening irons, it feels like its making it so smooth and silky while keeping it healthy. I also LOVE that the heat automatically turns off after 45 minutes, cures any anxiety I have about that"
+        },
+        {
+            "review_title": "ABSOLUTE GAME CHANGER",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Combination skin",
+            "review_text": "I can not say enough amazing things about this product. The way it straightens my hair in one single motion through my hair is incredible. Also so easy to curl my hair with as well so its like a two in one. Buying for everyone in my life"
+        },
+        {
+            "review_title": "A Must!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "Have been using this BondiBoost flat iron for 3 weeks now and I'm LOVING it, hair frizz doesnt exist anymore and material is amazing for your hair care"
+        },
+        {
+            "review_title": "A must have in your hair routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+            "review_text": "After using this straightener I canu2019t ever go back to anything other my Aloe infused flatiron my hair is so thin and most flat irons would either burn it or damage but omg the BondiBoost flat iron has me speechless it left my hair straight, feeling so soft and healthy for 4 days it has never felt to amazing you can tell the quality of the product was made by the hair gurus it took less then 10 min to straightened my hair I am in love , if you had one thing to buy that is worth everything single dollar is this BondiBoost itu2019s the only hot tool youu2019ll ever invest your money in and ever need I 10/10 would recommend it to everyone who wants healthy sleek shiny hair for days ."
+        },
+        {
+            "review_title": "Love this product itu2019s a must have!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Normal skin",
+            "review_text": "This has helped keep my hair smooth and shiny. This product doesnu2019t burn my hair even though I straighten my hair every day it keeps my hair looking healthy:)) really happy with the results."
+        },
+        {
+            "review_title": "LOVE IT",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Oily skin",
+            "review_text": "Absolutely LOVE this product!! Worked so nicely!!!"
+        },
+        {
+            "review_title": "My fav straight iron!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Normal skin",
+            "review_text": "I was super excited to use this straightener! First off, itu2019s just pretty and also has a very cool silicone like cover so when youu2019re done using it, the iron can be safely stored or left on your counter top.   Now letu2019s get into styling. This iron went through my hair like butter! My hair looked so smooth and shiny too!"
+        },
+        {
+            "review_title": "Only Straightener for Me",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "Love this straightener so much! Makes my hair so silky soft and look so so shiny!"
+        },
+        {
+            "review_title": "A MUST HAVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "This has helped keep my hair smooth and shiny. It doesnu2019t pull your hair it glides right through! I am for sure buying more things!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Tan skin tone, Combination skin",
+            "review_text": "Absolutely love this product! It works great in my hair leaving it feeling good and healthy after using heat."
+        },
+        {
+            "review_title": "Worth your money!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "After I have been using the tool and honestly itu2019s been such a game changer! I donu2019t have to go through with it so many times, once does the job."
+        },
+        {
+            "review_title": "Must-have flat Iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Dry skin",
+            "review_text": "This flat iron worked miracles. I loved how it made me hair sleek and smooth as a finishing touch. I would definitely recommend buying this product as it promotes healthier looking hair! Overall, this was a 10/10 product and my ultimate favorite straightener!"
+        },
+        {
+            "review_title": "A wavy hair must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Keeps my naturally wavy and frizzy hair silky smooth! Also glides well to create straightener curls."
+        },
+        {
+            "review_title": "Must have for the summer!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Normal skin",
+            "review_text": "This flat iron hair is the best flat iron i have ever used my hair always looks silky when i use it it is to die for."
+        },
+        {
+            "review_title": "My new fav!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Have been looking for a flat iron that wouldnu2019t break the bank but also not fry my hair and Iu2019ve found it! My hair is think and curly and with other products I would have to go over one strand multiple times, but not with this one itu2019s amazing, great results, doesnu2019t damage hair as much because of the aloe infused plates and leaves hair feeling sleek, shiny and healthy."
+        },
+        {
+            "review_title": "GAMECHANGER!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Normal skin",
+            "review_text": "Obsessed with this!! I feel like my biggest problem with straighteners in the past has been my hair always feels so dry, frizzy, and almost like burnt afterward. But I think the Aloe infused in this must make a huge difference because my hair actually feels healthy after using this to straighten it! Love it!"
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "After using this product I am OBSESSED!!! My hair feels so smooth and looks so sleek! This will for sure be replacing my old straightener . Its prefect design allows it to not tip over on your counter.  It is perfect size for traveling and easy to wrap up . It also comes with a great silicone sleeve to put it in when done .   It got up to temperature so fast I was shocked"
+        },
+        {
+            "review_title": "BEST Hair Straightener on the Market.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "After using this product only two times I seriously have never used a better straightener in my life. I have very curly and frizzy hair and as a current college student I am always styling it. This iron doesn't leave your hair looking fried or dead and also straightens with just one pass, when normally my hair type takes 3 or 4. Additionally this straighten has held much better throughout the night and follow day. I 100% recommend this to anyone. I got so many compliments on my hair the first day I used this."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Normal skin",
+            "review_text": "Iu2019m not usually the best with change & have been using the same straightener for many many years except it was time for a new one so i said goodbye & hello to Bondi! I couldnu2019t be happier to be using the Aloe Infused BondiBoost now!! It leaves my hair looking so silky & smooth. Thereu2019s many temp settings which is nice. I love the sleek look of it (i love white) and I really like the protectant cover to put back on after use!!"
+        },
+        {
+            "review_title": "Best Flat Iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "I love this straight iron, it protects my hair from getting fried as I have wavy curly hair and thick.  Use it with a heat protectant.  I would recommend to everyone!"
+        },
+        {
+            "review_title": "Obsessed with this FLAT IRON!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Iu2019ve found my new hair BFF: the Aloe-Infused Flat Iron. I have baby fine hair and this flat iron is a game changer! ud83cudf3f Itu2019s got aloe powder blended into the plates, so every swipe leaves my hair shiny, smooth, and frizz-freeu2014like a mini spa treatment for my strands! Plus, with its ionic technology and ceramic-coated tourmaline plates, it glides through my hair effortlessly and evenly distributes heat. I used to worry about heat damage, but now my hair looks sleek and can handle anything, even humidity. Totally obsessed!"
+        },
+        {
+            "review_title": "My new favourite hair straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I love this straightener it has a wide range of temperature settings and it leaves the hair super straight & it also holds curls if you curl your hair with a straightener."
+        },
+        {
+            "review_title": "My New Favorite Hair Tool!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Dry skin",
+            "review_text": "This flat iron is SO nice! It has a wide range of temperature settings, doesnu2019t pull my hair, heats up so quickly, and leaves my hair shiny and straight all day! Iu2019m obsessed!"
+        },
+        {
+            "review_title": "Best hair straightener!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "I love this hair straightener! It heats up so fast and make my hair so soft and silky. My new go to hair straightener."
+        },
+        {
+            "review_title": "Amazing!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "This product is absolutely wonderful!! If youu2019re looking for a new straighter, this is the one!! I would recommend to anyoneeee. Love, love, love this!"
+        },
+        {
+            "review_title": "Top notch Hair straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Combination skin",
+            "review_text": "I was on the hunt for a new straightener and this one I had to try based off reviews and once again BondiBoost did not disappoint! I love how straight my hair gets whether itu2019s the full head or just a few strands I need to fix and I feel no damage at all! This is a must have"
+        },
+        {
+            "review_title": "The BondiBoost Flat Iron Hair Straightener is fant",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Normal skin",
+            "review_text": "The silicone cover is a great storage feature I was expecting to use, and the buttons being inside are a smart designu2014I never accidentally change the settings while styling. The aloe-infused ceramic plates leaves my hair sleek and shiny. Highly recommend!"
+        },
+        {
+            "review_title": "A must-have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I loved using this straightener. Ever since I got my Dyson, I can't remember the last time I used a straightener but this was amazing! My hair didn't feel damaged and its stayed straight for days!"
+        },
+        {
+            "review_title": "Must buy!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "My hair has never stayed so straight!!! I am so completely obsessed. Doesnu2019t feel damaged at all."
+        },
+        {
+            "review_title": "Not for me",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Oily skin",
+            "review_text": "Honesty I had higher hopes for this flat iron. I have fine curly frizzy hair and I had to put the heat to 360+ degrees for my hair to get semi smooth. Over all not impressed and will be returning."
+        },
+        {
+            "review_title": "10/10!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "I absolutely love this straightener! I bought it to add waves to my shorter hair and it is perfect. heats up super quickly, smooth, and feels high quality. it works way better than a curling iron for making waves for me, I'm so happy with it!! no complaints here ud83dudc4c"
+        },
+        {
+            "review_title": "Itu2019s okay",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I bought this straightener after reading all the reviews and knowing that it wouldnu2019t break the bank. Although it does the job, I believe itu2019s not a saving grace like everyone raved about. The cons I have are that it gets hot easily, smells of burning and I still have frizz after. Other than that - it does the job."
+        },
+        {
+            "review_title": "Excellent!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I have fine, frizzy hair and a lot of it. This flat iron is amazing. It heats up quickly, does not pull my hair out or leave a burning smell, and has a sleeve to insert the flat iron into. I highly recommend!"
+        },
+        {
+            "review_title": "Super Flat Iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I chose the BondiBoost flat iron after reading the positive reviews. After using it for several weeks I can say that I am very pleased with this purchase. I recommend it to those looking for a flat iron that works really well."
+        },
+        {
+            "review_title": "If youu2019re searching for a good straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I havenu2019t had a straightener in years and was on the hunt for the perfect one. After reading many reviews I am glad this is the one I ended up purchasing. Def the best hair straightener Iu2019ve used"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "A great straightener.  I have long curly hair and this works great .  Really like this and a fairly good price point too."
+        },
+        {
+            "review_title": "Overhyped.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Overhyped. I wanted to try a new straightener and the reviews were perfect everywhere the straightener is listed. It does what any average straightener does. My hair did not feel any difference comparable to other straighteners. I had high hopes because of the ceramic plates and it being u201caloe-infusedu201d."
+        },
+        {
+            "review_title": "Helps with Frizz!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "This straightener is the best I've ever had from the moment I opened the box. I usually have to warm up to a straightener, but this feels professional, doesn't pull and best of all....I live in TX and while our humidity is just starting, it seems to be keeping the frizz down a decent amount. My past straighteners have never helped with it at all (and I spent big money on the Dyson straightener last time). If you are in the market for a new straightener, definitely consider this one."
+        },
+        {
+            "review_title": "Fantastic flat iron!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "I love this straightener. I have very fine hair that's prone to frizz. The plates glide effortlessly and it heats up quick! I use it at a pretty low temperature, 240u00b0 and my hair looks smooth and shiny and feels very soft. I doubt the Aloe-Infused plates have anything to do with it as it sounds like a gimmick, but this flat iron is the best I've tried."
+        },
+        {
+            "review_title": "Great Hair Straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Oily skin",
+            "review_text": "Iu2019ve been searching for a replacement for my current hair straightener for well over a year. After trying different hair straighteners from Sephora (including the CHI), I think my search if finally over. This one checks off all the boxes for me - affordable price (especially when on sale), feels high quality in the hand, hair glides on the plates, heats up quickly, looks beautiful. I truly donu2019t have any qualms with it. Very happy I was able to clinch one before it sold out!"
+        },
+        {
+            "review_title": "Affordable Success",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Light skin tone, Dry skin",
+            "review_text": "During the last sale I tried 2 different hair straighteners with no success. Even expensive options just did not really wow me. This product, low profile & great price point, has met my needs. The most remarkable thing about this iron is the speed at which it heats up. In a matter of maybe 2 minutes itu2019s hot & ready to go. Multiple levels of heat make it easy to adjust. Results will speak for themselves."
+        },
+        {
+            "review_title": "Best straightener I have ever owned!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "This straightener is absolutely amazing! It left my hair so soft and full of shine! I previously had the GHD Platinum, and I thought it was really good, but this is WAY BETTER! I ABSOLUTELY LOVE IT! My hair is medium thick and has a wave to it and this makes it nice and smooth straight! I would highly recommend! No wonder it is always out of stock!   I have also tried to T3, CHI, GHD, DRYBAR, AVANTI and this one destroys them all!"
+        },
+        {
+            "review_title": "Highly recommend",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I am so in love with this flat iron. It straightens my hair with two passes at the most. Iu2019ve tried almost  every high end straightener and this one is by far the best. I am so happy with my purchase."
+        },
+        {
+            "review_title": "Easy to use",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Dry skin",
+            "review_text": "This is a fabulous hair straightener! The aloe infused plates add shine and are so smooth. My hair is naturally straight and fine, but it is nice to touch it up to keep it straight without flyaways. Iu2019m still working on making it curl with the straighteneru2026 Iu2019m need more practice! Highly recommend this tool and BondiBoost is the best! I love all of their products and this one wonu2019t disappoint either!"
+        },
+        {
+            "review_title": "Hello sleek hair!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "If you want silky smooth straightener, then look no further! This straightener not only looks beautiful displayed in the bathroom, it gives you the straightest and shiniest hair you could imagine! Love it so much!"
+        },
+        {
+            "review_title": "Must have !!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "I love this hair straightener, I have the most frizzy hair that exist, and with this hair straightener with one pass the frizz was gone. I really really recommend this product. the aloe infused really help my hair it left it was super silky.  and silky. Really really really recommend this pross baby"
+        },
+        {
+            "review_title": "Aloe infused plates makes hair smooth and shiny !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Dry skin",
+            "review_text": "This is a cutting edge uniquely designed flat iron. I donu2019t flat iron my hair much, but I will be from now on . I am amazed at how much shine this gave my hair and my style lasted for several days. The aloe infused plates nourish the hair and add shine . I love that this flat iron has a 360 degree swivel cord, a very quick heat up and automatic shutoff. Bondi Boost, youu2019ve done it again !"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "The first thing that I noticed about this is how lightweight it is and how easy it was to hold. I suffer from bad arthritis in my dominant thumb and this is huge for me! Heats up super fast, and left my hair much smoother than my previous flat iron. Super smooth, no snagging."
+        },
+        {
+            "review_title": "Wow",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "I love this Flat Iron , as it saves time and is super light weight . The design of it is so pretty and of course I want show all my friends how quickly it heats up . My hair has never looked so smooth and somehow Iu2019m much more confident in public, I absolutely love it. I would highly recommend this product."
+        },
+        {
+            "review_title": "A must-have in my hair routine!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
+            "review_text": "BondiBoostu2019s aloe-infused flat iron has become a staple in my hair routine!! Whether I want my hair pin straight or curled, this flat iron does both - and the best part is it doesnu2019t damage my hair like other flat irons because of the aloe-infused plates. My hair looks so silky afterwards and I will not be using any other flat iron anymore!"
+        },
+        {
+            "review_title": "Post Gym Hair Care Must Have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Oily skin",
+            "review_text": "I absolutely love this flat iron! It doesn't smoke out my hair and it's the perfect tool to add to my post gym haircare routine!"
+        },
+        {
+            "review_title": "Love it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I loved this flat iron! It heated up super quick. It came with a silicon top for the flat iron which I thought was super cool. It didnu2019t pull my hair or anything. Made everything super smooth!"
+        },
+        {
+            "review_title": "Perfect for your hair!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Normal skin",
+            "review_text": "I absolutely love this hair straightener because it leaves my hair smooth and lost lasting when I curl it. I love that it heats up fast and it comes with itu2019s protector . I love that it is lightweight and its color.  I would rrr"
+        },
+        {
+            "review_title": "I am absolutely in love with this flat iron!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "It has a temperature setting with a large range, which is very important to me. The cable is long enough to be comfortable to use. Leaves hair extremely shiny and soft. There is no feeling of dry, burnt, damaged hair, but it looks very healthy and well-groomed. Definitely a great choice! I also really like the protective rubber so I don't have to worry about damaging the surface I drop it on. The design is very nice, the final edges are excellent, rounded and do not pull the hair at all. I am very satisfied!"
+        },
+        {
+            "review_title": "So shiny",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, Tan skin tone, Combination skin",
+            "review_text": "Such an amazing straightener! Leaves your hair so shiny and smooth in contrast to other straighteners that leave your hair looking dull and feeling damaged"
+        },
+        {
+            "review_title": "Amazing!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "The first thing I did when I received it was to use it all at once and I loved the result, it left my hair smooth and shiny. Highly recommended!"
+        },
+        {
+            "review_title": "BEST FLAT IRON EVER!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Normal skin",
+            "review_text": "BEST FLAT IRON Iu2019ve ever owned. Leaves my hair so silky with only one pass. Could not recommend more"
+        },
+        {
+            "review_title": "My top choice for shiny & healthy hair",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+            "review_text": "I took an 8-month break from flat irons, and Bondi Boost's Aloe-Infused Flat Iron was my first choice back. It's a game-changer! My hair has never looked this shiny and healthy after using a straightener. The Aloe feature really works on frizz. It's so easy to use, no guilt, just sleek hair vibes! I also love the swivel cord, it makes the process so satisfying. Works like a charm on my frizz hair. I highly recommend it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair",
+            "review_text": "I just received this straightener and have been using it ever since! Because the straightener is infused with aloe it glides right through your hair and makes it straight without being frizzy!  reccomend th"
+        },
+        {
+            "review_title": "Must have!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, black hair, notSure skin tone, Oily skin",
+            "review_text": "This flat iron is a game-changer! It not only straightens hair flawlessly but also leaves it feeling incredibly smooth and nourished. It's a must-have for anyone seeking salon-quality results at home."
+        },
+        {
+            "review_title": "Perfect!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I absolutely love this straightener and the way it glides through my hair!"
+        },
+        {
+            "review_title": "A mustttt!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair",
+            "review_text": "I recently have tried this product and it is super amazing it has helped my first come down so much I totally recommend this product. It is the best flat iron I have ever had. Especially since it has aloe in it!!!"
+        },
+        {
+            "review_title": "My New Favorite Straightener",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "This flatiron is amazing. My hair is so silky and shiny after using it. Very easy to use and recommend this to all of my friends !"
+        },
+        {
+            "review_title": "Love this Flat Iron!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "After trying out the new Aloe-infused flat iron, I fell in love with it! After one pass my hair is straight and smooth and does not leave my hair feeling dry or frizzy. The quality of the flat iron is also very nice and it took my hair care routine to the next level! In the future, I will for sure be purchasing more products from Bondi Boost!"
+        },
+        {
+            "review_title": "Need this product in your life!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I recently tried this product and it's been amazing. Not only does it leave my hair smooth but it also reduces frizz. It's really gentle on my hair and would definitely recommend!!!"
+        },
+        {
+            "review_title": "BondiBoost Flat Iron for the Win!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I used my straightener for the first time today and just wow! It was so easy to use, it left my hair so shiny, and it did not snag my hair at all. This is literally the smoothest flat iron I have ever owned. Well done BondiBoost!"
+        },
+        {
+            "review_title": "Love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "I love this straightening iron! The aloe helps reduce frizz and makes my hair so smooth! Doesn't pull the hair at all and does a great job at straightening!"
+        },
+        {
+            "review_title": "MY NEW FAVORITE STRAIGHTENER!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "This is my favorite new straightner!! I love my results. It heats up really fast. It is definitely worth the price! I love the results it gives me and I use it everyday!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "A main concern with heat tools is damaged hair. I just received this product and tested it out and love the results after the first use. It was easy to use. My hair was shiny and healthy looking. I have wavy and frizzy hair. The Bondi post straightener helped my hair look more healthier and sleek."
+        },
+        {
+            "review_title": "Love it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "I love how this straighener leaves my hair, this is a MUST HAVE ! ud83dudc95"
+        },
+        {
+            "review_title": "EVERYDAY GAME CHANGER",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "I am loving this product I just received it and it is amazing. It is aloe infused so you will have less hair damage and goes up to 480u00b0 which means your hair will be straight in the best way possible GET  THIS!"
+        },
+        {
+            "review_title": "An everyday straighter!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, mediumTan skin tone, Combination skin",
+            "review_text": "I received the Bondi Boost Alo-Inflused Flat Iron a I love it! It makes my hair feel extra smooth and healthy! This flat iron doesnu2019t leave my hair feeling dry, it gives my hair the shine and feel I love!  would high"
+        },
+        {
+            "review_title": "This hair straightener is a new FAV",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This hair straightener is a NEED it glides through your hair so smoothly and left my hair feeling soft and NOT dry! Itu2019s definitely worth the money"
+        },
+        {
+            "review_title": "Straightener Game Changer!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I use a straightener on a daily basis so I was super excited to try this out and it did not disappoint! It really does glide on your hair, more than any other straightener that I've tried. The shine after using is great, I didn't even add any finishing products after my first use and my hair looked so silky and shiny. I especially like to use my straightener to put curls/waves into my hair and this works great, I can slide it down my hair length in one movement without any pulling. Even though I have naturally straight hair, I do sometimes like to still run a straightener through to smooth it out or put a little flip at the ends. This one tool does all of that! The super fast heat-up is great, sometimes you need a quick touchup and don't have time to wait for the tool to fully heat up. I like that the buttons are on the inside so that I don't accidently shut it off or change the temp. And the variable temperature control means I can use this on my real hair or even to touchup wigs for cosplay events and not damage them. I'm so happy to add this to my hair toolbox, I feel like it's going to speed up my morning routine! One of the photos is after I used it for waves and the second is after I straightened the waves."
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This product is absolutely amazing it presses my hair so well and keeps my curls tight itu2019s an amazing product and I totally recommend"
+        },
+        {
+            "review_title": "Everyone needs this",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "As a mother of 4 my me time is very limited and this beautiful gem knew that! Lol seriously tho, it only took about 15 mins to straighten my crazy dry frizzy hair and made it looks so freakin shiny and feel so soft!! Iu2019m in LOVE with this!!! All I used was the heat protector spray and I didnu2019t even have to go over any strands a second time. Itu2019s a slim beautiful straightener that gets the job done. I love this!!! I added my photos, ignore the dead ends please lol"
+        },
+        {
+            "review_title": "Amazing! Love this Flat Iron",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "Goodbye, frizz .. Hello straight Shiny hair! Best flat iron I ever used. Heats up fast. Glide through the hair so smoothly. You can also curl your hair with it, and it doesn't snag the hair. BondiBoost got it right with this one! I 100% recommend it."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "It smooths, it glides, it doesnu2019t tug! What more can you want? This is my new go to straightener. It keeps my hair silky smooth with the added benefit of aloe! Just buy it, you wonu2019t regret it!"
+        },
+        {
+            "review_title": "Amazingggg new product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Normal skin",
+            "review_text": "Instantly fell in love with this one. I have thick coarse hair and lots of it. I can straighten my hair in just 5 minutes . 10/10 for sure"
+        },
+        {
+            "review_title": "I'm in love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "I am in love with this straightener. It glides through my hair so effortlessly and gives my hair a flawless, sleek look. I used to avoid flat irons because they always felt like they were break my hair shafts with every pass."
+        },
+        {
+            "review_title": "the best flat iron ive used so far!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Normal skin",
+            "review_text": "This is a great straightener.  It glided through my hair with ease.  It didn't make it flat or greasy looking like others have in the past.  2 days later my hair is still sleek and didn't refriz like it usually does.    Its lightweight, has a variety of temperature settings and a rubber cap to keep it closed and safe when not in use."
+        },
+        {
+            "review_title": "Glides through hair like butter , amazing aloe!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Absolutely LOVE this tool!! It made my hair so soft and super shiny! No frizz! It glides through hair like butter and also creates some really fun curls along with making hair sleek. So the options are great! Love the silicone cap that come with it, makes for easier storage. Shuts off after 45 minutes, so definitely another great feature for those busy, hectic days! I give it a thumbs up and it is among my favorite tools for sure!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "blonde hair",
+            "review_text": "Needed to replace my super old straighter from high school (literally have had it forever) and saw an influencer raving about this one. She got a straight blowout look and her layers looked AMAZING. Tried myself and it worked great! Definitely worth the price -- cheaper than going to the salon!"
+        },
+        {
+            "review_title": "This flat iron was a game changer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
+            "review_text": "I have long, straight as a pin hair and let me tell you, this flat iron gave me shiny and silky curls that lasted for days. It is beautifully designed and it is so easy to use. It glides through your hair smoothly, makes your hair real shiny, and gets rid of frizzies. My hair has never looked better and I love it!!!"
+        },
+        {
+            "review_title": "Gotta have it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Fair skin tone, Dry skin",
+            "review_text": "Love this product! It's so pretty and easy to use. It does a cute beeping sound when it turns on and you can set the temp to anything you want. It also straightens well."
+        }
+    ]
 }

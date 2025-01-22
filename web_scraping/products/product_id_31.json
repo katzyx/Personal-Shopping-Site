@@ -1,810 +1,810 @@
 {
-	"product_id": "31",
-	"name": "Skin Melt Talc-Free Loose Setting Powder",
-	"brand": "Ami Colé",
-	"categories": "Makeup, Face, Setting Spray & Powder",
-	"price": 30.0,
-	"about": "What it is:A superfine setting powder with a matte finish that melts into skin to extend makeup wear without flashback or a cakey look..Coverage:Light.Finish:Matte.Formulation:Loose Powder.Highlighted Ingredients:- Hyaluronic Acid: Retains moisture and visibly enhances skin’s elasticity..Ingredient Callouts:This product is vegan, gluten-free, and cruelty-free..What Else You Need to Know:Infused with hyaluronic acid, this lightweight, talc-free formula sets your makeup without flashback or a cakey finish.",
-	"ingredients": "-Hyaluronic Acid: Retains moisture and visibly enhances skin’s elasticity..-Baobab Seed Extract: Hydrates and nourishes skin...Synthetic Fluorphlogopite, Silica, Lauroyl Lysine, Caprylic/Capric Triglyceride, Squalane, Adansonia Digitata Fruit Extract, Hibiscus Sabdariffa Flower Extract, Sodium Hyaluronate, Glycerin, Pentylene Glycol, Glyceryl Caprylate, Hectorite, Dehydroacetic Acid, Glyceryl Undecylenate, Amethyst Powder, Quartz, Aqua (Water). May Contain (+/-) CI 77491 (Iron Oxides), CI 77499 (Iron Oxides), CI 77492 (Iron Oxides)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Flip jar over and give it a shake. .-Flip jar back up, twist open cap, and lift up flapper to reveal powder. .-Dip a powder brush into the sifter net, then tap off any excess powder. .-Apply all over or to targeted areas to visibly reduce shine and set your makeup.",
-	"num_reviews": 111,
-	"overall_rating": 4.5,
-	"product_url": "https://www.sephora.com/ca/en/product/skin-melt-talc-free-loose-setting-powder-P503732?skuId=2631851&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2631851-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Rich / Deep",
-			"shade_descriptor": "for rich to deep skin tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2631851-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Deep / Medium",
-			"shade_descriptor": "for deep brown to medium skin tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2631844-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Translucent",
-			"shade_descriptor": "for all skin tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2631836-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "A little goes a long way!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
-			"review_text": "A little goes a long way! I don’t use a brush, I use a puff. It makes my skin look great! I have oily skin fyi. I’m buying one for my sister as a gift so she can try it too"
-		},
-		{
-			"review_title": "Favorite acne-safe powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I tried a few acne-safe powders (inputting ingredient lists into Acne Clinic NYC) and this one is by far my favorite. Plus the price is amazing. No glitter/shimmer, no scent, just a soft, finely-milled powder that won’t clog pores and that sets makeup beautifully!"
-		},
-		{
-			"review_title": "I'm impressed",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Tan skin tone, Oily skin",
-			"review_text": "I purchased this powder directly from the brand's website. Although the translucent seemed to have a slight pink tint imo, I really like how this powder kept my make up softly matte for several hours - in spite of several hot flashes. I normally like Hourglass powder, but decided to try this more budget friendly option, and was glad that I did."
-		},
-		{
-			"review_title": "Cool packaging, disappointing product",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
-			"review_text": "I like that this is truly translucent, but it’s not the best setting powder out here in this price range. The packaging is so good, but this does not blur pores or texture, doesn’t really mattify, or have great longevity. I love this brand, but I would skip this product."
-		},
-		{
-			"review_title": "Total fail - will be returning",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Dry skin",
-			"review_text": "Hated this, for three reasons:  1. The sticker over the mesh did not prevent a bunch of powder from pouring out during shipping. There's no way to get it back under the mesh. It's a mess. 2. The powder doesn't do anything???? No mattifying, no blurring, absolutely no effect whatsoever. 3. I used it around my eyes and ended up with an itchy rash. Not great!"
-		},
-		{
-			"review_title": "Good alternative",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-			"review_text": "Love the packaging and the super fine loose powder. It’s not as great at blurring as Ciele’s loose powder, but I still give it 4 stars for the packaging. However, I wish it had a built-in mirror, that it’d come with a puff, and be careful of inhaling the powder as you blot or swirl on your face with a brush - definitely make sure to tap off excess powder!"
-		},
-		{
-			"review_title": "A new staple!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "I was on the hunt for a talc-free powder and this did not disappoint. Performs great under-eyes, doesn't look cakey. Minimizes the look of pores and melts beautifully into the skin. Such an affordable option, and love the functional packaging."
-		},
-		{
-			"review_title": "Does absolutely nothing; a big Pass",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, red hair, Fair skin tone, Normal skin",
-			"review_text": "Like another reviewer stated, it is absolutely pointless.  I have very dry skin, so I don't need a powder to do much, just to take away some shine from dewy products (right when applied, like I said my skin is dry and I don't get a drop of oil on my face throughout the day) and to set my makeup.  It does neither, after applying this poweder,  foundations (skin tints etc..)  stay exactly as dewy and as tacky as if I hadn't applied anything.  I tried using a loose powder brush, a dense brush, a powder puff, different foundations, no moisturizer underneath foundations, in other words I tried everything and this powder does absolutely nothing.  The powder is extremely finely milled, but I think to an extreme, and it gets to the point where it feels almost like it is 2 steps away from becoming a cream, therefore does absolutely nothing to take away shine and set makeup.  I don't like to return makeup and I actually tried to sell it for the same half of price that I paid for it (with Sephora points- which I didn't get back after the return) and no one wanted to buy it, I completely understand why."
-		},
-		{
-			"review_title": "Pointless",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "Honestly makeup is so expensive, this powder doesn’t keep the shine away. I’m combo skin but def lean more to the dry side. I feel like this powder was pretty pointless, it doesn’t set anything and I end up looking how I looked if I didn’t set my face."
-		},
-		{
-			"review_title": "Silky Powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "This powder is beautiful! It does melt in your skin but takes away the shine! I have acne-prone skin. This is amazing!"
-		},
-		{
-			"review_title": "Will never be without this powder!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "So blurring and never looks cakey. Beats all my other powders by a long shot!"
-		},
-		{
-			"review_title": "Affordable clean option",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Love this product! It’s upsetting that I can’t purchase anything else from the brand since they aren’t inclusive of lighter skin tones."
-		},
-		{
-			"review_title": "Holy grail powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "This is my new holy grail powder. I researched high and low for both a clean ingredient AND non-comedogenic loose powder, and this was the only one I could find. Luckily, it performs amazingly too!!"
-		},
-		{
-			"review_title": "Eh.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "It’s ok, nothing special. No noticeable blurring effect. Debating whether to keep it. I usually use the makeup forever setting powder which costs more but I think works better."
-		},
-		{
-			"review_title": "i love this powder!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "i just tried this product this morning and i am in love! i paired it with the kosas concealer which i also just got and finally no creasing under my eyes!! blurring and smoothing too! i will definitely repurchase"
-		},
-		{
-			"review_title": "I will use this powder forever!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "I love this powder it’s smoothing, blurring, and truly translucent. I love that doesn’t give a super flat matte look, but keeps me oil free. It’s kinda magical!"
-		},
-		{
-			"review_title": "Sooooo in loveeee",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "I’ve never written a review for a makeup item before. This is amazing and I can’t believe I found it. I’ve never been so impressed with a product/powder before. My skin doesn’t look like I have any makeup on. It’s amazing."
-		},
-		{
-			"review_title": "The best setting powder I’ve ever used!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Fair skin tone, Oily skin",
-			"review_text": "Amazing! Seriously the best setting powder I’ve ever used. In the morning I layer various creams, lotions, sunscreen and this powder made me matte yet still radiant and not oily. The longevity is amazing, even after an 8 hours shift and working out, my skin wasn’t oily. I cannot recommend this powder enough! And I love that it’s talc free and doesn’t oxidize <3"
-		},
-		{
-			"review_title": "Beautiful setting powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
-			"review_text": "Such a beautiful powder.  It sets my makeup so nice and it doesn’t look heavy or dry on my skin.  I am surprised there are not more people talking about this product."
-		},
-		{
-			"review_title": "A wonderful surprise",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Normal skin",
-			"review_text": "I rarely bother to leave reviews, but I wanted to give this product some love! I had never heard of this brand before, but someone recommended this to me when I was in the market for a new translucent powder so I gave it a try. Wow! It does such a great job setting my concealer under my eyes. I usually dust some all over my face and it plays so well with every type of makeup I own. This is never cakey and honestly has been fool proof for me so far. My ONLY complaint, and it’s not enough to deduct a star, is that the packaging can be messy when you open it. I always seem to get powder on my vanity or clothes, but it does easily brush off. Give this a try if you are looking for a new loose powder!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I really enjoyed this loose powder. I have combination oily skin and this did help my oils stay at Bay throughout the day, but will need to wear it more often and with different foundations to see what works best with it."
-		},
-		{
-			"review_title": "Love it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Normal skin",
-			"review_text": "I'm obsessed with this setting powder! It's talc-free and has a lightweight texture that blends effortlessly into the skin. The matte finish looks natural and keeps my makeup in place all day. I love that it's infused with Hyaluronic Acid and Baobab Seed Extract to keep my skin hydrated. Plus, it's easy to apply and doesn't leave a cakey or chalky residue. Overall, it's my go-to for a flawless, long-lasting look. Highly recommend!"
-		},
-		{
-			"review_title": "So lightweight",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "This Loose Powder is amazing, love that it’s talc free and so lightweight on your skin. Great finishing touch on my makeup that really blends in well. Do wish it came with its own applicator though but actual product is great"
-		},
-		{
-			"review_title": "Bought with my own money during the Spring Sale...",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Dry skin",
-			"review_text": "...been testing out for a few weeks now. I'm usually averse to loose powder because it requires more precision and blending but I prefer how loose looks under my eyes. Long story short I've tried every brand Ilia, RMS, Saie, FitGlow Beauty. None and I mean NONE are as finely milled and almost creamy as this one, some were downright gritty! I saw on the package this is made in Italy. The price is incredible for something like this. I bought these teeny tiny finger pad powder puffs and love dipping them into this mesh compnent to tap under my eyes. Wears beautifully. It's a winner."
-		},
-		{
-			"review_title": "Great product!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
-			"review_text": "I love how this powder works on my skin! I have normal to dry skin and it does not look patchy and dry! I don’t always use powder for that reason and this is my new favorite. I would recommend you to try it! The price for this product is very good!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Blue eyes, Combination skin",
-			"review_text": "I love that this is talc free! I have sensitive and acne prone skin, and I’m always hesitant to try new products. I think it does reduce shine and absorbs oil. I also think it helps keeps my makeup looking really good throughout the day! I think the packaging is not very messy either which is great!"
-		},
-		{
-			"review_title": "My new go-to",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I love how this sets up your makeup but does not take your glow away, plus it’s talc free, plus the price, I have to try out more products from this brand! Thank you Ami Cole and Sephora."
-		},
-		{
-			"review_title": "Must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "This looks beautiful on my face and the product on my hand, loving the texture of the product and the look and feel of the product. The quality is too good and I am falling in love with the product every single time I am using it ."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "Normal skin",
-			"review_text": "I love how beautifully this product looks on my skin and really works to brighten up my skin without being too noticeable. It’s a very fine powder and it doesn’t crease like a lot of similar product normally do"
-		},
-		{
-			"review_title": "So good",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I received this product in exchange for this post. Omg I’’ so impressed with this loose powder. First of al Im so happy that is talc free. My skin says thanks. This product worked so good for me that I recommend it"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Rich / Deep - for rich to deep skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "This is now one of my favorite full face setting powders. It keeps my makeup in place all day, provides a flawless finish with a blurring effect without making your skin look dry and cakey. The formula is super lightweight and leaves a light matte finish. I also love how practical the packaging is, it reduces the amount of product i usually waste when I set my face."
-		},
-		{
-			"review_title": "Works well!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "This loose powder is so nice. Its very fine and gives me a smooth and flawless finish after doing my base. I was worried the translucent shade would be too light for me but it blends in nicely and gives a nice highlighted look to my undereyes!"
-		},
-		{
-			"review_title": "Light and airy",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "This loose powder is very light and easy to blend in. A little goes a long way. The tint is a little light for my complexion but it works well for the area of my face I want to highlight. I love the texture, it’s very airy and makes my skin look flawless."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
-			"review_text": "This has quickly become my new favorite loose powder ever! It helps to set my makeup and makes it last throughout the day, all without looking cakey. I would say that this has more of a natural matte finish because it helps control my oils but my skin still has some glow to it after applying the powder. This product also gets bonus points from me because of the packaging. The packaging helps to reduce the amount of mess that normally occurs with loose powders."
-		},
-		{
-			"review_title": "Love this!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "A new favorite. Clean ingredients. No talc. Not drying but gets the job done."
-		},
-		{
-			"review_title": "Clean and high performing powder, budget-friendly",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Oily skin",
-			"review_text": "This is my new favorite setting powder! The formula is amazing - easy to apply and blend in. It works great for my oily skin reducing shine and setting my makeup. I love that it’s talc-free and has very clean ingredient list overall. It doesn’t clog my pores or break me out. Just the best!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "So happy to have found a talc free powder! I’m looking for long lasting, flawlessly set skin, but I always shy away from using something as harmful as talc. This powder is a savior! The little lid insert confused me— I thought a sponge went there and was missing. Then I saw people using the lid to tap off excess powder and swirl the brush around for even coverage. So useful!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "I was gifted this product for an honest review and so far I’ve loved it! It’s super nice and doesn’t break me out. It also provides the perfect blurring effect for baking and doesn’t crease after a full night out."
-		},
-		{
-			"review_title": "Melts into skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I am loving this powder! It makes my makeup look so flawless and gives a matte finish without it looking cakey. I love how it gives such a nice blur to the skin making it look airbrushed.  I also noticed it made my makeup last all day and there wasn’t any flashback!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I got to try  the shade deep medium. I really like that it gives a matte finish and it keeps my makeup on longer. I also like that it gives a light coverage and it feels comfortable on my skin. I recommend it!"
-		},
-		{
-			"review_title": "smooth matte power",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "the Ami Cole Translucent Powder is a finely milled powder formula that effortlessly blurs imperfections while setting makeup in place without cakiness. It's perfect for baking the face because of its smooth, matte finish that lasts all day for a flawless complexion. gifted by ami Cole"
-		},
-		{
-			"review_title": "Butter",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I got this powder recently, when I tell you it makes my pores disappear, IT REALLY DOES. I am so in awe of how buttery smooth this powder is, it literally melts into your skin, does not make it look cakey at all."
-		},
-		{
-			"review_title": "Such a nice powder! I like it a lot!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "I’ve tried a lot of lose powders and I have a couple of favorites but this one from Ami Cole has been on my list to try for the longest and I’m so pleasantly surprised with how nice it is! The powder is super finely mild and it doesn’t add a white cast to my under eye, it sets my concealer without making that are look dry or cakey and wears very nicely throughout the day! I will be repurchasing it once I run out of it"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "Gray eyes, Combination skin",
-			"review_text": "Love this talc free loose powder by Ami Cole. It’s super easy to use. It can be applied alone for an improvement in overall skin finish or it can be applied to set your make up, which is what I use it for. It makes my makeup last all day long without any need to retouch."
-		},
-		{
-			"review_title": "Love it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Tan skin tone, Combination skin",
-			"review_text": "Skin melt talc free loose powder is such a great addition to my makeup routine. This is the final product I use in my routine and it helps to keep everything in place. Love the formula and it gives a nice matte finish"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Green eyes",
-			"review_text": "My skin is extremely dry, and I have uneven texture under my eyes. This powder is now my go-to for setting my under eyes. I never realized I needed a setting powder with hyaluronic acid until now. It's amazing; my face doesn't look cakey or dry, but it's perfectly set."
-		},
-		{
-			"review_title": "nice",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "I have been using this skin melt loose powder for a couple of days and i am truly enjoying it< it melts very easily into my skin and mattifies  under my eyes very well and is my now go to setting powder."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "",
-			"review_text": "I have really oily skin and this powder is amazing at keeping my oil at bay. I can bake with this powder and my face does not look cakey or dry at all. If you’re looking for a great powder that blurs your skin and does not have any flashback, this is the one!"
-		},
-		{
-			"review_title": "Very smooth and blurring",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "THE BEST setting powder I have found for my combination-oily skin. I try to find one that is not drying or not absorbent enough for my oily T-zone. So I have to look for one that is balancing. I found what I was looking for with Ami Colé Skin Melt Talc-Free Loose Setting Powder in rich deep. I have a dark skin tone, usually one of the darkest three in almost any foundation brand, so many setting powders may look good in real life but gives me horrible flashbacks in pictures. This does not. It doesn't separate my makeup after a couple hours of wear, a T-zone in check. Best of all it doesn't make my makeup look heavy. It has a blurring and smoothing effect."
-		},
-		{
-			"review_title": "It’s a yes",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "This powder is officially the one I will use to set my under eyes from now on. The way I didn’t know I needed a setting powder with hyaluronic acid in it like wow it is a game changer! Face does not look cakey or dry but it is set honey"
-		},
-		{
-			"review_title": "Wanted to love but broke me out like crazy",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "I wanted to love this so badly but it immediately broke me out. It looks great and preformed well on my combo/oily/acne-prone skin but unfortunately everywhere I put it is now covered in acne. Silver lining is I guess I now know I can add Lauroyl Lysine to the list of things that break me out so I will know to avoid in the future…? If you don’t have acne issues I envy you and you should not let my review deter you but if you’re very acne prone I would recommend avoiding this."
-		},
-		{
-			"review_title": "The best for dry skin or textured skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
-			"review_text": "Listen!! Givenchy and huda you name it I’ve tried it even Chanel so forth this is the only powder I can use all over my face and under my eyes and it will leave the most natural finish ever not matte but satin !"
-		},
-		{
-			"review_title": "Absolutely beautiful!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I tried to get my hands on this forever, but it was always sold out. I finally got it and I understand the hype! It’s an absolutely beautiful powder! It never looks heavy, no matter how much I apply. It keeps me matte, but not flat. It also blurs out my pores. Super happy with this purchase! Best loose setting powder I own!"
-		},
-		{
-			"review_title": "My Favorite Loose Setting Powder!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
-			"review_text": "By far the best loose setting powder there is! Blurs and doesn’t make the under-eyes look cakey! + this powder is actually translucent! Doesn’t alter my concealer shade! Amazing & love that it’s clean too! Will definitely repurchase!"
-		},
-		{
-			"review_title": "Kept me shine free all day!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "It really just melts into your skin and mattifies and blurs your skin instantly. It holds your concealer in place all day. I used it on top of the Ami cole concealer and skin enhancing stick and my face truly was shine free all day."
-		},
-		{
-			"review_title": "Creases and is drying",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I really wanted to love this powder. I’ve been using it for 2 months, and I’m going to go back to charlotte tilbury. It creases under my eyes and makes my whole face look cakey. :("
-		},
-		{
-			"review_title": "Everything from Ami Colé is top notch",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "Love this powder so much. It literally melts into your skin for a beautiful finish. Lightweight and doesn’t look cakey or dry (on dry skin at that)!"
-		},
-		{
-			"review_title": "Just average, nothing special.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "Underwhelming after hearing about how great it is because no matter what I do, it doesn’t blur anything. It still settles into fine lines. I also didn’t like how it sifted out into little balls instead of a pure fine powder. Going in with a sponge applied too much so I had to pour it into another container for each use, use a separate sponge or brush to break up the balls to create the fine powder, then go in with another tool for application. This would probably work great on someone younger than 35."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Normal skin",
-			"review_text": "This goes on well and sets nicely and looks so great.... and then lasts for all but an hour. It just disappears like I didn't use any powder at all. I wanted to like it, but it's not for me."
-		},
-		{
-			"review_title": "Super blurring and beautiful",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "There’s a reason why this powder is always out of stock. It’s stunning, probably my favorite powder of all time. I absolutely love it"
-		},
-		{
-			"review_title": "New holy grail",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "Tried soo many powders and this is it!! It reminds me of the hourglass powder but much more affordable. If you feel like most powder is drying but want to set your makeup, try this!"
-		},
-		{
-			"review_title": "Truly Translucent & No Flashback!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "The absolute best thing about this powder is that it's truly translucent & works for all skin tones. I prefer powders to be translucent as I don't like powders changing the shade of my liquid products/oxidizing them & there are very few truly translucent powders on the market that won't give flashback on tan/dark skin. it mattifies & blurs perfectly with only a small amount needed. So although the container looks small, it will last a long time. Very slept on product cause its not being sent everywhere as a PR freebie which generates a lot of fake hype but really surprised this hasn't organically went viral on Tiktok."
-		},
-		{
-			"review_title": "Buy this ! You won’t regret it.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
-			"review_text": "Used this powder to set my Fenty 440 liquid foundation, my entire look changed. It is the most under rated setting powder on the market.  Perfect! Goes on light at first but blends perfectly."
-		},
-		{
-			"review_title": "Gorgeous powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "This quickly became a favorite for someone who isn't typically isn't a loose powder girl."
-		},
-		{
-			"review_title": "my current fave",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "this is my favorite powder in my rotation right now and for the price point you can’t beat it! i can’t attest to how well this will work for really oily skin types. my skin fluctuates between combo to normal to dry, and this powder does a great job setting my makeup without making me look really dry. i don’t love the performance for setting my under eyes as i tend to reach for a pressed powder to do so, but if you are someone who goes for more natural coverage under your eyes, it could be perfect. there’s a reason this is always out of stock!"
-		},
-		{
-			"review_title": "The best translucent powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "The best setting powder I’ve ever used!! It sets your makeup all day and gives a beautiful finish to the skin. The perfect balance between matte and glowly without spending $50."
-		},
-		{
-			"review_title": "A Wonderful Powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "I'm so happy to have this powder! It does a beautiful job of setting my face without making me look cakey or overly matte. I LOVE that I can support a Black, woman owned business and that the product is talc free. I tend to use powders for a really long time, so I'm glad that I have a new one that I'm so thoroughly happy with."
-		},
-		{
-			"review_title": "New favorite",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, fairLight skin tone, Combination skin",
-			"review_text": "I usually use the Huda Beauty baking powder because I need something blurring and long lasting, but this one has a great price and performs the same! Great for textured skin."
-		},
-		{
-			"review_title": "Great for dry skin!💗",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Dry skin",
-			"review_text": "This is a beautiful setting powder. Very lightweight and gives and airbrushed finish with no flash back💗"
-		},
-		{
-			"review_title": "Don't get the hype",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "Not a fan of this powder, did not blur my pores at all and does not help with oil control at all, I also feel a heaviness that I don't with other powders but that could be my own oils. packaging is also messy. I'm returning and wouldn't recommend for skin types like mine."
-		},
-		{
-			"review_title": "Hands down, best powder for maturing skin!!!!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Combination skin",
-			"review_text": "I have been completely blown away this powder. I could not imagine that it would solve the problems I was having with powder settling in and exaggerating my fine lines, but I was happily proven wrong! Of course, the lines are still there, but they are WAY less obvious now, and I have a new product for life!!"
-		},
-		{
-			"review_title": "Blurring powder-wow!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "This is an amazing powder and the price point is just right. I use this to set concealer under my eyes and it gives it such a nice blurring effect that is not dry or cakey. Will always rebuy!"
-		},
-		{
-			"review_title": "Will never go back to any other powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Normal skin",
-			"review_text": "I love this powder so much not even just saying it to say it i really mean it. I’ve had so many issues with my makeup not staying on or separating and looking oily after a full day wear but honestly this has made me makeup look so  so much better. It lasted me so so long I thought because the container isn’t as big as others it wouldn’t last. The mesh on there really helps you control how much powder is coming out. Ever since I switched to this powder so many people have told me my makeup looks so much more airbrushed/smooth. This powder really did make a big difference in my makeup. I love it because you can use it for the full glam and natural makeup days. After all the drug store and high end powders I’ve tried this one is the only one that has worked for my skin. I even got my mom hooked on this powder. She loves it just as much as I do. When she gets compliments on her makeup she always says yeah it’s this new powder I tried ami cole. Lol I love that. It’s so sad that it’s out of stock because this is the only powder that works for me. I’m hoping it goes back in stock soon because mines run out and I’ve got school in a couple of weeks. I’m not trying to look greasy on the first day lol. Anyways if you’re thinking about buying this just get it because it’s worth it."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Oily skin",
-			"review_text": "I will never stop purchasing this!! I’ve repurchased 3 times and I can’t say enough good things. It’s truly translucent and keeps my oily skin looking perfect. Go. Buy. It. Now!"
-		},
-		{
-			"review_title": "A must-have for sensitive eyes",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "As someone who has very sensitive/dry eyes and has gone through their fair share of powders, this is my holy grail. I usually go over my t-zone a second time with a more heavy duty powder (KVD setting powder or Coty Airspun). I have pretty prominent smile lines that I'll touch-up once or twice but there isn't any significant creasing. I'd say the only downside is the packaging, the little lid broke off after 3 or so weeks of using it but I didn't care much for it so it's not that big of a deal. I will say the box it came in was probably the nicest packaging I've seen used in makeup, the orange print was really pretty."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "very fine powder and has the blurring effect that I love"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Blue eyes, red hair, lightMedium skin tone, Combination skin",
-			"review_text": "This setting powder really disappointed me…it does not melt into my skin! It sets on top of the foundation & won’t blend. It leaves white spots all over my face!"
-		},
-		{
-			"review_title": "No good for setting concealer",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "It looks like nice, feels nice but it just not set the concealer, I tried it with the ami cole concealer and some of my best concealer but it just won’t set and crease so bad, wish I could return this crop."
-		},
-		{
-			"review_title": "Unfreakingbelievable!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "This is the GOAT of powders! I'm extremely fair, so the problem I have with translucent powders is a lot of them darken my concealer/foundation, which then makes my face look a shade or two darker than the rest of my body. This powder maintains the color of my base products while setting my makeup so it doesn't move at all. Plus, it mattifies, but it doesn't mattify so much that my face looks two-dimensional or like I have no life in my skin. It's very natural, high quality, and blurring to boot. Such a fantastic powder and it should be getting WAY more hype!"
-		},
-		{
-			"review_title": "A new staple piece!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Previously used Wet & Wild Setting Powder, but realized it has talc and now I pay attention to the ingredients. Love that his product is talc-free. I apply this to my forehead for the shine and under eyes to prevent my eyeliner from smudging. Definitely does the job to stop the eyeliner from smearing by the end of the day. I don't think any product will completely stop the natural oil/shine, but it helps!! Also love the design of the container, especially the swifter net. It's like a tiny trampoline that allows only so much powder to come through once you dab it with a makeup brush."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "Solid setting powder! Love that it’s talc free. I usually stick with a glowy base, and this takes away the shine in the T-zone but not the glow."
-		},
-		{
-			"review_title": "Perfect setting powder!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "This setting powder makes your make-up FLAWLESS! I never realized the power of baking until I tried this setting powder."
-		},
-		{
-			"review_title": "Competes against a $49 powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "For reference, I have oily and eczema prone skin. Photos were taken after hours of wear with the Ami Colé skin tint in Medium 2 without any filters.  It's soft, finely milled, with ZERO flash back. It's similar in texture to the Hourglass setting powder. AMI COLÉ has been my new favorite everyday powder because it keeps my makeup true to tone. It wear well against sweat, and can cut down on oiliness while keeping skin looking fresh. It's not intended to be mattifying and I'm okay with that. For the price and the range alone, go for THIS instead of the $49 HG powder. It works great dusted over sunscreen, too.  Minus 0.5 stars if I were to be nitpicky: The tinted powder can slightly darken my under eye concealer. Opt for the translucent powder in that case. The last thing to take note of is the accessibility of the packaging. I appreciate how it seals to prevent spillage, however it can be hard to open so keep that in mind for people with long nails, mobility issues, etc.  Overall, it works well with brushes, powder puffs and it smoothes out my skin texture. This powder is now on my roster!"
-		},
-		{
-			"review_title": "A MUST HAVE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "THIS IS THE BEST SETTING POWDER ON THE MARKET! Especially if you’re of deeper skin tone! There is nothing like it! It literally melts into the skin and doesn’t leave a white cast or flashback."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
-			"review_text": "I have been on a long journey to find a powder that’s perfect: clean ingredients, applies seamlessly, doesn’t look cakey, and works to mattify and perfect. I finally found it! This works better than any other powder (even outside the clean beauty brands). This is a fantastic life changing product-thank you!"
-		},
-		{
-			"review_title": "Perfect Balance",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
-			"review_text": "This is a great silica powder to set and blur your makeup but what I love most about it is that it mattifies but does not dull out your glowy products. This leaves your highlight intact and doesn't interfere with the makeup you are trying to set.   I included a photo comparing it to two other Talc Free, Silica based Translucent powders, over UD Face Tape Foundation and 3 swipes of Rare Beauty Liquid Highlighter in Flaunt.  The LM one preserves glow, but it actually adds luminosity too so it is not mattifying. The It one has a slight iridescence to the naked eye, but actually applies extremely matte and tends to dull down glowy products.   None of these powders are bad, but just know what kind of finish you want and what you are buying and how you want to use it. I think the Ami Cole is a perfect balance to mattify without diminishing glow! Would definitely repurchase!"
-		},
-		{
-			"review_title": "Exceptional",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
-			"review_text": "I accidentally purchased the deep/medium instead of the translucent. In the end it didn’t matter because the powder is just so wonderful it’s smooth and skin like and lasts throughout theday day￼￼￼"
-		},
-		{
-			"review_title": "The best",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Amazing amazing amazing.  I love this stuff.  It doesn’t move your makeup during application.  The only thing that keeps me matte.  I love this stuff so much.  Even more for the price."
-		},
-		{
-			"review_title": "It’s was okay.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
-			"review_text": "Makeup reviews are tough because makeup is so subjective. This just didn’t work for me personally but I don’t think it was a bad product. I returned it."
-		},
-		{
-			"review_title": "Amzed",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
-			"review_text": "This is the best powder I've used! So good. Looks so nice in person and on my skin. Beautiful, beautiful powder. I'm so amazed!"
-		},
-		{
-			"review_title": "Sad",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "it makes me so sad to say this but it was wayyy too dry for me and i have combo skin, it turned my makeup orange (i wear no foundation only concealer) My CT powder sets better."
-		},
-		{
-			"review_title": "wasn't for me",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I followed the directions on the box so I couldn't mess it up. I felt like too much powder came out but I used a large powder brush as recommended and tapped lightly. Maybe the foundation I used didn't work with this and made me looked more textured that I truly am but it was wonderful around my eyes. Helped to set my undereye concealer...no creasing. I'm just gonna say no."
-		},
-		{
-			"review_title": "New Holy Grail!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Smoothest powder I’ve found so far! Better than my Hourglass Loose Setting powder. Doesn’t leave streaks if you cry!!"
-		},
-		{
-			"review_title": "nice setting powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I really like this setting powder and the packaging. I got the translucent color for my medium tan skin. I have combo skin - dry under eyes, can get oily in the t zone and also sensitive. This doesn’t cling to my dry spots and does a great job of blurring. Also has no fragrance. The packaging is A+ for me! I like the little soft and springy mesh thing inside. I read other people had some issues with the packaging and it spilling, but I’ve had no problems so far."
-		},
-		{
-			"review_title": "Lightest silkiest powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "The best powder I have ever used. Lately every foundation, tinted moisturizer has been looking horrible. I try setting sprays nothing helped. I took a chance after reading reviews and it’s changed how I look. My skin looks airbrushed. This powder is so light goes on beautifully. Feels so good on my face. My color is light- medium so bought translucent. I do use a setting spray so I don’t look too powdery. I do hope more colors will come out for light complexions because the powder is perfect. It really feels like powder melts into your skin. I have dry skin this was magic. I don’t write many reviews I just wanted to help others out there maybe unhappy with how their skin was looking. I don’t have to cry anymore looking in the mirror."
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Medium skin tone, Dry skin",
-			"review_text": "I’m loving this setting powder I have combo skin and tends to get oily even with really well known brands I still get my skin oily but with this Ami Cole setting powder my makeup and skin stayed flawless and not oily"
-		},
-		{
-			"review_title": "One of the best powder out there",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I tried this product based on a small good review. OMGGGGGG it is soooo good. It's blurring, natural, and looks great all day. I'm surprised. This powder makes me want to explore more products from this brand."
-		},
-		{
-			"review_title": "This is it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Even in 2023 I still love the “baking” technique and this powder truly melts into your skin. It provides the perfect finish and lasting power."
-		},
-		{
-			"review_title": "One of the best",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I’ve struggled with setting powders in the past but this one has changed the game for me. It’s so soft and lightweight yet perfectly sets my makeup and under eye concealer. The color has no flashback and is TALC FREE."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "Love the powder, hate the packaging. The lid doesn’t close properly and it gets all over my makeup bag. But the powder is perfect, it gives a flawless matte finish"
-		},
-		{
-			"review_title": "Lovely natural powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, brown hair, fairLight skin tone, Dry skin",
-			"review_text": "Loved this powder and the finish it gives. It’s not overly matte, it’s a pretty natural finish that left my face looking very fresh. I didn’t find that it clung to any dry patches. It’s now my go-to daily powder."
-		},
-		{
-			"review_title": "SET .... BET",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "This brand has yet to disappoint me. I have a light- medium, olive/neutral complexion. I decided to go with the translucent powder.   I have combination skin. It is dry, but can get oily throughout the day.   I used a brush and applied this on my bare face to see if it does keep the skin matte. It has a beautiful natural matte finish. It doesn't give you that I just dipped my face in cocaine look.   I haven't tried it with my concealer, but I am confident it will work well.   If any of you used the setting powder for COVERFX, this reminds me of it, except this one is so much lighter.   For amount and price point 10/10 Finish 10/10 Flawless  10/10"
-		},
-		{
-			"review_title": "Loving this ❤️",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "This powder is beautiful. It is such a good shade on my skin and so brightening under my eyes. I do notice a bit more dryness using this under my eyes. It does help keep oil at bay."
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "Hands down the best loose powder I’ve ever used. I really appreciate that it is talc free and it’s melts so nice into the skin."
-		},
-		{
-			"review_title": "STUNNED (oily gal must!)",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "I know Ami Colé is geared toward the beautiful melanin beauty community but I love trying out new powders. I was immediately blown away by this product. It’s super ultra blurring and definitely matte. After a full day trying a new moisturizer that made me look like a disco ball I tried this out and my goodness. Immediately removed every drop of shine. My skin looked like perfection! Even though it’s blurring and mattifying,  new moisturizer that made me look like a disco ball I tried this out and my goodness. Immediately removed every drop of shine. My skin looked like perfection! Even though it’s blurring and mattifying, it doesn’t look like a cakey powder. Must have for oily gals"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Translucent - for all skin tones",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "First translucent powder I've found that melts into my skin. I have combination skin and this works well for oilier spots without clinging badly to dry patches."
-		},
-		{
-			"review_title": "melts into the skin and leaves a natural no makeup",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "I love this product. I have oily skin, if you’re looking for a super mattifying powder this is not it. For me, I prefer to use mattifying primers before my Ami Cole skin tint. This powder is perfect, light weight and it keeps the oil at bay. It melts into the skin and leaves a natural no makeup makeup matte finish. It’s replaced the Laura Mercier powder for me. Will def rebuy"
-		},
-		{
-			"review_title": "Best Translucent Powder for Deep Skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "A translucent powder that is ACTUALLY translucent on dark skin! Melts into your makeup and keeps it in place for hours!"
-		},
-		{
-			"review_title": "Use it daily",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Dry skin",
-			"review_text": "This is a great powder. I like it better than Tatcha's!"
-		},
-		{
-			"review_title": "A Clean, Gorgeous Powder",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Light skin tone, Normal skin",
-			"review_text": "Works like a dream. Blends nicely, doesn’t settle, melts well over makeup. Love it with their Ami Cole tinted moisturizer honestly."
-		},
-		{
-			"review_title": "Next level Blurring and Natural Effect!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Normal skin",
-			"review_text": "So happy this product is on Sephora now. This powder is what made me start wearing powders. It has this blurring effect that literally makes you look airbrushed without even making it obvious you are wearing makeup. Truly next level"
-		}
-	]
+    "product_id": "31",
+    "name": "Skin Melt Talc-Free Loose Setting Powder",
+    "brand": "Ami Colu00e9",
+    "categories": "Makeup, Face, Setting Spray & Powder",
+    "price": 30.0,
+    "about": "What it is:A superfine setting powder with a matte finish that melts into skin to extend makeup wear without flashback or a cakey look..Coverage:Light.Finish:Matte.Formulation:Loose Powder.Highlighted Ingredients:- Hyaluronic Acid: Retains moisture and visibly enhances skinu2019s elasticity..Ingredient Callouts:This product is vegan, gluten-free, and cruelty-free..What Else You Need to Know:Infused with hyaluronic acid, this lightweight, talc-free formula sets your makeup without flashback or a cakey finish.",
+    "ingredients": "-Hyaluronic Acid: Retains moisture and visibly enhances skinu2019s elasticity..-Baobab Seed Extract: Hydrates and nourishes skin...Synthetic Fluorphlogopite, Silica, Lauroyl Lysine, Caprylic/Capric Triglyceride, Squalane, Adansonia Digitata Fruit Extract, Hibiscus Sabdariffa Flower Extract, Sodium Hyaluronate, Glycerin, Pentylene Glycol, Glyceryl Caprylate, Hectorite, Dehydroacetic Acid, Glyceryl Undecylenate, Amethyst Powder, Quartz, Aqua (Water). May Contain (+/-) CI 77491 (Iron Oxides), CI 77499 (Iron Oxides), CI 77492 (Iron Oxides)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Flip jar over and give it a shake. .-Flip jar back up, twist open cap, and lift up flapper to reveal powder. .-Dip a powder brush into the sifter net, then tap off any excess powder. .-Apply all over or to targeted areas to visibly reduce shine and set your makeup.",
+    "num_reviews": 111,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/skin-melt-talc-free-loose-setting-powder-P503732?skuId=2631851&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2631851-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Rich / Deep",
+            "shade_descriptor": "for rich to deep skin tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2631851-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Deep / Medium",
+            "shade_descriptor": "for deep brown to medium skin tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2631844-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Translucent",
+            "shade_descriptor": "for all skin tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2631836-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "A little goes a long way!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "A little goes a long way! I donu2019t use a brush, I use a puff. It makes my skin look great! I have oily skin fyi. Iu2019m buying one for my sister as a gift so she can try it too"
+        },
+        {
+            "review_title": "Favorite acne-safe powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I tried a few acne-safe powders (inputting ingredient lists into Acne Clinic NYC) and this one is by far my favorite. Plus the price is amazing. No glitter/shimmer, no scent, just a soft, finely-milled powder that wonu2019t clog pores and that sets makeup beautifully!"
+        },
+        {
+            "review_title": "I'm impressed",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Tan skin tone, Oily skin",
+            "review_text": "I purchased this powder directly from the brand's website. Although the translucent seemed to have a slight pink tint imo, I really like how this powder kept my make up softly matte for several hours - in spite of several hot flashes. I normally like Hourglass powder, but decided to try this more budget friendly option, and was glad that I did."
+        },
+        {
+            "review_title": "Cool packaging, disappointing product",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
+            "review_text": "I like that this is truly translucent, but itu2019s not the best setting powder out here in this price range. The packaging is so good, but this does not blur pores or texture, doesnu2019t really mattify, or have great longevity. I love this brand, but I would skip this product."
+        },
+        {
+            "review_title": "Total fail - will be returning",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Dry skin",
+            "review_text": "Hated this, for three reasons:  1. The sticker over the mesh did not prevent a bunch of powder from pouring out during shipping. There's no way to get it back under the mesh. It's a mess. 2. The powder doesn't do anything???? No mattifying, no blurring, absolutely no effect whatsoever. 3. I used it around my eyes and ended up with an itchy rash. Not great!"
+        },
+        {
+            "review_title": "Good alternative",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "Love the packaging and the super fine loose powder. Itu2019s not as great at blurring as Cieleu2019s loose powder, but I still give it 4 stars for the packaging. However, I wish it had a built-in mirror, that itu2019d come with a puff, and be careful of inhaling the powder as you blot or swirl on your face with a brush - definitely make sure to tap off excess powder!"
+        },
+        {
+            "review_title": "A new staple!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I was on the hunt for a talc-free powder and this did not disappoint. Performs great under-eyes, doesn't look cakey. Minimizes the look of pores and melts beautifully into the skin. Such an affordable option, and love the functional packaging."
+        },
+        {
+            "review_title": "Does absolutely nothing; a big Pass",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, Fair skin tone, Normal skin",
+            "review_text": "Like another reviewer stated, it is absolutely pointless.  I have very dry skin, so I don't need a powder to do much, just to take away some shine from dewy products (right when applied, like I said my skin is dry and I don't get a drop of oil on my face throughout the day) and to set my makeup.  It does neither, after applying this poweder,  foundations (skin tints etc..)  stay exactly as dewy and as tacky as if I hadn't applied anything.  I tried using a loose powder brush, a dense brush, a powder puff, different foundations, no moisturizer underneath foundations, in other words I tried everything and this powder does absolutely nothing.  The powder is extremely finely milled, but I think to an extreme, and it gets to the point where it feels almost like it is 2 steps away from becoming a cream, therefore does absolutely nothing to take away shine and set makeup.  I don't like to return makeup and I actually tried to sell it for the same half of price that I paid for it (with Sephora points- which I didn't get back after the return) and no one wanted to buy it, I completely understand why."
+        },
+        {
+            "review_title": "Pointless",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "Honestly makeup is so expensive, this powder doesnu2019t keep the shine away. Iu2019m combo skin but def lean more to the dry side. I feel like this powder was pretty pointless, it doesnu2019t set anything and I end up looking how I looked if I didnu2019t set my face."
+        },
+        {
+            "review_title": "Silky Powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "This powder is beautiful! It does melt in your skin but takes away the shine! I have acne-prone skin. This is amazing!"
+        },
+        {
+            "review_title": "Will never be without this powder!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "So blurring and never looks cakey. Beats all my other powders by a long shot!"
+        },
+        {
+            "review_title": "Affordable clean option",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Love this product! Itu2019s upsetting that I canu2019t purchase anything else from the brand since they arenu2019t inclusive of lighter skin tones."
+        },
+        {
+            "review_title": "Holy grail powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "This is my new holy grail powder. I researched high and low for both a clean ingredient AND non-comedogenic loose powder, and this was the only one I could find. Luckily, it performs amazingly too!!"
+        },
+        {
+            "review_title": "Eh.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "Itu2019s ok, nothing special. No noticeable blurring effect. Debating whether to keep it. I usually use the makeup forever setting powder which costs more but I think works better."
+        },
+        {
+            "review_title": "i love this powder!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "i just tried this product this morning and i am in love! i paired it with the kosas concealer which i also just got and finally no creasing under my eyes!! blurring and smoothing too! i will definitely repurchase"
+        },
+        {
+            "review_title": "I will use this powder forever!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "I love this powder itu2019s smoothing, blurring, and truly translucent. I love that doesnu2019t give a super flat matte look, but keeps me oil free. Itu2019s kinda magical!"
+        },
+        {
+            "review_title": "Sooooo in loveeee",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "Iu2019ve never written a review for a makeup item before. This is amazing and I canu2019t believe I found it. Iu2019ve never been so impressed with a product/powder before. My skin doesnu2019t look like I have any makeup on. Itu2019s amazing."
+        },
+        {
+            "review_title": "The best setting powder Iu2019ve ever used!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Fair skin tone, Oily skin",
+            "review_text": "Amazing! Seriously the best setting powder Iu2019ve ever used. In the morning I layer various creams, lotions, sunscreen and this powder made me matte yet still radiant and not oily. The longevity is amazing, even after an 8 hours shift and working out, my skin wasnu2019t oily. I cannot recommend this powder enough! And I love that itu2019s talc free and doesnu2019t oxidize <3"
+        },
+        {
+            "review_title": "Beautiful setting powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
+            "review_text": "Such a beautiful powder.  It sets my makeup so nice and it doesnu2019t look heavy or dry on my skin.  I am surprised there are not more people talking about this product."
+        },
+        {
+            "review_title": "A wonderful surprise",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Normal skin",
+            "review_text": "I rarely bother to leave reviews, but I wanted to give this product some love! I had never heard of this brand before, but someone recommended this to me when I was in the market for a new translucent powder so I gave it a try. Wow! It does such a great job setting my concealer under my eyes. I usually dust some all over my face and it plays so well with every type of makeup I own. This is never cakey and honestly has been fool proof for me so far. My ONLY complaint, and itu2019s not enough to deduct a star, is that the packaging can be messy when you open it. I always seem to get powder on my vanity or clothes, but it does easily brush off. Give this a try if you are looking for a new loose powder!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I really enjoyed this loose powder. I have combination oily skin and this did help my oils stay at Bay throughout the day, but will need to wear it more often and with different foundations to see what works best with it."
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "I'm obsessed with this setting powder! It's talc-free and has a lightweight texture that blends effortlessly into the skin. The matte finish looks natural and keeps my makeup in place all day. I love that it's infused with Hyaluronic Acid and Baobab Seed Extract to keep my skin hydrated. Plus, it's easy to apply and doesn't leave a cakey or chalky residue. Overall, it's my go-to for a flawless, long-lasting look. Highly recommend!"
+        },
+        {
+            "review_title": "So lightweight",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "This Loose Powder is amazing, love that itu2019s talc free and so lightweight on your skin. Great finishing touch on my makeup that really blends in well. Do wish it came with its own applicator though but actual product is great"
+        },
+        {
+            "review_title": "Bought with my own money during the Spring Sale...",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Dry skin",
+            "review_text": "...been testing out for a few weeks now. I'm usually averse to loose powder because it requires more precision and blending but I prefer how loose looks under my eyes. Long story short I've tried every brand Ilia, RMS, Saie, FitGlow Beauty. None and I mean NONE are as finely milled and almost creamy as this one, some were downright gritty! I saw on the package this is made in Italy. The price is incredible for something like this. I bought these teeny tiny finger pad powder puffs and love dipping them into this mesh compnent to tap under my eyes. Wears beautifully. It's a winner."
+        },
+        {
+            "review_title": "Great product!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "I love how this powder works on my skin! I have normal to dry skin and it does not look patchy and dry! I donu2019t always use powder for that reason and this is my new favorite. I would recommend you to try it! The price for this product is very good!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Blue eyes, Combination skin",
+            "review_text": "I love that this is talc free! I have sensitive and acne prone skin, and Iu2019m always hesitant to try new products. I think it does reduce shine and absorbs oil. I also think it helps keeps my makeup looking really good throughout the day! I think the packaging is not very messy either which is great!"
+        },
+        {
+            "review_title": "My new go-to",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I love how this sets up your makeup but does not take your glow away, plus itu2019s talc free, plus the price, I have to try out more products from this brand! Thank you Ami Cole and Sephora."
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "This looks beautiful on my face and the product on my hand, loving the texture of the product and the look and feel of the product. The quality is too good and I am falling in love with the product every single time I am using it ."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "Normal skin",
+            "review_text": "I love how beautifully this product looks on my skin and really works to brighten up my skin without being too noticeable. Itu2019s a very fine powder and it doesnu2019t crease like a lot of similar product normally do"
+        },
+        {
+            "review_title": "So good",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "I received this product in exchange for this post. Omg Iu2019u2019 so impressed with this loose powder. First of al Im so happy that is talc free. My skin says thanks. This product worked so good for me that I recommend it"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Rich / Deep - for rich to deep skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This is now one of my favorite full face setting powders. It keeps my makeup in place all day, provides a flawless finish with a blurring effect without making your skin look dry and cakey. The formula is super lightweight and leaves a light matte finish. I also love how practical the packaging is, it reduces the amount of product i usually waste when I set my face."
+        },
+        {
+            "review_title": "Works well!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "This loose powder is so nice. Its very fine and gives me a smooth and flawless finish after doing my base. I was worried the translucent shade would be too light for me but it blends in nicely and gives a nice highlighted look to my undereyes!"
+        },
+        {
+            "review_title": "Light and airy",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This loose powder is very light and easy to blend in. A little goes a long way. The tint is a little light for my complexion but it works well for the area of my face I want to highlight. I love the texture, itu2019s very airy and makes my skin look flawless."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Oily skin",
+            "review_text": "This has quickly become my new favorite loose powder ever! It helps to set my makeup and makes it last throughout the day, all without looking cakey. I would say that this has more of a natural matte finish because it helps control my oils but my skin still has some glow to it after applying the powder. This product also gets bonus points from me because of the packaging. The packaging helps to reduce the amount of mess that normally occurs with loose powders."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "A new favorite. Clean ingredients. No talc. Not drying but gets the job done."
+        },
+        {
+            "review_title": "Clean and high performing powder, budget-friendly",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "This is my new favorite setting powder! The formula is amazing - easy to apply and blend in. It works great for my oily skin reducing shine and setting my makeup. I love that itu2019s talc-free and has very clean ingredient list overall. It doesnu2019t clog my pores or break me out. Just the best!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "So happy to have found a talc free powder! Iu2019m looking for long lasting, flawlessly set skin, but I always shy away from using something as harmful as talc. This powder is a savior! The little lid insert confused meu2014 I thought a sponge went there and was missing. Then I saw people using the lid to tap off excess powder and swirl the brush around for even coverage. So useful!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "I was gifted this product for an honest review and so far Iu2019ve loved it! Itu2019s super nice and doesnu2019t break me out. It also provides the perfect blurring effect for baking and doesnu2019t crease after a full night out."
+        },
+        {
+            "review_title": "Melts into skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I am loving this powder! It makes my makeup look so flawless and gives a matte finish without it looking cakey. I love how it gives such a nice blur to the skin making it look airbrushed.  I also noticed it made my makeup last all day and there wasnu2019t any flashback!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I got to try  the shade deep medium. I really like that it gives a matte finish and it keeps my makeup on longer. I also like that it gives a light coverage and it feels comfortable on my skin. I recommend it!"
+        },
+        {
+            "review_title": "smooth matte power",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "the Ami Cole Translucent Powder is a finely milled powder formula that effortlessly blurs imperfections while setting makeup in place without cakiness. It's perfect for baking the face because of its smooth, matte finish that lasts all day for a flawless complexion. gifted by ami Cole"
+        },
+        {
+            "review_title": "Butter",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I got this powder recently, when I tell you it makes my pores disappear, IT REALLY DOES. I am so in awe of how buttery smooth this powder is, it literally melts into your skin, does not make it look cakey at all."
+        },
+        {
+            "review_title": "Such a nice powder! I like it a lot!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "Iu2019ve tried a lot of lose powders and I have a couple of favorites but this one from Ami Cole has been on my list to try for the longest and Iu2019m so pleasantly surprised with how nice it is! The powder is super finely mild and it doesnu2019t add a white cast to my under eye, it sets my concealer without making that are look dry or cakey and wears very nicely throughout the day! I will be repurchasing it once I run out of it"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "Gray eyes, Combination skin",
+            "review_text": "Love this talc free loose powder by Ami Cole. Itu2019s super easy to use. It can be applied alone for an improvement in overall skin finish or it can be applied to set your make up, which is what I use it for. It makes my makeup last all day long without any need to retouch."
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Tan skin tone, Combination skin",
+            "review_text": "Skin melt talc free loose powder is such a great addition to my makeup routine. This is the final product I use in my routine and it helps to keep everything in place. Love the formula and it gives a nice matte finish"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Green eyes",
+            "review_text": "My skin is extremely dry, and I have uneven texture under my eyes. This powder is now my go-to for setting my under eyes. I never realized I needed a setting powder with hyaluronic acid until now. It's amazing; my face doesn't look cakey or dry, but it's perfectly set."
+        },
+        {
+            "review_title": "nice",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "I have been using this skin melt loose powder for a couple of days and i am truly enjoying it< it melts very easily into my skin and mattifies  under my eyes very well and is my now go to setting powder."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "",
+            "review_text": "I have really oily skin and this powder is amazing at keeping my oil at bay. I can bake with this powder and my face does not look cakey or dry at all. If youu2019re looking for a great powder that blurs your skin and does not have any flashback, this is the one!"
+        },
+        {
+            "review_title": "Very smooth and blurring",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "THE BEST setting powder I have found for my combination-oily skin. I try to find one that is not drying or not absorbent enough for my oily T-zone. So I have to look for one that is balancing. I found what I was looking for with Ami Colu00e9 Skin Melt Talc-Free Loose Setting Powder in rich deep. I have a dark skin tone, usually one of the darkest three in almost any foundation brand, so many setting powders may look good in real life but gives me horrible flashbacks in pictures. This does not. It doesn't separate my makeup after a couple hours of wear, a T-zone in check. Best of all it doesn't make my makeup look heavy. It has a blurring and smoothing effect."
+        },
+        {
+            "review_title": "Itu2019s a yes",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This powder is officially the one I will use to set my under eyes from now on. The way I didnu2019t know I needed a setting powder with hyaluronic acid in it like wow it is a game changer! Face does not look cakey or dry but it is set honey"
+        },
+        {
+            "review_title": "Wanted to love but broke me out like crazy",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I wanted to love this so badly but it immediately broke me out. It looks great and preformed well on my combo/oily/acne-prone skin but unfortunately everywhere I put it is now covered in acne. Silver lining is I guess I now know I can add Lauroyl Lysine to the list of things that break me out so I will know to avoid in the futureu2026? If you donu2019t have acne issues I envy you and you should not let my review deter you but if youu2019re very acne prone I would recommend avoiding this."
+        },
+        {
+            "review_title": "The best for dry skin or textured skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
+            "review_text": "Listen!! Givenchy and huda you name it Iu2019ve tried it even Chanel so forth this is the only powder I can use all over my face and under my eyes and it will leave the most natural finish ever not matte but satin !"
+        },
+        {
+            "review_title": "Absolutely beautiful!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I tried to get my hands on this forever, but it was always sold out. I finally got it and I understand the hype! Itu2019s an absolutely beautiful powder! It never looks heavy, no matter how much I apply. It keeps me matte, but not flat. It also blurs out my pores. Super happy with this purchase! Best loose setting powder I own!"
+        },
+        {
+            "review_title": "My Favorite Loose Setting Powder!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "By far the best loose setting powder there is! Blurs and doesnu2019t make the under-eyes look cakey! + this powder is actually translucent! Doesnu2019t alter my concealer shade! Amazing & love that itu2019s clean too! Will definitely repurchase!"
+        },
+        {
+            "review_title": "Kept me shine free all day!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "It really just melts into your skin and mattifies and blurs your skin instantly. It holds your concealer in place all day. I used it on top of the Ami cole concealer and skin enhancing stick and my face truly was shine free all day."
+        },
+        {
+            "review_title": "Creases and is drying",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I really wanted to love this powder. Iu2019ve been using it for 2 months, and Iu2019m going to go back to charlotte tilbury. It creases under my eyes and makes my whole face look cakey. :("
+        },
+        {
+            "review_title": "Everything from Ami Colu00e9 is top notch",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "Love this powder so much. It literally melts into your skin for a beautiful finish. Lightweight and doesnu2019t look cakey or dry (on dry skin at that)!"
+        },
+        {
+            "review_title": "Just average, nothing special.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "Underwhelming after hearing about how great it is because no matter what I do, it doesnu2019t blur anything. It still settles into fine lines. I also didnu2019t like how it sifted out into little balls instead of a pure fine powder. Going in with a sponge applied too much so I had to pour it into another container for each use, use a separate sponge or brush to break up the balls to create the fine powder, then go in with another tool for application. This would probably work great on someone younger than 35."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Normal skin",
+            "review_text": "This goes on well and sets nicely and looks so great.... and then lasts for all but an hour. It just disappears like I didn't use any powder at all. I wanted to like it, but it's not for me."
+        },
+        {
+            "review_title": "Super blurring and beautiful",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Thereu2019s a reason why this powder is always out of stock. Itu2019s stunning, probably my favorite powder of all time. I absolutely love it"
+        },
+        {
+            "review_title": "New holy grail",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "Tried soo many powders and this is it!! It reminds me of the hourglass powder but much more affordable. If you feel like most powder is drying but want to set your makeup, try this!"
+        },
+        {
+            "review_title": "Truly Translucent & No Flashback!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "The absolute best thing about this powder is that it's truly translucent & works for all skin tones. I prefer powders to be translucent as I don't like powders changing the shade of my liquid products/oxidizing them & there are very few truly translucent powders on the market that won't give flashback on tan/dark skin. it mattifies & blurs perfectly with only a small amount needed. So although the container looks small, it will last a long time. Very slept on product cause its not being sent everywhere as a PR freebie which generates a lot of fake hype but really surprised this hasn't organically went viral on Tiktok."
+        },
+        {
+            "review_title": "Buy this ! You wonu2019t regret it.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
+            "review_text": "Used this powder to set my Fenty 440 liquid foundation, my entire look changed. It is the most under rated setting powder on the market.  Perfect! Goes on light at first but blends perfectly."
+        },
+        {
+            "review_title": "Gorgeous powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "This quickly became a favorite for someone who isn't typically isn't a loose powder girl."
+        },
+        {
+            "review_title": "my current fave",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "this is my favorite powder in my rotation right now and for the price point you canu2019t beat it! i canu2019t attest to how well this will work for really oily skin types. my skin fluctuates between combo to normal to dry, and this powder does a great job setting my makeup without making me look really dry. i donu2019t love the performance for setting my under eyes as i tend to reach for a pressed powder to do so, but if you are someone who goes for more natural coverage under your eyes, it could be perfect. thereu2019s a reason this is always out of stock!"
+        },
+        {
+            "review_title": "The best translucent powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "The best setting powder Iu2019ve ever used!! It sets your makeup all day and gives a beautiful finish to the skin. The perfect balance between matte and glowly without spending $50."
+        },
+        {
+            "review_title": "A Wonderful Powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "I'm so happy to have this powder! It does a beautiful job of setting my face without making me look cakey or overly matte. I LOVE that I can support a Black, woman owned business and that the product is talc free. I tend to use powders for a really long time, so I'm glad that I have a new one that I'm so thoroughly happy with."
+        },
+        {
+            "review_title": "New favorite",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, fairLight skin tone, Combination skin",
+            "review_text": "I usually use the Huda Beauty baking powder because I need something blurring and long lasting, but this one has a great price and performs the same! Great for textured skin."
+        },
+        {
+            "review_title": "Great for dry skin!ud83dudc97",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Rich skin tone, Dry skin",
+            "review_text": "This is a beautiful setting powder. Very lightweight and gives and airbrushed finish with no flash backud83dudc97"
+        },
+        {
+            "review_title": "Don't get the hype",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "Not a fan of this powder, did not blur my pores at all and does not help with oil control at all, I also feel a heaviness that I don't with other powders but that could be my own oils. packaging is also messy. I'm returning and wouldn't recommend for skin types like mine."
+        },
+        {
+            "review_title": "Hands down, best powder for maturing skin!!!!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Combination skin",
+            "review_text": "I have been completely blown away this powder. I could not imagine that it would solve the problems I was having with powder settling in and exaggerating my fine lines, but I was happily proven wrong! Of course, the lines are still there, but they are WAY less obvious now, and I have a new product for life!!"
+        },
+        {
+            "review_title": "Blurring powder-wow!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "This is an amazing powder and the price point is just right. I use this to set concealer under my eyes and it gives it such a nice blurring effect that is not dry or cakey. Will always rebuy!"
+        },
+        {
+            "review_title": "Will never go back to any other powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Normal skin",
+            "review_text": "I love this powder so much not even just saying it to say it i really mean it. Iu2019ve had so many issues with my makeup not staying on or separating and looking oily after a full day wear but honestly this has made me makeup look so  so much better. It lasted me so so long I thought because the container isnu2019t as big as others it wouldnu2019t last. The mesh on there really helps you control how much powder is coming out. Ever since I switched to this powder so many people have told me my makeup looks so much more airbrushed/smooth. This powder really did make a big difference in my makeup. I love it because you can use it for the full glam and natural makeup days. After all the drug store and high end powders Iu2019ve tried this one is the only one that has worked for my skin. I even got my mom hooked on this powder. She loves it just as much as I do. When she gets compliments on her makeup she always says yeah itu2019s this new powder I tried ami cole. Lol I love that. Itu2019s so sad that itu2019s out of stock because this is the only powder that works for me. Iu2019m hoping it goes back in stock soon because mines run out and Iu2019ve got school in a couple of weeks. Iu2019m not trying to look greasy on the first day lol. Anyways if youu2019re thinking about buying this just get it because itu2019s worth it."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Oily skin",
+            "review_text": "I will never stop purchasing this!! Iu2019ve repurchased 3 times and I canu2019t say enough good things. Itu2019s truly translucent and keeps my oily skin looking perfect. Go. Buy. It. Now!"
+        },
+        {
+            "review_title": "A must-have for sensitive eyes",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "As someone who has very sensitive/dry eyes and has gone through their fair share of powders, this is my holy grail. I usually go over my t-zone a second time with a more heavy duty powder (KVD setting powder or Coty Airspun). I have pretty prominent smile lines that I'll touch-up once or twice but there isn't any significant creasing. I'd say the only downside is the packaging, the little lid broke off after 3 or so weeks of using it but I didn't care much for it so it's not that big of a deal. I will say the box it came in was probably the nicest packaging I've seen used in makeup, the orange print was really pretty."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "very fine powder and has the blurring effect that I love"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Blue eyes, red hair, lightMedium skin tone, Combination skin",
+            "review_text": "This setting powder really disappointed meu2026it does not melt into my skin! It sets on top of the foundation & wonu2019t blend. It leaves white spots all over my face!"
+        },
+        {
+            "review_title": "No good for setting concealer",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "It looks like nice, feels nice but it just not set the concealer, I tried it with the ami cole concealer and some of my best concealer but it just wonu2019t set and crease so bad, wish I could return this crop."
+        },
+        {
+            "review_title": "Unfreakingbelievable!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "This is the GOAT of powders! I'm extremely fair, so the problem I have with translucent powders is a lot of them darken my concealer/foundation, which then makes my face look a shade or two darker than the rest of my body. This powder maintains the color of my base products while setting my makeup so it doesn't move at all. Plus, it mattifies, but it doesn't mattify so much that my face looks two-dimensional or like I have no life in my skin. It's very natural, high quality, and blurring to boot. Such a fantastic powder and it should be getting WAY more hype!"
+        },
+        {
+            "review_title": "A new staple piece!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Previously used Wet & Wild Setting Powder, but realized it has talc and now I pay attention to the ingredients. Love that his product is talc-free. I apply this to my forehead for the shine and under eyes to prevent my eyeliner from smudging. Definitely does the job to stop the eyeliner from smearing by the end of the day. I don't think any product will completely stop the natural oil/shine, but it helps!! Also love the design of the container, especially the swifter net. It's like a tiny trampoline that allows only so much powder to come through once you dab it with a makeup brush."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "Solid setting powder! Love that itu2019s talc free. I usually stick with a glowy base, and this takes away the shine in the T-zone but not the glow."
+        },
+        {
+            "review_title": "Perfect setting powder!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "This setting powder makes your make-up FLAWLESS! I never realized the power of baking until I tried this setting powder."
+        },
+        {
+            "review_title": "Competes against a $49 powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "For reference, I have oily and eczema prone skin. Photos were taken after hours of wear with the Ami Colu00e9 skin tint in Medium 2 without any filters.  It's soft, finely milled, with ZERO flash back. It's similar in texture to the Hourglass setting powder. AMI COLu00c9 has been my new favorite everyday powder because it keeps my makeup true to tone. It wear well against sweat, and can cut down on oiliness while keeping skin looking fresh. It's not intended to be mattifying and I'm okay with that. For the price and the range alone, go for THIS instead of the $49 HG powder. It works great dusted over sunscreen, too.  Minus 0.5 stars if I were to be nitpicky: The tinted powder can slightly darken my under eye concealer. Opt for the translucent powder in that case. The last thing to take note of is the accessibility of the packaging. I appreciate how it seals to prevent spillage, however it can be hard to open so keep that in mind for people with long nails, mobility issues, etc.  Overall, it works well with brushes, powder puffs and it smoothes out my skin texture. This powder is now on my roster!"
+        },
+        {
+            "review_title": "A MUST HAVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "THIS IS THE BEST SETTING POWDER ON THE MARKET! Especially if youu2019re of deeper skin tone! There is nothing like it! It literally melts into the skin and doesnu2019t leave a white cast or flashback."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+            "review_text": "I have been on a long journey to find a powder thatu2019s perfect: clean ingredients, applies seamlessly, doesnu2019t look cakey, and works to mattify and perfect. I finally found it! This works better than any other powder (even outside the clean beauty brands). This is a fantastic life changing product-thank you!"
+        },
+        {
+            "review_title": "Perfect Balance",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "This is a great silica powder to set and blur your makeup but what I love most about it is that it mattifies but does not dull out your glowy products. This leaves your highlight intact and doesn't interfere with the makeup you are trying to set.   I included a photo comparing it to two other Talc Free, Silica based Translucent powders, over UD Face Tape Foundation and 3 swipes of Rare Beauty Liquid Highlighter in Flaunt.  The LM one preserves glow, but it actually adds luminosity too so it is not mattifying. The It one has a slight iridescence to the naked eye, but actually applies extremely matte and tends to dull down glowy products.   None of these powders are bad, but just know what kind of finish you want and what you are buying and how you want to use it. I think the Ami Cole is a perfect balance to mattify without diminishing glow! Would definitely repurchase!"
+        },
+        {
+            "review_title": "Exceptional",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+            "review_text": "I accidentally purchased the deep/medium instead of the translucent. In the end it didnu2019t matter because the powder is just so wonderful itu2019s smooth and skin like and lasts throughout theday dayufffcufffcufffc"
+        },
+        {
+            "review_title": "The best",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Amazing amazing amazing.  I love this stuff.  It doesnu2019t move your makeup during application.  The only thing that keeps me matte.  I love this stuff so much.  Even more for the price."
+        },
+        {
+            "review_title": "Itu2019s was okay.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "Makeup reviews are tough because makeup is so subjective. This just didnu2019t work for me personally but I donu2019t think it was a bad product. I returned it."
+        },
+        {
+            "review_title": "Amzed",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
+            "review_text": "This is the best powder I've used! So good. Looks so nice in person and on my skin. Beautiful, beautiful powder. I'm so amazed!"
+        },
+        {
+            "review_title": "Sad",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "it makes me so sad to say this but it was wayyy too dry for me and i have combo skin, it turned my makeup orange (i wear no foundation only concealer) My CT powder sets better."
+        },
+        {
+            "review_title": "wasn't for me",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I followed the directions on the box so I couldn't mess it up. I felt like too much powder came out but I used a large powder brush as recommended and tapped lightly. Maybe the foundation I used didn't work with this and made me looked more textured that I truly am but it was wonderful around my eyes. Helped to set my undereye concealer...no creasing. I'm just gonna say no."
+        },
+        {
+            "review_title": "New Holy Grail!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Smoothest powder Iu2019ve found so far! Better than my Hourglass Loose Setting powder. Doesnu2019t leave streaks if you cry!!"
+        },
+        {
+            "review_title": "nice setting powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "I really like this setting powder and the packaging. I got the translucent color for my medium tan skin. I have combo skin - dry under eyes, can get oily in the t zone and also sensitive. This doesnu2019t cling to my dry spots and does a great job of blurring. Also has no fragrance. The packaging is A+ for me! I like the little soft and springy mesh thing inside. I read other people had some issues with the packaging and it spilling, but Iu2019ve had no problems so far."
+        },
+        {
+            "review_title": "Lightest silkiest powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "The best powder I have ever used. Lately every foundation, tinted moisturizer has been looking horrible. I try setting sprays nothing helped. I took a chance after reading reviews and itu2019s changed how I look. My skin looks airbrushed. This powder is so light goes on beautifully. Feels so good on my face. My color is light- medium so bought translucent. I do use a setting spray so I donu2019t look too powdery. I do hope more colors will come out for light complexions because the powder is perfect. It really feels like powder melts into your skin. I have dry skin this was magic. I donu2019t write many reviews I just wanted to help others out there maybe unhappy with how their skin was looking. I donu2019t have to cry anymore looking in the mirror."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Medium skin tone, Dry skin",
+            "review_text": "Iu2019m loving this setting powder I have combo skin and tends to get oily even with really well known brands I still get my skin oily but with this Ami Cole setting powder my makeup and skin stayed flawless and not oily"
+        },
+        {
+            "review_title": "One of the best powder out there",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I tried this product based on a small good review. OMGGGGGG it is soooo good. It's blurring, natural, and looks great all day. I'm surprised. This powder makes me want to explore more products from this brand."
+        },
+        {
+            "review_title": "This is it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Even in 2023 I still love the u201cbakingu201d technique and this powder truly melts into your skin. It provides the perfect finish and lasting power."
+        },
+        {
+            "review_title": "One of the best",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Iu2019ve struggled with setting powders in the past but this one has changed the game for me. Itu2019s so soft and lightweight yet perfectly sets my makeup and under eye concealer. The color has no flashback and is TALC FREE."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Deep / Medium - for deep brown to medium skin tones",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "Love the powder, hate the packaging. The lid doesnu2019t close properly and it gets all over my makeup bag. But the powder is perfect, it gives a flawless matte finish"
+        },
+        {
+            "review_title": "Lovely natural powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, brown hair, fairLight skin tone, Dry skin",
+            "review_text": "Loved this powder and the finish it gives. Itu2019s not overly matte, itu2019s a pretty natural finish that left my face looking very fresh. I didnu2019t find that it clung to any dry patches. Itu2019s now my go-to daily powder."
+        },
+        {
+            "review_title": "SET .... BET",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "This brand has yet to disappoint me. I have a light- medium, olive/neutral complexion. I decided to go with the translucent powder.   I have combination skin. It is dry, but can get oily throughout the day.   I used a brush and applied this on my bare face to see if it does keep the skin matte. It has a beautiful natural matte finish. It doesn't give you that I just dipped my face in cocaine look.   I haven't tried it with my concealer, but I am confident it will work well.   If any of you used the setting powder for COVERFX, this reminds me of it, except this one is so much lighter.   For amount and price point 10/10 Finish 10/10 Flawless  10/10"
+        },
+        {
+            "review_title": "Loving this u2764ufe0f",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This powder is beautiful. It is such a good shade on my skin and so brightening under my eyes. I do notice a bit more dryness using this under my eyes. It does help keep oil at bay."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Hands down the best loose powder Iu2019ve ever used. I really appreciate that it is talc free and itu2019s melts so nice into the skin."
+        },
+        {
+            "review_title": "STUNNED (oily gal must!)",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I know Ami Colu00e9 is geared toward the beautiful melanin beauty community but I love trying out new powders. I was immediately blown away by this product. Itu2019s super ultra blurring and definitely matte. After a full day trying a new moisturizer that made me look like a disco ball I tried this out and my goodness. Immediately removed every drop of shine. My skin looked like perfection! Even though itu2019s blurring and mattifying,  new moisturizer that made me look like a disco ball I tried this out and my goodness. Immediately removed every drop of shine. My skin looked like perfection! Even though itu2019s blurring and mattifying, it doesnu2019t look like a cakey powder. Must have for oily gals"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Translucent - for all skin tones",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "First translucent powder I've found that melts into my skin. I have combination skin and this works well for oilier spots without clinging badly to dry patches."
+        },
+        {
+            "review_title": "melts into the skin and leaves a natural no makeup",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "I love this product. I have oily skin, if youu2019re looking for a super mattifying powder this is not it. For me, I prefer to use mattifying primers before my Ami Cole skin tint. This powder is perfect, light weight and it keeps the oil at bay. It melts into the skin and leaves a natural no makeup makeup matte finish. Itu2019s replaced the Laura Mercier powder for me. Will def rebuy"
+        },
+        {
+            "review_title": "Best Translucent Powder for Deep Skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "A translucent powder that is ACTUALLY translucent on dark skin! Melts into your makeup and keeps it in place for hours!"
+        },
+        {
+            "review_title": "Use it daily",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Dry skin",
+            "review_text": "This is a great powder. I like it better than Tatcha's!"
+        },
+        {
+            "review_title": "A Clean, Gorgeous Powder",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Light skin tone, Normal skin",
+            "review_text": "Works like a dream. Blends nicely, doesnu2019t settle, melts well over makeup. Love it with their Ami Cole tinted moisturizer honestly."
+        },
+        {
+            "review_title": "Next level Blurring and Natural Effect!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "So happy this product is on Sephora now. This powder is what made me start wearing powders. It has this blurring effect that literally makes you look airbrushed without even making it obvious you are wearing makeup. Truly next level"
+        }
+    ]
 }

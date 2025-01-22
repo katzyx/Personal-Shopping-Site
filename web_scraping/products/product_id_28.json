@@ -1,1057 +1,1057 @@
 {
-	"product_id": "28",
-	"name": "Skin-Enhancing Lightweight & Blurring Foundation Stick",
-	"brand": "Ami Colé",
-	"categories": "Makeup, Face, Foundation",
-	"price": 39.5,
-	"about": "What it is: A breathable, buildable medium coverage foundation stick that provides a blurred, soft-focus finish...Coverage: Medium..Finish: Natural..Formulation: Stick..Highlighted Ingredients:.- Baobab Seed Oil: Nurtures skin and prevents moisture loss..- Shea Butter: Leaves skin feeling nourished and supple..- Soft-Focus Powder: Cuts down on excess shine and imparts a blurred, true-skin finish...Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free...What Else You Need to Know: This unique formula glides comfortably over skin and contains Shea Butter and Baobab Seed Oil to nourish the skin and help prevent moisture loss. The lightweight stick format and seamless blending make it easy to touch up throughout the day and on the go....Clean at Sephora.",
-	"ingredients": "-Baobab Seed Oil: Nurtures skin and prevents moisture loss..-Shea Butter: Leaves skin feeling nourished and supple..-Soft-Focus Powder: Cuts down on excess shine and imparts a blurred, true-skin finish...Dimethicone, Octyldodecanol, Synthetic Wax, Corn Starch Modified, Silica, Ethylene/Propylene Copolymer, Adansonia Digitata Seed Oil, Hibiscus Sabdariffa Seed Oil, Butyrospermum Parkii (Shea) Butter, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Disteardimonium Hectorite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Polyhydroxystearic Acid. (+/-): Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.Light coverage:.-Swivel up the foundation stick and swipe onto skin..-Blend in with a brush or clean fingers..Medium coverage:.-Swivel up the foundation stick and swipe onto skin..-Blend in with a brush or clean fingers..-Add additional layers where extra coverage is desired.",
-	"num_reviews": 137,
-	"overall_rating": 4.7,
-	"product_url": "https://www.sephora.com/ca/en/product/ami-cole-skin-enhancing-lightweight-blurring-foundation-stick-P509657?skuId=2752343&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2752343-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "100",
-			"shade_descriptor": "rich cool neutral ebony",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752277-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "110",
-			"shade_descriptor": "rich neutral ebony",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752285-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "120",
-			"shade_descriptor": "rich ebony with red tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752293-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "130",
-			"shade_descriptor": "rich red brown",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752301-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "140",
-			"shade_descriptor": "rich neutral brown",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752319-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "150",
-			"shade_descriptor": "rich golden brown",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752327-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "200",
-			"shade_descriptor": "deep neutral brown with red tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752335-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "210",
-			"shade_descriptor": "deep brown with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752343-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "220",
-			"shade_descriptor": "deep golden olive brown",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752350-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "230",
-			"shade_descriptor": "deep neutral brown",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752368-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "240",
-			"shade_descriptor": "deep brown with yellow tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752376-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "300",
-			"shade_descriptor": "medium with red tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752384-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "310",
-			"shade_descriptor": "medium neutral with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752392-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "320",
-			"shade_descriptor": "medium neutral with olive tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752400-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "330",
-			"shade_descriptor": "medium with red tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752418-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "340",
-			"shade_descriptor": "light-medium with yellow tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2752426-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Feels great but slight oxidation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "I literally don’t feel this foundation on my face. I’ve got dry skin so definitely have to prep it before using. easily buildable. Just wish I saw that it oxidizes before buying bc 320 was perfect but oxidized a little orange, should’ve gotten the 340"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I have gone through several brands for foundation. And I feel like they all had something missing or didn’t quite work. This stick doesn’t make my skin feel oily, and it’s so lightweight. I enjoy that it has just enough coverage and not a heavy coverage where it looks cakey.  don’t d"
-		},
-		{
-			"review_title": "Truly 5 stars",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, mediumTan skin tone, Normal skin",
-			"review_text": "Well, I’ve used fenty liquid when it first came out and now the fenty blur stick for my dabbles into makeup and this one I saw an influencer using and returned fenty. This takes the cake. Under the inkey list sunscreen this is the best match I’ve found toskin."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "Really quick and easy to apply and builds up coverage easily without looking thick and heavy. I've used it 3-4 times now and each time blending out with a brush. I haven’t experienced any pilling with different moisturizers and sunscreens (chemical) I’ve tested underneath and plays really well with other creams, liquids, and powders on top. I haven't tried other stick foundations, but compared to the Ami Cole liquid skin tint/foundation (that I LOVE and is a perfect shade match in medium 2), the stick definitely has a more matte/natural finish. Shade 330 has a warmer undertone that’s making me feel a little more orange than usual. I can make 330 work with careful blending, but I prefer the olive undertone in the liquid. I might go into store and swatch other shades to see if there's a closer shade match in the stick, but overall I'm happy to have both Ami Cole skin tints/foundations now!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "Another hit by Ami Cole! I’m light medium neutral olive and this works. It pulls a little yellow on me as described but has enough olive that it doesn’t look off. I love the finish, especially when I layer it over Mac fix+ and pat it in with my fingers."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "210 - deep brown with golden tones",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "This is the most amazing foundation stick I’ve ever tried!! Near perfect match and stays on all day."
-		},
-		{
-			"review_title": "This is a staple in my morning routine.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I love this foundation stick. Perfect for my combination skin."
-		},
-		{
-			"review_title": "Perfect Stick Foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
-			"review_text": "This is a beautiful shade match for someone with med/tan olive skin. This pulls a little more yellow/warm to me than I would like but it’s not that bad at all. This is an incredible stick foundation. Medium coverage, but can be built up to full. This is my second time repurchasing, I love it and go through it quickly."
-		},
-		{
-			"review_title": "Must have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "Absolutely in love with this product. I’ve purchased 2 so far. Perfect for travel as well. Love the formula and long lasting wear!"
-		},
-		{
-			"review_title": "Great if you can find your shade!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "I just love how lightweight and skin like this stick is. I really wanted to keep it but 340 undertone is just too off. I always wear yellow undertones but this shade is more olive/green and makes me look a bit strange."
-		},
-		{
-			"review_title": "Your skin but better!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "So skin-like, a buildable foundation that looks natural. I found a great color match for my neutral undertone. And it wears beautifully all day! You know it's good when you get compliments on how your skin looks! Thanks Ami Cole!!"
-		},
-		{
-			"review_title": "INCREDIBLE color match!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Deep skin tone, Combination skin",
-			"review_text": "Only giving 4 stars because I get so greasy and this isn’t great at controlling super oily skin. But the color match is INSANE. I’ve never gotten any foundation product to match my skin this perfectly. I could cry at how amazing it is! That’s why I am going to find a way to make this long lasting at matte. I will try whatever powder and primer combo to make it work. Honestly if you have normal skin or dry skin this is for you though"
-		},
-		{
-			"review_title": "Great match, great price!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "The undertone match is absolutely flawless! I have tried numerous complexion products, but none have matched my skin as perfectly as this foundation stick. It's a must-have for anyone with a deeper skin tone who has struggled to find their ideal shade."
-		},
-		{
-			"review_title": "Love the application, finish, and color match!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Deep skin tone, Oily skin",
-			"review_text": "I love this brand.  The color that I actually ended up with was #210 deep golden brown (I exchanged it for a better complexion match), and it was the perfect color!  This formula applies very smoothly, is not heavy and buildable.  I'm very happy that I tried it, and will definitely repurchase!"
-		},
-		{
-			"review_title": "Did not emphasize dry patches!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "My skin has been extra dry and my usual go-to liquid foundations looked terrible (Estee Lauder and gucci). I was SO pleasantly surprised that this STICK foundation did not highlight my dry patches. I usually stay far away from powders and sticks, but I took a risk because this one had great reviews. It created a blurred effect without looking caked on. I am a huge fan and looking forward to trying more Ami Cole products."
-		},
-		{
-			"review_title": "Great option for the melanin-rich",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
-			"review_text": "To preface, the branding specifically mentions that it’s catering to melanin-rich skin, a demographic that has historically been neglected and not prioritized when establishing a skin range. I hope it helps lighter skin tones to realize that having as many options as they do is still a privilege that some of us don’t have. That’s the vision of the brand, and I have a lot of respect for that. To be the lightest skin tone in the range as a usually medium-tan yellow and olive skin person, it makes me giddy.  Regarding the foundation, I totally love it. It matches my skin PERFECTLY and gives “your skin but better” vibes. For my dry skin, it doesn’t emphasize my texture, and lasts a good amount of time before it fades pretty evenly. I only knocked one star because I don’t think it really builds to more than a medium coverage even though it claims it can be built to full, but it perfectly serves the purpose i bought it for."
-		},
-		{
-			"review_title": "total must have for this brown girl!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Tan skin tone, Combination skin",
-			"review_text": "I've been using this foundation stick for about a week, and find that it gives that perfected skin look while still looking incredibly natural. I love the shade 340 because it's very yellow, and that's exactly what I need as a NC42-ish complexion. It feels like nothing, and blends beautifully with a gentle blurring quality. The coverage is light-medium but can likely be built up (though I've never tried!), and because of that I think if you choose a color with your undertone that is as close as possible in terms of depth, it'll probably work if you're looking for light coverage which is what I prefer."
-		},
-		{
-			"review_title": "Brown girl must have!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
-			"review_text": "Bought this on a whim because i couldn’t find any complexion product that would match my “golden” undertone. I literally tried everything under the sun. This matches me so well. Please never stop making this 🤎🤎🤎"
-		},
-		{
-			"review_title": "The Only Foundation Stick That I Will Ever Need!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Oily skin",
-			"review_text": "I have found my exact shade!  Literally, no other complexion product has matched my color and undertones so precisely.  Moreover, it feels so good!  It glides on silky-smooth and provides full coverage while still looking like your natural skin.  It's definitely a My skin but Better product. 5 stars!!!!!!!!!!!!!!!"
-		},
-		{
-			"review_title": "Thoughts on shade range",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "As a light skinned person i was excited to try out this product. YES the shade range is limited, but as light skinned people this goes to show how privileged we have been to ALWAYS have the options. I think its silly to get mad at a brand for this, they have time to come out with more shades.. give them grace. I hope you all see how it feels to be excluded and instead of giving a bad review, reflect. Kudos for starting off with the shades YOU wanted to start with. Only  RECENTLY have brands dabbled into expanding shades and POC have been trying for YEARS to get that range. I see no problem with this its already hard enough to have variety, let this brand breathe."
-		},
-		{
-			"review_title": "They have the UNDERTONES",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "I’m a lighter skinned black woman who has struggled through aisles of very pink, red, and orange foundation undertones despite their description of more beige, yellow, neutral shades. 320 is the one for me. I would’ve never considered myself “olive” and mistakenly bought 340 which was a pale beige. This is the perfect yellow and I mean NATURAL hello that’s on the market. MAC NC42 has nothing on this. This is an inclusive shade range for darker complexions who are STILL not thought of in these expanded shade streets."
-		},
-		{
-			"review_title": "Good foundation stick - especially for simple make",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "I am usually a tinted-moisturizer girl but recently switched because of oily skin.  Smooth application and the cover truly is buildable especially with the right brush. It helps with oil and keeps it at bay longer than other stick foundations."
-		},
-		{
-			"review_title": "Another perfect product from Ami Cole",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
-			"review_text": "So far, I have loved all Amo Cole products I have purchased and this is no exception. I love the packaging because it's great for travel and it's so sleek. It also blends out so well - I used my fingers to initially test it and I did not prep my skin and it still looked beautiful. The coverage is buildable, so you can get some pretty decent coverage but it's not full. I have dry, sensitive, acne-prone skin and this did not irritate my skin nor did it enhance my dryness. I also wore it all day on a very humid day and I came home slightly dewy but it still held up perfectly. I will absolutely be purchasing again."
-		},
-		{
-			"review_title": "Uninclusive shades",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, gray hair, Light skin tone, Dry skin",
-			"review_text": "Why don’t they have a shade that’s lighter with pink undertones for me? Other brands get called out for un inclusive shade rages. Do better!"
-		},
-		{
-			"review_title": "Really wish there were more shades :(",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, red hair, Fair skin tone, Dry skin",
-			"review_text": "So we agree that making a foundation that has a shade range only for white and light skin people is not cool right? Inclusivity is the name of the game, yeah? So why then is the reverse ok? I don’t see the point of putting out a base product that excludes a whole group of skin tones. It’s a shame that some exist on the lighter end, but that doesn’t mean it’s cool to repeat the same bad practice just on the opposite side of the spectrum. Beauty inclusivity means for EVERYONE. Not cool. If you’re making a foundation or base product, make a shade range that covers ALL skin tones as well as you can, from super pale to super dark, or don’t bother at all."
-		},
-		{
-			"review_title": "Love",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "Love this foundation, feels great on the skin and looks beautiful"
-		},
-		{
-			"review_title": "Lives up to its name",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
-			"review_text": "This product is aptly named and is a rare perfect match for me. A little bit goes a long way."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Oily skin",
-			"review_text": "This is probably the best foundation I’ve used! It’s so lightweight, easy to blend, and super long wearing. I have very oily skin and found that it didn’t separate and I didn’t need touch up’s after a full day. I absolutely love it!"
-		},
-		{
-			"review_title": "My New Daily Go-To! LOVE!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
-			"review_text": "The Ami Cole enhancing stick is so good! Applies easily and surprisingly has a great coverage.  The stick is buildable, so you’re able to create the perfect coverage for any skin issues (hyperpigmentation/scars etc)."
-		},
-		{
-			"review_title": "Favorite foundation stick!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "The shade 240 is my perfect shade match. It has a beautiful natural finish. Perfect for on the go."
-		},
-		{
-			"review_title": "Perfect undertone match. Acne prone skin approved",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Oily skin",
-			"review_text": "I often find that foundations for darker skin tones are either way too red or way too yellow. for the first time I didn’t feel like I’m painting on a color over my skin and feel it get a natural blurring effect whiledoesn’t make my oily acne prone skin break out or react."
-		},
-		{
-			"review_title": "Great formula. Limited color range",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
-			"review_text": "Great formula. Light coverage. Very emollient and looks great on the skin. BUT, the color range is very limited. Too much yellow tone. 330 looks dark and orange on my Asian skin. A pity since everything else is great."
-		},
-		{
-			"review_title": "Great for everyday",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "I love the blend ability and coverage of this product! Finding a medium deep neutral tone complexion product is hard but they nailed it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Dry skin",
-			"review_text": "Packaging is gorgeous and formulation is amazing! Goes on super smooth and is easy to take on the go. I love packing in my vacation toiletry bag because it’s so small and useful on trips. Can’t stop using this"
-		},
-		{
-			"review_title": "Made my skin so radiant and blurred!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "Instantly made my skin look radiant and blurred. It was super easy to blend with fingers. Every time I looked in the mirror throughout the day, my skin just looked more and more radiant."
-		},
-		{
-			"review_title": "Love this!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "This blends perfectly well, I give this a 10/10!!! Love this foundation stick. It doesn’t give the feeling of makeup being caked on and it’s very lightweight. Definitely gives a natural type of look and it sits very well all day!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Green eyes, Combination skin",
-			"review_text": "This is everything!!! The texture, the color shade, the longevity! Yes yes yes I love how easy it is to blend. It’s medium coverage for me but it’s definitely buildable I use it as a bronzer and it’s the most gorgeous one I’ve used!"
-		},
-		{
-			"review_title": "Lovely formula",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "I am using 330 to contour/bronze. I initially bought 340 as my base color but the yellow undertone is off for me. The formula is so good, I decided to try a darker color for contrast. It would be awesome if they expanded the range but I understand if they won’t"
-		},
-		{
-			"review_title": "Holy Grail for Oily Skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I’ve never tried a more superior brand… and I’m a makeup addict/collector. For reference..I and 43, oily skin type, caucasian/Native American and shade 3 in Danessa Myrick’s Yummy Skin for reference. I am able to wear 340 in this formula and I’m glad it works for me. It’s honestly the best makeup brand I’ve ever tried. With that being said… I hope she plans to expand her shade range. And I totally understand the idea behind the brand, why it was created and I’m beyond glad it exists for this reason - AND I have to say she has an excellent product and I would love to see it thrive for both deeper skin tones as well as lighter and watch the success of her brand go above and beyond. I got the concealer and wish it was light enough for my skin… I like my concealer a little lighter than my actual skin tone. It may still work for me in the summer. But even though the color was not a match…when I say this is a holy grail concealer formula - I mean it! I’m glad I took a chance and tried this brand as it is my new favorite. The blush sticks are fantastic, the setting powder and the mascara and lip oils. I am totally in LOVE with her products. Absolutely no hate intended in my comment… I am glad the makeup industry is finally waking up to inclusivity… and I love her brand for being devoted to the women who’ve been left out of this category for far too long. But because it’s such a fantastic formula - I’m hopeful I’ll see some lighter shades added in the future. I’m so glad some of the shades work for me now and I will tell everyone I know they need to try this brand as I know they will fall in love the same as I have. Keep up the good work and please don’t ever stop making this foundation. It’s the only foundation that I have ever had work this well with my oily skin. Lots of love!"
-		},
-		{
-			"review_title": "Skin Flex Alert 💪🏽",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
-			"review_text": "Hello, Sephora Community Ambassador here giving my honest opinion about this product.   I'm really loving this foundation stick.   It's nice having a quick and easy to use complexion product for light makeup days, or a quick glam look.  It provides a skin like finish as advertised, but with a smooth, creamy texture.  You can apply it with fingers or a foundation brush, and the finish either way is great for my oily combo skin."
-		},
-		{
-			"review_title": "too dark",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Dry skin",
-			"review_text": "I like it but the lightest shade is too dark it seems odd after dark skin people complaining about not enough dark shades which I agree with them, but then to come out with their own makeup and not include light shades is very strange and offendable"
-		},
-		{
-			"review_title": "Yes you want it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "I wasn't sure what to think of it when I ordered because I hadn't heard anything about it. I tried it on and it's absolutely amazing natural coverage. Lightweight and a perfect match (at least in winter I'll need another shade for summer) it's amazing no makeup woke up like this makeup."
-		},
-		{
-			"review_title": "Best stick foundation I've tried so far",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "For reference, I have combination skin. I have an oily t-zone with a tendency to break out AND eczema prone skin. Pictures have ZERO filter. The picture where I wore shade 320 was taken after an 8 hour shift with the Ami Colé setting powder and concealer.  PROS: -This didn't stick to any dry patches. It smoothes out my texture. -Blends out beautifully with a brush or with fingers. -Flexible coverage. I've used it to spot correct hyperpigmentation, tried it as a sheer tint, and used it as a full coverage foundation. -Wears beautifully all day without separating or drying out. -The undertone selection is great. I have olive undertones and I tried shades 340 and 320, both were true olives! -The texture of the formula was very smooth. My pet peeve with a lot of stick foundations is that they feel too powdery, but this was emollient enough. -I've tried this over oil based, serum based, and water based primers and haven't had issues with pilling. I don't own silicone based primers, but I imagine that it would also blend well.  NIT PICKS: -While the foundation wore well throughout the day, I did end up with a sheen of radiance. I didn't mind because it looks skin-like, however keep this in mind for people who are very oily/are looking for a true matte. -Sponges are NOT ideal for blending. -This might require hydration focused skin prep for those with very dry skin. While this isn't drying, it might not provide enough moisture."
-		},
-		{
-			"review_title": "Beautiful finish",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Deep skin tone, Combination skin",
-			"review_text": "This literally glides on the skin effortlessly and so smooth. It's light weight and very easy to blend and it doesn't feel oily or heavy. It blends so well and honestly looks like skin. The color match top teir and I do feel it's buildable."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "300 - medium with red tones",
-			"review_buyer_description": "Medium skin tone",
-			"review_text": "This foundation stick is super blendable and I was able to find a really close shade match (which is usually very difficult for me). It has a very creamy formula with a natural finish as Ami Cole states."
-		},
-		{
-			"review_title": "Best Foundation Stick!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, gray hair, Tan skin tone, Combination skin",
-			"review_text": "This foundation deserves its own moment! I mean.. immediately when i applied the foundation to my skin, I can see the enrichment and my skin absorbed it in the best way. I had been experiencing dull skin and although skin care plays its role, it takes time. This foundation helped make my skin look glowy in little to no time but very natural! If you are in the market for a beautiful, natural, radiant foundation give this one a go. I PROMISE you won't regret it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Brown eyes, Deep skin tone, Normal skin",
-			"review_text": "I am absolutely in love with this foundation stick! The color match is amazing and the finish is radiant without being oily. I get so many compliments when I wear this foundation and creates the perfect base for my full face!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Combination skin",
-			"review_text": "I received this from the brand. I ended up selecting the wrong shade but still wanted to give this a try and it’s honestly a pretty good product. In the photo I only have one layer on it and blended it in with my fingers. It covered my acne scars pretty well but I did notice it clinging to some dry spots (but I also didn’t prep my skin before hand because I wanted to see how the product would apply on its own). The consistency is very butter and smooth application was very easy because the product didn’t tug on my skin. All in all I give this product a 8/10 because it does promise everything it says it does, medium coverage (could also be buildable), blurring and its a natural finish. The reason I don’t give it a 10/10 id because personally it’s not something I would normally pick up because it does have shea butter which will cause me to break out and I haven’t tested the wearability of it so I don’t know how it’ll look at the end of the day. However it is a good day to day product and I would recommend it."
-		},
-		{
-			"review_title": "Great foundation",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Oily skin",
-			"review_text": "Recieved as PR from the company for review. Light weight buildable coverage. Blends out amazingly and dosnt emphasize texture.  Skin looks relatively flawless and I would highly recommend this foundation"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "310 - medium neutral with golden tones",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "Really enjoyed this product! First it glides on the skin like a silky butter and blends into the skin smoothly and perfectly. I love the finish and its lasting power. Definitely a go to from now on! I have combo oily skin and it worked like magic."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Brown eyes, Deep skin tone, Combination skin",
-			"review_text": "This foundation stick is absolutely amazing! I’ve been obsessed with the skin tint for the past couple of months, but this foundation stick has completely taken over my obsession. It blends so seamlessly into the skin and feels very lightweight. I love to use it on the days where I need to go into the office and want a light beat."
-		},
-		{
-			"review_title": "Great coverage, smooth application and finish",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "Omg this foundation stick is so pigmented and coverage is smooth and buildable! It had a “makeup no makeup” finish and I felt so pretty! I do have hyperpigmentation with few dark spots, and it covered them flawlessly. This would have been my first ever foundation stick and I’m really pleased with it!"
-		},
-		{
-			"review_title": "Skin!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
-			"review_text": "I love this foundation! It gives the perfect “no-makeup” makeup look! The texture is soft and buttery and blends effortlessly! It looks so good on that I can barely tell that I have it on! Complimentary of Ami Cole"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, Oily skin",
-			"review_text": "Beautiful soft coverage. This stick is very good. It’s pigmented and beautiful. Lasts all day and very cute. It’s small enough to fit in your purse and travel with you. I love that it’s for tan-darker skin and honestly it’s so beautiful. It’s got a lovely natural finish and I used it for 9 hours and it did not crease cake or crumble."
-		},
-		{
-			"review_title": "Great light weight foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I love this foundation stick. I was a little skeptical at first because I’ve never tried a foundation like this before but it was so smooth and easy to blend on my skin. I got the shade 310 and it’s a tiny bit too dark for me but will look great in the summer!"
-		},
-		{
-			"review_title": "So good",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I received this product as a complimentary gift from the brand for testing purposes. Since I tried it what I notice was that my skin looked flawless, no added texture at all and the coverage was really good"
-		},
-		{
-			"review_title": "Perfect foundation stick!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "I love this foundation stick. It is super smooth and blends out beautifully.  It is a medium but buildable coverage. It is super lightweight and provides a light blur. I really love the formula because it’s not heavy and a natural finish. The only thing is that I got the wrong shade but otherwise perfect for a no-makeup look."
-		},
-		{
-			"review_title": "Beautiful and easy to use!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "Okkk let me just start by saying I’m not usually a stick foundation girl and I typically love more high medium coverage products. This is a super lightweight and incredibly blendable stick foundation that offers a light to medium (prob more if built up) coverage. I love it! It applies beautifully and it wears so well, even on my combo skin. I love the ease of use and honestly am so impressed overall. I just wish it came in more shades, I am in the lightest shade and it is on the verge of too dark/warm for me, when I usually use a light medium shade."
-		},
-		{
-			"review_title": "Favorite stick foundation I’ve used!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Tan skin tone, Oily skin",
-			"review_text": "I’m obsessed with this stick foundation, the coverage is very buildable so it can be light/medium coverage depending on what vibe you’re going for. I have been using it almost daily since I got it, mostly just to even out my skin tone and cover up any dark marks, and it blends so nicely into my skin that it looks like I’m not wearing any makeup at all. I’ve also used it with a full face of makeup on top, I love that my skin still looks like skin when I wear it and it’s not cakey or too thick at all. I have oily skin and this worked well for me, it gave just enough glow/dewy skin without looking too shiny. I was gifted this but will definitely be purchasing when I run out."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Brown eyes, blonde hair, Combination skin",
-			"review_text": "I’ve never used a foundation stick before but this one was really easy to use! It blends out easily. I use a brush to blend everything out. It provides a light coverage. The finish is more on the matte side. It feels light on the skin. Overall a good foundation for a more natural look."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "Hazel eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Beautiful Finish !! This foundation stick is definitely a 10 for me, the formula is smooth and velvety and glides on the skin effortlessly. The coverage is light to medium but buildable and it's not too heavy on the skin.The shade range is very good, It gives a nice blurring effect to the skin for that no makeup - makeup look and it's perfect for on the go."
-		},
-		{
-			"review_title": "The perfect on the go foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
-			"review_text": "I really love my skin enhancing stick! It provides great coverage and also blends so beautifully. I also love the amount of shades it comes in.  The packaging is also so chic and great for traveling and brining your makeup on the go!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "Love this foundation stick! I use it as a contour so I went a few shades darker. So smooth and amazing application! Blends out really well, had me looking super cute for my birthday! Definitely would love to try their other products"
-		},
-		{
-			"review_title": "New Easy Foundation Stick",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "Really enjoying my foundation stick. It definitely makes applying my foundation easier and quicker. My fav thing about it is the way it smoothly glides across face. It has a creamy texture, at first. Then it dries down a little. Which is great since I using set me foundation with a setting  powder.. Also, love the color shades that are offered.   I couldn’t try this on in store So, I chose a shade little than my skin color. This way I could use a darker shade to contour with, if needed."
-		},
-		{
-			"review_title": "Shade range is really disappointing",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Most of the time I search out and try to only purchase from black owned brands or indie brands but this is sadly not one I can repurchase from. The lightest shade is way too dark for me which is really disappointing."
-		},
-		{
-			"review_title": "My new travel foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "Enjoyed this foundation more than I thought I would. I usually prefer liquid foundation over stick. This foundation has light to medium buildable coverage. The finish is natural so it is great for the “no make up” look. It blended well. What I really like is that my skin didn’t feel uncomfortable. It’s didn’t feel like a had tons of foundation on. It is very lightweight. This is also easy to pack in your bag when traveling."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "Green eyes, Normal skin",
-			"review_text": "Obsessed with the Ami Cole foundation stick! I use shade 320 to bronze my face and honestly the formula is so creamy and perfect!! It lasts all day and I love that it’s got good coverage. It’s the perfect formula and never looks cakey."
-		},
-		{
-			"review_title": "amazing formula!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "I love this formula so much! It’s very creamy, lightweight, and easy to blend. I think I need a warmer shade but overall I love this formula for my combination skin. I also love that a little goes a long way with this product! To see the application: jkamasse.ugc on instagram."
-		},
-		{
-			"review_title": "FINALLY!!!!🎉🎉🎉🎉",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
-			"review_text": "It's a 1000/10!  Seamlessly blends into my skin. It has a 36 month shelf-life, I'm tired of brands making products with a 30 second shelf-life! I know the ingredients in this product won't harm/irritate my eczema, melasma, rosacea, or acne prone skin. The shade is a TRUE neutral, not pink or orange."
-		},
-		{
-			"review_title": "Love this foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "I really love this foundation and I’ve enjoyed using it. It’s full coverage and  I was able to get a perfect skin match. It’s very easy to apply and blends into the skin smoothly. It has a natural finish. It’s also not oily and I can keep it on for long hours without needing a touch up."
-		},
-		{
-			"review_title": "Great",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "This foundation is amazing! It goes on super soft but not cakey. The texture is velvety- it glides on the skin! I love that it comes on a stick because it’s easy to carry and Honestly with the formula it’s super easy to blend"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "Absolutely STUNNING, I love the skin tint so I knew this was going to be just as good, super super creamy, blends seamlessly in to my skin, is your skin but better, just enough coverage to cover my imperfections, have yet to test it’s longevity but it stays beautifully on my skin"
-		},
-		{
-			"review_title": "Very nice. Wish I could wear it regularly!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Normal skin",
-			"review_text": "I'm not a foundation person, and I rarely wear it, but it's Ami Cole and I was curious because I love this brand! I like that the product is in a pretty stick because it's just easy and compact. My initial read over the ingredients came with disappointment by reading the first thing on the list: Dimethicone. This is an ingredient my skin dislikes, and I try my hardest to avoid. Anyway,  I put that on the back burner and moved forward with my testing. I got it the shade 330,  and I soon as I swiped, I thought, 'Oh noooo'. The color didn't seem to suit me. I did a few swipes all over my face and then used a foundation brush. I could've built up the coverage, but I left it as is. Let me tell you, this stuff is smooth and so easy to blend into the skin (mostly due to those silicones). I then realized the shade was near perfect! Perfect would be perhaps my May face, which would be exposed to a little more vitamin D. Nonetheless, I wore it all day, and it stayed nice. I would personally use this very seldom because of the ingredient I avoid, but if you have no issues with that, I certainly think this is quite beautiful!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "",
-			"review_text": "This is really creamy and has a really nice coverage. I love that it’s a stick so it’s easy to apply. It’s blendable which is really nice as well. I highly recommend. The finish is a matte finish making your skin look flawless!"
-		},
-		{
-			"review_title": "A light coverage foundation that fit in your purse",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I love how this give me an effortless no makeup look. It blend well and have a smooth satin texture and finish. Less it more with this skin enhancing stick it reminds of a bb cream in a stick form. It’s super convenient for me to bring in my purse. So if I need to touch up it’s easily accessible. I definitely recommend it and would buy it in the future."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "230 - deep neutral brown",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "Immediately the first thing that stood out to me was how creamyyyyy this foundation stick is and how smoothly it applies and blends out. I could’ve gone a shade darker so I am using it as more of a concealer and it blends very well into my foundation. Also love the coverage."
-		},
-		{
-			"review_title": "Best stick foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
-			"review_text": "This is by far one of the best foundations I’ve tried yet. The overall feel of the foundation is lightweight with buildable to full coverage non greasy transfer proof the color for me is a 10 out of 10 my only con in regards to the foundation is the size of the bottle is kind of small everything else is perfect."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "310 - medium neutral with golden tones",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "This is the first time I come across Ami Cole, and i’m SO glad I did! First of all, the way this formula melts seamlessly into the skin is so impressive.  It has the smoothest finish and perfect amount of coverage. To my surprise i picked the perfect shade, and i’m just so obsessed. I’m giving this product 5 stars, but i wish i could give it 10!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
-			"review_text": "I think this product is a really good skin match and you can even use it as a contour if you want it as more of a cool toned one. Blends like a dream and great color payoff in my opinion. Gifted for free"
-		},
-		{
-			"review_title": "The shade match is insane !!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "I love how creamy and light weight this foundation is. The color match is scary accurate, with it being in a tube I love how I can easily travel with it without the product taking up too much room. I would definitely get again!"
-		},
-		{
-			"review_title": "Add it to the routine",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
-			"review_text": "This Hass to be legit one of the best foundations I have tried that doesn’t feel heavy on my face. I can’t wait for summertime cause I definitely have to get my summer shade. The best part is you can layer it a little bit for a little more extra coverage. It sits beautifully on the skin, and it kind of gives you an airbrushed look"
-		},
-		{
-			"review_title": "Add  to your makeup bag",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Dry skin",
-			"review_text": "I am loving this stick foundation. It is so easy to apply, the way it melts into the skin is wonderful. When it comes to choosing my shade by myself it’s so hard , but for this I feel like it suits me well. The packaging is giving luxurious. I highly recommend this foundation. I got it in shade :310"
-		},
-		{
-			"review_title": "Smooth and skin like",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
-			"review_text": "The Skin Enhancing foundation stick is super smooth on the skin and easy to apply on. When applied I noticed it looked like it was my skin, it did not look cakey at all. It also has good buildable coverage."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "240 - deep brown with yellow tones",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "I love! This is so refreshing to have my skin tone at my fingertip. I love the coverage, longevity, and finish of this foundation stick. This will certainly be an addition to my makeup routine for days when I want something light weight and natural."
-		},
-		{
-			"review_title": "Love it!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
-			"review_text": "I received this item in exchange for my honest opinion & I really like it! The formula is very creamy & it goes on very smooth. The product itself is very pigmented without being too heavy which I love!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "100 - rich cool neutral ebony",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I love the versatility of the stick foundations, this is well formulated and goes on smoothly on the skin and blends well with my complexion. I love the finish with brush for my day to day looks that I love"
-		},
-		{
-			"review_title": "10/10",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "Kindly gifted from Ami Cole. I cannot express what this brand means to so many of us. The products have so much intentionality. This Skin Stick is pure magic. Believe it or not, the pic I included has the product swatched. I HAVE NEVER HAD A FOUNDATION MATCH THIS WELL!!! Usually as the shades get deeper, they also become more red/orange. Shade 240 is the perfect mix of golden and yellow tones. It literally melts into my skin. Cannot tell where this foundation begins and my skin ends. So thankful to have this product!!!"
-		},
-		{
-			"review_title": "Easy to color-match",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I've heard a lot of good things about Ami Cole, so was excited to test out the product. Surprisingly it was easy to color match just by looking at the site. It's pigmented and goes on smooth. Great quality for the price!"
-		},
-		{
-			"review_title": "Beautiful",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Oily skin",
-			"review_text": "I got shade 240 and use it as a contour. It is so creamy and blendable. I have oily skin and this doesn’t slide off after a couple hours like other products can tend to do. Definitely recommend a try."
-		},
-		{
-			"review_title": "Like butter",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "This skin enhancing foundation stick is amazing!! I love the color options available and I was able to match my skin perfectly. It melts like butter into the skin so I would definitely recommend this!!"
-		},
-		{
-			"review_title": "Wow",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "The best foundation stick ever! It’s so easy to blend and glides on seamlessly. It’s buildable coverage so you can choose how much you’d like. It’s not drying at all and lasts all day. Highly recommend for pigmented skin!"
-		},
-		{
-			"review_title": "Love it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I am loving this foundation it has medium coverage but you can sheer out and build up depending on your preference! It’s perfect for traveling. It’s so easy to blend. I love that it leaves the skin feeling hydrated and feels so lightweight."
-		},
-		{
-			"review_title": "great undertone",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "This is a very good shade for me I am a true neutral olive and I picked up 320 and it blends into the skin very seem less. It isn’t dry which I assumed since it’s a stick and it’s actually creamy and easy to blend!"
-		},
-		{
-			"review_title": "Love love love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Deep skin tone, Oily skin",
-			"review_text": "Such a great foundation. I used it in the look pictured my base was gorgeous. This will definitely be a new staple in my base routine. I can’t wait to do so many more looks with this foundation. Ten out of TEN!!!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Oily skin",
-			"review_text": "Super disappointed with this shade range. This was way too dark and they don’t even offer any light shade ranges."
-		},
-		{
-			"review_title": "Love this!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Dry skin",
-			"review_text": "While I’m usually not the biggest fan of foundation sticks (because they usually make my skin appear more dry than usual), this does the complete opposite. For one, it’s so easily blendable! It also does a great job at blurring my skin. I can’t recommend this enough!"
-		},
-		{
-			"review_title": "So good",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
-			"review_text": "I’m genuinely so thrilled with this product. I really felt like you had a great finish on my skin and it was so easy to apply! I actually would definitely re-purchase this and recommended for anyone that was on the fence"
-		},
-		{
-			"review_title": "Try !!!!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
-			"review_text": "The brand itself is so innovative and chic, the formula is creamy and easily blend-able. The shade range especially for a range dedicated to brown skintones is amazing! I received 230 and it compliments my skin shade well the undertone does lean green/ashy occasionally."
-		},
-		{
-			"review_title": "Beautiful Lightweight Foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "I can only speak on how it looks and not longevity as I ordered the wrong shade so I did not end up wearing this out throughout the day. As far as application it is a medium buildable coverage and blends out BEAUTIFULLY. I’m a foundation brush person and this blended with no effort whatsoever and gave a nice, lightweight, airbrushed look. I’ll definitely need to go get one shade lighter, because this is such a beautiful product"
-		},
-		{
-			"review_title": "The perfect foundation stick",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "I’ve never used an foundation stick and was quite skeptical at first but, this one has changed my mind 100%. Its medium to full coverage is perfect for when I want to do full glam. It’s creamy and blends beautifully into the skin.  It has the prettiest glowy finish."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "I have been a big fan of the ami cole skin tint and have been able to use this new foundation stick a couple times and I love it! The shade match is literally perfect and the coverage and finish are so nice, definitely recommend it"
-		},
-		{
-			"review_title": "Blends nicely!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "I like this a lot more than I thought I would. It blends out really nicely. You can either use your fingers or a brush. I’ve tried both and I think I like the brush more just because I’m able to layer on if I want slightly more coverage. But it blends really nicely!"
-		},
-		{
-			"review_title": "Love",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Combination skin",
-			"review_text": "This foundation stick is amazing! Highly recommend the convenience of a foundation stick and this ones creamy and makes my skin look glowing from within! I’m happy with the color as well! Don’t walk, run!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Blue eyes, Oily skin",
-			"review_text": "I like the shade rage, even though I’m myself on the paler side. This formula is perfect for those who have dry skin. The stick is so convenient since you don’t have to be worried about drooping the liquid foundation on yourself."
-		},
-		{
-			"review_title": "Skin like finish",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I have acne-prone skin, it is very hard for me to find items that don’t clog my pores, don’t show my texture too much or don’t look too cakey. I don’t usually do stick foundations but this one impressed me a lot. Even though it is in a stick form, it is super hydrating and it slides like butter in your skin. The finish is natural, not too glowy, not too matte. I would say like your skin but better.  The shade I got was a bit darker for me but I made it work, i will definitely give it a lot of use during summer that I am more tan.  When I swatched it on my arm, it did not smudge which adds points to it.   Very nice feel, does not feel heavy at all. It lasted really good during my 8 hour work shift."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I used the shade 340 Light-medium with yellow tones. I love that it feels comfortable on my skin, it glides easily, and it does not dry out my skin. I really like that it leaves a natural finish and it is long-lasting."
-		},
-		{
-			"review_title": "Easy to layer and light coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "The skin-enhancing foundation stick is smooth and easy to apply on my skin! It is light coverage so if you want more coverage you can layer it. I’ll probably be keeping it in my bag in case I need to reapply!"
-		},
-		{
-			"review_title": "Provides excellent coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "This foundation stick is so impressive! It gives full coverage , or atleast for me. One swipe gives you so much product! It can also work perfectly as contour too. My makeup looks great for hours without getting cakey. Definitely a quality foundation."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "300 - medium with red tones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "Color match was perfect for my medium-neutral skin! It’s to easy to use and super creamy. Blends like a dream. Light-medium coverage! Doesn’t look greasy/oily. Looks very natural without feeling heavy on the skin."
-		},
-		{
-			"review_title": "Follow my tiktok @mimidameu",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "The Skin-Enhancing Foundation Stick is a game-changer for melanin-rich skin! 🌟 Blurred coverage that's seamless and natural. Finally, a foundation that enhances without masking! The foundation was so buttery and easy to blend!"
-		},
-		{
-			"review_title": "Amazing foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
-			"review_text": "This foundation is amazing! The stick glides onto my skin soo smoothly and leaves a gorgeous, natural finish. It feels super lightweight and doesn’t feel or look dry or cakey. This is definitely a new go to foundation for me."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "330 - medium with red tones",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "I really love this blurring foundation stick by Ami Cole. I’ve never used a foundation stick before but I was very impressed! I loved that it was light weight but still provided great coverage! 10/10!"
-		},
-		{
-			"review_title": "Beautiful Finish",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Oily skin",
-			"review_text": "I usually dont enjoy foundation sticks all that much but this product actually applied so smoothly onto my skin and blended very easily. Its definitely a medium coverage that can be built to full coverage if thats what you’re looking for. So glad I tried this out!"
-		},
-		{
-			"review_title": "Great application",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, red hair, Tan skin tone, Dry skin",
-			"review_text": "First time using a foundation stick! I like the formula and how it feels on the skin, however, because I have dry skin I don’t think it’s the best type of foundation for me. I will say that I love how it’s buildable coverage and it’s super smooth. Easy to blend out as well!"
-		},
-		{
-			"review_title": "A must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "black hair, Fair skin tone, Dry skin",
-			"review_text": "this is a very good product. I never tried to foundation stick before, so this was very new to me. I like the coverage and how light it felt on my skin. I like how it covered all of my blemishes, and it lasted me all day without lifting. I received this product to review it"
-		},
-		{
-			"review_title": "Love love love",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Ami cole has been a brand I’ve been if wanting to try out, and was so excited to receive this stick foundation. I absolutely loved the formula of it and how easy it was to blend out on my skin! Definitely a new everyday foundation!"
-		},
-		{
-			"review_title": "Beautiful Finish",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
-			"review_text": "I usually don’t use stick foundations but I was curious to try this brand’s product. It applied smoothly on the skin, but when I tried to blend it, I felt like the product stayed in one place and wouldn’t move/blend. I’m not an avid stuck foundation user so I’m not sure if that’s how stick foundation formulas are but I felt like I had to use so much product in order to cover what I needed to. However, once applied and buffed into the skin the finish was beautiful. It has a skin-like finish that was dewy and absolutely stunning! I have combination skin so I was worried of how it would react with other products on top of it, but it seemed to mesh fine. It definitely blurs the skin which is incredible, however my only real issue with the product was the longevity. I set my makeup with powder and a setting spray and it still separated slightly throughout the face and transferred. I wish it lasted longer, but it’s still an amazing product! It may be better for someone more familiar with stick foundations, but nonetheless I enjoyed this product!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "I love this so much it actually matches my skin and it’s really hard to find a foundation stick to actually Matches me. It makes me glow is not sticky. If it’s perfectly I do recommend it I will be getting again."
-		},
-		{
-			"review_title": "perfect foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "this foundation looks amazing on the skin, it blends in like a dream and is very long lasting ! it doesn’t even look like i’m wearing foundation ! feels very lightweight and comfortable and is not drying on the skin. definitely recommend for an everyday product"
-		},
-		{
-			"review_title": "Must try foundation stick!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Dry skin",
-			"review_text": "This foundation is sooo beautiful, when applied it melts into your skin and blends like butter, I got a deeper shade to use as brontour to sculpt my face and it layers perfectly on top of my other base products, I would definitely recommend to anyone who looking for a stick foundation or a cream bronzer/concealer it is honestly so versatile and can be used in many ways, I love it so much"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "I love this brand and the inclusion of darker skin tones! This foundation stick has medium buildable coverage, but still has a nice skin like look. It’s not heavy on the skin and I love how easy it is to apply!"
-		},
-		{
-			"review_title": "A must have!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "This is a gorgeous finish!!!! I used it on my client and it was like a cream to powder finish. My client had combo skin (Oily T-zone and dry cheeks) and it didn’t cling to her dry spots ( I primed her skin with moisturizer). A really great medium coverage foundation."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "320 - medium neutral with olive tones",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "Beautifully glides on my skin. I’m in love with this foundation stick. It’s a medium coverage foundation but looks so smooth and dewy.  I use  it daily and give me such a good look, my skin looks even and beautiful"
-		},
-		{
-			"review_title": "Love!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
-			"review_text": "I have never tried using a foundation stick before, and this has been working out great for me so far, I love using it almost like to contour my face and pair it with bronzer, but it blends out super easily and hides any spots"
-		},
-		{
-			"review_title": "Love the product, but not the smell!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Tan skin tone, Normal skin",
-			"review_text": "I got this in the mail yesterday & couldn’t wait to put it on! 🤭 I love Ami Cole’s skin tint, but I’ve always wanted to try a stick foundation. For starters, the product has an interesting smell? Like a chemically one? Idk if it’s just me, but it didn’t irritate my skin. As for coverage, this product SLAYS! Easy to blend out & looks like second skin!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "340 - light-medium with yellow tones",
-			"review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
-			"review_text": "This is my second product from Ami Cole and I have to say I am really impressed. I love the formula and the quality of these products. They are really lightweight and long lasting and high quality. I recommend"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Brown eyes, black hair, Dry skin",
-			"review_text": "Bruh I tried this on and the finish was to die for! It blended into my skin and looked flawless! I’d advise doing a good skin prep before putting this on just so it blends seamlessly cause it can be difficult to move cream products around. I would definitely recommend!"
-		},
-		{
-			"review_title": "10/10!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I received this product in exchange for this post and I'm so glad I did! I love this foundation and how it blends seamlessly. It was a perfect match to my skin and is the perfect amount of coverage. 10/10 recommend!"
-		},
-		{
-			"review_title": "Must have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I bought this foundation stick in a deeper shade to use for sculpting and bronzing and i LOVE IT. it blends super nicely and naturally either on its own or on top of foundation. it’s become a staple and i will continue to use!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "310 - medium neutral with golden tones",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "This skin stick foundation is awesome! I’ve tried a couple of other things from ami cole and I swear they haven’t missed. It’s full coverage but super lightweight and feels and looks like skin I’m impressed"
-		},
-		{
-			"review_title": "Love this",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
-			"review_text": "Skin-Enhancing Foundation Stick:Blurred coverage for melanin-rich skin is a great product that suits my brown skin so well. This is a must have if you have blemishes and hyperpigmentation to hide which this product does so well."
-		},
-		{
-			"review_title": "Perfect medium/high coverage foundation stick",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Oily skin",
-			"review_text": "LOVEEEEE THIS PRODUCT! First of all, I’m obsessed with this brand. Second, this feels and looks so luxurious and perfect on my skin I can’t even handle it. It feels so natural yet it covers all my acne and hyperpigmentation with minimum product. It doesn’t crease of feel cakey on my face, and so far, it hasn’t broken me out either. On the Ami Cole website it says all their products are clean and non comodogenic! In this picture I am wearing a little bit of product that I dabbed with my fingers."
-		},
-		{
-			"review_title": "Pretty skin",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "This foundation stick packs a lot in a tiny package. It has great coverage and feels creamy and easy to blend out. I love this for when I’m traveling and the color match is great for deeper skin tones especially!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "200 - deep neutral brown with red tones",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "The Skin-Enhancing Foundation Stick boasts a creamy yet lightweight texture, gliding effortlessly onto the skin upon application. It feels velvety smooth upon contact, offering a blendable and buildable coverage that doesn't weigh the skin down. Once applied, it yields a natural, semi-matte finish, providing a blurred effect that blurs imperfections without appearing overly matte or dewy. This foundation stick creates a comfortable, breathable sensation on the skin, avoiding a heavy or cakey feel even with multiple layers, making it ideal for daily wear."
-		},
-		{
-			"review_title": "Surprisingly good",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "I was personally surprised by this foundation stick. I’m new to this brand and now that I know the foundation is actually great I’m curious about the other products. This foundation stick is so creamy but has a skin like dry down so I don’t notice any creasing throughout the day. It’s easy to blend and the shade match is spot on it looks like I’m not even wearing foundation. I haven’t noticed any breakouts either yet which is a plus and all of my other makeup works well with it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "310 - medium neutral with golden tones",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "This skin enhancing foundation stick is incredible for traveling. Instead of brining a bottle of foundation I travel with the stick and it gives my skin amazing coverage. You can stick it in your purse and bring it anywhere"
-		},
-		{
-			"review_title": "Great as a bronzer",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-			"review_text": "I love this product so much! I actually picked up a medium shade to use as a bronzer on my fair skin and it works perfectly. The product is so smooth and pigmented so you don't need a lot. It blends so easily on the skin as well."
-		}
-	]
+    "product_id": "28",
+    "name": "Skin-Enhancing Lightweight & Blurring Foundation Stick",
+    "brand": "Ami Colu00e9",
+    "categories": "Makeup, Face, Foundation",
+    "price": 39.5,
+    "about": "What it is: A breathable, buildable medium coverage foundation stick that provides a blurred, soft-focus finish...Coverage: Medium..Finish: Natural..Formulation: Stick..Highlighted Ingredients:.- Baobab Seed Oil: Nurtures skin and prevents moisture loss..- Shea Butter: Leaves skin feeling nourished and supple..- Soft-Focus Powder: Cuts down on excess shine and imparts a blurred, true-skin finish...Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free...What Else You Need to Know: This unique formula glides comfortably over skin and contains Shea Butter and Baobab Seed Oil to nourish the skin and help prevent moisture loss. The lightweight stick format and seamless blending make it easy to touch up throughout the day and on the go....Clean at Sephora.",
+    "ingredients": "-Baobab Seed Oil: Nurtures skin and prevents moisture loss..-Shea Butter: Leaves skin feeling nourished and supple..-Soft-Focus Powder: Cuts down on excess shine and imparts a blurred, true-skin finish...Dimethicone, Octyldodecanol, Synthetic Wax, Corn Starch Modified, Silica, Ethylene/Propylene Copolymer, Adansonia Digitata Seed Oil, Hibiscus Sabdariffa Seed Oil, Butyrospermum Parkii (Shea) Butter, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Disteardimonium Hectorite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Polyhydroxystearic Acid. (+/-): Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.Light coverage:.-Swivel up the foundation stick and swipe onto skin..-Blend in with a brush or clean fingers..Medium coverage:.-Swivel up the foundation stick and swipe onto skin..-Blend in with a brush or clean fingers..-Add additional layers where extra coverage is desired.",
+    "num_reviews": 137,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/ami-cole-skin-enhancing-lightweight-blurring-foundation-stick-P509657?skuId=2752343&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2752343-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "100",
+            "shade_descriptor": "rich cool neutral ebony",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752277-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "110",
+            "shade_descriptor": "rich neutral ebony",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752285-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "120",
+            "shade_descriptor": "rich ebony with red tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752293-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "130",
+            "shade_descriptor": "rich red brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752301-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "140",
+            "shade_descriptor": "rich neutral brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752319-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "150",
+            "shade_descriptor": "rich golden brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752327-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "200",
+            "shade_descriptor": "deep neutral brown with red tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752335-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "210",
+            "shade_descriptor": "deep brown with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752343-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "220",
+            "shade_descriptor": "deep golden olive brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752350-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "230",
+            "shade_descriptor": "deep neutral brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752368-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "240",
+            "shade_descriptor": "deep brown with yellow tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752376-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "300",
+            "shade_descriptor": "medium with red tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752384-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "310",
+            "shade_descriptor": "medium neutral with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752392-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "320",
+            "shade_descriptor": "medium neutral with olive tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752400-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "330",
+            "shade_descriptor": "medium with red tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752418-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "340",
+            "shade_descriptor": "light-medium with yellow tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2752426-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Feels great but slight oxidation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I literally donu2019t feel this foundation on my face. Iu2019ve got dry skin so definitely have to prep it before using. easily buildable. Just wish I saw that it oxidizes before buying bc 320 was perfect but oxidized a little orange, shouldu2019ve gotten the 340"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I have gone through several brands for foundation. And I feel like they all had something missing or didnu2019t quite work. This stick doesnu2019t make my skin feel oily, and itu2019s so lightweight. I enjoy that it has just enough coverage and not a heavy coverage where it looks cakey.  donu2019t d"
+        },
+        {
+            "review_title": "Truly 5 stars",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, mediumTan skin tone, Normal skin",
+            "review_text": "Well, Iu2019ve used fenty liquid when it first came out and now the fenty blur stick for my dabbles into makeup and this one I saw an influencer using and returned fenty. This takes the cake. Under the inkey list sunscreen this is the best match Iu2019ve found toskin."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "Really quick and easy to apply and builds up coverage easily without looking thick and heavy. I've used it 3-4 times now and each time blending out with a brush. I havenu2019t experienced any pilling with different moisturizers and sunscreens (chemical) Iu2019ve tested underneath and plays really well with other creams, liquids, and powders on top. I haven't tried other stick foundations, but compared to the Ami Cole liquid skin tint/foundation (that I LOVE and is a perfect shade match in medium 2), the stick definitely has a more matte/natural finish. Shade 330 has a warmer undertone thatu2019s making me feel a little more orange than usual. I can make 330 work with careful blending, but I prefer the olive undertone in the liquid. I might go into store and swatch other shades to see if there's a closer shade match in the stick, but overall I'm happy to have both Ami Cole skin tints/foundations now!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Another hit by Ami Cole! Iu2019m light medium neutral olive and this works. It pulls a little yellow on me as described but has enough olive that it doesnu2019t look off. I love the finish, especially when I layer it over Mac fix+ and pat it in with my fingers."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "210 - deep brown with golden tones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "This is the most amazing foundation stick Iu2019ve ever tried!! Near perfect match and stays on all day."
+        },
+        {
+            "review_title": "This is a staple in my morning routine.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I love this foundation stick. Perfect for my combination skin."
+        },
+        {
+            "review_title": "Perfect Stick Foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
+            "review_text": "This is a beautiful shade match for someone with med/tan olive skin. This pulls a little more yellow/warm to me than I would like but itu2019s not that bad at all. This is an incredible stick foundation. Medium coverage, but can be built up to full. This is my second time repurchasing, I love it and go through it quickly."
+        },
+        {
+            "review_title": "Must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "Absolutely in love with this product. Iu2019ve purchased 2 so far. Perfect for travel as well. Love the formula and long lasting wear!"
+        },
+        {
+            "review_title": "Great if you can find your shade!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I just love how lightweight and skin like this stick is. I really wanted to keep it but 340 undertone is just too off. I always wear yellow undertones but this shade is more olive/green and makes me look a bit strange."
+        },
+        {
+            "review_title": "Your skin but better!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "So skin-like, a buildable foundation that looks natural. I found a great color match for my neutral undertone. And it wears beautifully all day! You know it's good when you get compliments on how your skin looks! Thanks Ami Cole!!"
+        },
+        {
+            "review_title": "INCREDIBLE color match!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Deep skin tone, Combination skin",
+            "review_text": "Only giving 4 stars because I get so greasy and this isnu2019t great at controlling super oily skin. But the color match is INSANE. Iu2019ve never gotten any foundation product to match my skin this perfectly. I could cry at how amazing it is! Thatu2019s why I am going to find a way to make this long lasting at matte. I will try whatever powder and primer combo to make it work. Honestly if you have normal skin or dry skin this is for you though"
+        },
+        {
+            "review_title": "Great match, great price!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "The undertone match is absolutely flawless! I have tried numerous complexion products, but none have matched my skin as perfectly as this foundation stick. It's a must-have for anyone with a deeper skin tone who has struggled to find their ideal shade."
+        },
+        {
+            "review_title": "Love the application, finish, and color match!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Oily skin",
+            "review_text": "I love this brand.  The color that I actually ended up with was #210 deep golden brown (I exchanged it for a better complexion match), and it was the perfect color!  This formula applies very smoothly, is not heavy and buildable.  I'm very happy that I tried it, and will definitely repurchase!"
+        },
+        {
+            "review_title": "Did not emphasize dry patches!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "My skin has been extra dry and my usual go-to liquid foundations looked terrible (Estee Lauder and gucci). I was SO pleasantly surprised that this STICK foundation did not highlight my dry patches. I usually stay far away from powders and sticks, but I took a risk because this one had great reviews. It created a blurred effect without looking caked on. I am a huge fan and looking forward to trying more Ami Cole products."
+        },
+        {
+            "review_title": "Great option for the melanin-rich",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
+            "review_text": "To preface, the branding specifically mentions that itu2019s catering to melanin-rich skin, a demographic that has historically been neglected and not prioritized when establishing a skin range. I hope it helps lighter skin tones to realize that having as many options as they do is still a privilege that some of us donu2019t have. Thatu2019s the vision of the brand, and I have a lot of respect for that. To be the lightest skin tone in the range as a usually medium-tan yellow and olive skin person, it makes me giddy.  Regarding the foundation, I totally love it. It matches my skin PERFECTLY and gives u201cyour skin but betteru201d vibes. For my dry skin, it doesnu2019t emphasize my texture, and lasts a good amount of time before it fades pretty evenly. I only knocked one star because I donu2019t think it really builds to more than a medium coverage even though it claims it can be built to full, but it perfectly serves the purpose i bought it for."
+        },
+        {
+            "review_title": "total must have for this brown girl!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Tan skin tone, Combination skin",
+            "review_text": "I've been using this foundation stick for about a week, and find that it gives that perfected skin look while still looking incredibly natural. I love the shade 340 because it's very yellow, and that's exactly what I need as a NC42-ish complexion. It feels like nothing, and blends beautifully with a gentle blurring quality. The coverage is light-medium but can likely be built up (though I've never tried!), and because of that I think if you choose a color with your undertone that is as close as possible in terms of depth, it'll probably work if you're looking for light coverage which is what I prefer."
+        },
+        {
+            "review_title": "Brown girl must have!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "Bought this on a whim because i couldnu2019t find any complexion product that would match my u201cgoldenu201d undertone. I literally tried everything under the sun. This matches me so well. Please never stop making this ud83eudd0eud83eudd0eud83eudd0e"
+        },
+        {
+            "review_title": "The Only Foundation Stick That I Will Ever Need!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Oily skin",
+            "review_text": "I have found my exact shade!  Literally, no other complexion product has matched my color and undertones so precisely.  Moreover, it feels so good!  It glides on silky-smooth and provides full coverage while still looking like your natural skin.  It's definitely a My skin but Better product. 5 stars!!!!!!!!!!!!!!!"
+        },
+        {
+            "review_title": "Thoughts on shade range",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "As a light skinned person i was excited to try out this product. YES the shade range is limited, but as light skinned people this goes to show how privileged we have been to ALWAYS have the options. I think its silly to get mad at a brand for this, they have time to come out with more shades.. give them grace. I hope you all see how it feels to be excluded and instead of giving a bad review, reflect. Kudos for starting off with the shades YOU wanted to start with. Only  RECENTLY have brands dabbled into expanding shades and POC have been trying for YEARS to get that range. I see no problem with this its already hard enough to have variety, let this brand breathe."
+        },
+        {
+            "review_title": "They have the UNDERTONES",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Iu2019m a lighter skinned black woman who has struggled through aisles of very pink, red, and orange foundation undertones despite their description of more beige, yellow, neutral shades. 320 is the one for me. I wouldu2019ve never considered myself u201coliveu201d and mistakenly bought 340 which was a pale beige. This is the perfect yellow and I mean NATURAL hello thatu2019s on the market. MAC NC42 has nothing on this. This is an inclusive shade range for darker complexions who are STILL not thought of in these expanded shade streets."
+        },
+        {
+            "review_title": "Good foundation stick - especially for simple make",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "I am usually a tinted-moisturizer girl but recently switched because of oily skin.  Smooth application and the cover truly is buildable especially with the right brush. It helps with oil and keeps it at bay longer than other stick foundations."
+        },
+        {
+            "review_title": "Another perfect product from Ami Cole",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
+            "review_text": "So far, I have loved all Amo Cole products I have purchased and this is no exception. I love the packaging because it's great for travel and it's so sleek. It also blends out so well - I used my fingers to initially test it and I did not prep my skin and it still looked beautiful. The coverage is buildable, so you can get some pretty decent coverage but it's not full. I have dry, sensitive, acne-prone skin and this did not irritate my skin nor did it enhance my dryness. I also wore it all day on a very humid day and I came home slightly dewy but it still held up perfectly. I will absolutely be purchasing again."
+        },
+        {
+            "review_title": "Uninclusive shades",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, gray hair, Light skin tone, Dry skin",
+            "review_text": "Why donu2019t they have a shade thatu2019s lighter with pink undertones for me? Other brands get called out for un inclusive shade rages. Do better!"
+        },
+        {
+            "review_title": "Really wish there were more shades :(",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, Fair skin tone, Dry skin",
+            "review_text": "So we agree that making a foundation that has a shade range only for white and light skin people is not cool right? Inclusivity is the name of the game, yeah? So why then is the reverse ok? I donu2019t see the point of putting out a base product that excludes a whole group of skin tones. Itu2019s a shame that some exist on the lighter end, but that doesnu2019t mean itu2019s cool to repeat the same bad practice just on the opposite side of the spectrum. Beauty inclusivity means for EVERYONE. Not cool. If youu2019re making a foundation or base product, make a shade range that covers ALL skin tones as well as you can, from super pale to super dark, or donu2019t bother at all."
+        },
+        {
+            "review_title": "Love",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "Love this foundation, feels great on the skin and looks beautiful"
+        },
+        {
+            "review_title": "Lives up to its name",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+            "review_text": "This product is aptly named and is a rare perfect match for me. A little bit goes a long way."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Oily skin",
+            "review_text": "This is probably the best foundation Iu2019ve used! Itu2019s so lightweight, easy to blend, and super long wearing. I have very oily skin and found that it didnu2019t separate and I didnu2019t need touch upu2019s after a full day. I absolutely love it!"
+        },
+        {
+            "review_title": "My New Daily Go-To! LOVE!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
+            "review_text": "The Ami Cole enhancing stick is so good! Applies easily and surprisingly has a great coverage.  The stick is buildable, so youu2019re able to create the perfect coverage for any skin issues (hyperpigmentation/scars etc)."
+        },
+        {
+            "review_title": "Favorite foundation stick!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "The shade 240 is my perfect shade match. It has a beautiful natural finish. Perfect for on the go."
+        },
+        {
+            "review_title": "Perfect undertone match. Acne prone skin approved",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Rich skin tone, Oily skin",
+            "review_text": "I often find that foundations for darker skin tones are either way too red or way too yellow. for the first time I didnu2019t feel like Iu2019m painting on a color over my skin and feel it get a natural blurring effect whiledoesnu2019t make my oily acne prone skin break out or react."
+        },
+        {
+            "review_title": "Great formula. Limited color range",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "Great formula. Light coverage. Very emollient and looks great on the skin. BUT, the color range is very limited. Too much yellow tone. 330 looks dark and orange on my Asian skin. A pity since everything else is great."
+        },
+        {
+            "review_title": "Great for everyday",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I love the blend ability and coverage of this product! Finding a medium deep neutral tone complexion product is hard but they nailed it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Dry skin",
+            "review_text": "Packaging is gorgeous and formulation is amazing! Goes on super smooth and is easy to take on the go. I love packing in my vacation toiletry bag because itu2019s so small and useful on trips. Canu2019t stop using this"
+        },
+        {
+            "review_title": "Made my skin so radiant and blurred!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Instantly made my skin look radiant and blurred. It was super easy to blend with fingers. Every time I looked in the mirror throughout the day, my skin just looked more and more radiant."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "This blends perfectly well, I give this a 10/10!!! Love this foundation stick. It doesnu2019t give the feeling of makeup being caked on and itu2019s very lightweight. Definitely gives a natural type of look and it sits very well all day!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Green eyes, Combination skin",
+            "review_text": "This is everything!!! The texture, the color shade, the longevity! Yes yes yes I love how easy it is to blend. Itu2019s medium coverage for me but itu2019s definitely buildable I use it as a bronzer and itu2019s the most gorgeous one Iu2019ve used!"
+        },
+        {
+            "review_title": "Lovely formula",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I am using 330 to contour/bronze. I initially bought 340 as my base color but the yellow undertone is off for me. The formula is so good, I decided to try a darker color for contrast. It would be awesome if they expanded the range but I understand if they wonu2019t"
+        },
+        {
+            "review_title": "Holy Grail for Oily Skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Iu2019ve never tried a more superior brandu2026 and Iu2019m a makeup addict/collector. For reference..I and 43, oily skin type, caucasian/Native American and shade 3 in Danessa Myricku2019s Yummy Skin for reference. I am able to wear 340 in this formula and Iu2019m glad it works for me. Itu2019s honestly the best makeup brand Iu2019ve ever tried. With that being saidu2026 I hope she plans to expand her shade range. And I totally understand the idea behind the brand, why it was created and Iu2019m beyond glad it exists for this reason - AND I have to say she has an excellent product and I would love to see it thrive for both deeper skin tones as well as lighter and watch the success of her brand go above and beyond. I got the concealer and wish it was light enough for my skinu2026 I like my concealer a little lighter than my actual skin tone. It may still work for me in the summer. But even though the color was not a matchu2026when I say this is a holy grail concealer formula - I mean it! Iu2019m glad I took a chance and tried this brand as it is my new favorite. The blush sticks are fantastic, the setting powder and the mascara and lip oils. I am totally in LOVE with her products. Absolutely no hate intended in my commentu2026 I am glad the makeup industry is finally waking up to inclusivityu2026 and I love her brand for being devoted to the women whou2019ve been left out of this category for far too long. But because itu2019s such a fantastic formula - Iu2019m hopeful Iu2019ll see some lighter shades added in the future. Iu2019m so glad some of the shades work for me now and I will tell everyone I know they need to try this brand as I know they will fall in love the same as I have. Keep up the good work and please donu2019t ever stop making this foundation. Itu2019s the only foundation that I have ever had work this well with my oily skin. Lots of love!"
+        },
+        {
+            "review_title": "Skin Flex Alert ud83dudcaaud83cudffd",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
+            "review_text": "Hello, Sephora Community Ambassador here giving my honest opinion about this product.   I'm really loving this foundation stick.   It's nice having a quick and easy to use complexion product for light makeup days, or a quick glam look.  It provides a skin like finish as advertised, but with a smooth, creamy texture.  You can apply it with fingers or a foundation brush, and the finish either way is great for my oily combo skin."
+        },
+        {
+            "review_title": "too dark",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Dry skin",
+            "review_text": "I like it but the lightest shade is too dark it seems odd after dark skin people complaining about not enough dark shades which I agree with them, but then to come out with their own makeup and not include light shades is very strange and offendable"
+        },
+        {
+            "review_title": "Yes you want it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "I wasn't sure what to think of it when I ordered because I hadn't heard anything about it. I tried it on and it's absolutely amazing natural coverage. Lightweight and a perfect match (at least in winter I'll need another shade for summer) it's amazing no makeup woke up like this makeup."
+        },
+        {
+            "review_title": "Best stick foundation I've tried so far",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "For reference, I have combination skin. I have an oily t-zone with a tendency to break out AND eczema prone skin. Pictures have ZERO filter. The picture where I wore shade 320 was taken after an 8 hour shift with the Ami Colu00e9 setting powder and concealer.  PROS: -This didn't stick to any dry patches. It smoothes out my texture. -Blends out beautifully with a brush or with fingers. -Flexible coverage. I've used it to spot correct hyperpigmentation, tried it as a sheer tint, and used it as a full coverage foundation. -Wears beautifully all day without separating or drying out. -The undertone selection is great. I have olive undertones and I tried shades 340 and 320, both were true olives! -The texture of the formula was very smooth. My pet peeve with a lot of stick foundations is that they feel too powdery, but this was emollient enough. -I've tried this over oil based, serum based, and water based primers and haven't had issues with pilling. I don't own silicone based primers, but I imagine that it would also blend well.  NIT PICKS: -While the foundation wore well throughout the day, I did end up with a sheen of radiance. I didn't mind because it looks skin-like, however keep this in mind for people who are very oily/are looking for a true matte. -Sponges are NOT ideal for blending. -This might require hydration focused skin prep for those with very dry skin. While this isn't drying, it might not provide enough moisture."
+        },
+        {
+            "review_title": "Beautiful finish",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Deep skin tone, Combination skin",
+            "review_text": "This literally glides on the skin effortlessly and so smooth. It's light weight and very easy to blend and it doesn't feel oily or heavy. It blends so well and honestly looks like skin. The color match top teir and I do feel it's buildable."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "300 - medium with red tones",
+            "review_buyer_description": "Medium skin tone",
+            "review_text": "This foundation stick is super blendable and I was able to find a really close shade match (which is usually very difficult for me). It has a very creamy formula with a natural finish as Ami Cole states."
+        },
+        {
+            "review_title": "Best Foundation Stick!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, gray hair, Tan skin tone, Combination skin",
+            "review_text": "This foundation deserves its own moment! I mean.. immediately when i applied the foundation to my skin, I can see the enrichment and my skin absorbed it in the best way. I had been experiencing dull skin and although skin care plays its role, it takes time. This foundation helped make my skin look glowy in little to no time but very natural! If you are in the market for a beautiful, natural, radiant foundation give this one a go. I PROMISE you won't regret it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Normal skin",
+            "review_text": "I am absolutely in love with this foundation stick! The color match is amazing and the finish is radiant without being oily. I get so many compliments when I wear this foundation and creates the perfect base for my full face!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Combination skin",
+            "review_text": "I received this from the brand. I ended up selecting the wrong shade but still wanted to give this a try and itu2019s honestly a pretty good product. In the photo I only have one layer on it and blended it in with my fingers. It covered my acne scars pretty well but I did notice it clinging to some dry spots (but I also didnu2019t prep my skin before hand because I wanted to see how the product would apply on its own). The consistency is very butter and smooth application was very easy because the product didnu2019t tug on my skin. All in all I give this product a 8/10 because it does promise everything it says it does, medium coverage (could also be buildable), blurring and its a natural finish. The reason I donu2019t give it a 10/10 id because personally itu2019s not something I would normally pick up because it does have shea butter which will cause me to break out and I havenu2019t tested the wearability of it so I donu2019t know how itu2019ll look at the end of the day. However it is a good day to day product and I would recommend it."
+        },
+        {
+            "review_title": "Great foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Oily skin",
+            "review_text": "Recieved as PR from the company for review. Light weight buildable coverage. Blends out amazingly and dosnt emphasize texture.  Skin looks relatively flawless and I would highly recommend this foundation"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "310 - medium neutral with golden tones",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Really enjoyed this product! First it glides on the skin like a silky butter and blends into the skin smoothly and perfectly. I love the finish and its lasting power. Definitely a go to from now on! I have combo oily skin and it worked like magic."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Combination skin",
+            "review_text": "This foundation stick is absolutely amazing! Iu2019ve been obsessed with the skin tint for the past couple of months, but this foundation stick has completely taken over my obsession. It blends so seamlessly into the skin and feels very lightweight. I love to use it on the days where I need to go into the office and want a light beat."
+        },
+        {
+            "review_title": "Great coverage, smooth application and finish",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "Omg this foundation stick is so pigmented and coverage is smooth and buildable! It had a u201cmakeup no makeupu201d finish and I felt so pretty! I do have hyperpigmentation with few dark spots, and it covered them flawlessly. This would have been my first ever foundation stick and Iu2019m really pleased with it!"
+        },
+        {
+            "review_title": "Skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+            "review_text": "I love this foundation! It gives the perfect u201cno-makeupu201d makeup look! The texture is soft and buttery and blends effortlessly! It looks so good on that I can barely tell that I have it on! Complimentary of Ami Cole"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, Oily skin",
+            "review_text": "Beautiful soft coverage. This stick is very good. Itu2019s pigmented and beautiful. Lasts all day and very cute. Itu2019s small enough to fit in your purse and travel with you. I love that itu2019s for tan-darker skin and honestly itu2019s so beautiful. Itu2019s got a lovely natural finish and I used it for 9 hours and it did not crease cake or crumble."
+        },
+        {
+            "review_title": "Great light weight foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I love this foundation stick. I was a little skeptical at first because Iu2019ve never tried a foundation like this before but it was so smooth and easy to blend on my skin. I got the shade 310 and itu2019s a tiny bit too dark for me but will look great in the summer!"
+        },
+        {
+            "review_title": "So good",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "I received this product as a complimentary gift from the brand for testing purposes. Since I tried it what I notice was that my skin looked flawless, no added texture at all and the coverage was really good"
+        },
+        {
+            "review_title": "Perfect foundation stick!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "I love this foundation stick. It is super smooth and blends out beautifully.  It is a medium but buildable coverage. It is super lightweight and provides a light blur. I really love the formula because itu2019s not heavy and a natural finish. The only thing is that I got the wrong shade but otherwise perfect for a no-makeup look."
+        },
+        {
+            "review_title": "Beautiful and easy to use!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Okkk let me just start by saying Iu2019m not usually a stick foundation girl and I typically love more high medium coverage products. This is a super lightweight and incredibly blendable stick foundation that offers a light to medium (prob more if built up) coverage. I love it! It applies beautifully and it wears so well, even on my combo skin. I love the ease of use and honestly am so impressed overall. I just wish it came in more shades, I am in the lightest shade and it is on the verge of too dark/warm for me, when I usually use a light medium shade."
+        },
+        {
+            "review_title": "Favorite stick foundation Iu2019ve used!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Tan skin tone, Oily skin",
+            "review_text": "Iu2019m obsessed with this stick foundation, the coverage is very buildable so it can be light/medium coverage depending on what vibe youu2019re going for. I have been using it almost daily since I got it, mostly just to even out my skin tone and cover up any dark marks, and it blends so nicely into my skin that it looks like Iu2019m not wearing any makeup at all. Iu2019ve also used it with a full face of makeup on top, I love that my skin still looks like skin when I wear it and itu2019s not cakey or too thick at all. I have oily skin and this worked well for me, it gave just enough glow/dewy skin without looking too shiny. I was gifted this but will definitely be purchasing when I run out."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+            "review_text": "Iu2019ve never used a foundation stick before but this one was really easy to use! It blends out easily. I use a brush to blend everything out. It provides a light coverage. The finish is more on the matte side. It feels light on the skin. Overall a good foundation for a more natural look."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "Hazel eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Beautiful Finish !! This foundation stick is definitely a 10 for me, the formula is smooth and velvety and glides on the skin effortlessly. The coverage is light to medium but buildable and it's not too heavy on the skin.The shade range is very good, It gives a nice blurring effect to the skin for that no makeup - makeup look and it's perfect for on the go."
+        },
+        {
+            "review_title": "The perfect on the go foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
+            "review_text": "I really love my skin enhancing stick! It provides great coverage and also blends so beautifully. I also love the amount of shades it comes in.  The packaging is also so chic and great for traveling and brining your makeup on the go!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "Love this foundation stick! I use it as a contour so I went a few shades darker. So smooth and amazing application! Blends out really well, had me looking super cute for my birthday! Definitely would love to try their other products"
+        },
+        {
+            "review_title": "New Easy Foundation Stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "Really enjoying my foundation stick. It definitely makes applying my foundation easier and quicker. My fav thing about it is the way it smoothly glides across face. It has a creamy texture, at first. Then it dries down a little. Which is great since I using set me foundation with a setting  powder.. Also, love the color shades that are offered.   I couldnu2019t try this on in store So, I chose a shade little than my skin color. This way I could use a darker shade to contour with, if needed."
+        },
+        {
+            "review_title": "Shade range is really disappointing",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Most of the time I search out and try to only purchase from black owned brands or indie brands but this is sadly not one I can repurchase from. The lightest shade is way too dark for me which is really disappointing."
+        },
+        {
+            "review_title": "My new travel foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Enjoyed this foundation more than I thought I would. I usually prefer liquid foundation over stick. This foundation has light to medium buildable coverage. The finish is natural so it is great for the u201cno make upu201d look. It blended well. What I really like is that my skin didnu2019t feel uncomfortable. Itu2019s didnu2019t feel like a had tons of foundation on. It is very lightweight. This is also easy to pack in your bag when traveling."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "Green eyes, Normal skin",
+            "review_text": "Obsessed with the Ami Cole foundation stick! I use shade 320 to bronze my face and honestly the formula is so creamy and perfect!! It lasts all day and I love that itu2019s got good coverage. Itu2019s the perfect formula and never looks cakey."
+        },
+        {
+            "review_title": "amazing formula!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "I love this formula so much! Itu2019s very creamy, lightweight, and easy to blend. I think I need a warmer shade but overall I love this formula for my combination skin. I also love that a little goes a long way with this product! To see the application: jkamasse.ugc on instagram."
+        },
+        {
+            "review_title": "FINALLY!!!!ud83cudf89ud83cudf89ud83cudf89ud83cudf89",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "It's a 1000/10!  Seamlessly blends into my skin. It has a 36 month shelf-life, I'm tired of brands making products with a 30 second shelf-life! I know the ingredients in this product won't harm/irritate my eczema, melasma, rosacea, or acne prone skin. The shade is a TRUE neutral, not pink or orange."
+        },
+        {
+            "review_title": "Love this foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "I really love this foundation and Iu2019ve enjoyed using it. Itu2019s full coverage and  I was able to get a perfect skin match. Itu2019s very easy to apply and blends into the skin smoothly. It has a natural finish. Itu2019s also not oily and I can keep it on for long hours without needing a touch up."
+        },
+        {
+            "review_title": "Great",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This foundation is amazing! It goes on super soft but not cakey. The texture is velvety- it glides on the skin! I love that it comes on a stick because itu2019s easy to carry and Honestly with the formula itu2019s super easy to blend"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "Absolutely STUNNING, I love the skin tint so I knew this was going to be just as good, super super creamy, blends seamlessly in to my skin, is your skin but better, just enough coverage to cover my imperfections, have yet to test itu2019s longevity but it stays beautifully on my skin"
+        },
+        {
+            "review_title": "Very nice. Wish I could wear it regularly!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Normal skin",
+            "review_text": "I'm not a foundation person, and I rarely wear it, but it's Ami Cole and I was curious because I love this brand! I like that the product is in a pretty stick because it's just easy and compact. My initial read over the ingredients came with disappointment by reading the first thing on the list: Dimethicone. This is an ingredient my skin dislikes, and I try my hardest to avoid. Anyway,  I put that on the back burner and moved forward with my testing. I got it the shade 330,  and I soon as I swiped, I thought, 'Oh noooo'. The color didn't seem to suit me. I did a few swipes all over my face and then used a foundation brush. I could've built up the coverage, but I left it as is. Let me tell you, this stuff is smooth and so easy to blend into the skin (mostly due to those silicones). I then realized the shade was near perfect! Perfect would be perhaps my May face, which would be exposed to a little more vitamin D. Nonetheless, I wore it all day, and it stayed nice. I would personally use this very seldom because of the ingredient I avoid, but if you have no issues with that, I certainly think this is quite beautiful!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "",
+            "review_text": "This is really creamy and has a really nice coverage. I love that itu2019s a stick so itu2019s easy to apply. Itu2019s blendable which is really nice as well. I highly recommend. The finish is a matte finish making your skin look flawless!"
+        },
+        {
+            "review_title": "A light coverage foundation that fit in your purse",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I love how this give me an effortless no makeup look. It blend well and have a smooth satin texture and finish. Less it more with this skin enhancing stick it reminds of a bb cream in a stick form. Itu2019s super convenient for me to bring in my purse. So if I need to touch up itu2019s easily accessible. I definitely recommend it and would buy it in the future."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "230 - deep neutral brown",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "Immediately the first thing that stood out to me was how creamyyyyy this foundation stick is and how smoothly it applies and blends out. I couldu2019ve gone a shade darker so I am using it as more of a concealer and it blends very well into my foundation. Also love the coverage."
+        },
+        {
+            "review_title": "Best stick foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Oily skin",
+            "review_text": "This is by far one of the best foundations Iu2019ve tried yet. The overall feel of the foundation is lightweight with buildable to full coverage non greasy transfer proof the color for me is a 10 out of 10 my only con in regards to the foundation is the size of the bottle is kind of small everything else is perfect."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "310 - medium neutral with golden tones",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "This is the first time I come across Ami Cole, and iu2019m SO glad I did! First of all, the way this formula melts seamlessly into the skin is so impressive.  It has the smoothest finish and perfect amount of coverage. To my surprise i picked the perfect shade, and iu2019m just so obsessed. Iu2019m giving this product 5 stars, but i wish i could give it 10!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+            "review_text": "I think this product is a really good skin match and you can even use it as a contour if you want it as more of a cool toned one. Blends like a dream and great color payoff in my opinion. Gifted for free"
+        },
+        {
+            "review_title": "The shade match is insane !!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "I love how creamy and light weight this foundation is. The color match is scary accurate, with it being in a tube I love how I can easily travel with it without the product taking up too much room. I would definitely get again!"
+        },
+        {
+            "review_title": "Add it to the routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "This Hass to be legit one of the best foundations I have tried that doesnu2019t feel heavy on my face. I canu2019t wait for summertime cause I definitely have to get my summer shade. The best part is you can layer it a little bit for a little more extra coverage. It sits beautifully on the skin, and it kind of gives you an airbrushed look"
+        },
+        {
+            "review_title": "Add  to your makeup bag",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Dry skin",
+            "review_text": "I am loving this stick foundation. It is so easy to apply, the way it melts into the skin is wonderful. When it comes to choosing my shade by myself itu2019s so hard , but for this I feel like it suits me well. The packaging is giving luxurious. I highly recommend this foundation. I got it in shade :310"
+        },
+        {
+            "review_title": "Smooth and skin like",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
+            "review_text": "The Skin Enhancing foundation stick is super smooth on the skin and easy to apply on. When applied I noticed it looked like it was my skin, it did not look cakey at all. It also has good buildable coverage."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "240 - deep brown with yellow tones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "I love! This is so refreshing to have my skin tone at my fingertip. I love the coverage, longevity, and finish of this foundation stick. This will certainly be an addition to my makeup routine for days when I want something light weight and natural."
+        },
+        {
+            "review_title": "Love it!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "I received this item in exchange for my honest opinion & I really like it! The formula is very creamy & it goes on very smooth. The product itself is very pigmented without being too heavy which I love!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "100 - rich cool neutral ebony",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I love the versatility of the stick foundations, this is well formulated and goes on smoothly on the skin and blends well with my complexion. I love the finish with brush for my day to day looks that I love"
+        },
+        {
+            "review_title": "10/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "Kindly gifted from Ami Cole. I cannot express what this brand means to so many of us. The products have so much intentionality. This Skin Stick is pure magic. Believe it or not, the pic I included has the product swatched. I HAVE NEVER HAD A FOUNDATION MATCH THIS WELL!!! Usually as the shades get deeper, they also become more red/orange. Shade 240 is the perfect mix of golden and yellow tones. It literally melts into my skin. Cannot tell where this foundation begins and my skin ends. So thankful to have this product!!!"
+        },
+        {
+            "review_title": "Easy to color-match",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I've heard a lot of good things about Ami Cole, so was excited to test out the product. Surprisingly it was easy to color match just by looking at the site. It's pigmented and goes on smooth. Great quality for the price!"
+        },
+        {
+            "review_title": "Beautiful",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Oily skin",
+            "review_text": "I got shade 240 and use it as a contour. It is so creamy and blendable. I have oily skin and this doesnu2019t slide off after a couple hours like other products can tend to do. Definitely recommend a try."
+        },
+        {
+            "review_title": "Like butter",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "This skin enhancing foundation stick is amazing!! I love the color options available and I was able to match my skin perfectly. It melts like butter into the skin so I would definitely recommend this!!"
+        },
+        {
+            "review_title": "Wow",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "The best foundation stick ever! Itu2019s so easy to blend and glides on seamlessly. Itu2019s buildable coverage so you can choose how much youu2019d like. Itu2019s not drying at all and lasts all day. Highly recommend for pigmented skin!"
+        },
+        {
+            "review_title": "Love it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I am loving this foundation it has medium coverage but you can sheer out and build up depending on your preference! Itu2019s perfect for traveling. Itu2019s so easy to blend. I love that it leaves the skin feeling hydrated and feels so lightweight."
+        },
+        {
+            "review_title": "great undertone",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "This is a very good shade for me I am a true neutral olive and I picked up 320 and it blends into the skin very seem less. It isnu2019t dry which I assumed since itu2019s a stick and itu2019s actually creamy and easy to blend!"
+        },
+        {
+            "review_title": "Love love love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Oily skin",
+            "review_text": "Such a great foundation. I used it in the look pictured my base was gorgeous. This will definitely be a new staple in my base routine. I canu2019t wait to do so many more looks with this foundation. Ten out of TEN!!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Oily skin",
+            "review_text": "Super disappointed with this shade range. This was way too dark and they donu2019t even offer any light shade ranges."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Dry skin",
+            "review_text": "While Iu2019m usually not the biggest fan of foundation sticks (because they usually make my skin appear more dry than usual), this does the complete opposite. For one, itu2019s so easily blendable! It also does a great job at blurring my skin. I canu2019t recommend this enough!"
+        },
+        {
+            "review_title": "So good",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "Iu2019m genuinely so thrilled with this product. I really felt like you had a great finish on my skin and it was so easy to apply! I actually would definitely re-purchase this and recommended for anyone that was on the fence"
+        },
+        {
+            "review_title": "Try !!!!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "The brand itself is so innovative and chic, the formula is creamy and easily blend-able. The shade range especially for a range dedicated to brown skintones is amazing! I received 230 and it compliments my skin shade well the undertone does lean green/ashy occasionally."
+        },
+        {
+            "review_title": "Beautiful Lightweight Foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "I can only speak on how it looks and not longevity as I ordered the wrong shade so I did not end up wearing this out throughout the day. As far as application it is a medium buildable coverage and blends out BEAUTIFULLY. Iu2019m a foundation brush person and this blended with no effort whatsoever and gave a nice, lightweight, airbrushed look. Iu2019ll definitely need to go get one shade lighter, because this is such a beautiful product"
+        },
+        {
+            "review_title": "The perfect foundation stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "Iu2019ve never used an foundation stick and was quite skeptical at first but, this one has changed my mind 100%. Its medium to full coverage is perfect for when I want to do full glam. Itu2019s creamy and blends beautifully into the skin.  It has the prettiest glowy finish."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I have been a big fan of the ami cole skin tint and have been able to use this new foundation stick a couple times and I love it! The shade match is literally perfect and the coverage and finish are so nice, definitely recommend it"
+        },
+        {
+            "review_title": "Blends nicely!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "I like this a lot more than I thought I would. It blends out really nicely. You can either use your fingers or a brush. Iu2019ve tried both and I think I like the brush more just because Iu2019m able to layer on if I want slightly more coverage. But it blends really nicely!"
+        },
+        {
+            "review_title": "Love",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Combination skin",
+            "review_text": "This foundation stick is amazing! Highly recommend the convenience of a foundation stick and this ones creamy and makes my skin look glowing from within! Iu2019m happy with the color as well! Donu2019t walk, run!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Blue eyes, Oily skin",
+            "review_text": "I like the shade rage, even though Iu2019m myself on the paler side. This formula is perfect for those who have dry skin. The stick is so convenient since you donu2019t have to be worried about drooping the liquid foundation on yourself."
+        },
+        {
+            "review_title": "Skin like finish",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I have acne-prone skin, it is very hard for me to find items that donu2019t clog my pores, donu2019t show my texture too much or donu2019t look too cakey. I donu2019t usually do stick foundations but this one impressed me a lot. Even though it is in a stick form, it is super hydrating and it slides like butter in your skin. The finish is natural, not too glowy, not too matte. I would say like your skin but better.  The shade I got was a bit darker for me but I made it work, i will definitely give it a lot of use during summer that I am more tan.  When I swatched it on my arm, it did not smudge which adds points to it.   Very nice feel, does not feel heavy at all. It lasted really good during my 8 hour work shift."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I used the shade 340 Light-medium with yellow tones. I love that it feels comfortable on my skin, it glides easily, and it does not dry out my skin. I really like that it leaves a natural finish and it is long-lasting."
+        },
+        {
+            "review_title": "Easy to layer and light coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "The skin-enhancing foundation stick is smooth and easy to apply on my skin! It is light coverage so if you want more coverage you can layer it. Iu2019ll probably be keeping it in my bag in case I need to reapply!"
+        },
+        {
+            "review_title": "Provides excellent coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "This foundation stick is so impressive! It gives full coverage , or atleast for me. One swipe gives you so much product! It can also work perfectly as contour too. My makeup looks great for hours without getting cakey. Definitely a quality foundation."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "300 - medium with red tones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "Color match was perfect for my medium-neutral skin! Itu2019s to easy to use and super creamy. Blends like a dream. Light-medium coverage! Doesnu2019t look greasy/oily. Looks very natural without feeling heavy on the skin."
+        },
+        {
+            "review_title": "Follow my tiktok @mimidameu",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "The Skin-Enhancing Foundation Stick is a game-changer for melanin-rich skin! ud83cudf1f Blurred coverage that's seamless and natural. Finally, a foundation that enhances without masking! The foundation was so buttery and easy to blend!"
+        },
+        {
+            "review_title": "Amazing foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "This foundation is amazing! The stick glides onto my skin soo smoothly and leaves a gorgeous, natural finish. It feels super lightweight and doesnu2019t feel or look dry or cakey. This is definitely a new go to foundation for me."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "330 - medium with red tones",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I really love this blurring foundation stick by Ami Cole. Iu2019ve never used a foundation stick before but I was very impressed! I loved that it was light weight but still provided great coverage! 10/10!"
+        },
+        {
+            "review_title": "Beautiful Finish",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Oily skin",
+            "review_text": "I usually dont enjoy foundation sticks all that much but this product actually applied so smoothly onto my skin and blended very easily. Its definitely a medium coverage that can be built to full coverage if thats what youu2019re looking for. So glad I tried this out!"
+        },
+        {
+            "review_title": "Great application",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, red hair, Tan skin tone, Dry skin",
+            "review_text": "First time using a foundation stick! I like the formula and how it feels on the skin, however, because I have dry skin I donu2019t think itu2019s the best type of foundation for me. I will say that I love how itu2019s buildable coverage and itu2019s super smooth. Easy to blend out as well!"
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "black hair, Fair skin tone, Dry skin",
+            "review_text": "this is a very good product. I never tried to foundation stick before, so this was very new to me. I like the coverage and how light it felt on my skin. I like how it covered all of my blemishes, and it lasted me all day without lifting. I received this product to review it"
+        },
+        {
+            "review_title": "Love love love",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Ami cole has been a brand Iu2019ve been if wanting to try out, and was so excited to receive this stick foundation. I absolutely loved the formula of it and how easy it was to blend out on my skin! Definitely a new everyday foundation!"
+        },
+        {
+            "review_title": "Beautiful Finish",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
+            "review_text": "I usually donu2019t use stick foundations but I was curious to try this brandu2019s product. It applied smoothly on the skin, but when I tried to blend it, I felt like the product stayed in one place and wouldnu2019t move/blend. Iu2019m not an avid stuck foundation user so Iu2019m not sure if thatu2019s how stick foundation formulas are but I felt like I had to use so much product in order to cover what I needed to. However, once applied and buffed into the skin the finish was beautiful. It has a skin-like finish that was dewy and absolutely stunning! I have combination skin so I was worried of how it would react with other products on top of it, but it seemed to mesh fine. It definitely blurs the skin which is incredible, however my only real issue with the product was the longevity. I set my makeup with powder and a setting spray and it still separated slightly throughout the face and transferred. I wish it lasted longer, but itu2019s still an amazing product! It may be better for someone more familiar with stick foundations, but nonetheless I enjoyed this product!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I love this so much it actually matches my skin and itu2019s really hard to find a foundation stick to actually Matches me. It makes me glow is not sticky. If itu2019s perfectly I do recommend it I will be getting again."
+        },
+        {
+            "review_title": "perfect foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "this foundation looks amazing on the skin, it blends in like a dream and is very long lasting ! it doesnu2019t even look like iu2019m wearing foundation ! feels very lightweight and comfortable and is not drying on the skin. definitely recommend for an everyday product"
+        },
+        {
+            "review_title": "Must try foundation stick!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Dry skin",
+            "review_text": "This foundation is sooo beautiful, when applied it melts into your skin and blends like butter, I got a deeper shade to use as brontour to sculpt my face and it layers perfectly on top of my other base products, I would definitely recommend to anyone who looking for a stick foundation or a cream bronzer/concealer it is honestly so versatile and can be used in many ways, I love it so much"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "I love this brand and the inclusion of darker skin tones! This foundation stick has medium buildable coverage, but still has a nice skin like look. Itu2019s not heavy on the skin and I love how easy it is to apply!"
+        },
+        {
+            "review_title": "A must have!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "This is a gorgeous finish!!!! I used it on my client and it was like a cream to powder finish. My client had combo skin (Oily T-zone and dry cheeks) and it didnu2019t cling to her dry spots ( I primed her skin with moisturizer). A really great medium coverage foundation."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "320 - medium neutral with olive tones",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Beautifully glides on my skin. Iu2019m in love with this foundation stick. Itu2019s a medium coverage foundation but looks so smooth and dewy.  I use  it daily and give me such a good look, my skin looks even and beautiful"
+        },
+        {
+            "review_title": "Love!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "I have never tried using a foundation stick before, and this has been working out great for me so far, I love using it almost like to contour my face and pair it with bronzer, but it blends out super easily and hides any spots"
+        },
+        {
+            "review_title": "Love the product, but not the smell!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Tan skin tone, Normal skin",
+            "review_text": "I got this in the mail yesterday & couldnu2019t wait to put it on! ud83eudd2d I love Ami Coleu2019s skin tint, but Iu2019ve always wanted to try a stick foundation. For starters, the product has an interesting smell? Like a chemically one? Idk if itu2019s just me, but it didnu2019t irritate my skin. As for coverage, this product SLAYS! Easy to blend out & looks like second skin!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "340 - light-medium with yellow tones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+            "review_text": "This is my second product from Ami Cole and I have to say I am really impressed. I love the formula and the quality of these products. They are really lightweight and long lasting and high quality. I recommend"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "Bruh I tried this on and the finish was to die for! It blended into my skin and looked flawless! Iu2019d advise doing a good skin prep before putting this on just so it blends seamlessly cause it can be difficult to move cream products around. I would definitely recommend!"
+        },
+        {
+            "review_title": "10/10!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I received this product in exchange for this post and I'm so glad I did! I love this foundation and how it blends seamlessly. It was a perfect match to my skin and is the perfect amount of coverage. 10/10 recommend!"
+        },
+        {
+            "review_title": "Must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I bought this foundation stick in a deeper shade to use for sculpting and bronzing and i LOVE IT. it blends super nicely and naturally either on its own or on top of foundation. itu2019s become a staple and i will continue to use!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "310 - medium neutral with golden tones",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This skin stick foundation is awesome! Iu2019ve tried a couple of other things from ami cole and I swear they havenu2019t missed. Itu2019s full coverage but super lightweight and feels and looks like skin Iu2019m impressed"
+        },
+        {
+            "review_title": "Love this",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
+            "review_text": "Skin-Enhancing Foundation Stick:Blurred coverage for melanin-rich skin is a great product that suits my brown skin so well. This is a must have if you have blemishes and hyperpigmentation to hide which this product does so well."
+        },
+        {
+            "review_title": "Perfect medium/high coverage foundation stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Oily skin",
+            "review_text": "LOVEEEEE THIS PRODUCT! First of all, Iu2019m obsessed with this brand. Second, this feels and looks so luxurious and perfect on my skin I canu2019t even handle it. It feels so natural yet it covers all my acne and hyperpigmentation with minimum product. It doesnu2019t crease of feel cakey on my face, and so far, it hasnu2019t broken me out either. On the Ami Cole website it says all their products are clean and non comodogenic! In this picture I am wearing a little bit of product that I dabbed with my fingers."
+        },
+        {
+            "review_title": "Pretty skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "This foundation stick packs a lot in a tiny package. It has great coverage and feels creamy and easy to blend out. I love this for when Iu2019m traveling and the color match is great for deeper skin tones especially!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "200 - deep neutral brown with red tones",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "The Skin-Enhancing Foundation Stick boasts a creamy yet lightweight texture, gliding effortlessly onto the skin upon application. It feels velvety smooth upon contact, offering a blendable and buildable coverage that doesn't weigh the skin down. Once applied, it yields a natural, semi-matte finish, providing a blurred effect that blurs imperfections without appearing overly matte or dewy. This foundation stick creates a comfortable, breathable sensation on the skin, avoiding a heavy or cakey feel even with multiple layers, making it ideal for daily wear."
+        },
+        {
+            "review_title": "Surprisingly good",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I was personally surprised by this foundation stick. Iu2019m new to this brand and now that I know the foundation is actually great Iu2019m curious about the other products. This foundation stick is so creamy but has a skin like dry down so I donu2019t notice any creasing throughout the day. Itu2019s easy to blend and the shade match is spot on it looks like Iu2019m not even wearing foundation. I havenu2019t noticed any breakouts either yet which is a plus and all of my other makeup works well with it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "310 - medium neutral with golden tones",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "This skin enhancing foundation stick is incredible for traveling. Instead of brining a bottle of foundation I travel with the stick and it gives my skin amazing coverage. You can stick it in your purse and bring it anywhere"
+        },
+        {
+            "review_title": "Great as a bronzer",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "I love this product so much! I actually picked up a medium shade to use as a bronzer on my fair skin and it works perfectly. The product is so smooth and pigmented so you don't need a lot. It blends so easily on the skin as well."
+        }
+    ]
 }

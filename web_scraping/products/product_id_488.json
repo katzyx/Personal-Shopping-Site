@@ -1,232 +1,232 @@
 {
-	"product_id": "488",
-	"name": "SkinFlex Stick Foundation",
-	"brand": "Fashion Fair",
-	"categories": "Makeup, Face, Foundation",
-	"price": 53.0,
-	"about": "What it is:A lightweight, creamy, blendable foundation stick that delivers high-pigment coverage with a natural, semi-matte finish..Coverage:Full.Finish:Natural.Formulation:Stick.Best For:All skin types..Highlighted Ingredients:- Tribehenin: Glycerin-derived, fatty acid-infused humectant that helps avert moisture loss..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan and cruelty-free..What Else You Need to Know:The nutrient-rich ingredients in this foundation hydrate, moisturize, condition, and give skin an antioxidant boost. Crease-resistant pigments help even the appearance of hyperpigmentation and uneven skin tones for a smoother, brighter complexion. These shades are designed for darker skin tones and all skin types.",
-	"ingredients": "-Tribehenin: Glycerin-derived, fatty acid-infused humectant that helps avert moisture loss..-Rice Bran Wax: Antioxidant-rich extract that helps moisturize without blocking pores..-Aloe Leaf Extract: Refreshing hydrator that gently soothes and softens.  ..Ethylhexyl Palmitate, Mica, Octyldodecanol, Propylene Glycol Laurate, Candelilla.Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla, Tribehenin, C12-15 Alkyl.Ethylhexanoate, Silica, Oryza Sativa (Rice) Bran Cera/Wax, Boron Nitride, Cetyl Palmitate,.Lecithin, Caprylyl Glycol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Glycine Soja (Soybean) Oil, Tocopherol, Ascorbyl Palmitate, Aloe Barbadensis Leaf Extract. May Contain/Peut Contenir (±): CI 77891 (Titanium Dioxide), CI 77491, CI 77492, CI 77499 (Iron Oxides).",
-	"how_to_use": "Suggested Usage:.-This one-stick-wonder is your magic multitasker. ..Prime:.-Prep your skin with FF Fabulous Serum (sold separately) to create a poreless effect and effortless glide. ..All-over coverage:.-For sheer to medium coverage, swipe once or dab onto the skin, and gently use your fingertips to pat and blend outward. .-For medium to full coverage, swipe two to three times onto the skin and blend foundation using your favorite complexion brush. .-Set with FF Set It Loose Powder (sold separately) for a translucent, oil-free finish. .-Set with FF Iconic Pressed Powder (sold separately) for a more full-coverage finish and long-lasting wear. ..Contour: .-Choose a shade two to three times darker than your skin tone, depending on the depth of contour you prefer. .-Swipe onto areas where you want to add depth, warmth, and dimension: below your cheekbones, along your jawline, along the hairline and sides of your forehead, and along the sides of your nose. . .Highlighter:.-Select a shade one to two times lighter than your skin tone and tap onto the high points of the face and areas you want to brighten, like the cheekbones, eyelids, tip of the nose, and Cupid’s bow...Conceal and touch up:.-Using your fingertip or a small concealer brush, gently dab and tap the product under the eyes and areas you want to even or ease discoloration.",
-	"num_reviews": 62,
-	"overall_rating": 4.5,
-	"product_url": "https://www.sephora.com/ca/en/product/fashion-fair-skinflex-stick-foundation-P476556?skuId=2476653&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2476653-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Stormy Sand",
-			"shade_descriptor": "light with neutral peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476570-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Honey Child",
-			"shade_descriptor": "light with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476588-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Caramel Fresh",
-			"shade_descriptor": "light-medium with neutral warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476596-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Topaz Trophy",
-			"shade_descriptor": "light-medium with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476604-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Brown Sugar Babe",
-			"shade_descriptor": "medium with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476612-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Fine Chestnut",
-			"shade_descriptor": "medium with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476620-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Rich Brownie",
-			"shade_descriptor": "medium with cool red undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476638-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Blessed Bronze",
-			"shade_descriptor": "medium with warm golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476646-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Suede Silk",
-			"shade_descriptor": "medium deep with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476653-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Mellow Mocha",
-			"shade_descriptor": "medium deep with neutral golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476661-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Whimsy Walnut",
-			"shade_descriptor": "medium deep with warm red undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476679-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Sensuous Sepia",
-			"shade_descriptor": "deep with cool red undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476687-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Chocolate Darling",
-			"shade_descriptor": "deep with neutral golden undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476695-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cherished Cocoa",
-			"shade_descriptor": "deep with neutral warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476703-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Ebony Goddess",
-			"shade_descriptor": "deep with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476711-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Black Brunette",
-			"shade_descriptor": "deep with neutral warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476729-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Brown Blaze",
-			"shade_descriptor": "medium with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712636-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Pure Brown",
-			"shade_descriptor": "medium deep with neutral cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712644-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tender",
-			"shade_descriptor": "light medium with cool red undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712651-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "It's a great brand and foundation. Quit cryin.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
-		},
-		{
-			"review_title": "My skin is like Whoa!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
-			"review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
-		},
-		{
-			"review_title": "tears of non poc",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
-			"review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
-		},
-		{
-			"review_title": "Pathetic shade range",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that don’t understand that everyone deserves to be able to use their products won’t be in business long, and good riddance."
-		},
-		{
-			"review_title": "Do an in-person color match.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
-		},
-		{
-			"review_title": "THIS IS A STAPLE!! WILL FOREVER REPURCHASE 🩷",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
-			"review_text": "I DO NOT LEAVE REVIEWS, BUT HONEY I AM SHOOKETH😍😍😩 this foundation is so flawless, natural, efficient (due to the stick, it’s way less messy), gods gift from earth honey, and did I mention BLACK OWNED."
-		},
-		{
-			"review_title": "It's a great brand and foundation. Quit cryin.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
-		},
-		{
-			"review_title": "My skin is like Whoa!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
-			"review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
-		},
-		{
-			"review_title": "tears of non poc",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
-			"review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
-		},
-		{
-			"review_title": "Pathetic shade range",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that don’t understand that everyone deserves to be able to use their products won’t be in business long, and good riddance."
-		},
-		{
-			"review_title": "Do an in-person color match.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
-		},
-		{
-			"review_title": "THIS IS A STAPLE!! WILL FOREVER REPURCHASE 🩷",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
-			"review_text": "I DO NOT LEAVE REVIEWS, BUT HONEY I AM SHOOKETH😍😍😩 this foundation is so flawless, natural, efficient (due to the stick, it’s way less messy), gods gift from earth honey, and did I mention BLACK OWNED."
-		},
-		{
-			"review_title": "It's a great brand and foundation. Quit cryin.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
-			"review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
-		},
-		{
-			"review_title": "My skin is like Whoa!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
-			"review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
-		},
-		{
-			"review_title": "tears of non poc",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
-			"review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
-		},
-		{
-			"review_title": "Pathetic shade range",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that don’t understand that everyone deserves to be able to use their products won’t be in business long, and good riddance."
-		},
-		{
-			"review_title": "Do an in-person color match.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Oily skin",
-			"review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
-		}
-	]
+    "product_id": "488",
+    "name": "SkinFlex Stick Foundation",
+    "brand": "Fashion Fair",
+    "categories": "Makeup, Face, Foundation",
+    "price": 53.0,
+    "about": "What it is:A lightweight, creamy, blendable foundation stick that delivers high-pigment coverage with a natural, semi-matte finish..Coverage:Full.Finish:Natural.Formulation:Stick.Best For:All skin types..Highlighted Ingredients:- Tribehenin: Glycerin-derived, fatty acid-infused humectant that helps avert moisture loss..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan and cruelty-free..What Else You Need to Know:The nutrient-rich ingredients in this foundation hydrate, moisturize, condition, and give skin an antioxidant boost. Crease-resistant pigments help even the appearance of hyperpigmentation and uneven skin tones for a smoother, brighter complexion. These shades are designed for darker skin tones and all skin types.",
+    "ingredients": "-Tribehenin: Glycerin-derived, fatty acid-infused humectant that helps avert moisture loss..-Rice Bran Wax: Antioxidant-rich extract that helps moisturize without blocking pores..-Aloe Leaf Extract: Refreshing hydrator that gently soothes and softens.  ..Ethylhexyl Palmitate, Mica, Octyldodecanol, Propylene Glycol Laurate, Candelilla.Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla, Tribehenin, C12-15 Alkyl.Ethylhexanoate, Silica, Oryza Sativa (Rice) Bran Cera/Wax, Boron Nitride, Cetyl Palmitate,.Lecithin, Caprylyl Glycol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Glycine Soja (Soybean) Oil, Tocopherol, Ascorbyl Palmitate, Aloe Barbadensis Leaf Extract. May Contain/Peut Contenir (u00b1): CI 77891 (Titanium Dioxide), CI 77491, CI 77492, CI 77499 (Iron Oxides).",
+    "how_to_use": "Suggested Usage:.-This one-stick-wonder is your magic multitasker. ..Prime:.-Prep your skin with FF Fabulous Serum (sold separately) to create a poreless effect and effortless glide. ..All-over coverage:.-For sheer to medium coverage, swipe once or dab onto the skin, and gently use your fingertips to pat and blend outward. .-For medium to full coverage, swipe two to three times onto the skin and blend foundation using your favorite complexion brush. .-Set with FF Set It Loose Powder (sold separately) for a translucent, oil-free finish. .-Set with FF Iconic Pressed Powder (sold separately) for a more full-coverage finish and long-lasting wear. ..Contour: .-Choose a shade two to three times darker than your skin tone, depending on the depth of contour you prefer. .-Swipe onto areas where you want to add depth, warmth, and dimension: below your cheekbones, along your jawline, along the hairline and sides of your forehead, and along the sides of your nose. . .Highlighter:.-Select a shade one to two times lighter than your skin tone and tap onto the high points of the face and areas you want to brighten, like the cheekbones, eyelids, tip of the nose, and Cupidu2019s bow...Conceal and touch up:.-Using your fingertip or a small concealer brush, gently dab and tap the product under the eyes and areas you want to even or ease discoloration.",
+    "num_reviews": 62,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/fashion-fair-skinflex-stick-foundation-P476556?skuId=2476653&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2476653-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Stormy Sand",
+            "shade_descriptor": "light with neutral peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476570-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Honey Child",
+            "shade_descriptor": "light with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476588-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Caramel Fresh",
+            "shade_descriptor": "light-medium with neutral warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476596-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Topaz Trophy",
+            "shade_descriptor": "light-medium with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476604-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Brown Sugar Babe",
+            "shade_descriptor": "medium with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476612-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Fine Chestnut",
+            "shade_descriptor": "medium with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476620-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Rich Brownie",
+            "shade_descriptor": "medium with cool red undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476638-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Blessed Bronze",
+            "shade_descriptor": "medium with warm golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476646-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Suede Silk",
+            "shade_descriptor": "medium deep with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476653-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Mellow Mocha",
+            "shade_descriptor": "medium deep with neutral golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476661-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Whimsy Walnut",
+            "shade_descriptor": "medium deep with warm red undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476679-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Sensuous Sepia",
+            "shade_descriptor": "deep with cool red undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476687-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Chocolate Darling",
+            "shade_descriptor": "deep with neutral golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476695-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cherished Cocoa",
+            "shade_descriptor": "deep with neutral warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476703-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Ebony Goddess",
+            "shade_descriptor": "deep with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476711-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Black Brunette",
+            "shade_descriptor": "deep with neutral warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2476729-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Brown Blaze",
+            "shade_descriptor": "medium with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2712636-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Pure Brown",
+            "shade_descriptor": "medium deep with neutral cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2712644-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tender",
+            "shade_descriptor": "light medium with cool red undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2712651-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "It's a great brand and foundation. Quit cryin.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
+        },
+        {
+            "review_title": "My skin is like Whoa!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
+        },
+        {
+            "review_title": "tears of non poc",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
+            "review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
+        },
+        {
+            "review_title": "Pathetic shade range",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that donu2019t understand that everyone deserves to be able to use their products wonu2019t be in business long, and good riddance."
+        },
+        {
+            "review_title": "Do an in-person color match.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
+        },
+        {
+            "review_title": "THIS IS A STAPLE!! WILL FOREVER REPURCHASE ud83eude77",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+            "review_text": "I DO NOT LEAVE REVIEWS, BUT HONEY I AM SHOOKETHud83dude0dud83dude0dud83dude29 this foundation is so flawless, natural, efficient (due to the stick, itu2019s way less messy), gods gift from earth honey, and did I mention BLACK OWNED."
+        },
+        {
+            "review_title": "It's a great brand and foundation. Quit cryin.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
+        },
+        {
+            "review_title": "My skin is like Whoa!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
+        },
+        {
+            "review_title": "tears of non poc",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
+            "review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
+        },
+        {
+            "review_title": "Pathetic shade range",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that donu2019t understand that everyone deserves to be able to use their products wonu2019t be in business long, and good riddance."
+        },
+        {
+            "review_title": "Do an in-person color match.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
+        },
+        {
+            "review_title": "THIS IS A STAPLE!! WILL FOREVER REPURCHASE ud83eude77",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+            "review_text": "I DO NOT LEAVE REVIEWS, BUT HONEY I AM SHOOKETHud83dude0dud83dude0dud83dude29 this foundation is so flawless, natural, efficient (due to the stick, itu2019s way less messy), gods gift from earth honey, and did I mention BLACK OWNED."
+        },
+        {
+            "review_title": "It's a great brand and foundation. Quit cryin.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "The way some of these girls came on here to lie about being excited to try Fashion Fair, when they clearly they don't know anything about it is dirty work. The company will continue to exist as it has for decades. FF exists because up until the mid-2010s no one was really making shades that included deeper skin tones.   The darkest shades were Beyonce without a tan colored aka the 1 or 2 shades that come immediately after beige. I remember this, because that is the shade I wear. Which means they had shades for non-black women and mixed girls all over the place, but nothing for mono-racial black women and deep skinned POC.  Enter Fashion Fair and Iman's Line to fill the gap where those women were completely ignored previously. There are hundreds, if not thousands of brands that cater to pale people. There are nearly none that cater to the richness of deeper skin tones (most nonBlack companies only create warm toned deeper foundations ignoring cool toned dark skin - and yes, i say black companies b/c though there are deeper skinned people all over the world, most of their products focus on being paler).   Deeper skin tones do not have the same range of options. They can't even use the hack that some pale women use of applying concealer as foundation,  because their shades simply do not exist anywhere in the line. When you have so many options already,  everything doesn't have to be for you. Let them continue to exist for the reason they came to be in the first place. To cater to the women who are usually excluded."
+        },
+        {
+            "review_title": "My skin is like Whoa!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "This is my first time using this product and it's the perfect shade for my complexion.  I usually use Revlon but I had to mix the cappuccino and mocha to get the correct shade.  I bought the color pure brown and it is the best color match for me and it wears well on my combination skin.  When I was out in the sunlight my skin looked so beautiful and I received 3 compliments one from my boyfriend, my orthopedic doctor and a young lady sitting in the waiting room.  I never felt comfortable in my choice of foundations but I absolutely do now.  I will be buying more!"
+        },
+        {
+            "review_title": "tears of non poc",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Oily skin",
+            "review_text": "this is great and looks seamless! I'm so excited to see another POC brand.   I'm disappointed in those who are complaining about the lack of light shades. there are thousands of other brands that cater to you. now you know what it's like to not have products at your disposal. keep that same energy next time you come across another brand that lacks darker shades.   I would recommend this product."
+        },
+        {
+            "review_title": "Pathetic shade range",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Not having and light shades is equally as exclusionary as not having any dark shades. Unfortunately the brands that donu2019t understand that everyone deserves to be able to use their products wonu2019t be in business long, and good riddance."
+        },
+        {
+            "review_title": "Do an in-person color match.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "The product has potential.  Easy to apply.  Nice coverage.  The color was all wrong.  The online color match indicator (ie. If you wear brand XYZ in this color, then this is your Fashion Fair match.) did NOT WORK.  Too light with too much red undertones."
+        }
+    ]
 }

@@ -1,46 +1,45 @@
 {
-	"product_id": "1416",
-	"name": "Watermelon Care Set",
-	"brand": "SEPHORA COLLECTION",
-	"categories": "Skincare, Value & Gift Sets",
-	"price": 12.0,
-	"about": "What it is:A limited-edition duo of skincare products enriched with watermelon extract to keep lips and hands soft this holiday season..Skin Type:Normal, Dry, Combination, and Oily.What Else You Need to Know:The SEPHORA COLLECTION Watermelon Care Set is the perfect gift to give this holiday season. It contains two skin-loving products enriched with watermelon extract to moisturize hands and lips and is formulated with 95 percent ingredients of natural origin. This set is also available in limited-edition packaging, perfect to hang on your holiday tree..This Set Contains:- 0.12 oz/ 3.5 g Watermelon Moisturizing Lip Balm",
-	"ingredients": "Watermelon Moisturizing Lip Balm: .Hydrogenated Vegetable Oil, Ricinus Communis (Castor) Seed Oil, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Helianthus Annuus (Sunflower) Seed Oil, Theobroma Cacao (Cocoa) Seed Butter, CI 77947 (Zinc Oxide), Parfum (Fragrance), Tocopherol, CI 45410 (Red 28 Lake), Dicalcium Phosphate, CI 19140 (Yellow 5 Lake), Sucralose, CI 15850 (Red 7 Lake), Citrullus Lanatus (Watermelon) Fruit Extract...Watermelon Hand Balm with Shea Butter: .Aqua (Water), Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Glycerin, Glyceryl Stearate Se, Myristyl Alcohol, Cetearyl Alcohol, Undecane, Distarch Phosphate, Pentylene Glycol, Tridecane, Parfum (Fragrance), 1,2-Hexanediol, Hydroxyacetophenone, Potassium Cetyl Phosphate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Citric Acid, Citrullus Lanatus (Watermelon) Fruit Extract, Sodium Dehydroacetate, Lecithin, Tocopherol, Ascorbyl Palmitate.",
-	"how_to_use": "Suggested Usage:.Watermelon Moisturizing Lip Balm: .-Apply generously to lips whenever necessary. .-Reapply as needed. ..Watermelon Hand Balm with Shea Butter: .-Apply to clean, dry hands. .-Massage gently.",
-	"num_reviews": 4,
-	"overall_rating": 3.3,
-	"product_url": "https://www.sephora.com/ca/en/product/watermelon-care-set-P513649?skuId=2779791&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2779791-main-zoom.jpg?imwidth=465",
-	"shades": [
-	],
-	"reviews": [
-		{
-			"review_title": "Nice Scent",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
-			"review_text": "Lovely gift for the holiday season! The scent is great and I like the lip balm a lot!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "It’s so good mostly the lip balm I love it’s a pretty tint! Hand balm is pretty average tho"
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Medium skin tone, Normal skin",
-			"review_text": "Very disappointed that I did not get what was advertised, missing all the good samples, the bum bum cream was the whole reason I picked this bag"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
-			"review_text": "I've purchased both of these products in other scents. the hand cream works well - definitely has a strong candy-like watermelon scent, like a jolly rancher or something. The lip balm is a pass, almost just sits on top of the lips and dries out fairly quickly. seems like my lips are drier after somehow? i've never had this issue with other scents so maybe it's just this one? or the formula has changed since my past purchase?"
-		}
-	]
+    "product_id": "1416",
+    "name": "Watermelon Care Set",
+    "brand": "SEPHORA COLLECTION",
+    "categories": "Skincare, Value & Gift Sets",
+    "price": 12.0,
+    "about": "What it is:A limited-edition duo of skincare products enriched with watermelon extract to keep lips and hands soft this holiday season..Skin Type:Normal, Dry, Combination, and Oily.What Else You Need to Know:The SEPHORA COLLECTION Watermelon Care Set is the perfect gift to give this holiday season. It contains two skin-loving products enriched with watermelon extract to moisturize hands and lips and is formulated with 95 percent ingredients of natural origin. This set is also available in limited-edition packaging, perfect to hang on your holiday tree..This Set Contains:- 0.12 oz/ 3.5 g Watermelon Moisturizing Lip Balm",
+    "ingredients": "Watermelon Moisturizing Lip Balm: .Hydrogenated Vegetable Oil, Ricinus Communis (Castor) Seed Oil, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Helianthus Annuus (Sunflower) Seed Oil, Theobroma Cacao (Cocoa) Seed Butter, CI 77947 (Zinc Oxide), Parfum (Fragrance), Tocopherol, CI 45410 (Red 28 Lake), Dicalcium Phosphate, CI 19140 (Yellow 5 Lake), Sucralose, CI 15850 (Red 7 Lake), Citrullus Lanatus (Watermelon) Fruit Extract...Watermelon Hand Balm with Shea Butter: .Aqua (Water), Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea Butter)), Glycerin, Glyceryl Stearate Se, Myristyl Alcohol, Cetearyl Alcohol, Undecane, Distarch Phosphate, Pentylene Glycol, Tridecane, Parfum (Fragrance), 1,2-Hexanediol, Hydroxyacetophenone, Potassium Cetyl Phosphate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Citric Acid, Citrullus Lanatus (Watermelon) Fruit Extract, Sodium Dehydroacetate, Lecithin, Tocopherol, Ascorbyl Palmitate.",
+    "how_to_use": "Suggested Usage:.Watermelon Moisturizing Lip Balm: .-Apply generously to lips whenever necessary. .-Reapply as needed. ..Watermelon Hand Balm with Shea Butter: .-Apply to clean, dry hands. .-Massage gently.",
+    "num_reviews": 4,
+    "overall_rating": 3.3,
+    "product_url": "https://www.sephora.com/ca/en/product/watermelon-care-set-P513649?skuId=2779791&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2779791-main-zoom.jpg?imwidth=465",
+    "shades": [],
+    "reviews": [
+        {
+            "review_title": "Nice Scent",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "Lovely gift for the holiday season! The scent is great and I like the lip balm a lot!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Itu2019s so good mostly the lip balm I love itu2019s a pretty tint! Hand balm is pretty average tho"
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Medium skin tone, Normal skin",
+            "review_text": "Very disappointed that I did not get what was advertised, missing all the good samples, the bum bum cream was the whole reason I picked this bag"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+            "review_text": "I've purchased both of these products in other scents. the hand cream works well - definitely has a strong candy-like watermelon scent, like a jolly rancher or something. The lip balm is a pass, almost just sits on top of the lips and dries out fairly quickly. seems like my lips are drier after somehow? i've never had this issue with other scents so maybe it's just this one? or the formula has changed since my past purchase?"
+        }
+    ]
 }

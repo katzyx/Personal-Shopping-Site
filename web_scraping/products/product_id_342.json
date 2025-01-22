@@ -1,30 +1,30 @@
 {
-	"product_id": "342",
-	"name": "OI Hair Oil for Softness and Shine",
-	"brand": "Davines",
-	"categories": "Hair, Hair Styling & Treatments, Hair Oil",
-	"price": 69.0,
-	"about": "What it is:A multipurpose oil that detangles, reduces frizz, and leaves hair extraordinarily soft and shiny..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Medium and Thick.Hair Concerns:- Dryness.Key Benefits:- Hydrates and reduces frizz.Highlighted Ingredients:- Roucou Oil: Protects and strengthens hair with beta-carotene and antioxidants..Ingredient Callouts:This product is vegan..What Else You Need to Know:This antioxidant-packed oil protects hair and considerably reduces drying time, with a weightless finish. It contains a carotenoid-rich oil extracted from roucou seeds that reduces damage caused by external aggressors.",
-	"ingredients": "-Roucou Oil: Protects and strengthens hair with beta-carotene and antioxidants...Cyclopentasiloxane, Disiloxane, Dimethiconol, Cyclohexasiloxane, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Tocopherol, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Bixa Orellana Seed Extract, Citronellol, Mauritia Flexuosa Fruit Oil, Geraniol, Linalool, Alpha-Isomethyl Ionone, Limonene.",
-	"how_to_use": "Suggested Usage:.-For fine hair, use one pump..-For normal hair, start with two to three pumps and add more if needed..-Before styling, apply evenly to lengths and ends of towel-dried hair. Blow-dry hair or let air-dry..-As a finishing touch, apply to lengths and ends of dry hair.",
-	"num_reviews": 241,
-	"overall_rating": 4.8,
-	"product_url": "https://www.sephora.com/ca/en/product/davines-oi-oil-for-softness-shine-P512656?skuId=2817112&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2817112-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "4.56 oz/ 135 ml",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2817112-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Amazing product, not just for hair!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, gray hair, Light skin tone, Combination skin",
-			"review_text": "This is truly a versatile product!  I received a sample in a previous purchase and thought, okay I'll never use this on my hair.  One day when my face was feeling especially dry, I dabbed it on.  What a wonderful  feeling!  So after my next shower, I lathered it on my whole face.  Next came the hands and neck.  I've ordered it twice since and will gift it to others."
-		}
-	]
+    "product_id": "342",
+    "name": "OI Hair Oil for Softness and Shine",
+    "brand": "Davines",
+    "categories": "Hair, Hair Styling & Treatments, Hair Oil",
+    "price": 69.0,
+    "about": "What it is:A multipurpose oil that detangles, reduces frizz, and leaves hair extraordinarily soft and shiny..Hair Texture:Straight, Wavy, Curly, and Coily.Hair Type:Medium and Thick.Hair Concerns:- Dryness.Key Benefits:- Hydrates and reduces frizz.Highlighted Ingredients:- Roucou Oil: Protects and strengthens hair with beta-carotene and antioxidants..Ingredient Callouts:This product is vegan..What Else You Need to Know:This antioxidant-packed oil protects hair and considerably reduces drying time, with a weightless finish. It contains a carotenoid-rich oil extracted from roucou seeds that reduces damage caused by external aggressors.",
+    "ingredients": "-Roucou Oil: Protects and strengthens hair with beta-carotene and antioxidants...Cyclopentasiloxane, Disiloxane, Dimethiconol, Cyclohexasiloxane, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Tocopherol, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Bixa Orellana Seed Extract, Citronellol, Mauritia Flexuosa Fruit Oil, Geraniol, Linalool, Alpha-Isomethyl Ionone, Limonene.",
+    "how_to_use": "Suggested Usage:.-For fine hair, use one pump..-For normal hair, start with two to three pumps and add more if needed..-Before styling, apply evenly to lengths and ends of towel-dried hair. Blow-dry hair or let air-dry..-As a finishing touch, apply to lengths and ends of dry hair.",
+    "num_reviews": 241,
+    "overall_rating": 4.8,
+    "product_url": "https://www.sephora.com/ca/en/product/davines-oi-oil-for-softness-shine-P512656?skuId=2817112&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2817112-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "4.56 oz/ 135 ml",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2817112-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Amazing product, not just for hair!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, gray hair, Light skin tone, Combination skin",
+            "review_text": "This is truly a versatile product!  I received a sample in a previous purchase and thought, okay I'll never use this on my hair.  One day when my face was feeling especially dry, I dabbed it on.  What a wonderful  feeling!  So after my next shower, I lathered it on my whole face.  Next came the hands and neck.  I've ordered it twice since and will gift it to others."
+        }
+    ]
 }

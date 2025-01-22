@@ -1,1215 +1,1215 @@
 {
-	"product_id": "1786",
-	"name": "Dior Forever Matte Skincare Foundation",
-	"brand": "DIOR",
-	"categories": "Makeup, Face, Foundation",
-	"price": 74.0,
-	"about": "What it is:A clean Dior foundation with up to 24 hours of transfer-proof wear..Coverage:Medium.Finish:Matte.Formulation:Liquid.Highlighted Ingredients:- Iris Extract: Guards against oxidation..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It also comes in recyclable packaging..What Else You Need to Know:This new medium-full coverage foundation visibly smooths skin and reduces the look of pores. It is transfer-, heat-, and humidity-resistant, and it delivers up to 24 hours of color-true wear and comfort.",
-	"ingredients": "Aqua (Water), Methyl Trimethicone, Isododecane, Alcohol, Synthetic Fluorphlogopite, Butylene Glycol, Peg-9 Polydimethylsiloxyethyl Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Silica, Dimethicone, Acrylates/Dimethicone Copolymer, Disteardimonium Hectorite, Cetyl Dimethicone, Polyglyceryl-10 Decaisostearate, Sodium Myristoyl Glutamate, Parfum (Fragrance), Propylene Carbonate, Chlorphenesin, Aluminum Hydroxide, Tromethamine, Hydrolyzed Viola Tricolor Extract, Tocopherol, Alumina, Stearic Acid, Tropaeolum Majus Flower/Leaf/Stem Extract, Rosa Multiflora Fruit Extract, 1,2-Hexanediol, Caprylyl Glycol, Iris Florentina Root Extract, Sodium Benzoate, Potassium Sorbate, , [Octisalate 3.50%, Titanium Dioxide 0.94% ]. [Ci 77491,Ci 77492,Ci 77499  (Iron Oxides), Ci 77891  (Titanium Dioxide), ].",
-	"how_to_use": "Suggested Usage:.-Begin by patting a small amount onto the zones that require the most coverage, then blend outward with smoothing strokes..-For perfectly uniform coverage, apply the formula with a foundation brush..-The formula wears for up to 24 hours, eliminating the need for touch-ups throughout the day...Recycling Instructions:.-The foundation bottle contains 40 percent recycled glass, and its plastic cap contains 100 percent recycled plastic. .-Remove the pump before recycling the glass bottle and plastic cap. .-This packaging may not be recyclable in your area. .-Please check with your local municipality.",
-	"num_reviews": 141,
-	"overall_rating": -1,
-	"product_url": "https://www.sephora.com/ca/en/product/forever-matte-foundation-P441213?skuId=2558435&icid2=products%20grid:p441213:product",
-	"image_url": "https://www.sephora.com/productimages/sku/s2558435-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "00 Neutral",
-			"shade_descriptor": "fair skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2558435-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "0N Neutral",
-			"shade_descriptor": "fair skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557940-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "0W Warm",
-			"shade_descriptor": "fair skin with warm tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557627-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "0CR Cool Rosy",
-			"shade_descriptor": "fair skin with cool rosy undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557635-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "0.5N Neutral",
-			"shade_descriptor": "fair skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557619-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1N Neutral",
-			"shade_descriptor": "fair skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557643-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1W Warm",
-			"shade_descriptor": "fair skin with warm tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557650-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1CR Cool Rosy",
-			"shade_descriptor": "fair skin with cool rosy undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557668-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1.5N Neutral",
-			"shade_descriptor": "light skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557676-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "1.5W Warm",
-			"shade_descriptor": "light skin with warm tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2558427-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2WO Warm Olive",
-			"shade_descriptor": "light skin with warm olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2558419-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2N Neutral",
-			"shade_descriptor": "light skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557684-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2W Warm",
-			"shade_descriptor": "light skin with warm tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557692-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2CR Cool Rosy",
-			"shade_descriptor": "light skin with cool rosy undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557700-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2WP Warm Peach",
-			"shade_descriptor": "light skin with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557718-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2.5N Neutral",
-			"shade_descriptor": "light skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557726-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "2.5W Warm",
-			"shade_descriptor": "fair skin with warm tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2558401-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3C Cool",
-			"shade_descriptor": "light to medium skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557775-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3CR Cool Rosy",
-			"shade_descriptor": "light to medium skin with cool rosy undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557759-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3N Neutral",
-			"shade_descriptor": "light to medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557734-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3W Warm",
-			"shade_descriptor": "light to medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557742-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3WO Warm Olive",
-			"shade_descriptor": "light to medium skin with warm olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557957-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3WP Warm Peach",
-			"shade_descriptor": "light to medium skin with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557767-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "3.5N Neutral",
-			"shade_descriptor": "light to medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557783-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4C Cool",
-			"shade_descriptor": "medium skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557825-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4N Neutral",
-			"shade_descriptor": "medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557791-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4W Warm",
-			"shade_descriptor": "medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557809-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4WO Warm Olive",
-			"shade_descriptor": "medium skin with warm olive undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557965-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4WP Warm Peach",
-			"shade_descriptor": "medium skin with warm peach undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557817-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4.5N Neutral",
-			"shade_descriptor": "medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557833-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "4.5W Warm",
-			"shade_descriptor": "medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557973-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "5N Neutral",
-			"shade_descriptor": "medium skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557841-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "5W Warm",
-			"shade_descriptor": "medium skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557858-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6N Neutral",
-			"shade_descriptor": "medium to deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557866-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6W Warm",
-			"shade_descriptor": "deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557874-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6.5N Neutral",
-			"shade_descriptor": "medium to deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557882-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6.5W Warm",
-			"shade_descriptor": "medium to deep skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557981-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "7N Neutral",
-			"shade_descriptor": "deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557890-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "7W Warm",
-			"shade_descriptor": "deep skin with warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557908-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "7.5N Neutral",
-			"shade_descriptor": "deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557916-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "8N Neutral",
-			"shade_descriptor": "deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557924-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "9N Neutral",
-			"shade_descriptor": "deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2557932-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Found a Foundation That Doesn't Break Me Out",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
-			"review_text": "Finally found a foundation that works with my combination skin and doesn't break me out. This helps my oily T-zone stay in check for hours longer than all the previous foundations I've tried and doesn't dry out the area around my mouth like the other products I've used in the past. This has been my go-to foundation for years now. Because of the high coverage, a little goes a long way and one bottle lasts me a long time so it's worth the extra cost. I recommend this product."
-		},
-		{
-			"review_title": "Expire date",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "The review is for Sephora not the foundation!  I recently received my latest order, and I noticed that the product I got has an expiration date in just three months. This is scam"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "2.5W Warm - fair skin with warm tones",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Love this foundation, every time I wear it I get compliments. It’s Long lasting and shade range is good"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "5W Warm - medium skin with warm undertones",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "Not 100% a fan. Definitely kept my skin matte which I loved. But it definitely not transfer proof and kind of embarrassing."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
-			"review_text": "If you have oily or combination skin buy this one instead of Dior glow. Its not completely matte but stays on skin for full 10 to 12 hrs without budging. It will not settled into pores and cream and powder products goes on smoothly on top of it."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "3.5N Neutral - light to medium skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Light weight!  Amazing coverage for a full day Perfect match for my skin tone (olive skin tone)  Highly recommend"
-		},
-		{
-			"review_title": "Amazing!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
-			"review_text": "Love this! Great coverage and wear time. I wore this foundation on stage while I was performing in a 3-hour outdoor rock concert in August, and it still looked good by the end of the night! I removed a star because it does oxidize a bit throughout the day, but not nearly as much as other foundations I’ve tried. I would absolutely purchase this again."
-		},
-		{
-			"review_title": "Let down by Sephora Canada",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Fair skin tone, Combination skin",
-			"review_text": "I love this but I purchased this from Sephora Canada (eaton centre). When I tried to pump it out, it was very oily, which was weird because I’ve been using this for years so I know the consistency. The bottle had a big sticker at the back and when I pulled it out, the expiry date was 3 months away. I’ve read other reviews of Sephora doing this thing with the sticker and selling products that are expired or about to expire. Good product but a let down by Sephora Canada."
-		},
-		{
-			"review_title": "A must have if you are looking for a neutral look",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
-			"review_text": "Gives a natural finish and easy to use. It’s worth the price"
-		},
-		{
-			"review_title": "Must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Dry skin",
-			"review_text": "One of my go to foundations, blend quickly as it sets fast but the coverage do even natural like skin but better. I need to buy a darker shade for my summer skin tone a bit pricy so I’ll just mix some bronzer"
-		},
-		{
-			"review_title": "I can’t stop using this product for my routine!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "This foundation is a bit pricey, but I think it’s so worth it to splurge on. It has beautiful packaging and makes my pores disappear, make my face look smooth and is full coverage!"
-		},
-		{
-			"review_title": "For its price, its worth it",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Dry skin",
-			"review_text": "Honestly amazing. The formula in this feels wonderful and doesn’t dry out my skin. Even with powder it still feels like my skin. It lasts forever. The only issue i have it pulls were my skin touches my glasses."
-		},
-		{
-			"review_title": "Lasting but a bit drying",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "Used a few times with wear test all day. Controls oil well but by dry patches look it. Lasts but doesn’t look as good end of day. Tried with and without primer, powder and setting spray."
-		},
-		{
-			"review_title": "Oxidized immediately -- especially for fairer skin",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Fair skin tone, Oily skin",
-			"review_text": "Everything about this foundation is excellent for oily skin but it oxidizes almost immediately after applying it on the face (like literally in a few minutes). The degree of oxidation is just way too much for me. I bought the shade that matched my skin tone when I just applied it to my face but it started to turn orange and dull right away and made me look like I've pulled an all-nighter :( My face ended up being 2-3 shades darker than my neck... If you have a fairer skin tone, I STRONGLY recommend you trying this out in store and wait for 10 minutes to see if it oxidizes, or go one shade lighter.  But other than that this foundation does a very good job of smoothing pores and is indeed long-wearing. Even after wearing it for a very long time (like 10 hours), it does not rub off but instead produces a beautiful subtle creamy glow on my face."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "00 Neutral - fair skin with neutral tones",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Normal skin",
-			"review_text": "I love how it makes my skin appear nice and pretty. It's definitely one of my favorite ones to wear occasionally. It does oxidize a bit like anything would. It is also not as matte, which I love as Canada can be very dry (fyi the glow version isn't as hydrating... so people with oily skin can wear it). I apply sunblock before this foundation, and it leaves nice skin tone on my face."
-		},
-		{
-			"review_title": "Love it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Honestly my favourite foundation full coverage but I wouldn’t say 24 hr wear it’s good for 8hrs of wear"
-		},
-		{
-			"review_title": "Meh it’s so so",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
-			"review_text": "After using this product for a few weeks I did feel that it moisturized and protected my skin. With all that being said, I’m not impressed with the price tag and essentially it dries up in my skin. After two or three hours it’s like powder on my face. I’ve combined it with another skin moisturizer and it works a bit better. Buying a print brand isn’t always the greatest. And I’m not recommending it."
-		},
-		{
-			"review_title": "Check for expiration date",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Fair skin tone, Combination skin",
-			"review_text": "i bought it in July, i took the paper in the back off and it expired in September…"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "0CR Cool Rosy - fair skin with cool rosy undertones",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "Just a beautiful long wearing foundation.   I find it as more of a soft matte foundation, not cakey at all."
-		},
-		{
-			"review_title": "Overpriced foundation",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Oily skin",
-			"review_text": "For the amount of money this foundation costs, I expected miracles. it separated and made my skin look very oily. You can find better foundations at Sephora that work way better ￼"
-		},
-		{
-			"review_title": "favourite foundation to date",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Porcelain skin tone, Dry skin",
-			"review_text": "this is my favourite foundation. i have dry skin so i do have to use a hydrating moisturizer and good primer before putting on this foundation but once i figured out the right combo of products for me, there's no comparison! this product is FULL coverage without feeling heavy on the skin - it is comfortable to wear and stays looking amazing thoughout the day."
-		},
-		{
-			"review_title": "The only foundation you need",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I’m this foundation has a great matte texture and did not cake my skin throughout the day. It covered all my blemishes on one pump."
-		},
-		{
-			"review_title": "Christian Dior Matte Liquid Foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Oily skin",
-			"review_text": "I really like the texture and consistency of this foundation. It really makes me feel like I have an air brush finish. I would recommend storing it upright because it’s hard to pump the product. I wear this same foundation in 2W in the summer"
-		},
-		{
-			"review_title": "This is bae 💖",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "When I moved to Canada I was concerned about finding the right foundation. This is a great find! I am glad that I visited Sephora & tested it. It’s been over two years since I’ve been using Dior’s foundation. It gives a natural finish & stays long."
-		},
-		{
-			"review_title": "Best foundation ever",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-			"review_text": "If you want a natural looking foundation, that’s it. Doesn’t feel dry and last all day long. Just to make sure you find the right shade. Highly recommended"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
-			"review_text": "i noticed a lot of people with oily skin who loved this foundation, and as a dry skinned girl who loves a soft matte face, i LOVE this. maybe it’s also my skin prep but i’ve never had a foundation wear so beautifully."
-		},
-		{
-			"review_title": "Not “matte”",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
-			"review_text": "This is a decent foundation, which I wanted matte, but it does not dry even when I put powder on it and setting powder this foundation does not set. The only thing I like it the range of shades because I’m very white, I use to use Chanel, but it was too dark."
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "5W Warm - medium skin with warm undertones",
-			"review_buyer_description": "",
-			"review_text": "Did not work for me, your face gets oily after 2 hours and the finish is not natural at all."
-		},
-		{
-			"review_title": "Strong perfume scent",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Normal skin",
-			"review_text": "I did enjoy this foundation but the fragrance is way too strong for me. Smells like I’m spraying a bottle of perfume on my face while applying."
-		},
-		{
-			"review_title": "Truly a great formula!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Finally found the perfect colour match!  Initially I found this oxidized slightly, but have discovered a trick to stop this from happening. Lightly powder your face before applying the foundation with a brush.     The foundation goes on so smooth and looks natural, lasting all day and no oxidation!  Hopefully this is helpful to the ladies who are experiencing this. 😊"
-		},
-		{
-			"review_title": "Simply perfect!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "Je n’utilise généralement pas de fond de teint car je trouve toujours que ça fait pas la job. But this one is  perfect!"
-		},
-		{
-			"review_title": "Dior... Forever.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
-			"review_text": "I am sold, forever. The foundation is not too matte whatsoever and provides full coverage, but also makes you look like you are not wearing makeup?? Incredible. I am super thankful to the Sephora team for helping me in my decision and finally finding a foundation that fits my skin, after 15+ years of searching."
-		},
-		{
-			"review_title": "Wore this on an impromptu hike. No regrets.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Combination skin",
-			"review_text": "I recently lost my foundation while on a trip and had a friend give me a little sample bubble of this to tide me over. Even in a slightly “off” color, I was so impressed! I actually wore it on an impromptu hike and it stayed flawless. More so, the contour and other makeup I had on top of it also continued to sit nicely, even at the end of that sweaty day. In the evening I added a bit  of powder and it looked like fresh makeup. Once we got back to the city I went to see about a proper match ASAP.  It’s has a full coverage look without feeling too heavy. It is amazingly long lasting and stays put. The matte finish is lovely even over my few dry patches. Overall I would say it’s slightly more matte, but generally similar to Estée Lauder double wear, however I do prefer the Estée Lauder formula ever so slightly. In my experience I find this Dior formula is a bit thicker looking and feeling  - however this could be a matter of me needing to get more familiar with its application. I feel like the effect I have been getting is very “influencer” looking, super even skin tone, very pretty, but can lean a bit artificial looking. Certainly not caky or anything problematic, but I don’t think anyone is going to mistake it for the “no makeup” look. It “gives” in a manner that is beautiful, but also apparent.   Where this product shines most for me is the color selection - I have never been able to perfectly match my skin with a single shade of ELDW (I’ve always had to mix it with something) - with Dior’s selection of shades & undertones I can! While I won’t be abandoning my EL completely, I do like that this gives a similar effect, while also being one and done. The only true “con” I would note is that it has a (tolerable) sunscreen smell when applying.   For reference I have very fair cool-neutral skin. Other shades I wear include MAC NW10-15 & N3 depending on product/season, Nars Oslo (fall-spring), ELDW in 1C1 (in summer, or mixed with a lightener for other seasons)."
-		},
-		{
-			"review_title": "Must Have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Combination skin",
-			"review_text": "I love this foundation, it’s the only one that doesn’t separate or crease or move on my oily/combination skin. I’ve used the matte one and the hydrating both are amazing depending on what look you want. If I want a more natural dewy look I use the hydrating foundation. For a more matte look I use this one, for people with dry skin you neeed to prime and moisturize properly before applying. If you don’t moisturize anything mattifying will sit weird on your skin. This foundation is god sent when you do moisturize very well before application. The most important part of makeup application is how you prepare your skin so it sits correctly. This is expensive but worth the investment honestly and a little goes a very long way."
-		},
-		{
-			"review_title": "A MUST HAVE!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "I’d give this 10 stars if I could !!! This product is FIREEE!!! I have a hard time finding foundation for my oily skin that doesn’t separate, let me tell you this foundation is LIFE CHANGING !!! I do 30 minute sessions level 8 on the stair master and this foundation doesn’t budge , it’s literally on point even after a sweaty work out session. This foundation is LIFEEEE"
-		},
-		{
-			"review_title": "Game changer for 45 year old that needs coverage",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "I hesitated a while before trying this as I had become very disillusioned with makeup in general not living up to expectations.  Watching videos, reading reviews and trying products for many years has never resulted in anything more then meh results.  As I am aging I needed a product that covered the redness on my cheeks, sunspots etc. without being heavy.  I didn't want to see the makeup on my skin.  I'm also not into touching up during the day. I apply before my workday and wash it off in the evening, that's it.  My go to for years was estee lauder, applied lightly with a damp beauty blender.  I thought that was the best I was going to get with regards to coverage and staying power.  I was wrong!  I'm not sure why there are a low number of reviews for this foundation but perhaps it's an age thing.  I'm hooked! Apply with a damp beauty blender, great! Apply with a brush, amazing!  Easier to apply than ELDW but the coverage and staying power are the same for me.  No primer, no setting powder or spray.  Just moisturize, apply it and go.  Even close up in a magnification mirror or in daylight in the car mirror it looks like skin.  It even stays on my nose!  There is slight scent but I don't even notice it anymore and it looks so good that I don't even care.  The search is over for me."
-		},
-		{
-			"review_title": "worth it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Combination skin",
-			"review_text": "I've been using this foundation for years. it's expensive and worth it! it's nice on the skin, nice finish and lasts all day!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "3WO Warm Olive - light to medium skin with warm olive undertones",
-			"review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "I barely used one pump it is amazing i have mix tones of skin and i am super acne prone it doesn’t leave marks on my skin even after 8 hours of my workday. I love it."
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "3.5N Neutral - light to medium skin with neutral undertones",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "Looks nice when you first put it on, but I find it clings onto dry spots and oxidizes really badly. I wouldn’t say it’s good for sensitive, oily and acne-prone skin :/"
-		},
-		{
-			"review_title": "A must have in your make up bag",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "I’ve always been a Dior lover for makeup! This foundation is simply the best!! Natural looking, awesome coverage, long lasting - I have lots of good comments on my skin when wearing it. Money well spend"
-		},
-		{
-			"review_title": "Not for textured, oily, acne-prone skin",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Oily skin",
-			"review_text": "I was looking for a new foundation, preferably with sunscreen, as the one I usually use will be discontinued soon. This was recommended to me by a Sephora employee. The shade match was like no other and the foundation smelled nice, felt nice, and apparently has sunscreen in it. However, I had to return it as immediately upon application it settled into every fine line, enlarged pore, rough patch etc and amplified these imperfections. I tried using a primer prior to application and got the same result. I don't know it it's the sunscreen in the foundation that's causing this, but I will stick to my basic, sunscreen-free foundation for now."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
-			"review_text": "A non comedogenic holy grail foundation. In love! (wish it wasn’t so pricey)"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Combination skin",
-			"review_text": "Fantastic looks like skin and wears well.  Doesn’t settle into fine lines or smile lines.  Best shade match I’ve ever had in a foundation"
-		},
-		{
-			"review_title": "Not worth the $ for oily peeps.",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
-			"review_text": "Returning. This did not help with my oily skin even after trying two different primers and setting spray. Coverage is nice and blends nicely into a matte finish, but only lasted 2 hours before I had to blot. I’ll stick to the Dior Face"
-		},
-		{
-			"review_title": "IN LOVE",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "Absolutly in love, as someone who has very senstive skin I have to say Dior Forever Matte Foundation is a game changer. I love how it looks got so many compliments and a little goes a long  way"
-		},
-		{
-			"review_title": "Soft foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Oily skin",
-			"review_text": "Nice products for oily skin like me. It doesn't give cake effect at all"
-		},
-		{
-			"review_title": "So good!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "So good! Great coverage without feeling heaving. A little goes a long way. I have textured, oily, blemish prone skin and this is great for me. I knocked a star off due to the nozzle always getting plugged and then product squirts  everywhere- I do love the pump feature but it needs refinement."
-		},
-		{
-			"review_title": "Try this one!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Love this foundation  I am older woman,and I usually don’t buy Matt foundation,but this one is exceptional."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
-			"review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
-			"review_text": "Love the foundation, but the one struggle I have is that the spout is so small that it clogs really easily, even if I wipe it after use, and so it’ll spray sideways."
-		},
-		{
-			"review_title": "Nice but not enough coverage!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I really like the shade range for this foundation because normally its very hard for me to find a foundation. It blends out beautifully and stays on for hours. My only complaint is that it does not feel like a medium coverage. Since the foundation is more on the watery end it seeps into my beauty sponge quickly and doesn't give me the coverage I want. Its better used with a brush but even then I have to use a lot more product to get a good coverage. I would still recommend because it's a really nice foundation especially for those who don't want too much coverage."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
-			"review_buyer_description": "Green eyes, gray hair, Normal skin",
-			"review_text": "Ok. I wanted the other one which was sold out. So I tried this one. It's ok. You do not have a good selection, but I was there, and I needed a foundation."
-		},
-		{
-			"review_title": "Dry patches and scent",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Sadly, this foundation settled in and emphasized dry skin on my cheeks, even with moisturizer underneath. It is also scented.  Might be good for faces with no dryness and peoplewho are not scent sensitive. who are not bothered by"
-		},
-		{
-			"review_title": "Super awful!",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Oily skin",
-			"review_text": "Went on comfortably, and I had high hopes. Coverage I would say is medium at best, and did tend to cling to dry patches. 10 min later... I look like an oompa loompa. Soooo orange, I could not leave the house, had to wash my face and do my makeup again before leaving for work. :("
-		},
-		{
-			"review_title": "Yup, Holy Grail!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "Ever since mid 30s I have been having an issue finding the perfect foundation, I don't wear makeup often for this reason. It settles into lines (I hardly have any wrinkles but it makes me look like I do) or cakes off or breaks off on my skin. So when I kept hearing about this foundation I was tempted, ladies rave about this on youtube. But it's not cheap!.. I don't mind spending if the product does what it is supposed to. So I took the plunge and bought it. I was not sure of my colour so I went with 3n. It is a pretty good match, it does oxidize a bit after so when buying, keep that in mind. Let me tell you it went on so smoothly, doesn't feel heavy at all, and it looked absolutely great for the whole day!! It is a medium coverage. I am obsessed!! Btw I have combination skin (more on the oily side in some areas) and it looked great on my skin. So Happy I took a chance, I have found my Holy grail!! Next purchase will be the concealer etc."
-		},
-		{
-			"review_title": "Worst Packaging!",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
-			"review_text": "I actually have no idea what shade I'm using as it's not indicated on the bottle. Why not?! Further, the pump is poorly designed/engineered. The foundation can squirt out in any direction, messing up my bathroom counter. When you're buying a luxury product, there's no excuse for poor packaging since that's where the high price derives from. Finally, this is supposed to be matte but after just 3 or 4 hours, my T-zone looks like an oil slick (despite setting with powder--I've tried a variety of different powders with the same result). This product is not worth the money. Sephora's Best Skin Ever is a far superior product."
-		},
-		{
-			"review_title": "Did not work for me",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Colour oxidized orange icon me despite being categorized as a cool tone. Wore off on areas of face and collected in tear troughs and around mouth. Disappointed and returned immediately. Staying with my holy grail"
-		},
-		{
-			"review_title": "LOVE!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, lightMedium skin tone, Combination skin",
-			"review_text": "This foundation is amazing -it wears well throughout the day and doesn't move! love it"
-		},
-		{
-			"review_title": "Nice",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Nice foundation, it’s on the Dry side , so make sure you hydrate well and prepare you skin good before applying, otherwise it would look dry and not natural finish."
-		},
-		{
-			"review_title": "Dior has now entered my heart.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I saw multiple reviews on youtube concerning this foundation and everyone was RAVING. Even saw it tested after a long hot day without setting powder. Well. I just got my shade match in store today and rushed home to try it: WOW. I’m 38 and normally stay away from matte foundations because they make my skin feel tight despite skin prep. But THIS. Stays in place, blurred effect on my T-Zone and pores around my nose. Sits beautifully on the skin. Definitely recommend, this may be the best foundation I’ve ever worn. Pricey but worth it! Yay!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I have pretty normal skin with occasionnal dry patches. This foundation is one of my favorites. It does give me a very perfecting and pore blurring look. It has a lot better longevity than the forever glow version which also after a couple hours tends to overemphasize my pores. It applies nicely and is flexible enough to be sheered out in a thin layed without mixing with anything. Texture is slightly liquidy. It is a foundation that i put in the same category of my estee lauder double wear and i love both. They are my go to for work under my mask (healthcare) but i also sometimes choose to wear those during the weekend (over my more glowy products) since I love how they look on my skin. Do you need both estee lauder and dior? No but for foundation lovers they both are amazing and worthy to have. (I like these enough to have in 2-3 shades to cover my shade range for the whole year)."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Best foundation I’ve tried so far! I haven’t experienced any breakouts from this product and it has a very lightweight feel.  I tend to get oily throughout the day and this foundation stays in place and remains matte/normal. Although I do pair it with a setting spray that helps balance oil production so that probably helps.  Overall it’s super natural looking and not cakey, I cannot live without it now!"
-		},
-		{
-			"review_title": "Its Meh- too expensive for what you get",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "I have oily skin with small dry patches around the nose and this make up separated on my skin after an hour or so. I returned it after a week because it is too expensive for this to happen. Doesn't give a medium or full coverage."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Wore to the Calgary Stampede when it was 30 with no clouds in the sky. I sweat like crazy and this foundation stayed stuck to my face. Great foundation, great coverage 100% would buy again"
-		},
-		{
-			"review_title": "Weightless Matte",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "This is a REALLY nice foundation. I prefer the look of a matte finish foundation but it’s become more difficult as I’ve gotten older to find one that doesn’t dry my skin and pull at my lines. This one has a wonderfully soft and light finish. It feels like nothing on my skin but gives nice coverage that lasts. Dior also understands what rosy tone means. So many other products I’ve tried have “cool” shades that dry down with an orangey tone. My only quibble is I need to mix two shades together but the end result is my perfect match. Love it!"
-		},
-		{
-			"review_title": "absolutely flawless",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I am in love with this foundation! It is flawless and stays put all day! great coverage for dark spots and redness!"
-		},
-		{
-			"review_title": "Blotchy within hours..",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "To begin with I have combo oil, sometimes dry, textured skin. I purchased this for a wedding due to a recommendation from an associate. The application was great and it felt smooth on the skin. Didn’t feel too drying. Not completely medium coverage for my skin, quite light. Even allying toe layers my blemishes were still visible."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "2.5W Warm - fair skin with warm tones",
-			"review_buyer_description": "Hazel eyes, auburn hair, lightMedium skin tone, Combination skin",
-			"review_text": "Excellente tenue , léger parfum . Cache bien la rosacé, rend la peau avec une texture uniforme ."
-		},
-		{
-			"review_title": "Don't waste your money",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Worst foundation I've ever purchsed. I recently bought this as there was a Doir event happening. First used it today, shook the bottle and the first 2 pumps were greasy clear fluid. Once the colour did come out, it dried too quickly which made blending very difficult. After wearing it for a few hours it started looking blotchy. By the 4th hour I had to wash it off in my office bathroom sink because it looked so horrible. This is being returned immediately."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "I was a little tentative at first as the old formula was my holy grail foundation, but it stands up well to the original."
-		},
-		{
-			"review_title": "Great long wearing foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "This is my go to foundation. It last all day and offers good coverage. Lots of shades to choose from too! Make sure to use primer before application or it dries a bit too quickly and can be hard to blend."
-		},
-		{
-			"review_title": "Favourite foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Oily skin",
-			"review_text": "My favourite foundation, it looks so airbrushed and flawless and really keeps me matte all day i don’t have to blot or touch up & always get compliments on how flawless my foundation looks when i have this on."
-		},
-		{
-			"review_title": "Is this perfume or foundation?",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "Excellent shade match for me, which is rare, and matte - but VERY strongly scented, much lighter coverage than I expect from a medium coverage foundation, and made my skin burn which a foundation hasn’t done before. It also made me realize I had lines on my face that I didn’t know was there. Returning it tomorrow."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "2N Neutral - light skin with neutral tones",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "its a lightweight foundation with a soft matte finish. in my opinion its more of a light - medium coverage. in comparison to other matte foundations, this one has less coverage and feels lightweight on my skin. it isn't heavy or cakey at all but still holds up well throughout the day without wearing off."
-		},
-		{
-			"review_title": "Beautiful finish!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I’m not the type to go for matt foundations as they typically enlarge my pores, emphasize my wrinkles and make my skin feel like the Sahara desert.    Not This One!  Went on beautifully with a brush and immediately airbrushed my pores and texture.  Smoothed I’ve met wrinkles (smile lines and marionette lines) without settling into them.  The texture is light feeling in my skin and super comfortable, not drying in the least!  The colour stayed true to what I put on and didn’t turn orange which was a fear of mine lol. It covered my redness and broken capillaries with one pass.  Super long lasting and transfer proof without powder or setting spray.   My skin is combo and again with redness and lines.  I have never tried the old formula but this one is a winner in my books!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Normal skin",
-			"review_text": "My favourite foundation right now. Blends better with brush than beauty sponge. Nice medium coverage."
-		},
-		{
-			"review_title": "better formula but fragrance is still the same",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Great coverage still being lightweight. It stays great throughout the day. Only drawback is the fragrance, but I didn’t see any breakouts from it."
-		},
-		{
-			"review_title": "New Formula = No thanks.",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I’ve been using Dior Forever Matte for over a decade and now, I don’t know what happened but they changed the formula and it looks like a bad quality drugstore foundation. After finishing my skincare routine, I applied it on my face and my skin was looking dry and flaky. I NEVER had this problem before with Dior.   I will return it because it I’m very unsatisfied.  It’s way too pricey for the quality it became (which is the reason we buy Dior right? Quality…) You can definitely find better for the price. I guess I will have to switch brand…"
-		},
-		{
-			"review_title": "Matte foundation of my dreams.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "This foundation is so perfect!! The colour matches me exactly which is amazing because I’ve spent like a decade trying to find something that matches me. I was using Nars’ soft matte foundation but I found that it oxidized right away. This one doesn’t! It is exactly like the Nars soft matte foundation but the shades are more precise and the finish is much more of a natural matte. I have combination, sensitive post-accutane skin and it is not drying if you prep your skin properly with a hydrating moisturizer (I just use cera ve or biossance’s repair moisturizer). I am the shade mont blanc in Nars foundations, for reference (but it’s slightly off when it oxidizes)."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "2N Neutral - light skin with neutral tones",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "UNREAL!!!!!!!!!!! 1. my skin is very sensitive and i’ve tried thousands of foundations, only clean foundations don’t bother my skin but this is unreal it looks amazing lasted me so long and didn’t bug my skin love this  the finish is amazing"
-		},
-		{
-			"review_title": "new fav!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "My favourite foundation was the Estée Lauder double wear light and once it was discontinued I couldn’t find anything that I liked as much until this! The shade match is perfect unlike double wear that was always a little too dark. I wore it with my mask on for hours and had 0 transfer. The finish is really pretty too, it’s more of a soft matte, similar to the double wear light which I prefer. I took off one star for how quickly it dries, you can’t waste any time before blending. I saw a couple reviews saying that it oxidized after 20 minutes but after 3 hours it still looked perfect on my skin (normal to dry and pretty sensitive)."
-		},
-		{
-			"review_title": "Oxidizes",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "I love the old formula. Been using Dior foundation for over 6 yrs now. Application is nice and goes on smooth but it oxidizes within 30 mins.  Makes my skin looks orange. Not a fan. So disappointed."
-		},
-		{
-			"review_title": "great olive undertone foundation",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I am always on the hunt for a natural looking foundation with a olive undertone for light skin.  This seems to tick all the boxes so far.  I apply a minimal amount with my fingers and it covers everything I want covered, looks and feels like skin and doesn’t break up on my skin.   In the winter I do make sure my skin is well hydrated before applying, as it is a more matte finish, but I imagine in the summer it will be great with just my normal skincare.  I have sensitive, combo skin that is quite reactive.  So far this foundation hasn’t broken me out.  I also use the concealer in the same shade and love it as well."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "00 Neutral - fair skin with neutral tones",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "I have been using this for a few years now. Feels like silk on your skin, like you aren't wearing makeup but still has great coverage!"
-		},
-		{
-			"review_title": "My favourite!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Is perfect, I end up buying Dior, even though I tried so many different foundations. This one is the best! I have redness and rosacea on my skin, and this one hides all the redness and sits well all day long, I don’t need to invest into primer for blemishes and redness, as olive undertone does it for you. So it’s 2 in 1. Love it!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "I really wanted to love this foundation. The previous 24h wear was my holy grail of foundation. This one oxidizes and makes me look orange within 20 mins of wear and leaves my skin looking super oily. Sad I can’t return it."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
-			"review_text": "Love this foundation. I feel like dior is the only makeup brand that I can find an exact colour match. This wore beautifully for over 8 hours and I still didn’t have to touch up. Hands down my favourite foundation. Not talked about enough."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I like the texture and how it covers the face, however it changes it's shade after 10 minutes and face looks yellowish. I've been using Dior's foundation for years and always the same shade,  but i don't know, something went wrong with this brand."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Normal skin",
-			"review_text": "Can’t go back to other brands.  Lasts the whole day, covers well, smell is good."
-		},
-		{
-			"review_title": "amazing! but pale girls beware...",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Porcelain skin tone, Dry skin",
-			"review_text": "I love love love this foundation, one of my absolute favs!! i have bad acne and dry skin and this is my favourite foundation so far! HOWEVER if you are super pale like me beware! i have 0N, which I was told was one of the lightest shades, if not THE lightest shade. however, i can only use it after i fake tan because it’s still pretty dark. if you’re ordering online be careful and be prepared to possibly return!!"
-		},
-		{
-			"review_title": "A FAVORITE",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "I was recommended this while on the hunt for a more hydrating foundation for my skin during the winter. It is a beautiful foundation, soft, silky, smells wonderful and does have that buildable coverage element.  The issue for me with dewy/hydrating foundations is that they will hardly ever be full coverage just because of the glowy effect. Full coverage tends to be more in matte foundations because of that dry-down and solid color. Nonetheless I love this foundation, the only downside to this is that to get that buildable coverage I need to add MUCH more product to my face and it is something I like to avoid."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
-			"review_text": "Before I write this review, I’d like to note that before I made this purchase, I had not worn a foundation in about 2 years. I only wore tinted moisturizer with spf.  This product was highly recommended to me by a friend. I was definitely skeptical about using a matte foundation for my dry skin, but I was pleasantly surprised when I took a look at the first pump and found the consistency to be more liquid than creamy.  It wears well over moisturizer (which is a must for me), and it plays nice with other tinted moisturizers and products which is great because I am am not about to go change my whole routine and all my creams and moisturizers for one single foundation.  It didn’t really move a whole lot throughout the day and it looks natural. It actually doesn’t look like I’m wearing anything which is really impressive for a foundation. I can’t really think of anything bad to say."
-		},
-		{
-			"review_title": "had some difficulty getting the right one",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "Honestly I had some difficulty getting my own skin tone but overall this foundation is super great, not watery, or dry. It’s super great."
-		},
-		{
-			"review_title": "FLAWLESS FINISH",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "This product goes on very smoothly ! Love the matte after finish and continues to stay in place throughout the day/night. I would highly recommend this product but the only down fall is this product is not cruelty free."
-		},
-		{
-			"review_title": "Love it! my go to!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Beautiful! My skin loves to wear this foundation... it is on the expensive side... but i guess you get what you pay for. I switched to this foundation from Lancome's Tiente Idole 24hour. It feels so much nicer on my skin and doesn't feel as heavy."
-		},
-		{
-			"review_title": "I can’t live without it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Olive skin tone, Combination skin",
-			"review_text": "I’ve been buying Dior Forever (Matte) for 10 years now and all I can say is wow. I used to pick at my skin (a lot) and I needed a foundation to hide it. Dior Forever has always been the best one to cover it (I don’t do it anymore). I have dry skin during Winter time and combination during the summer. The foundation fits me all year long. The only thing that I have to change is the color, depending of my complexion/time of the year.  It doesn’t oxidize and last the whole day. I apply it with the Sigma F80 brush. It’s perfect!  People often think that I’m not wearing foundation or don’t notice it :)"
-		},
-		{
-			"review_title": "Natural Look",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
-			"review_text": "This colour is a perfect match to my skin tone. The foundation is a medium coverage but can be built up to be a full coverage. The finish is natural looking and I always get compliments on it. I'm a waitress on a rooftop patio so the days get real hot & sticky but this stays on for my entire 10-hour shift!! The only part the separates is my nose. I'm not sure if it's the primer I use (Smashbox Pore Minimizer)."
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, red hair, Fair skin tone, Oily skin",
-			"review_text": "Much darker than anticipated or gradually becomes darker throughout the day. Had higher expectations."
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Oily skin",
-			"review_text": "Extremely oily skin, thought this would help achieve a more smooth matte look. Foundation is extremely thick, my skin looks flakey and dry. After a couple hours of wearing it only gets worse and starts to look blotchy. Wish it would of worked better for me."
-		},
-		{
-			"review_title": "love ❤️",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "I love this foundation. Everytime I wear it I always get compliments n fives me a nice glow."
-		},
-		{
-			"review_title": "I'm all lit!!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Medium skin tone, Combination skin",
-			"review_text": "I love love makeup. But I have always hated foundation. I wanted something that would work with my ageing skin (albeit combination). And I'm super fussy. Nothing too shiny or mask like, good for normal skin and something that would hold up all day long. This foundation is like your skin but better. It evens out my tone and still allows me to control coverage. After 8 hours of wear my GF still made a comment how my skin looked. It didn't settle into lines, it blended effortlessly and has a lovely scent that is almost calming (it wears off during dry down). One pump covers me during the day, two pumps gives me extra coverage for evening. If I thought it wouldn't be bad for my skin I would touch my face all day."
-		},
-		{
-			"review_title": "Turns orange",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Really unimpressed with this foundation for the price you pay. This is my second time getting color matched and the foundation oxidizing and being way different than it was in the store. I first was match to 1.5 which was very orange. I went back and they tried a 0 and a 1 and said the 1 was better. I have worn the make up once and find that initially it looks great but in a short time my face is very orange. Am going to try and return this product and would not recommend."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Normal skin",
-			"review_text": "Good: - coverage - smooth, powder finish - little goes a long way  Bad: - dry - a little thick"
-		},
-		{
-			"review_title": "Reformulation nothing like the original",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Porcelain skin tone, Combination skin",
-			"review_text": "This is nothing like the old Dior Forever Foundation before the reformulation. The original was gorgeous and looked like skin. This reformulation ruined my holy grail foundation."
-		},
-		{
-			"review_title": "Nice if you like matte",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "It is a nice foundation but very Matte . It does not look like real skin , if you’re into this look then you might like it . It was nice my cup of tea at all . It makes my face look very flat and not a healthy glow ."
-		},
-		{
-			"review_title": "A little TOO matte",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "This product is matte to the point that it’s dry. I’m an oily/ combo girl and usually love a matte finish.   This just wasn’t worth it for the price for me. The shade matched me perfectly and it looked great when I first applied it. But after few hours of wearing (regular work day- nothing crazy) my normally oily t zone just looks like a hot mess. I look dry and cakey.   Definitely get a sample before purchasing to see if it’s for you!"
-		},
-		{
-			"review_title": "Wore this foundation on my wedding day.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Fair skin tone, Dry skin",
-			"review_text": "I watched a youtube tuturial video on a wedding day look by Melissa Alatorre.  She used this foundation on her clients for their wedding days. I decided to try it and I am soo glad I used this for my wedding day!  It is great coverage, and shade matched me great. It lasted all day and night. I recommend this for combination skin for summertime!  It is pricey but worth it."
-		},
-		{
-			"review_title": "Dior Forever My Choice",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Medium skin tone, Oily skin",
-			"review_text": "Hello. I’m 35 and this is my very first review because I felt compelled to share how awesome this foundation is. I have light/medium coloured combination skin (maybe more on the oilier side) with some acne scars, and I find that many foundations break apart and need a re-application by 5:00. I also relied on concealers because scars (even the fading ones), would always show through my foundations. But, wow...My life has changed...The Dior Forever foundation is a smooth, even, and light coverage that lasts all day. And when I say “light”, I mean a couple things: (1) it doesn’t feel like you’re wearing makeup, and (2) A little goes a long way. This is incredibly important to me, because I believe that ‘less is more’. Now I only use concealers for the under eyes (and bonus, it takes less time to get ready!). The glass pump bottle is sanitary and beautiful, and I swear that the makeup application is fool proof. I Highly recommend this product. You won’t be disappointed."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Olive skin tone, Combination skin",
-			"review_text": "Sooo in love with this foundation. It has great coverage and a pretty finish. I’m also really happy with how long this foundation lasted"
-		},
-		{
-			"review_title": "Get this foundation !",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Porcelain skin tone, Combination skin",
-			"review_text": "I have tried so many foundations and I have FINALLY fallen in love with one!  This foundation has amazing ( and I mean amazing ) coverage ! It doesn’t irritate my skin ( I have combo skin) and goes on like silk!   Highly recommended!!!!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Tan skin tone, Combination skin",
-			"review_text": "Best foundation ever! Coverage without being cake-y and very natural looking."
-		},
-		{
-			"review_title": "My Current Favourite Foundation!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
-			"review_text": "This foundation is medium coverage but becomes full coverage if you build it or use a colour corrector/concealer underneath. It blends pretty well, no scent and it lasts all day; it can go for 12 hours and still look flawless! I have combination skin and I find this doesn't dry my face out either, or make it very greasy. It's just right! I like using loose powder after, all over my face, and a setting mist because I like my foundation to stay on as long as possible. I actually don't find it to look too cakey even with all that on top. But even without it, it lasts pretty long."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Deep skin tone, Combination skin",
-			"review_text": "Tried a sample, fell in love and purchased the full size! Amazing foundation"
-		},
-		{
-			"review_title": "Worth it!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Medium skin tone, Dry skin",
-			"review_text": "Amazing foundation!! Great coverage and best of all buildable for complete coverage. I was a little bit hesitant due to the price.. but it honestly is worth it! Goes on very smooth and lasts all day.  A little goes a long way with this product!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Love this product. Works well providing great coverage, but not too heavy."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "Such a flawless finish! Gives me great coverage but still has that matte finish that helps to keep my oils under control. I’ve used this with and without powder on top and both ways it looks great!"
-		},
-		{
-			"review_title": "Great",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Dry skin",
-			"review_text": "Love this one- looks great on the skin and doesn't crease much when worm all day!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "I was sadly using drugstore foundation trying to work on my budget... I went to get a makeover for a night out and this was the foundation they used.  I instantly fell in love and had to go back and buy it... really pricey but I love the way it makes my skin look!"
-		},
-		{
-			"review_title": "Best",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "My absolute favourite foundation, worth every penny, been using it for years. I constantly get compliments on my skin, and I always tell people it’s the foundation, not my skin! It goes on smooth and STAYS on all day."
-		},
-		{
-			"review_title": "Meh, not the best.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I've been on the hunt for a great foundation and this was not it. The foundation applies beautifully but within an hour it looks cakey and creases badly."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "First off, I think the staying power of this is great. I use it with the silk canvas primer underneath, but it holds its own really well too. It goes on super smoothly and evenly. Would definitely purchase again."
-		},
-		{
-			"review_title": "Not Worth it",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Have been using Dior products for years and have been in love with the old skin glow/nude foundation, but have really been disappointed in this foundation. It looks beautiful as you apply it but as the day goes on It makes my skin look dry and flakey, especially around mouth and eye area, sets into my fine lines and my skin has been been getting bumps and looking irritated. Dior please stop with fragrances! Including your skin care.  For now I am done with your products"
-		},
-		{
-			"review_title": "Perfect unless you have sensitive skin",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Dry skin",
-			"review_text": "The colour match was perfect! Right tone of warm and neutral without being too pink, too yellow or too peach.   Sadly, the ingredients in the Dior foundations don't seem to go well with my skin. Broke out in strange red bumps right after using this and it's happened before after using the Dior backstage foundation. Took about a week to get my skin on track.   If you're sensitive skinned, you may react to it. If you're not sensitive skinned and neutral in tone, this is the perfect foundation. Coverage is great and the colour matches are way better than many other brands I have tried including Hourglass and Giorgio Armani.  Also, Dior Forever doesn't oxidize compared to the backstage face and body."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Lightweight buildable coverage. Love this! Completely evened out my skin with very little product. I’m very dry and lasted extremely well throughout the day. A true skin finish look and feel for me."
-		},
-		{
-			"review_title": "Love it!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Normal skin",
-			"review_text": "Matches my skin so well, buildable, doesn’t cling to dry patches, isn’t cakey and lasts! It is expensive, but if you’re willing and able to buy it it is worth it."
-		},
-		{
-			"review_title": "my new go to! unreal foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
-			"review_text": "If I could give this 10 stars I would! I’ve tried so many at Sephora. Too faced, nars, Armani, MUFE, Fenty, Laura mercier you name it. This defeats them all by far ! Natural and still full coverage?! I don’t know how this does both but it does!"
-		},
-		{
-			"review_title": "Not worth the price",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Applied beautifully at the store when I was trying it on. The issue is that same texture during application doesn't last. After a couple of hours it begins to break up and look cakey on the skin. I was using Giorgio Armani's luminous silk before this but I wanted a foundation with more coverage. Although this foundation provided decent coverage, I hated the result after a few hours of wear. The luminous silk foundation never looked that way even after 12h of wear."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Dry skin",
-			"review_text": "It’s definitely smooth, when you put on.  No need to apply too much, but I don’t recommend it if you have dark patches on your face.  It doesn’t stay on the face like it says."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "I have oily skin and this foundations last on for about 8 hours. It’s gives you a nice glow the longer you wear it and doesn’t look caked. I wear the shade 2w, which is slightly too yellow for me."
-		},
-		{
-			"review_title": "Love the formulation but not the shades",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
-			"review_text": "Very beautiful foundation it’s nicer than most matte foundations, feels very nice on the skin, however not crazy about the shades but think 4wo i can make work during the summer"
-		},
-		{
-			"review_title": "Beautiful but is not a foundation for normal skin",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "blonde hair, Porcelain skin tone, Combination skin",
-			"review_text": "This product does not have much of a shade range for people that are fair. Even this foundation almost seems a little too dark for my complexion. However, this foundation does apply beautifully with both a beauty blender or a foundation brush. The only downfall is at the end of the night it tends to look cakey or flakey in areas around the nose or forehead."
-		},
-		{
-			"review_title": "One of the best to an extent...",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Porcelain skin tone, Combination skin",
-			"review_text": "I am pretty in love with this foundation. My only qualm is that it does start to crack a little bit by the end of the day and exaggerate some fine lines. However, if you use some good primers this is one of the best foundation I’ve used. The perfect amount of coverage (not too full but more than medium) and looks flawless. Definitely one of the best I’ve tried. Just wish for the price it didn’t start to exaggerate lines."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-			"review_text": "I like Dior foundations. But the shade ranges are not the best. Really wish they stop making their foundations so yellow."
-		},
-		{
-			"review_title": "flawless",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "i went in store to get colour matched because my skin tone changes drastically throughout the year. the makeup artist asked me what i've tried, what i like, and what i don't like in a foundation. i told her i have combination skin but because of the terrible winter we've had my skin has been very dry, i like a matte foundation that's not heavy, i always have an issue with it cracking around my smile lines, i like it long-wearing, and i like full coverage. she came back with this foundation and i was a little skeptical because of the price but when she put it on it felt so nice. it honestly had everything that i was looking for in a foundation. and i have the added issue of not having neutral, warm, or pink-toned skin, so she recommended me the warm olive and it was a flawless match. i wore it out that night and didn't tell anyone that i got new foundation but i received multiple compliments on how i looked like i was glowing. it played so nicely with the rest of my makeup. stayed put all night (even when i had an unexpected sleepover). and was so easy to take off. love this product so much."
-		},
-		{
-			"review_title": "Not Bad, But Not Skin-Caring",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Oily skin",
-			"review_text": "This foundation does look good on my skin, however I don’t find it makes my breakouts look quite as good as say Laura Mercier Flawless Fusion on my skin. It is a medium-buildable coverage, but it seems to use a decent amount of product to get the coverage I need over my acne. It wears well throughout the day, and touches up well with powder as well. I’m very concerned about the ingredients in this foundation. When using it daily for three or so days I began to see an increase in clogged pores (little white bumps) all over my face in places I don’t always get them. I stopped using the product and it began to clear up again. This foundation is very fragranced and I believe this is what is in the product to cause the breakout. If your skin isn’t sensitive or acne prone, and you don’t have a ton to cover up this could be perfect for you, especially if you need a longer wear. However for me it just isn’t Mr. Right, or even Mr. Right Now."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "The colour match is amazing! The coverage is medium to full coverage, wears amazing throughout the day even though i have oily skin. The foundation feels very light on the skin and doesn’t transfer. Amazing amazing"
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Combination skin",
-			"review_text": "I really wish I could write a good review about this product. The finish of the product looks amazing for about 5 hours-great coverage and not fully matte where your skin looks dull and cakey, it's more of a satin matte. However, after this time the foundation separates horribly. I've tried everything, different primers, setting powders, setting sprays and nothing works. This product also transfers.  I need a foundation to last at least through the work day. sadly will be returning this. Gave 3 stars because it is great if you don't need a long wearing foundation."
-		},
-		{
-			"review_title": "love it!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "Love love LOVE this foundation! It is comparable to the YSL all hours. This provides a flawless smooth finish, it lasts all day and does not crease or break apart!! It does not cling to any dry patches on my skin. I also have very fair skin and this is a good colour match for me. Love it!"
-		},
-		{
-			"review_title": "Star",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "Excellent!!! I did not have the original and could not make the comparison. The original forever did not have my colour; not it comes in 0N. The colour is perfect. I have the Dior Body and Face. This new Forever beats it and it’s more light weight and lasts longer on my combo skin. I don’t think it’s Matt. It’s has very nice skin like formula and does not look like I have any foundation on. I wore 16 hours last night and it did not move or break down. I use just a thin layer of foundation and the coverage is medium."
-		},
-		{
-			"review_title": "Oxidize!!!!",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "Great foundation...lightweight and long lasting however Oxidize BADLY !!!! Same color (20) in forever undercover looks lighter few minutes after application then in this foundation. Middle colour in the picture - 2N  Left side (forever undercover) - 20"
-		},
-		{
-			"review_title": "W O W",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "WOW! This foundation is so long-wearing it's unbelievable. I've worn this foundation for longer than 14 hours and it has held up incredibly. Most foundation is break up and becomes a little scaly from my oils but this one has held up the best out of all of them. It makes me look a little matte and dry during the first few hours but it by mid day, it really is able to hold my oils at bay. 10/10 would recommend."
-		},
-		{
-			"review_title": "BESTEST!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Olive skin tone, Combination skin",
-			"review_text": "MY NEW HG! This foundation is photoshop in a bottle! It blurs out pores and makes your skin look so silky smooth! It is not a drying matte foundation, its very kind to dry matches and fine lines! It is similar to the backstage foundation but offers more coverage and evenness! Seriously this stuff is magic in a bottle! Definitely worth every penny because a little does go a LONG way! I can't believe how flawless my skin looks after using this!!!! It does oxidize a bit right away so keep that in mind (darker in shade but doesn't turn yellow or orange anything). When I swatched 4WO to my backstage I noticed it was LIGHTER in colour at first but within 10 mins it got about half a shade darker but nothing too dramatic! Still has that perfect olive undertone though. YOU NEED THIS!!!"
-		}
-	]
+    "product_id": "1786",
+    "name": "Dior Forever Matte Skincare Foundation",
+    "brand": "DIOR",
+    "categories": "Makeup, Face, Foundation",
+    "price": 74.0,
+    "about": "What it is:A clean Dior foundation with up to 24 hours of transfer-proof wear..Coverage:Medium.Finish:Matte.Formulation:Liquid.Highlighted Ingredients:- Iris Extract: Guards against oxidation..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It also comes in recyclable packaging..What Else You Need to Know:This new medium-full coverage foundation visibly smooths skin and reduces the look of pores. It is transfer-, heat-, and humidity-resistant, and it delivers up to 24 hours of color-true wear and comfort.",
+    "ingredients": "Aqua (Water), Methyl Trimethicone, Isododecane, Alcohol, Synthetic Fluorphlogopite, Butylene Glycol, Peg-9 Polydimethylsiloxyethyl Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Silica, Dimethicone, Acrylates/Dimethicone Copolymer, Disteardimonium Hectorite, Cetyl Dimethicone, Polyglyceryl-10 Decaisostearate, Sodium Myristoyl Glutamate, Parfum (Fragrance), Propylene Carbonate, Chlorphenesin, Aluminum Hydroxide, Tromethamine, Hydrolyzed Viola Tricolor Extract, Tocopherol, Alumina, Stearic Acid, Tropaeolum Majus Flower/Leaf/Stem Extract, Rosa Multiflora Fruit Extract, 1,2-Hexanediol, Caprylyl Glycol, Iris Florentina Root Extract, Sodium Benzoate, Potassium Sorbate, , [Octisalate 3.50%, Titanium Dioxide 0.94% ]. [Ci 77491,Ci 77492,Ci 77499  (Iron Oxides), Ci 77891  (Titanium Dioxide), ].",
+    "how_to_use": "Suggested Usage:.-Begin by patting a small amount onto the zones that require the most coverage, then blend outward with smoothing strokes..-For perfectly uniform coverage, apply the formula with a foundation brush..-The formula wears for up to 24 hours, eliminating the need for touch-ups throughout the day...Recycling Instructions:.-The foundation bottle contains 40 percent recycled glass, and its plastic cap contains 100 percent recycled plastic. .-Remove the pump before recycling the glass bottle and plastic cap. .-This packaging may not be recyclable in your area. .-Please check with your local municipality.",
+    "num_reviews": 141,
+    "overall_rating": -1,
+    "product_url": "https://www.sephora.com/ca/en/product/forever-matte-foundation-P441213?skuId=2558435&icid2=products%20grid:p441213:product",
+    "image_url": "https://www.sephora.com/productimages/sku/s2558435-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "00 Neutral",
+            "shade_descriptor": "fair skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2558435-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "0N Neutral",
+            "shade_descriptor": "fair skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557940-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "0W Warm",
+            "shade_descriptor": "fair skin with warm tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557627-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "0CR Cool Rosy",
+            "shade_descriptor": "fair skin with cool rosy undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557635-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "0.5N Neutral",
+            "shade_descriptor": "fair skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557619-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1N Neutral",
+            "shade_descriptor": "fair skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557643-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1W Warm",
+            "shade_descriptor": "fair skin with warm tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557650-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1CR Cool Rosy",
+            "shade_descriptor": "fair skin with cool rosy undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557668-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1.5N Neutral",
+            "shade_descriptor": "light skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557676-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1.5W Warm",
+            "shade_descriptor": "light skin with warm tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2558427-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2WO Warm Olive",
+            "shade_descriptor": "light skin with warm olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2558419-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2N Neutral",
+            "shade_descriptor": "light skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557684-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2W Warm",
+            "shade_descriptor": "light skin with warm tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557692-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2CR Cool Rosy",
+            "shade_descriptor": "light skin with cool rosy undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557700-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2WP Warm Peach",
+            "shade_descriptor": "light skin with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557718-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2.5N Neutral",
+            "shade_descriptor": "light skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557726-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2.5W Warm",
+            "shade_descriptor": "fair skin with warm tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2558401-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3C Cool",
+            "shade_descriptor": "light to medium skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557775-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3CR Cool Rosy",
+            "shade_descriptor": "light to medium skin with cool rosy undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557759-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3N Neutral",
+            "shade_descriptor": "light to medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557734-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3W Warm",
+            "shade_descriptor": "light to medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557742-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3WO Warm Olive",
+            "shade_descriptor": "light to medium skin with warm olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557957-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3WP Warm Peach",
+            "shade_descriptor": "light to medium skin with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557767-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3.5N Neutral",
+            "shade_descriptor": "light to medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557783-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4C Cool",
+            "shade_descriptor": "medium skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557825-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4N Neutral",
+            "shade_descriptor": "medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557791-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4W Warm",
+            "shade_descriptor": "medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557809-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4WO Warm Olive",
+            "shade_descriptor": "medium skin with warm olive undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557965-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4WP Warm Peach",
+            "shade_descriptor": "medium skin with warm peach undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557817-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4.5N Neutral",
+            "shade_descriptor": "medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557833-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "4.5W Warm",
+            "shade_descriptor": "medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557973-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "5N Neutral",
+            "shade_descriptor": "medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557841-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "5W Warm",
+            "shade_descriptor": "medium skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557858-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6N Neutral",
+            "shade_descriptor": "medium to deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557866-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6W Warm",
+            "shade_descriptor": "deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557874-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6.5N Neutral",
+            "shade_descriptor": "medium to deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557882-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6.5W Warm",
+            "shade_descriptor": "medium to deep skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557981-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "7N Neutral",
+            "shade_descriptor": "deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557890-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "7W Warm",
+            "shade_descriptor": "deep skin with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557908-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "7.5N Neutral",
+            "shade_descriptor": "deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557916-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "8N Neutral",
+            "shade_descriptor": "deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557924-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "9N Neutral",
+            "shade_descriptor": "deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2557932-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Found a Foundation That Doesn't Break Me Out",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "Finally found a foundation that works with my combination skin and doesn't break me out. This helps my oily T-zone stay in check for hours longer than all the previous foundations I've tried and doesn't dry out the area around my mouth like the other products I've used in the past. This has been my go-to foundation for years now. Because of the high coverage, a little goes a long way and one bottle lasts me a long time so it's worth the extra cost. I recommend this product."
+        },
+        {
+            "review_title": "Expire date",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "The review is for Sephora not the foundation!  I recently received my latest order, and I noticed that the product I got has an expiration date in just three months. This is scam"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "2.5W Warm - fair skin with warm tones",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Love this foundation, every time I wear it I get compliments. Itu2019s Long lasting and shade range is good"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "5W Warm - medium skin with warm undertones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Not 100% a fan. Definitely kept my skin matte which I loved. But it definitely not transfer proof and kind of embarrassing."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "If you have oily or combination skin buy this one instead of Dior glow. Its not completely matte but stays on skin for full 10 to 12 hrs without budging. It will not settled into pores and cream and powder products goes on smoothly on top of it."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "3.5N Neutral - light to medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Light weight!  Amazing coverage for a full day Perfect match for my skin tone (olive skin tone)  Highly recommend"
+        },
+        {
+            "review_title": "Amazing!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "Love this! Great coverage and wear time. I wore this foundation on stage while I was performing in a 3-hour outdoor rock concert in August, and it still looked good by the end of the night! I removed a star because it does oxidize a bit throughout the day, but not nearly as much as other foundations Iu2019ve tried. I would absolutely purchase this again."
+        },
+        {
+            "review_title": "Let down by Sephora Canada",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Fair skin tone, Combination skin",
+            "review_text": "I love this but I purchased this from Sephora Canada (eaton centre). When I tried to pump it out, it was very oily, which was weird because Iu2019ve been using this for years so I know the consistency. The bottle had a big sticker at the back and when I pulled it out, the expiry date was 3 months away. Iu2019ve read other reviews of Sephora doing this thing with the sticker and selling products that are expired or about to expire. Good product but a let down by Sephora Canada."
+        },
+        {
+            "review_title": "A must have if you are looking for a neutral look",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
+            "review_text": "Gives a natural finish and easy to use. Itu2019s worth the price"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Dry skin",
+            "review_text": "One of my go to foundations, blend quickly as it sets fast but the coverage do even natural like skin but better. I need to buy a darker shade for my summer skin tone a bit pricy so Iu2019ll just mix some bronzer"
+        },
+        {
+            "review_title": "I canu2019t stop using this product for my routine!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "This foundation is a bit pricey, but I think itu2019s so worth it to splurge on. It has beautiful packaging and makes my pores disappear, make my face look smooth and is full coverage!"
+        },
+        {
+            "review_title": "For its price, its worth it",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Dry skin",
+            "review_text": "Honestly amazing. The formula in this feels wonderful and doesnu2019t dry out my skin. Even with powder it still feels like my skin. It lasts forever. The only issue i have it pulls were my skin touches my glasses."
+        },
+        {
+            "review_title": "Lasting but a bit drying",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Used a few times with wear test all day. Controls oil well but by dry patches look it. Lasts but doesnu2019t look as good end of day. Tried with and without primer, powder and setting spray."
+        },
+        {
+            "review_title": "Oxidized immediately -- especially for fairer skin",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Fair skin tone, Oily skin",
+            "review_text": "Everything about this foundation is excellent for oily skin but it oxidizes almost immediately after applying it on the face (like literally in a few minutes). The degree of oxidation is just way too much for me. I bought the shade that matched my skin tone when I just applied it to my face but it started to turn orange and dull right away and made me look like I've pulled an all-nighter :( My face ended up being 2-3 shades darker than my neck... If you have a fairer skin tone, I STRONGLY recommend you trying this out in store and wait for 10 minutes to see if it oxidizes, or go one shade lighter.  But other than that this foundation does a very good job of smoothing pores and is indeed long-wearing. Even after wearing it for a very long time (like 10 hours), it does not rub off but instead produces a beautiful subtle creamy glow on my face."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "00 Neutral - fair skin with neutral tones",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Normal skin",
+            "review_text": "I love how it makes my skin appear nice and pretty. It's definitely one of my favorite ones to wear occasionally. It does oxidize a bit like anything would. It is also not as matte, which I love as Canada can be very dry (fyi the glow version isn't as hydrating... so people with oily skin can wear it). I apply sunblock before this foundation, and it leaves nice skin tone on my face."
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Honestly my favourite foundation full coverage but I wouldnu2019t say 24 hr wear itu2019s good for 8hrs of wear"
+        },
+        {
+            "review_title": "Meh itu2019s so so",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "After using this product for a few weeks I did feel that it moisturized and protected my skin. With all that being said, Iu2019m not impressed with the price tag and essentially it dries up in my skin. After two or three hours itu2019s like powder on my face. Iu2019ve combined it with another skin moisturizer and it works a bit better. Buying a print brand isnu2019t always the greatest. And Iu2019m not recommending it."
+        },
+        {
+            "review_title": "Check for expiration date",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Fair skin tone, Combination skin",
+            "review_text": "i bought it in July, i took the paper in the back off and it expired in Septemberu2026"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "0CR Cool Rosy - fair skin with cool rosy undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "Just a beautiful long wearing foundation.   I find it as more of a soft matte foundation, not cakey at all."
+        },
+        {
+            "review_title": "Overpriced foundation",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "For the amount of money this foundation costs, I expected miracles. it separated and made my skin look very oily. You can find better foundations at Sephora that work way better ufffc"
+        },
+        {
+            "review_title": "favourite foundation to date",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Porcelain skin tone, Dry skin",
+            "review_text": "this is my favourite foundation. i have dry skin so i do have to use a hydrating moisturizer and good primer before putting on this foundation but once i figured out the right combo of products for me, there's no comparison! this product is FULL coverage without feeling heavy on the skin - it is comfortable to wear and stays looking amazing thoughout the day."
+        },
+        {
+            "review_title": "The only foundation you need",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Iu2019m this foundation has a great matte texture and did not cake my skin throughout the day. It covered all my blemishes on one pump."
+        },
+        {
+            "review_title": "Christian Dior Matte Liquid Foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, lightMedium skin tone, Oily skin",
+            "review_text": "I really like the texture and consistency of this foundation. It really makes me feel like I have an air brush finish. I would recommend storing it upright because itu2019s hard to pump the product. I wear this same foundation in 2W in the summer"
+        },
+        {
+            "review_title": "This is bae ud83dudc96",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "When I moved to Canada I was concerned about finding the right foundation. This is a great find! I am glad that I visited Sephora & tested it. Itu2019s been over two years since Iu2019ve been using Dioru2019s foundation. It gives a natural finish & stays long."
+        },
+        {
+            "review_title": "Best foundation ever",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "If you want a natural looking foundation, thatu2019s it. Doesnu2019t feel dry and last all day long. Just to make sure you find the right shade. Highly recommended"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "i noticed a lot of people with oily skin who loved this foundation, and as a dry skinned girl who loves a soft matte face, i LOVE this. maybe itu2019s also my skin prep but iu2019ve never had a foundation wear so beautifully."
+        },
+        {
+            "review_title": "Not u201cmatteu201d",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "This is a decent foundation, which I wanted matte, but it does not dry even when I put powder on it and setting powder this foundation does not set. The only thing I like it the range of shades because Iu2019m very white, I use to use Chanel, but it was too dark."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "5W Warm - medium skin with warm undertones",
+            "review_buyer_description": "",
+            "review_text": "Did not work for me, your face gets oily after 2 hours and the finish is not natural at all."
+        },
+        {
+            "review_title": "Strong perfume scent",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Normal skin",
+            "review_text": "I did enjoy this foundation but the fragrance is way too strong for me. Smells like Iu2019m spraying a bottle of perfume on my face while applying."
+        },
+        {
+            "review_title": "Truly a great formula!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Finally found the perfect colour match!  Initially I found this oxidized slightly, but have discovered a trick to stop this from happening. Lightly powder your face before applying the foundation with a brush.     The foundation goes on so smooth and looks natural, lasting all day and no oxidation!  Hopefully this is helpful to the ladies who are experiencing this. ud83dude0a"
+        },
+        {
+            "review_title": "Simply perfect!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Je nu2019utilise gu00e9nu00e9ralement pas de fond de teint car je trouve toujours que u00e7a fait pas la job. But this one is  perfect!"
+        },
+        {
+            "review_title": "Dior... Forever.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+            "review_text": "I am sold, forever. The foundation is not too matte whatsoever and provides full coverage, but also makes you look like you are not wearing makeup?? Incredible. I am super thankful to the Sephora team for helping me in my decision and finally finding a foundation that fits my skin, after 15+ years of searching."
+        },
+        {
+            "review_title": "Wore this on an impromptu hike. No regrets.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Combination skin",
+            "review_text": "I recently lost my foundation while on a trip and had a friend give me a little sample bubble of this to tide me over. Even in a slightly u201coffu201d color, I was so impressed! I actually wore it on an impromptu hike and it stayed flawless. More so, the contour and other makeup I had on top of it also continued to sit nicely, even at the end of that sweaty day. In the evening I added a bit  of powder and it looked like fresh makeup. Once we got back to the city I went to see about a proper match ASAP.  Itu2019s has a full coverage look without feeling too heavy. It is amazingly long lasting and stays put. The matte finish is lovely even over my few dry patches. Overall I would say itu2019s slightly more matte, but generally similar to Estu00e9e Lauder double wear, however I do prefer the Estu00e9e Lauder formula ever so slightly. In my experience I find this Dior formula is a bit thicker looking and feeling  - however this could be a matter of me needing to get more familiar with its application. I feel like the effect I have been getting is very u201cinfluenceru201d looking, super even skin tone, very pretty, but can lean a bit artificial looking. Certainly not caky or anything problematic, but I donu2019t think anyone is going to mistake it for the u201cno makeupu201d look. It u201cgivesu201d in a manner that is beautiful, but also apparent.   Where this product shines most for me is the color selection - I have never been able to perfectly match my skin with a single shade of ELDW (Iu2019ve always had to mix it with something) - with Dioru2019s selection of shades & undertones I can! While I wonu2019t be abandoning my EL completely, I do like that this gives a similar effect, while also being one and done. The only true u201cconu201d I would note is that it has a (tolerable) sunscreen smell when applying.   For reference I have very fair cool-neutral skin. Other shades I wear include MAC NW10-15 & N3 depending on product/season, Nars Oslo (fall-spring), ELDW in 1C1 (in summer, or mixed with a lightener for other seasons)."
+        },
+        {
+            "review_title": "Must Have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I love this foundation, itu2019s the only one that doesnu2019t separate or crease or move on my oily/combination skin. Iu2019ve used the matte one and the hydrating both are amazing depending on what look you want. If I want a more natural dewy look I use the hydrating foundation. For a more matte look I use this one, for people with dry skin you neeed to prime and moisturize properly before applying. If you donu2019t moisturize anything mattifying will sit weird on your skin. This foundation is god sent when you do moisturize very well before application. The most important part of makeup application is how you prepare your skin so it sits correctly. This is expensive but worth the investment honestly and a little goes a very long way."
+        },
+        {
+            "review_title": "A MUST HAVE!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Iu2019d give this 10 stars if I could !!! This product is FIREEE!!! I have a hard time finding foundation for my oily skin that doesnu2019t separate, let me tell you this foundation is LIFE CHANGING !!! I do 30 minute sessions level 8 on the stair master and this foundation doesnu2019t budge , itu2019s literally on point even after a sweaty work out session. This foundation is LIFEEEE"
+        },
+        {
+            "review_title": "Game changer for 45 year old that needs coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "I hesitated a while before trying this as I had become very disillusioned with makeup in general not living up to expectations.  Watching videos, reading reviews and trying products for many years has never resulted in anything more then meh results.  As I am aging I needed a product that covered the redness on my cheeks, sunspots etc. without being heavy.  I didn't want to see the makeup on my skin.  I'm also not into touching up during the day. I apply before my workday and wash it off in the evening, that's it.  My go to for years was estee lauder, applied lightly with a damp beauty blender.  I thought that was the best I was going to get with regards to coverage and staying power.  I was wrong!  I'm not sure why there are a low number of reviews for this foundation but perhaps it's an age thing.  I'm hooked! Apply with a damp beauty blender, great! Apply with a brush, amazing!  Easier to apply than ELDW but the coverage and staying power are the same for me.  No primer, no setting powder or spray.  Just moisturize, apply it and go.  Even close up in a magnification mirror or in daylight in the car mirror it looks like skin.  It even stays on my nose!  There is slight scent but I don't even notice it anymore and it looks so good that I don't even care.  The search is over for me."
+        },
+        {
+            "review_title": "worth it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Combination skin",
+            "review_text": "I've been using this foundation for years. it's expensive and worth it! it's nice on the skin, nice finish and lasts all day!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "3WO Warm Olive - light to medium skin with warm olive undertones",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "I barely used one pump it is amazing i have mix tones of skin and i am super acne prone it doesnu2019t leave marks on my skin even after 8 hours of my workday. I love it."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "3.5N Neutral - light to medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "Looks nice when you first put it on, but I find it clings onto dry spots and oxidizes really badly. I wouldnu2019t say itu2019s good for sensitive, oily and acne-prone skin :/"
+        },
+        {
+            "review_title": "A must have in your make up bag",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Iu2019ve always been a Dior lover for makeup! This foundation is simply the best!! Natural looking, awesome coverage, long lasting - I have lots of good comments on my skin when wearing it. Money well spend"
+        },
+        {
+            "review_title": "Not for textured, oily, acne-prone skin",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "I was looking for a new foundation, preferably with sunscreen, as the one I usually use will be discontinued soon. This was recommended to me by a Sephora employee. The shade match was like no other and the foundation smelled nice, felt nice, and apparently has sunscreen in it. However, I had to return it as immediately upon application it settled into every fine line, enlarged pore, rough patch etc and amplified these imperfections. I tried using a primer prior to application and got the same result. I don't know it it's the sunscreen in the foundation that's causing this, but I will stick to my basic, sunscreen-free foundation for now."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "A non comedogenic holy grail foundation. In love! (wish it wasnu2019t so pricey)"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "Fantastic looks like skin and wears well.  Doesnu2019t settle into fine lines or smile lines.  Best shade match Iu2019ve ever had in a foundation"
+        },
+        {
+            "review_title": "Not worth the $ for oily peeps.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "Returning. This did not help with my oily skin even after trying two different primers and setting spray. Coverage is nice and blends nicely into a matte finish, but only lasted 2 hours before I had to blot. Iu2019ll stick to the Dior Face"
+        },
+        {
+            "review_title": "IN LOVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Absolutly in love, as someone who has very senstive skin I have to say Dior Forever Matte Foundation is a game changer. I love how it looks got so many compliments and a little goes a long  way"
+        },
+        {
+            "review_title": "Soft foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Oily skin",
+            "review_text": "Nice products for oily skin like me. It doesn't give cake effect at all"
+        },
+        {
+            "review_title": "So good!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "So good! Great coverage without feeling heaving. A little goes a long way. I have textured, oily, blemish prone skin and this is great for me. I knocked a star off due to the nozzle always getting plugged and then product squirts  everywhere- I do love the pump feature but it needs refinement."
+        },
+        {
+            "review_title": "Try this one!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Love this foundation  I am older woman,and I usually donu2019t buy Matt foundation,but this one is exceptional."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
+            "review_buyer_description": "Hazel eyes, Fair skin tone, Combination skin",
+            "review_text": "Love the foundation, but the one struggle I have is that the spout is so small that it clogs really easily, even if I wipe it after use, and so itu2019ll spray sideways."
+        },
+        {
+            "review_title": "Nice but not enough coverage!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I really like the shade range for this foundation because normally its very hard for me to find a foundation. It blends out beautifully and stays on for hours. My only complaint is that it does not feel like a medium coverage. Since the foundation is more on the watery end it seeps into my beauty sponge quickly and doesn't give me the coverage I want. Its better used with a brush but even then I have to use a lot more product to get a good coverage. I would still recommend because it's a really nice foundation especially for those who don't want too much coverage."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "1CR Cool Rosy - fair skin with cool rosy undertones",
+            "review_buyer_description": "Green eyes, gray hair, Normal skin",
+            "review_text": "Ok. I wanted the other one which was sold out. So I tried this one. It's ok. You do not have a good selection, but I was there, and I needed a foundation."
+        },
+        {
+            "review_title": "Dry patches and scent",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Sadly, this foundation settled in and emphasized dry skin on my cheeks, even with moisturizer underneath. It is also scented.  Might be good for faces with no dryness and peoplewho are not scent sensitive. who are not bothered by"
+        },
+        {
+            "review_title": "Super awful!",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "Went on comfortably, and I had high hopes. Coverage I would say is medium at best, and did tend to cling to dry patches. 10 min later... I look like an oompa loompa. Soooo orange, I could not leave the house, had to wash my face and do my makeup again before leaving for work. :("
+        },
+        {
+            "review_title": "Yup, Holy Grail!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "Ever since mid 30s I have been having an issue finding the perfect foundation, I don't wear makeup often for this reason. It settles into lines (I hardly have any wrinkles but it makes me look like I do) or cakes off or breaks off on my skin. So when I kept hearing about this foundation I was tempted, ladies rave about this on youtube. But it's not cheap!.. I don't mind spending if the product does what it is supposed to. So I took the plunge and bought it. I was not sure of my colour so I went with 3n. It is a pretty good match, it does oxidize a bit after so when buying, keep that in mind. Let me tell you it went on so smoothly, doesn't feel heavy at all, and it looked absolutely great for the whole day!! It is a medium coverage. I am obsessed!! Btw I have combination skin (more on the oily side in some areas) and it looked great on my skin. So Happy I took a chance, I have found my Holy grail!! Next purchase will be the concealer etc."
+        },
+        {
+            "review_title": "Worst Packaging!",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
+            "review_text": "I actually have no idea what shade I'm using as it's not indicated on the bottle. Why not?! Further, the pump is poorly designed/engineered. The foundation can squirt out in any direction, messing up my bathroom counter. When you're buying a luxury product, there's no excuse for poor packaging since that's where the high price derives from. Finally, this is supposed to be matte but after just 3 or 4 hours, my T-zone looks like an oil slick (despite setting with powder--I've tried a variety of different powders with the same result). This product is not worth the money. Sephora's Best Skin Ever is a far superior product."
+        },
+        {
+            "review_title": "Did not work for me",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Colour oxidized orange icon me despite being categorized as a cool tone. Wore off on areas of face and collected in tear troughs and around mouth. Disappointed and returned immediately. Staying with my holy grail"
+        },
+        {
+            "review_title": "LOVE!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, lightMedium skin tone, Combination skin",
+            "review_text": "This foundation is amazing -it wears well throughout the day and doesn't move! love it"
+        },
+        {
+            "review_title": "Nice",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Nice foundation, itu2019s on the Dry side , so make sure you hydrate well and prepare you skin good before applying, otherwise it would look dry and not natural finish."
+        },
+        {
+            "review_title": "Dior has now entered my heart.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "I saw multiple reviews on youtube concerning this foundation and everyone was RAVING. Even saw it tested after a long hot day without setting powder. Well. I just got my shade match in store today and rushed home to try it: WOW. Iu2019m 38 and normally stay away from matte foundations because they make my skin feel tight despite skin prep. But THIS. Stays in place, blurred effect on my T-Zone and pores around my nose. Sits beautifully on the skin. Definitely recommend, this may be the best foundation Iu2019ve ever worn. Pricey but worth it! Yay!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I have pretty normal skin with occasionnal dry patches. This foundation is one of my favorites. It does give me a very perfecting and pore blurring look. It has a lot better longevity than the forever glow version which also after a couple hours tends to overemphasize my pores. It applies nicely and is flexible enough to be sheered out in a thin layed without mixing with anything. Texture is slightly liquidy. It is a foundation that i put in the same category of my estee lauder double wear and i love both. They are my go to for work under my mask (healthcare) but i also sometimes choose to wear those during the weekend (over my more glowy products) since I love how they look on my skin. Do you need both estee lauder and dior? No but for foundation lovers they both are amazing and worthy to have. (I like these enough to have in 2-3 shades to cover my shade range for the whole year)."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Best foundation Iu2019ve tried so far! I havenu2019t experienced any breakouts from this product and it has a very lightweight feel.  I tend to get oily throughout the day and this foundation stays in place and remains matte/normal. Although I do pair it with a setting spray that helps balance oil production so that probably helps.  Overall itu2019s super natural looking and not cakey, I cannot live without it now!"
+        },
+        {
+            "review_title": "Its Meh- too expensive for what you get",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I have oily skin with small dry patches around the nose and this make up separated on my skin after an hour or so. I returned it after a week because it is too expensive for this to happen. Doesn't give a medium or full coverage."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Wore to the Calgary Stampede when it was 30 with no clouds in the sky. I sweat like crazy and this foundation stayed stuck to my face. Great foundation, great coverage 100% would buy again"
+        },
+        {
+            "review_title": "Weightless Matte",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "This is a REALLY nice foundation. I prefer the look of a matte finish foundation but itu2019s become more difficult as Iu2019ve gotten older to find one that doesnu2019t dry my skin and pull at my lines. This one has a wonderfully soft and light finish. It feels like nothing on my skin but gives nice coverage that lasts. Dior also understands what rosy tone means. So many other products Iu2019ve tried have u201ccoolu201d shades that dry down with an orangey tone. My only quibble is I need to mix two shades together but the end result is my perfect match. Love it!"
+        },
+        {
+            "review_title": "absolutely flawless",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I am in love with this foundation! It is flawless and stays put all day! great coverage for dark spots and redness!"
+        },
+        {
+            "review_title": "Blotchy within hours..",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "To begin with I have combo oil, sometimes dry, textured skin. I purchased this for a wedding due to a recommendation from an associate. The application was great and it felt smooth on the skin. Didnu2019t feel too drying. Not completely medium coverage for my skin, quite light. Even allying toe layers my blemishes were still visible."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "2.5W Warm - fair skin with warm tones",
+            "review_buyer_description": "Hazel eyes, auburn hair, lightMedium skin tone, Combination skin",
+            "review_text": "Excellente tenue , lu00e9ger parfum . Cache bien la rosacu00e9, rend la peau avec une texture uniforme ."
+        },
+        {
+            "review_title": "Don't waste your money",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Worst foundation I've ever purchsed. I recently bought this as there was a Doir event happening. First used it today, shook the bottle and the first 2 pumps were greasy clear fluid. Once the colour did come out, it dried too quickly which made blending very difficult. After wearing it for a few hours it started looking blotchy. By the 4th hour I had to wash it off in my office bathroom sink because it looked so horrible. This is being returned immediately."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "I was a little tentative at first as the old formula was my holy grail foundation, but it stands up well to the original."
+        },
+        {
+            "review_title": "Great long wearing foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "This is my go to foundation. It last all day and offers good coverage. Lots of shades to choose from too! Make sure to use primer before application or it dries a bit too quickly and can be hard to blend."
+        },
+        {
+            "review_title": "Favourite foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Oily skin",
+            "review_text": "My favourite foundation, it looks so airbrushed and flawless and really keeps me matte all day i donu2019t have to blot or touch up & always get compliments on how flawless my foundation looks when i have this on."
+        },
+        {
+            "review_title": "Is this perfume or foundation?",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Excellent shade match for me, which is rare, and matte - but VERY strongly scented, much lighter coverage than I expect from a medium coverage foundation, and made my skin burn which a foundation hasnu2019t done before. It also made me realize I had lines on my face that I didnu2019t know was there. Returning it tomorrow."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "2N Neutral - light skin with neutral tones",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "its a lightweight foundation with a soft matte finish. in my opinion its more of a light - medium coverage. in comparison to other matte foundations, this one has less coverage and feels lightweight on my skin. it isn't heavy or cakey at all but still holds up well throughout the day without wearing off."
+        },
+        {
+            "review_title": "Beautiful finish!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Iu2019m not the type to go for matt foundations as they typically enlarge my pores, emphasize my wrinkles and make my skin feel like the Sahara desert.    Not This One!  Went on beautifully with a brush and immediately airbrushed my pores and texture.  Smoothed Iu2019ve met wrinkles (smile lines and marionette lines) without settling into them.  The texture is light feeling in my skin and super comfortable, not drying in the least!  The colour stayed true to what I put on and didnu2019t turn orange which was a fear of mine lol. It covered my redness and broken capillaries with one pass.  Super long lasting and transfer proof without powder or setting spray.   My skin is combo and again with redness and lines.  I have never tried the old formula but this one is a winner in my books!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Normal skin",
+            "review_text": "My favourite foundation right now. Blends better with brush than beauty sponge. Nice medium coverage."
+        },
+        {
+            "review_title": "better formula but fragrance is still the same",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Great coverage still being lightweight. It stays great throughout the day. Only drawback is the fragrance, but I didnu2019t see any breakouts from it."
+        },
+        {
+            "review_title": "New Formula = No thanks.",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Iu2019ve been using Dior Forever Matte for over a decade and now, I donu2019t know what happened but they changed the formula and it looks like a bad quality drugstore foundation. After finishing my skincare routine, I applied it on my face and my skin was looking dry and flaky. I NEVER had this problem before with Dior.   I will return it because it Iu2019m very unsatisfied.  Itu2019s way too pricey for the quality it became (which is the reason we buy Dior right? Qualityu2026) You can definitely find better for the price. I guess I will have to switch brandu2026"
+        },
+        {
+            "review_title": "Matte foundation of my dreams.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "This foundation is so perfect!! The colour matches me exactly which is amazing because Iu2019ve spent like a decade trying to find something that matches me. I was using Narsu2019 soft matte foundation but I found that it oxidized right away. This one doesnu2019t! It is exactly like the Nars soft matte foundation but the shades are more precise and the finish is much more of a natural matte. I have combination, sensitive post-accutane skin and it is not drying if you prep your skin properly with a hydrating moisturizer (I just use cera ve or biossanceu2019s repair moisturizer). I am the shade mont blanc in Nars foundations, for reference (but itu2019s slightly off when it oxidizes)."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "2N Neutral - light skin with neutral tones",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "UNREAL!!!!!!!!!!! 1. my skin is very sensitive and iu2019ve tried thousands of foundations, only clean foundations donu2019t bother my skin but this is unreal it looks amazing lasted me so long and didnu2019t bug my skin love this  the finish is amazing"
+        },
+        {
+            "review_title": "new fav!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "My favourite foundation was the Estu00e9e Lauder double wear light and once it was discontinued I couldnu2019t find anything that I liked as much until this! The shade match is perfect unlike double wear that was always a little too dark. I wore it with my mask on for hours and had 0 transfer. The finish is really pretty too, itu2019s more of a soft matte, similar to the double wear light which I prefer. I took off one star for how quickly it dries, you canu2019t waste any time before blending. I saw a couple reviews saying that it oxidized after 20 minutes but after 3 hours it still looked perfect on my skin (normal to dry and pretty sensitive)."
+        },
+        {
+            "review_title": "Oxidizes",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "I love the old formula. Been using Dior foundation for over 6 yrs now. Application is nice and goes on smooth but it oxidizes within 30 mins.  Makes my skin looks orange. Not a fan. So disappointed."
+        },
+        {
+            "review_title": "great olive undertone foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I am always on the hunt for a natural looking foundation with a olive undertone for light skin.  This seems to tick all the boxes so far.  I apply a minimal amount with my fingers and it covers everything I want covered, looks and feels like skin and doesnu2019t break up on my skin.   In the winter I do make sure my skin is well hydrated before applying, as it is a more matte finish, but I imagine in the summer it will be great with just my normal skincare.  I have sensitive, combo skin that is quite reactive.  So far this foundation hasnu2019t broken me out.  I also use the concealer in the same shade and love it as well."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "00 Neutral - fair skin with neutral tones",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "I have been using this for a few years now. Feels like silk on your skin, like you aren't wearing makeup but still has great coverage!"
+        },
+        {
+            "review_title": "My favourite!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Is perfect, I end up buying Dior, even though I tried so many different foundations. This one is the best! I have redness and rosacea on my skin, and this one hides all the redness and sits well all day long, I donu2019t need to invest into primer for blemishes and redness, as olive undertone does it for you. So itu2019s 2 in 1. Love it!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "I really wanted to love this foundation. The previous 24h wear was my holy grail of foundation. This one oxidizes and makes me look orange within 20 mins of wear and leaves my skin looking super oily. Sad I canu2019t return it."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
+            "review_text": "Love this foundation. I feel like dior is the only makeup brand that I can find an exact colour match. This wore beautifully for over 8 hours and I still didnu2019t have to touch up. Hands down my favourite foundation. Not talked about enough."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I like the texture and how it covers the face, however it changes it's shade after 10 minutes and face looks yellowish. I've been using Dior's foundation for years and always the same shade,  but i don't know, something went wrong with this brand."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Normal skin",
+            "review_text": "Canu2019t go back to other brands.  Lasts the whole day, covers well, smell is good."
+        },
+        {
+            "review_title": "amazing! but pale girls beware...",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Porcelain skin tone, Dry skin",
+            "review_text": "I love love love this foundation, one of my absolute favs!! i have bad acne and dry skin and this is my favourite foundation so far! HOWEVER if you are super pale like me beware! i have 0N, which I was told was one of the lightest shades, if not THE lightest shade. however, i can only use it after i fake tan because itu2019s still pretty dark. if youu2019re ordering online be careful and be prepared to possibly return!!"
+        },
+        {
+            "review_title": "A FAVORITE",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "I was recommended this while on the hunt for a more hydrating foundation for my skin during the winter. It is a beautiful foundation, soft, silky, smells wonderful and does have that buildable coverage element.  The issue for me with dewy/hydrating foundations is that they will hardly ever be full coverage just because of the glowy effect. Full coverage tends to be more in matte foundations because of that dry-down and solid color. Nonetheless I love this foundation, the only downside to this is that to get that buildable coverage I need to add MUCH more product to my face and it is something I like to avoid."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "Before I write this review, Iu2019d like to note that before I made this purchase, I had not worn a foundation in about 2 years. I only wore tinted moisturizer with spf.  This product was highly recommended to me by a friend. I was definitely skeptical about using a matte foundation for my dry skin, but I was pleasantly surprised when I took a look at the first pump and found the consistency to be more liquid than creamy.  It wears well over moisturizer (which is a must for me), and it plays nice with other tinted moisturizers and products which is great because I am am not about to go change my whole routine and all my creams and moisturizers for one single foundation.  It didnu2019t really move a whole lot throughout the day and it looks natural. It actually doesnu2019t look like Iu2019m wearing anything which is really impressive for a foundation. I canu2019t really think of anything bad to say."
+        },
+        {
+            "review_title": "had some difficulty getting the right one",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "Honestly I had some difficulty getting my own skin tone but overall this foundation is super great, not watery, or dry. Itu2019s super great."
+        },
+        {
+            "review_title": "FLAWLESS FINISH",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "This product goes on very smoothly ! Love the matte after finish and continues to stay in place throughout the day/night. I would highly recommend this product but the only down fall is this product is not cruelty free."
+        },
+        {
+            "review_title": "Love it! my go to!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Beautiful! My skin loves to wear this foundation... it is on the expensive side... but i guess you get what you pay for. I switched to this foundation from Lancome's Tiente Idole 24hour. It feels so much nicer on my skin and doesn't feel as heavy."
+        },
+        {
+            "review_title": "I canu2019t live without it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Olive skin tone, Combination skin",
+            "review_text": "Iu2019ve been buying Dior Forever (Matte) for 10 years now and all I can say is wow. I used to pick at my skin (a lot) and I needed a foundation to hide it. Dior Forever has always been the best one to cover it (I donu2019t do it anymore). I have dry skin during Winter time and combination during the summer. The foundation fits me all year long. The only thing that I have to change is the color, depending of my complexion/time of the year.  It doesnu2019t oxidize and last the whole day. I apply it with the Sigma F80 brush. Itu2019s perfect!  People often think that Iu2019m not wearing foundation or donu2019t notice it :)"
+        },
+        {
+            "review_title": "Natural Look",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
+            "review_text": "This colour is a perfect match to my skin tone. The foundation is a medium coverage but can be built up to be a full coverage. The finish is natural looking and I always get compliments on it. I'm a waitress on a rooftop patio so the days get real hot & sticky but this stays on for my entire 10-hour shift!! The only part the separates is my nose. I'm not sure if it's the primer I use (Smashbox Pore Minimizer)."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, Fair skin tone, Oily skin",
+            "review_text": "Much darker than anticipated or gradually becomes darker throughout the day. Had higher expectations."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Oily skin",
+            "review_text": "Extremely oily skin, thought this would help achieve a more smooth matte look. Foundation is extremely thick, my skin looks flakey and dry. After a couple hours of wearing it only gets worse and starts to look blotchy. Wish it would of worked better for me."
+        },
+        {
+            "review_title": "love u2764ufe0f",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I love this foundation. Everytime I wear it I always get compliments n fives me a nice glow."
+        },
+        {
+            "review_title": "I'm all lit!!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Medium skin tone, Combination skin",
+            "review_text": "I love love makeup. But I have always hated foundation. I wanted something that would work with my ageing skin (albeit combination). And I'm super fussy. Nothing too shiny or mask like, good for normal skin and something that would hold up all day long. This foundation is like your skin but better. It evens out my tone and still allows me to control coverage. After 8 hours of wear my GF still made a comment how my skin looked. It didn't settle into lines, it blended effortlessly and has a lovely scent that is almost calming (it wears off during dry down). One pump covers me during the day, two pumps gives me extra coverage for evening. If I thought it wouldn't be bad for my skin I would touch my face all day."
+        },
+        {
+            "review_title": "Turns orange",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Really unimpressed with this foundation for the price you pay. This is my second time getting color matched and the foundation oxidizing and being way different than it was in the store. I first was match to 1.5 which was very orange. I went back and they tried a 0 and a 1 and said the 1 was better. I have worn the make up once and find that initially it looks great but in a short time my face is very orange. Am going to try and return this product and would not recommend."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Normal skin",
+            "review_text": "Good: - coverage - smooth, powder finish - little goes a long way  Bad: - dry - a little thick"
+        },
+        {
+            "review_title": "Reformulation nothing like the original",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Porcelain skin tone, Combination skin",
+            "review_text": "This is nothing like the old Dior Forever Foundation before the reformulation. The original was gorgeous and looked like skin. This reformulation ruined my holy grail foundation."
+        },
+        {
+            "review_title": "Nice if you like matte",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "It is a nice foundation but very Matte . It does not look like real skin , if youu2019re into this look then you might like it . It was nice my cup of tea at all . It makes my face look very flat and not a healthy glow ."
+        },
+        {
+            "review_title": "A little TOO matte",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "This product is matte to the point that itu2019s dry. Iu2019m an oily/ combo girl and usually love a matte finish.   This just wasnu2019t worth it for the price for me. The shade matched me perfectly and it looked great when I first applied it. But after few hours of wearing (regular work day- nothing crazy) my normally oily t zone just looks like a hot mess. I look dry and cakey.   Definitely get a sample before purchasing to see if itu2019s for you!"
+        },
+        {
+            "review_title": "Wore this foundation on my wedding day.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Fair skin tone, Dry skin",
+            "review_text": "I watched a youtube tuturial video on a wedding day look by Melissa Alatorre.  She used this foundation on her clients for their wedding days. I decided to try it and I am soo glad I used this for my wedding day!  It is great coverage, and shade matched me great. It lasted all day and night. I recommend this for combination skin for summertime!  It is pricey but worth it."
+        },
+        {
+            "review_title": "Dior Forever My Choice",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Medium skin tone, Oily skin",
+            "review_text": "Hello. Iu2019m 35 and this is my very first review because I felt compelled to share how awesome this foundation is. I have light/medium coloured combination skin (maybe more on the oilier side) with some acne scars, and I find that many foundations break apart and need a re-application by 5:00. I also relied on concealers because scars (even the fading ones), would always show through my foundations. But, wow...My life has changed...The Dior Forever foundation is a smooth, even, and light coverage that lasts all day. And when I say u201clightu201d, I mean a couple things: (1) it doesnu2019t feel like youu2019re wearing makeup, and (2) A little goes a long way. This is incredibly important to me, because I believe that u2018less is moreu2019. Now I only use concealers for the under eyes (and bonus, it takes less time to get ready!). The glass pump bottle is sanitary and beautiful, and I swear that the makeup application is fool proof. I Highly recommend this product. You wonu2019t be disappointed."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Olive skin tone, Combination skin",
+            "review_text": "Sooo in love with this foundation. It has great coverage and a pretty finish. Iu2019m also really happy with how long this foundation lasted"
+        },
+        {
+            "review_title": "Get this foundation !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Porcelain skin tone, Combination skin",
+            "review_text": "I have tried so many foundations and I have FINALLY fallen in love with one!  This foundation has amazing ( and I mean amazing ) coverage ! It doesnu2019t irritate my skin ( I have combo skin) and goes on like silk!   Highly recommended!!!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Tan skin tone, Combination skin",
+            "review_text": "Best foundation ever! Coverage without being cake-y and very natural looking."
+        },
+        {
+            "review_title": "My Current Favourite Foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This foundation is medium coverage but becomes full coverage if you build it or use a colour corrector/concealer underneath. It blends pretty well, no scent and it lasts all day; it can go for 12 hours and still look flawless! I have combination skin and I find this doesn't dry my face out either, or make it very greasy. It's just right! I like using loose powder after, all over my face, and a setting mist because I like my foundation to stay on as long as possible. I actually don't find it to look too cakey even with all that on top. But even without it, it lasts pretty long."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Deep skin tone, Combination skin",
+            "review_text": "Tried a sample, fell in love and purchased the full size! Amazing foundation"
+        },
+        {
+            "review_title": "Worth it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Medium skin tone, Dry skin",
+            "review_text": "Amazing foundation!! Great coverage and best of all buildable for complete coverage. I was a little bit hesitant due to the price.. but it honestly is worth it! Goes on very smooth and lasts all day.  A little goes a long way with this product!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Love this product. Works well providing great coverage, but not too heavy."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "Such a flawless finish! Gives me great coverage but still has that matte finish that helps to keep my oils under control. Iu2019ve used this with and without powder on top and both ways it looks great!"
+        },
+        {
+            "review_title": "Great",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Dry skin",
+            "review_text": "Love this one- looks great on the skin and doesn't crease much when worm all day!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "I was sadly using drugstore foundation trying to work on my budget... I went to get a makeover for a night out and this was the foundation they used.  I instantly fell in love and had to go back and buy it... really pricey but I love the way it makes my skin look!"
+        },
+        {
+            "review_title": "Best",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "My absolute favourite foundation, worth every penny, been using it for years. I constantly get compliments on my skin, and I always tell people itu2019s the foundation, not my skin! It goes on smooth and STAYS on all day."
+        },
+        {
+            "review_title": "Meh, not the best.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I've been on the hunt for a great foundation and this was not it. The foundation applies beautifully but within an hour it looks cakey and creases badly."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "First off, I think the staying power of this is great. I use it with the silk canvas primer underneath, but it holds its own really well too. It goes on super smoothly and evenly. Would definitely purchase again."
+        },
+        {
+            "review_title": "Not Worth it",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Have been using Dior products for years and have been in love with the old skin glow/nude foundation, but have really been disappointed in this foundation. It looks beautiful as you apply it but as the day goes on It makes my skin look dry and flakey, especially around mouth and eye area, sets into my fine lines and my skin has been been getting bumps and looking irritated. Dior please stop with fragrances! Including your skin care.  For now I am done with your products"
+        },
+        {
+            "review_title": "Perfect unless you have sensitive skin",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Dry skin",
+            "review_text": "The colour match was perfect! Right tone of warm and neutral without being too pink, too yellow or too peach.   Sadly, the ingredients in the Dior foundations don't seem to go well with my skin. Broke out in strange red bumps right after using this and it's happened before after using the Dior backstage foundation. Took about a week to get my skin on track.   If you're sensitive skinned, you may react to it. If you're not sensitive skinned and neutral in tone, this is the perfect foundation. Coverage is great and the colour matches are way better than many other brands I have tried including Hourglass and Giorgio Armani.  Also, Dior Forever doesn't oxidize compared to the backstage face and body."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Lightweight buildable coverage. Love this! Completely evened out my skin with very little product. Iu2019m very dry and lasted extremely well throughout the day. A true skin finish look and feel for me."
+        },
+        {
+            "review_title": "Love it!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Normal skin",
+            "review_text": "Matches my skin so well, buildable, doesnu2019t cling to dry patches, isnu2019t cakey and lasts! It is expensive, but if youu2019re willing and able to buy it it is worth it."
+        },
+        {
+            "review_title": "my new go to! unreal foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
+            "review_text": "If I could give this 10 stars I would! Iu2019ve tried so many at Sephora. Too faced, nars, Armani, MUFE, Fenty, Laura mercier you name it. This defeats them all by far ! Natural and still full coverage?! I donu2019t know how this does both but it does!"
+        },
+        {
+            "review_title": "Not worth the price",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Applied beautifully at the store when I was trying it on. The issue is that same texture during application doesn't last. After a couple of hours it begins to break up and look cakey on the skin. I was using Giorgio Armani's luminous silk before this but I wanted a foundation with more coverage. Although this foundation provided decent coverage, I hated the result after a few hours of wear. The luminous silk foundation never looked that way even after 12h of wear."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Dry skin",
+            "review_text": "Itu2019s definitely smooth, when you put on.  No need to apply too much, but I donu2019t recommend it if you have dark patches on your face.  It doesnu2019t stay on the face like it says."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "I have oily skin and this foundations last on for about 8 hours. Itu2019s gives you a nice glow the longer you wear it and doesnu2019t look caked. I wear the shade 2w, which is slightly too yellow for me."
+        },
+        {
+            "review_title": "Love the formulation but not the shades",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Combination skin",
+            "review_text": "Very beautiful foundation itu2019s nicer than most matte foundations, feels very nice on the skin, however not crazy about the shades but think 4wo i can make work during the summer"
+        },
+        {
+            "review_title": "Beautiful but is not a foundation for normal skin",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "blonde hair, Porcelain skin tone, Combination skin",
+            "review_text": "This product does not have much of a shade range for people that are fair. Even this foundation almost seems a little too dark for my complexion. However, this foundation does apply beautifully with both a beauty blender or a foundation brush. The only downfall is at the end of the night it tends to look cakey or flakey in areas around the nose or forehead."
+        },
+        {
+            "review_title": "One of the best to an extent...",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Porcelain skin tone, Combination skin",
+            "review_text": "I am pretty in love with this foundation. My only qualm is that it does start to crack a little bit by the end of the day and exaggerate some fine lines. However, if you use some good primers this is one of the best foundation Iu2019ve used. The perfect amount of coverage (not too full but more than medium) and looks flawless. Definitely one of the best Iu2019ve tried. Just wish for the price it didnu2019t start to exaggerate lines."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "I like Dior foundations. But the shade ranges are not the best. Really wish they stop making their foundations so yellow."
+        },
+        {
+            "review_title": "flawless",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "i went in store to get colour matched because my skin tone changes drastically throughout the year. the makeup artist asked me what i've tried, what i like, and what i don't like in a foundation. i told her i have combination skin but because of the terrible winter we've had my skin has been very dry, i like a matte foundation that's not heavy, i always have an issue with it cracking around my smile lines, i like it long-wearing, and i like full coverage. she came back with this foundation and i was a little skeptical because of the price but when she put it on it felt so nice. it honestly had everything that i was looking for in a foundation. and i have the added issue of not having neutral, warm, or pink-toned skin, so she recommended me the warm olive and it was a flawless match. i wore it out that night and didn't tell anyone that i got new foundation but i received multiple compliments on how i looked like i was glowing. it played so nicely with the rest of my makeup. stayed put all night (even when i had an unexpected sleepover). and was so easy to take off. love this product so much."
+        },
+        {
+            "review_title": "Not Bad, But Not Skin-Caring",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Oily skin",
+            "review_text": "This foundation does look good on my skin, however I donu2019t find it makes my breakouts look quite as good as say Laura Mercier Flawless Fusion on my skin. It is a medium-buildable coverage, but it seems to use a decent amount of product to get the coverage I need over my acne. It wears well throughout the day, and touches up well with powder as well. Iu2019m very concerned about the ingredients in this foundation. When using it daily for three or so days I began to see an increase in clogged pores (little white bumps) all over my face in places I donu2019t always get them. I stopped using the product and it began to clear up again. This foundation is very fragranced and I believe this is what is in the product to cause the breakout. If your skin isnu2019t sensitive or acne prone, and you donu2019t have a ton to cover up this could be perfect for you, especially if you need a longer wear. However for me it just isnu2019t Mr. Right, or even Mr. Right Now."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "The colour match is amazing! The coverage is medium to full coverage, wears amazing throughout the day even though i have oily skin. The foundation feels very light on the skin and doesnu2019t transfer. Amazing amazing"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Porcelain skin tone, Combination skin",
+            "review_text": "I really wish I could write a good review about this product. The finish of the product looks amazing for about 5 hours-great coverage and not fully matte where your skin looks dull and cakey, it's more of a satin matte. However, after this time the foundation separates horribly. I've tried everything, different primers, setting powders, setting sprays and nothing works. This product also transfers.  I need a foundation to last at least through the work day. sadly will be returning this. Gave 3 stars because it is great if you don't need a long wearing foundation."
+        },
+        {
+            "review_title": "love it!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "Love love LOVE this foundation! It is comparable to the YSL all hours. This provides a flawless smooth finish, it lasts all day and does not crease or break apart!! It does not cling to any dry patches on my skin. I also have very fair skin and this is a good colour match for me. Love it!"
+        },
+        {
+            "review_title": "Star",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "Excellent!!! I did not have the original and could not make the comparison. The original forever did not have my colour; not it comes in 0N. The colour is perfect. I have the Dior Body and Face. This new Forever beats it and itu2019s more light weight and lasts longer on my combo skin. I donu2019t think itu2019s Matt. Itu2019s has very nice skin like formula and does not look like I have any foundation on. I wore 16 hours last night and it did not move or break down. I use just a thin layer of foundation and the coverage is medium."
+        },
+        {
+            "review_title": "Oxidize!!!!",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "Great foundation...lightweight and long lasting however Oxidize BADLY !!!! Same color (20) in forever undercover looks lighter few minutes after application then in this foundation. Middle colour in the picture - 2N  Left side (forever undercover) - 20"
+        },
+        {
+            "review_title": "W O W",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "WOW! This foundation is so long-wearing it's unbelievable. I've worn this foundation for longer than 14 hours and it has held up incredibly. Most foundation is break up and becomes a little scaly from my oils but this one has held up the best out of all of them. It makes me look a little matte and dry during the first few hours but it by mid day, it really is able to hold my oils at bay. 10/10 would recommend."
+        },
+        {
+            "review_title": "BESTEST!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Olive skin tone, Combination skin",
+            "review_text": "MY NEW HG! This foundation is photoshop in a bottle! It blurs out pores and makes your skin look so silky smooth! It is not a drying matte foundation, its very kind to dry matches and fine lines! It is similar to the backstage foundation but offers more coverage and evenness! Seriously this stuff is magic in a bottle! Definitely worth every penny because a little does go a LONG way! I can't believe how flawless my skin looks after using this!!!! It does oxidize a bit right away so keep that in mind (darker in shade but doesn't turn yellow or orange anything). When I swatched 4WO to my backstage I noticed it was LIGHTER in colour at first but within 10 mins it got about half a shade darker but nothing too dramatic! Still has that perfect olive undertone though. YOU NEED THIS!!!"
+        }
+    ]
 }
