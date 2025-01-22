@@ -100,6 +100,9 @@ def index():
     return render_template('loading.html')
 
 def getting_products(user_details, product_preferences):
+    print(f"Current working directory: {os.getcwd()}")
+    file_path = os.path.join(os.getcwd(), 'product_selection/products.csv')
+    print(f"Looking for the file at: {file_path}")
     start_time = time.time()
     results_storage.pop('products_list', None)
     # Call Python function to map inputs to products
@@ -120,7 +123,7 @@ def getting_products(user_details, product_preferences):
     results_storage['time_elapsed'] = time_elapsed
     results_storage['user_details'] = user_details
 
-@app.route('/display_results')
+@app.route('/display_results', methods=['GET', 'POST'])
 def display_results():
     # Retrieve the results from session
     products_list = results_storage.get('products_list', [])
