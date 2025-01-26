@@ -1,6 +1,7 @@
 import pytest
 from shopping_site import app
 from product_selection.select_product import Product
+import json
 
 # test cases
 VALID_PRODUCTS = [
@@ -61,27 +62,8 @@ def test_valid_products(client):
         
         assert expected_product_html in rendered
 
-# def test_invalid_products(client):
-#     """Test handling of invalid product data"""
-#     with app.app_context():
-#         # Test case where user asks for a product that doesn't exist
-#         with client.session_transaction() as sess:
-#             sess['user_details'] = "I want a magical foundation that turns me into a unicorn"
-#             sess['product_preferences'] = "Unicorn Magic Foundation"
-        
-#         response = client.get('/index')
-#         rendered = response.data.decode()
-        
-#         # Verify the error message and image are displayed
-#         assert 'Sorry, your search did not return any products.' in rendered
-#         assert 'nothing_found.png' in rendered
-        
-#         # Verify no product elements are displayed
-#         assert '<div style="flex: 14%; padding: 0.5em 0em">' not in rendered
-#         assert 'ADD TO BAG' not in rendered
-
-def test_edge_cases(client):
-    """Test product recommendations for edge cases"""
+def test_user_edge_cases(client):
+    """Test product recommendations for edge cases where the user may have unique personal traits or rare product requsts"""
     test_cases = [
         {
             'user_details': "I am 0 years old and need foundation",
@@ -129,3 +111,55 @@ def test_edge_cases(client):
             
             # Verify price information is displayed
             assert '$' in rendered
+
+def test_sidebar_update_info(client):
+    """Test that submitting the user details in the side bar updates the user's information"""
+    with app.app_context():
+        # Initial user details
+        initial_details = "I am 25 with combination skin"
+        new_details = "I have sensitive skin and need gentle products"
+        
+        # Set up initial session
+        with client.session_transaction() as sess:
+            sess['user_details'] = initial_details
+            sess['product_preferences'] = "foundation"
+        
+        # Get initial page render
+        response = client.get('/index')
+        rendered = response.data.decode()
+        
+        # Verify initial user details are displayed
+        assert initial_details in rendered
+        
+        # Simulate form submission with new details
+        response = client.post('/update_user_details', 
+            json={
+                'current_details': initial_details,
+                'new_details': new_details
+            },
+            follow_redirects=True
+        )
+        
+        # Verify response is JSON and contains merged description
+        assert response.content_type == 'application/json'
+        data = json.loads(response.data)
+        assert 'merged_description' in data
+        
+        # Get updated page
+        response = client.get('/index')
+        rendered = response.data.decode()
+        
+        # Verify new details are present
+        assert 'sensitive skin' in rendered.lower()
+        assert 'gentle products' in rendered.lower()
+        
+        # Verify old details are not completely lost (should be merged)
+        assert '25' in rendered
+        
+        # Check that the blog post is updated to reflect new user details
+        blog_start = rendered.find('<legend>From your beauty advisor</legend>')
+        blog_end = rendered.find('</fieldset>', blog_start)
+        blog_content = rendered[blog_start:blog_end].lower()
+        
+        assert 'sensitive' in blog_content
+        assert 'gentle' in blog_content
