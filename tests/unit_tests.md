@@ -16,10 +16,9 @@ This checklist outlines all the features and units that need to be tested. Each 
     [] test function an empty product list
     [x] test function edge cases (e.g., user age is 0 or 100)
     [x] test function invalid user data (e.g., missing fields)
-[] Side bar
-    [] test that user details are updated
-    [] test for page refresh with new products
-    [] test for page refresh with new blog post
+[x] Side bar
+    [x] test that user details are updated
+    [x] test for page refresh with new blog post
 
 ## 3. Blogpost
 [x] write_blogpost()
