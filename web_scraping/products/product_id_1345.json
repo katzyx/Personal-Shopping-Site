@@ -1,0 +1,707 @@
+{
+	"product_id": "1345",
+	"name": "Lady Million Eau de Parfum",
+	"brand": "Rabanne",
+	"categories": "Fragrance, Women, Perfume",
+	"price": 188.5,
+	"about": "....Notes:...Style:.",
+	"ingredients": "Alcohol Denat., Parfum (Fragrance), Aqua (Water), Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate , Limonene, Benzyl Salicilate, Alpha-Isomethyl Ionone, Hydroxycitronellal, Butylphenyl Methylpropional, Hexyl Cinnamal, Linalool, Coumarin, Citronellol, Citral, Geraniol, Benzyl Alcohol, Isoeugenol, Ci 15985 (Yellow 6), Ci 19140 (Yellow 5), Ci 61570 (Green 5), Ci 14700 (Red 4).",
+	"how_to_use": "",
+	"num_reviews": 792,
+	"overall_rating": 4.4,
+	"product_url": "https://www.sephora.com/ca/en/product/lady-million-P269118?skuId=1283399&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s1283399-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "1.7 oz/ 50 mL",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s1283381-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "2.7 oz/ 80 mL",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s1283399-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "Such a luxury!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Combination skin",
+			"review_text": "Such a luxurious scent! I love the packaging and the perfume itself!"
+		},
+		{
+			"review_title": "Not for everyone",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "Although the packaging is definitely fancy and stylish, I think the scent is too strong for me. ;( It maybe suitable for those who like strong, musky femme scents but this isn’t something I feel like I wouldn’t wear everyday. One plus point though is that the scent really lasts a long time and doesn’t vanish quickly.   I made a friend try it and she loved it so it might just be me who isn’t a fan"
+		},
+		{
+			"review_title": "Confident and pride",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "Love this one and it reminds me of the man version.  It really says a statement.  For the strong and confident women."
+		},
+		{
+			"review_title": "yumm",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+			"review_text": "i absolutely love this perfume it’s like a floral honey soo unique and underrated"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "blonde hair, Tan skin tone, Dry skin",
+			"review_text": "I love this smell, it suits me so well that whenever I  come into a place they tell me wow you smell good!"
+		},
+		{
+			"review_title": "beautiful scent!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
+			"review_text": "Beautiful Fragrance! I prefer fruity over floral, but I loved this one. the woody floral scent is perfect for all seasons and all occasions.  the bottle itself is very pretty and functional.  please note, I received this product for free in exchange for my honest review."
+		},
+		{
+			"review_title": "Luxurious scent",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+			"review_text": "I received this product as a samlple from Influenster. The scent itself is very strong, rich,  musky, with a hint of fruity sweetness. It would be  great for older women however it is not something I would personally wear everyday."
+		},
+		{
+			"review_title": "An instant fav!!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
+			"review_text": "I loved this right out of the bottle and then the more it sat on my skin the more obsessed I became. I find myself reaching for this first when going somewhere nice! An added bonus is how pretty the packaging is!"
+		},
+		{
+			"review_title": "Wow",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, auburn hair, Medium skin tone, Combination skin",
+			"review_text": "Smells fantastic and the bottle is gorgeous just wow! Got so many compliments when wearing this"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Oily skin",
+			"review_text": "This perfume is gorgeous, the bottle is so luxurious and expensive looking! The smell is beautiful but definitely on the strong side! If you’re looking for a perfume that will make you smell expensive, this is the one!"
+		},
+		{
+			"review_title": "Overwhelming musky scent for older women",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Was very excited to try this perfume. Described as having the following notes: Neroli, Bitter Orange, Raspberry, Orange Flower Absolute, Sambac Jasmine Absolute, Gardenia, Patchouli, Honey, Amber. I would say the smell is bitter, Gardenia and the Amber stand out but mostly it smells like an old dark woodsy musky scent. Other reviewers mentioned it was long lasting but i found the scent would fade away after 4 hours or so. Unfortuntely I'm not a fan and wouldn't recommend it. I love the idea of the shape being inspired by the regent diamond in the louvre, but it isn't very practical and is awkward to hold."
+		},
+		{
+			"review_title": "Great long-lasting fragrance",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+			"review_text": "I received this free product from Influenster in exchange for my review. This scent is long-lasting and very potent, so you don’t need to spray much to smell good all day long! I personally wouldn’t wear it everyday, but it’s perfect for an evening out or if you like a long lasting perfume! I love the packaging, it’s so creative and unique. It smells like flowers, orange and dash of raspberry (a floral fruity fragrance)."
+		},
+		{
+			"review_title": "Sweet & Fresh",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, Fair skin tone, Combination skin",
+			"review_text": "Having also received the lady million fabulous au de parfum recently, I wasn't sure what to expect of this scent. This one is much more bright and sweet and fresh. It could easily be worn on a daily basis and doesn't feel the need to have a special occasion in order to wear it. I don't have a strong nose for all the levels of fragrance that this perfume has, but I can appreciate that there is some depth to the smell. The notes are well balanced. The only thing I can't speak to is the lasting power. I'm a teacher and can't wear perfume to work so I haven't been able to give it a satisfactory wear test. I do love the packaging of this perfume and kind of enjoy the way it lays on the shelf."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, Light skin tone, Oily skin",
+			"review_text": "This is a great product! I love the smell and it lasts for a good amount of time! The bottle is also very pretty to look at and I like that I can see how much is left. I am so happy that I got this from influenster for review purposes."
+		},
+		{
+			"review_title": "Great for special occasions",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, blonde hair, Combination skin",
+			"review_text": "I received this product to try for free from Influenster. This perfume has floral notes, but also has a hint of fruit. While floral/fruit scent can sometimes be cloyingly sweet, this perfume strikes a perfect balance. It’s great for a special date night or a big event"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "I enjoyed wearing this perfume. It made me feel elegant, attractive, and empowered. However, the scent was quite strong, too much for my liking. Although it was nice that it lasted all night. I wore it for a couple of nights out! I’d definitely give it another try.  I received this free product from Influenster in exchange for my honest opinion (Incentivized)"
+		},
+		{
+			"review_title": "This smells amazing!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+			"review_text": "I got this product for free to try and I have to say this smells incredible! This is one of the best perfumes I’ve smelled! It’s sweet, but it’s mature, it’s wonderful. It’s long lasting, but not too strong at the same time. I’m usually very sensitive to smells so strong swelling perfumes sometimes make me nauseated, but this perfume is very soft when you’re wearing it. I’ve gotten so many compliments on this perfume you must try this out for yourself !"
+		},
+		{
+			"review_title": "Glamorous",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+			"review_text": "This is the second Paco Rabanne perfume that I've had the luxury of trying, and neither disappoint! Thank you Influenster!   I am always getting compliments wherever I go!  10/10 recommend!!! Add some luxury to everyday with this perfume!."
+		},
+		{
+			"review_title": "Luxurious and versatile perfume",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Lady Million comes in a very luxurious packaging and its scent is long lasting and absolutely delicious (not too strong or overpowering) perfect for a romantic night out or a girls night out! This perfume is very versatile I definitely recommend it"
+		},
+		{
+			"review_title": "mature and spicy - perfect for an autumn night out",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Olive skin tone, Combination skin",
+			"review_text": "Like all Paco Rabanne fragrances, Lady Million is very luxurious, from the packaging to the scent itself. I found this fragrance to be very neroli-forward (at least on me). This gives it a very mature smell in my opinion so it's not typically a scent I would go for. However, the intensity of this fragrance really allows for it to fade into a much sweeter scent by the end of the day so I will usually apply a very light layer to my chest and wrists right out of the shower. This is definitely more of a fall/winter scent. It's warm and inviting and seductive. Layering it with a fruitier scent would make it more wearable for the summer/daytime."
+		},
+		{
+			"review_title": "Day or Night",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, Combination skin",
+			"review_text": "Full disclosure I did receive this product free on Influenster. Now that that’s is out of the way, I really did like this perfume. The perfume starts out quite strong but don’t worry it mellows out into a soft playful scent that can work throughout the day or a light subtle fragrance for the evening. Love the packaging but not a perfume you’d take with you on the go. I feel like this scent would suit anyone who wears it and would adapt to the under-notes of your natural scent, my mother tried it and it smelt more woodsy on her however it smelt more fresh and floral on me. Would definitely recommend anyone try this."
+		},
+		{
+			"review_title": "Amazing",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Combination skin",
+			"review_text": "The Rabanne Lady Million Eau de Parfum smells amazing. The bottle is so pretty and the scent lasts a long time. I got this product from #influencer for my honest review."
+		},
+		{
+			"review_title": "Femininity, Luxury and Elegance!!!!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "This perfume exudes elegance, luxury and femininity! I feel extra soft and elegant when wearing and it lasts for hours! The bottle is beautiful and its scent is the perfect mix of sweet, fresh and floral for everyday wear. With nodes of patchouli, honey and gardenia it’s very easy to layer with any other vanilla or sweet scent! Personally, I love pairing with vanilla and rose lotions.  I’ve worn this scent to school, to work and at social outings and receive lots of compliments. I would definitely wear it again!! I received this perfume in exchange for my honest review; incentivized."
+		},
+		{
+			"review_title": "Been my go to since I received it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+			"review_text": "I personally had never smelled this perfume before recieving it. Its such a beautiful scent! Been reaching for it everyday, its not a deep scent like I thought but more citrus, soft and perfect amount of sensual. Its perfect for me! I received this for free to try."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "Un merveilleux parfum floral fruité Déjà une grande amatrice des parfums Paco Rabanne, je suis totalement sous le charme de ce nouveau parfum Lady Million qui est une petite pépite avec cette accord fruité et floral qui est parfaitement adapté à la saison printanière.  Un parfum très féminin et sensuel qui met en confiance.  J'aime énormément les notes de grenade et mandarine en note de tête et cette note de fond de musc qui se mélange à la perfection avec ce bouquet floral.  Sa tenue est super, il tient toute une journée sans perdre son intensité et j'aime beaucoup le sillage qu'il laisse derrière lui.  Mes amies ont énormément aimé mon nouveau parfum , je n'ai que des compliments.  Pour finir, toujours un packaging chic et magnifique avec ce gros diamant.  Je recommande absolument cette nouveauté si vous aimez les florales fruités, c'est mon nouveau chouchou pour les beaux jours."
+		},
+		{
+			"review_title": "Must have for a night out",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, Combination skin",
+			"review_text": "This perfume smells so good. I find the longer you have it on the better the scent gets. The smell lasts all day long. Floral/fruity scents are my absolute favourite. I would definitely recommend this to anyone that will listen and I will be re purchasing"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
+			"review_text": "I really enjoyed this perfume. It’s not overpowering but smells quite nice. Only thing I didn’t like is that it didn’t last all day like some of my other perfumes - feel like it only lasted a few hours. Would still recommend this fragrance."
+		},
+		{
+			"review_title": "A go to staple",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+			"review_text": "After having used this perfume for about a week i can confidently say this is one of those perfumes which lingers on clothes and has you staying fresh all day long."
+		},
+		{
+			"review_title": "Would definitely recommend trying!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, auburn hair, Combination skin",
+			"review_text": "I would definitely recommend this scent. It is an elevated scent that is youthful but also mature - great for those looking to elevate their scent from their teens without smelling too mature. It’s long lasting and as it fades, its notes get even more pleasant. It doesn’t overpower you but it is still a strong scent. It’s become one of my go to scents!!"
+		},
+		{
+			"review_title": "Beautiful Perfume!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "Absolutely love this perfume! It smells mature but is not too musky and keeps it young! The floral notes are beautiful and it dries down nicely! Projection and longevity is amazing as well!"
+		},
+		{
+			"review_title": "long lasting luxury",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
+			"review_text": "I received this product in exchange for my honest review. First and foremost, the packaging is absolutely stunning. Love the slight sweetness in scent and its longlasting. Overall, very impressed and would recommend as an everyday scent."
+		},
+		{
+			"review_title": "Neat bottle",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "I received this product as a free sample in exchange for my honest review. I love the design of the bottle, even if it sits a bit wonky next to my other perfumes. The scent is wonderful! It smells unisex to me. Being a darker perfume a little goes a long way. The scent lasts all day!"
+		},
+		{
+			"review_title": "LOVELY PRODUCT!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
+			"review_text": "I received this product as a free sample in exchange for my honest review. This perfume is awesome and long lasting! I adore the beautiful and luxurious packaging a lot. The scent is also really nice with a hint of sweetness. Definitely a must try!!!"
+		},
+		{
+			"review_title": "Luxurious and Floral",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+			"review_text": "This scent definitely fits its name. It has the kind of scent to it that immediately smells like money. This would be the perfect scent to match a high-end or designer aesthetic. Although it smells floral, it’s hard to place any individual scents. It doesn’t smell overpowering though - it’s not the kind of scent that would make me sneeze if someone walked by with it on.   Personally, I would prefer if they made one note stand out a bit more. Preferably, a specific flower.   I’m also not the biggest fan of the packaging. It looks a bit tacky with all the gold and the odd shape."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Love the scent and it is great for special occasions. It is long last lasting. The perfume is a little stronger than my usual than what I’m usually use to."
+		},
+		{
+			"review_title": "Leave you smelling rich",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Normal skin",
+			"review_text": "This perfume literally makes you smell like a million bucks. I’m not sure how else to describe it other than literally making you smell rich, literally like a million bucks."
+		},
+		{
+			"review_title": "new signature scent",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "this perfume is subtle but smells so good, smells super clean & light. i’ve gotten lots of compliments since i started wearing it regularly, found my new fave :)"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "First off, I love the bottle/packaging. It fits perfectly in the palm of your hand and has an easy push nozzle which dispenses the perfect amount of perfume to the desired area. It’s had a very elegant smell. It’s not too intense and very subtle. A beautiful sweet smell that works for an everyday use or for special occasions. When it finishes, it’s definitely one I’ll add to my collection"
+		},
+		{
+			"review_title": "My new date night Parfum",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Combination skin",
+			"review_text": "It smells absolutely Devine. It gives off a wealthy and sophisticated vibe and I am all for that. A Little definitely goes a long way and it is very long lasting."
+		},
+		{
+			"review_title": "Beautiful but strong",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+			"review_text": "This product has stunning packaging, and really beautiful fragrance notes. Personally I find it a little bit strong and cologne like so I wouldn’t wear it daily. But for special occasions I will definitely be using it."
+		},
+		{
+			"review_title": "Luxurious",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+			"review_text": "I receive this Paco Rabanne’s Lady Million perfurme from Influenster to test it and gives an honest review. The bottle is beautiful, it looks nice on display. The perfume is luxurious and floral which lasts all day.  In my opinion, this perfume could be a « special » it is a perfect special occasion or holiday scent"
+		},
+		{
+			"review_title": "Seductive women’s perfurme",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+			"review_text": "I receive this Paco Rabanne’s Lady Million perfurme from Influenster to test it and gives an honest review. The bottle itself is beautiful thanks to it’s diamond shape. The perfume has a sensual and luxurious style with also a sweet and floral side in the background. The scent lasts all day! In my opinion, this perfume could be a « special » perfume for dinner or event, but since I love wearing perfumes with a developed scent, this one suits me perfectly!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "I love this perfume and it stays for the whole day you can smell it🤍 it’s floral I highly recommend it! My new favorite perfume 🤍"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brunette hair, Medium skin tone, Oily skin",
+			"review_text": "I m so glad that i got my hands on this royal yet amazing fragrance. Thank you, influenster, for choosing me .. this fragrance is  vibrant and sensual. It lasts you for the whole day. Literally impressed the overall appearance or look of the bottle."
+		},
+		{
+			"review_title": "Warm, fruity, floral",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+			"review_text": "A warm fruity floral fragrance that is not overpowering. It also lasts for a day or two when sprayed onto a coat for. It's a good fragrance but not for me but only because I prefer more natural floral type fragrances. I really like the bottle though. It looks like a jewel and would make for a good-looking gift."
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+			"review_text": "The Lady Million perfume is a fresh floral Scent. The packaging is very attractive and eye catching. The scent is strong, would recommend for evening wear or as a going out scent."
+		},
+		{
+			"review_title": "Elegance in a bottle",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "This is such an elegant, seductive and sophisticated scent all in one. It’s rich and classic definitely a timeless scent that’ll become your new obsession. It’s long lasting and highly concentrated so you don’t need to overwhelm yourself and still smell great all day long. I’d recommend this for an evening restaurant date, a professional business meeting and for high profile events . I did recieve this product for free courtesy of influenster and paco rabanne in exchange for my honest opinion."
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+			"review_text": "It’s a very nice scent that’s not too light and not too intense. I was complemented on my perfume and asked what it was when I wore it. The smell does start off different and change slightly. It was also very long lasting. I received this perfume complementary of Influenster."
+		},
+		{
+			"review_title": "Really good !",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Oily skin",
+			"review_text": "So I got this complimentary from influenster and I was pleasantly surprised! I’m usually a fruit person when I comes to perfume but this smells amazing ! Definitely would recommend for a girls night out or even a date."
+		},
+		{
+			"review_title": "A perfect winter scent",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Fair skin tone, Combination skin",
+			"review_text": "A little goes a long way and the scent lasts all day without feeling the need to reapply. It’s a perfect winter scent and I’ve received a lot of compliments since I began to wear it!"
+		},
+		{
+			"review_title": "Smells incredible!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+			"review_text": "This scent is incredible. It is totally an everyday scent and it wears very well. I did not have to re apply all night. It’s a very soft and subtle smell but absolutely to die for! I got so many compliments while wearing it! It’s a new staple in my collection!"
+		},
+		{
+			"review_title": "Delightful fragrance",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Normal skin",
+			"review_text": "The sweet floral scent of this perfume is absolutely delightful and captivating and the scent is not too overpowering. I have been wearing this since I recived it and I am flooded with compliments daily. I love it’s versatility, as it can be worn day or night time, and for casual to special ocassions, a must-have in anyone’s fragrance collection! The cute diamond shaped bottle is a uniquely beautiful work of art.  The only downside I see in the perfume is that you may need to re apply after few hours to keep that wonderful scent journey."
+		},
+		{
+			"review_title": "Love it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "I love it so much even my mom who only has a taste for Arabian perfumes fell in love with it I highly recommend to buy it"
+		},
+		{
+			"review_title": "Femme fatale perfume",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brunette hair, Light skin tone, Dry skin",
+			"review_text": "I receive this product from Influenster to test it and gives an honest review.  The bottle is amazing, it's really unique and elegant with it's gold colour and shape of à diamond. The perfume smell remind me of a femme fatale. With is notes of flower, it smells fresh! Yet, i find that it has a mysterious and seductive side. I would recommended it to people that prefer a more mature scent. I wish it would last a bit longer! Over all this perfume is a great choice and i love it very much!!"
+		},
+		{
+			"review_title": "Loved it",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, red hair, Fair skin tone, Dry skin",
+			"review_text": "I received this from Influenster in exchange for my honest review. And holy wow. Is this fantastic. I am very picky with my perfume, but when I opened the box. Instant loved it. Wore it out and lasted all night! 10/10 recommend"
+		},
+		{
+			"review_title": "Scent of seduction",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
+			"review_text": "I recieved this Paco Rabanne's Lady Million product for free from Influenster and Sephora for my honest review.   My first impression was that it might be unisex because it has a masculine, woody scent. Which makes it mystical and interesant. It is a strong, long lasting smell on its own but not bothering, which i loved.  I feel like it is a perfum to be used in special ocassions only, because for everyday use it would be too 'provocative/seductive' and it would lose its mystery.  It is a scent that turns heads, exactly because you can not smell it everywhere.  They used the description flirty, I think it is more like a serious, grown and intoxicating smell not a fruity or playful one."
+		},
+		{
+			"review_title": "beautiful scent and bottle!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Dry skin",
+			"review_text": "I received this product for free from Influenster and I’m obsessed! The bottle is absolutely stunning to display with my other fragrances. The scent is fruity, floral, and sweet, perfect for an everyday fragrance. I found the scent to be VERY strong and long lasting— one spray was enough to last me throughout the day. It’s such a powerful and feminine perfume!"
+		},
+		{
+			"review_title": "My new obsession",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, Light skin tone, Dry skin",
+			"review_text": "To start with the packaging of this product is adorable!! The gold box it comes in is very eye catching but upon opening the packaging the perfume bottle is so cute. I found the scent very nice. It has a combination of floral and woody smell. It is not over powering which I loved and lasts a long time. This has quickly become my new favorite and I have received so many compliments on it."
+		},
+		{
+			"review_title": "Glam in a bottle",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Normal skin",
+			"review_text": "Note: This product was gift from Influenster and is  inventivitezed for my honest review.   Upon first glance, I felt drawn toward the bottle as its unique in design and very eye catching.  Dazzling.  The amber/ gold hue speaks royalty without being tacky.  The in packaging was my favourite part as it’s so sleek and is wrapped up like the perfect gift.   The scent is seductive, fixed with light florals but fresh.  It is a bit of a mature scent and not something that I would normally purchase, but I found that the scent was appealing.  (I am in my thirties and think someone in their fifties would wear this normally ). I I wish it lasted longer, that’s why I’m giving this only a four star review and not five.  Reapplication is needed throughout the day.   Overall I think this would make a great gift for someone who is mature, yet bold and knows what they want.  The scent is empowering and displays confidence, while being delicate at the same time.  True femininity.    After receiving the product, I researched the designer a bit and found out some information that I didn’t know.  Paco collaborated with a range of iconic fashion houses and designed costumes for films. Rabanne was also the recipient of several awards, including the Legion of Honour, which recognised his contributions to the arts and fashion. He was iconic and broke out in the 1960s and made his debut of fashion and world renowned fragrances.  Simply iconic.  Happy to have received this gift.   Thank you."
+		},
+		{
+			"review_title": "A seductive, sultry and mysterious scent!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Oily skin",
+			"review_text": "The perfume is perfect for the winter season as I tend to gravitate to more strong and prominent scents. This one gives a seductive, sultry and mysterious scent. The perfume kind of keeps me wanting more! I’ll definitely be using this a lot for the next few months. If I had to describe the scent, i’d say its a sweetish floral and perfect for people who gravitate towards Chanel or Dior or specifically for me, I think this gives off the same mature girlie vibe as Jo Malone - Rose and Peony which is also kind of on the strong side. So for those who like a more subtle scent, this prrfume may not be for you. This scent lasted a full day for me however it did slowly start to get weaker at the 4-6 hour mark, but it is definitely longer lasting than most! Quick disclaimer: I received this product as part of the Influenster VoxBox program."
+		},
+		{
+			"review_title": "love it!!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+			"review_text": "I received this for free in exchange for my honest review. it’s definitely one of my favourite perfumes i own now. it smells like a clean, floral scent with a bit of musk. it’s perfect for an everyday, go-to perfume."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Normal skin",
+			"review_text": "Love this perfume. I just got it and wow am I in love with it. It is just the perfect scent and a good staple perfume. I highly recommend this product and will be repurchasing!!"
+		},
+		{
+			"review_title": "Gorgeous and sweet and floral perfume!!",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+			"review_text": "This bottle is so luxurious and feels so elegant. This perfume is very sweet and floral. It is a great everyday scent! Personally I am not the biggest fan of sweet perfumes but if you do, I high recommend this!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, auburn hair, Light skin tone, Normal skin",
+			"review_text": "My experience with this perfume was that it smells sweet and floral, there are definitely notes of patchouli, and slight hint of raspberry or some sort of berry. The scent comes off delicate but a tad overwhelming in the first few minutes however it does end up settling in and becomes more subtle. I personally wouldn’t say that it fades as you shouldn’t have to reapply this throughout the day but it becomes less overwhelming and a much more enjoyable scent. The bottle feels and looks nice and unique which could definitely be a statement piece in someone collection.  Overall I enjoyed the scent after a while, definitely think it could be someone’s daily scent, but depending on how many sprays you use it could be overwhelming. I would purchase this after my experience wearing."
+		},
+		{
+			"review_title": "Not Groundbreaking but Still A Great White Floral",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+			"review_text": "I received this product for free in exchange for my honest review. With this perfume, don’t write it off at first smell, see how it develops overtime before writing it off. When I first sprayed it, the sweet honey and orange blossom was a bit overpowering for my taste and I was worried that it would be too sweet. Honestly, I didn’t like it during the initial spray, but once it settled and developed with my body chemistry, I’ve come to like it much more. It’s fresh, floral, feminine, clean, and warm. The honey is the main sweet note at first, but over time I was able to smell the hints of raspberry and lemon. The patchouli really rounds it out to give off a more mature vibe.   The perfume lasts quite long on me (8-10 hours) with a good projection and without being too overpowering. The one thing that I don’t like is the packaging. The lightweight material they use for the top of the bottle ruins the experience and classiness of the bottle in my opinion. I wish it was a heavier material, like the bottom. The perfume also doesn’t sit upright, but that’s not a huge issue for me.  It’s not a groundbreaking fragrance, but it’s one that is timeless and won’t go out of style. If you love white florals and clean musk, this is a good bet. Overall, I’ve really enjoyed this fragrance! It will definitely be in my rotation for nights out and as the weather gets colder."
+		},
+		{
+			"review_title": "Super luxurious- strong scent",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "First off I have to say, this packaging is EVERYTHING! You feel so lux having this in your hand! It has a nice weight to it and super sturdy. This perfume is a woody floral that lasts all day. The only reason I give it 4 stars is because it lasts actually too long."
+		},
+		{
+			"review_title": "Pretty Fruity Floral",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "The bottle of this perfume is so pretty I love the way it looks. This perfume is such a pretty fruity floral scent, I really enjoy it and it is so long lasting. It is strong I only need one spray and lasts all day"
+		},
+		{
+			"review_title": "My new everyday perfume",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Oily skin",
+			"review_text": "This perfume smells amazing! It smells mature but not too mature. And it’s light enough to wear every day without being too much or too strong. Definitely gonna confide to wear this perfume every day."
+		},
+		{
+			"review_title": "A new fav!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Light skin tone, Dry skin",
+			"review_text": "I was SO surprised at how much I loved this perfume. The packaging was so light I expected to be “cheap” and boy was I wrong. This has a nice sultry scent that isn’t overly floral. It has notes of amber, orange blossom and jasmine yet they all work in harmony for a great heady and sweet scent. The only downside is that for me when wear on my skin it wears off very quickly. However it does last longer when sprayed directly onto clothing. I am aware that skin ph plays a role in how long a perfume will last so I didn’t mark any stars off for that."
+		},
+		{
+			"review_title": "Sin duda alguna se une al top 3 de mis favoritos",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "Es perfecto ,recibí este producto completamente gratis por medio de #influenster y realmente me ha sorprendido es un aroma perfecto amoo los perfumes florales y este lo tiene todo logro percibir claramente notas como pachuli ,Gardenia ,me lo aplique por la mañana y por la noche aún lo seguía percibiendo definitivamente logró sorprenderme ,el empaque es demasiado bello y único ,es elegante"
+		},
+		{
+			"review_title": "Great date night scent",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Combination skin",
+			"review_text": "I received this product to test from influenster in exchange for a review. I was excited to try this as my husband has the cologne and it's one of his favorites. The packaging is beautiful but a bit akward due to the shape. My husband really liked the scent but a it was a bit out of my comfort zone. I usually wear  lighter scents but am hoping i'll get used to it. If not my husband said he'd wear it lol so I might lose it to him.  This would definitely make a great date night scent."
+		},
+		{
+			"review_title": "Nice but strong",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "It's nice a bit strong, but it's like walking through the cosmetics counter at a very nice department store. Pleasant, not objectionable, but not distinctive either. Generic upscale mall perfume.  Overall it’s a decent scent."
+		},
+		{
+			"review_title": "Nice floral scent",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Beautiful smell. I love this fragrance. It has such a nice floral scent that last quite long. I use it every day and also on special occasion. Additionally the bottle is beautiful and adds character to my things. Recommend it!"
+		},
+		{
+			"review_title": "Love it!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Fair skin tone, Combination skin",
+			"review_text": "I am OBSESSED with this perfume. The smell is so yummy and the packaging is the cherry on top! Would definitely buy this again!"
+		},
+		{
+			"review_title": "Pretty but strong",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+			"review_text": "The packaging is beautiful! The scent is nice but a bit too strong for me to wear as an everyday perfume. I would definitely wear it more on special occasions."
+		},
+		{
+			"review_title": "Really nice but strong!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Normal skin",
+			"review_text": "I am always looking for a new perfume to wear and since I love floral scents, I had a feeling I would enjoy this one.  It gives off a really war, floral smell with a great undertone of patchouli. Be prepared though, this is a strong perfume. One spray should last you a while. I will say this probably will not be an everyday perfume because it is really strong. It will however be great for those special occasions!   *I did receive this product in exchange for my honest review."
+		},
+		{
+			"review_title": "Smells like flower wherever you go",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Combination skin",
+			"review_text": "I love the floral notes that come out right when I spray it. It makes me feel sexy and confident the moment I spray it on. It does feel like a million bucks. There are some notes of peach and caramel in there so it makes it easy to put on for the whole day. One spray is enough for me as it can last for hours. I also like the gold colour and the diamond shape. It’s very elegant."
+		},
+		{
+			"review_title": "Light, floral and citrusy! A new fave!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "I’m very impressed with this perfume. I normally am the type to lean to fruity or musky scents but I really enjoy how light this perfume is. When I wear it, I feel fresh. It’s not too strong at all. I really pick up on the floral and citrus notes, like jasmine and orange, although it does have a sweeter smell to it. I would definitely recommends perfume! It’s a new favourite!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Dry skin",
+			"review_text": "Thank you to Influenster for sending me this perfume for free in exchange for my honest review! I do have to say that I'm a bit underwhelmed by Lady Million. While it does smell pretty, it doesn't necessarily stand out to me in comparison to other fragrances containing some of the same notes. The bottle is unique and easy to hold/spray, and the lasting power is decent. I'm just not sure that it will be one that I reach for all that often. If you enjoy gentle, floral fragrances this one's for you."
+		},
+		{
+			"review_title": "I received this perfume in an influenster. Great l",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Combination skin",
+			"review_text": "I received this perfume in an influenster. Great long lasting fragrance. One push is enough"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Dry skin",
+			"review_text": "Packaging is absolutely gorgeous! A piece you would want to display on your vanity. The scent is a heady floral that reminds me of a high end department store. Probably more suited to a more mature crowd. Lasts all day and into the night. Personally, I prefer a lighter scent for daily wear but this would be great for a night out."
+		},
+		{
+			"review_title": "GREAT SMELL AND CUTE BOTTLE",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "Anyone who likes fresh and strong perfumes I am sure you’re gonna love this so much. I always run away from sweet scented perfume and I was not sure that I am gonna like this or not. After opening the box I instantly fell in love with the packaging and shape of it. It definitely pass the vibe of the perfume that I always look for. I would recommend all my girlies to try this out and you’re gonna love it!!!"
+		},
+		{
+			"review_title": "Bold and chic!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, red hair, Combination skin",
+			"review_text": "I received the product Paco Rabanne Lady Million Eau de Parfum (VoxBox 4) for free from Influenster and Paco Rabanne in exchange for my honest review (incentivized). I was thrilled to receive this product, and instantly noticed the unique and chic packaging in line with other Rabanne products- gold and black being the bold colours. I found the bottle (shaped diamond like) only sits well on its side, rather from the bottom, which gives a unique look. The sprayer gives a light mist. It gives off different notes that are bold and slightly floral.   Personally, really enjoyed the scent when looking for a bold feeling. I will definitely use it again."
+		},
+		{
+			"review_title": "Sexy perfume",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, red hair, Medium skin tone, Oily skin",
+			"review_text": "The bottle is amazing and the smell is long lasting. Its very versatile so you can wear this perfume on any occasion. This perfume is my new addiction I love It so much. Thank you Influenster for sending this to me!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Dry skin",
+			"review_text": "Thank you to Influenster for sending me this perfume for free in exchange for my honest review! I do have to say that I'm a bit underwhelmed by Lady Million. While it does smell pretty, it doesn't necessarily stand out to me in comparison to other fragrances containing some of the same notes. The bottle is unique and easy to hold/spray, and the lasting power is decent. I'm just not sure that it will be one that I reach for all that often. If you enjoy gentle, floral fragrances this one's for you."
+		},
+		{
+			"review_title": "I received this perfume in an influenster. Great l",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, Combination skin",
+			"review_text": "I received this perfume in an influenster. Great long lasting fragrance. One push is enough"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Dry skin",
+			"review_text": "Packaging is absolutely gorgeous! A piece you would want to display on your vanity. The scent is a heady floral that reminds me of a high end department store. Probably more suited to a more mature crowd. Lasts all day and into the night. Personally, I prefer a lighter scent for daily wear but this would be great for a night out."
+		},
+		{
+			"review_title": "GREAT SMELL AND CUTE BOTTLE",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "Anyone who likes fresh and strong perfumes I am sure you’re gonna love this so much. I always run away from sweet scented perfume and I was not sure that I am gonna like this or not. After opening the box I instantly fell in love with the packaging and shape of it. It definitely pass the vibe of the perfume that I always look for. I would recommend all my girlies to try this out and you’re gonna love it!!!"
+		},
+		{
+			"review_title": "Bold and chic!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, red hair, Combination skin",
+			"review_text": "I received the product Paco Rabanne Lady Million Eau de Parfum (VoxBox 4) for free from Influenster and Paco Rabanne in exchange for my honest review (incentivized). I was thrilled to receive this product, and instantly noticed the unique and chic packaging in line with other Rabanne products- gold and black being the bold colours. I found the bottle (shaped diamond like) only sits well on its side, rather from the bottom, which gives a unique look. The sprayer gives a light mist. It gives off different notes that are bold and slightly floral.   Personally, really enjoyed the scent when looking for a bold feeling. I will definitely use it again."
+		},
+		{
+			"review_title": "Sexy perfume",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, red hair, Medium skin tone, Oily skin",
+			"review_text": "The bottle is amazing and the smell is long lasting. Its very versatile so you can wear this perfume on any occasion. This perfume is my new addiction I love It so much. Thank you Influenster for sending this to me!"
+		},
+		{
+			"review_title": "Beautiful scent and great decor piece",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+			"review_text": "If you’re looking for a scent that turns heads this is it! I’ve worn this perfume three times now and I have been asked the name every time! A perfect mix of fruity and floral, this is a beautiful scent."
+		},
+		{
+			"review_title": "Influenster Magic: Lady Million by Paco Rabanne",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Oily skin",
+			"review_text": "I was lucky enough to receive Lady Million by Paco Rabanne for free from Influenster, and I couldn't be happier! This fragrance is mesmerizing. The scent is a perfect balance of sophistication and allure, making it a must-have for any perfume lover. If you're looking for a captivating fragrance to add to your collection, I highly recommend giving Lady Million a try. It's a perfect scent for any occasion!"
+		},
+		{
+			"review_title": "Long lasting frangrance",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, Light skin tone, Dry skin",
+			"review_text": "I received this free from Influenster to test and I’m so glad I did. I love the scent so much. It’s strong, but not over bearing. The scent lasts all day on me. The bottle is cute to display as well. This will be my new signature fragrance."
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "Stunning bottle and scent! From the first spray, I loved it! It’s fresh but somehow still full at the same time. My mom is a Chanel perfume stan and is very particular about her perfumes, and even she loved it! A little goes a long way, and it lasts all day. The scent is perfect for the wintertime and can be worn day and night"
+		},
+		{
+			"review_title": "Exquisite Bottle & Scent",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+			"review_text": "I absolutely loved the bottle design and scent of Lady Million Royal! It was a beautiful take on a diamond, somewhat reminiscent of Versace's designs, but better. The floral scent was perfect for the days I wanted that delicate femme vibe. Thanks to Influenster for sending it my way to try."
+		},
+		{
+			"review_title": "Beautiful scent and luxury bottle!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Dry skin",
+			"review_text": "The box was basic so I didn't know what to expect inside. The bottle is so beautiful! initially I couldn't figure out how to set it down but then realized it sits at an angle. The scent is strong initially but evens out in a couple of minutes. it stays for over 24 hours and all I get are compliments!"
+		},
+		{
+			"review_title": "Beautiful scent and great decor piece",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+			"review_text": "If you’re looking for a scent that turns heads this is it! I’ve worn this perfume three times now and I have been asked the name every time! A perfect mix of fruity and floral, this is a beautiful scent."
+		}
+	]
+}

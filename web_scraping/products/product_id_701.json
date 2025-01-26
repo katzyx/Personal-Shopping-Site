@@ -1,0 +1,49 @@
+{
+	"product_id": "701",
+	"name": "Boss Bottled Elixir",
+	"brand": "Hugo Boss",
+	"categories": "Fragrance, Men, Cologne",
+	"price": 184.0,
+	"about": "Fragrance Family:Earthy & Woody.Scent Type:Warm Woods.Key Notes:Incense Essence, Vetiver Essence, Cedarwood Essence.Fragrance Description:Find your inner light with Hugo Boss Bottled Elixir, an elevated interpretation of modern masculinity. This confident, highly concentrated, ambery, woody fragrance for men features warm incense top notes, an enticing vetiver heart, and a base of cedarwood essence..About the Fragrance:Launched 25 years after Boss Bottled, Boss Bottled Elixir sees a fragrance icon reinterpreted with a vigorous statement, promising an immersive wearing experience. Crafted by the legendary perfumer Annick Menardo, this irresistible fragrance celebrates the reinvention of a contemporary classic.",
+	"ingredients": "Alcohol Denat., Parfum/Fragrance, Aqua/Water/Eau, Limonene, Linalool, Coumarin, Hydroxycitronellal, Citronellol, Cinnamal, Eugenol, Citral, Geraniol, Isoeugenol, Methyl 2-Octynoate, Ext. Violet 2 (Ci 60730).",
+	"how_to_use": "Suggested Usage:.-The scent of Boss Bottled Elixir is perfect for any occasion and intensified by the warmth of your own body..-Apply in the creases of your knees and elbows for a stronger, long-lasting fragrance. .-Use in combination with the Boss Bottled shower gel (sold separately) and the Boss Bottled deodorant spray (sold separately) for a more intense scent.",
+	"num_reviews": 3,
+	"overall_rating": 3.7,
+	"product_url": "https://www.sephora.com/ca/en/product/boss-bottled-elixir-P508042?skuId=2728806&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2833010-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "3.4 oz / 100 mL parfum spray",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2833002-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "3.4 oz / 100 mL parfum spray",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2833002-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "I dnt smell anything",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "Doesnt last long even tho i just sprayed myself with it !! I dont know i like strong perfumes and this one is just not it for me"
+		},
+		{
+			"review_title": "Obsessed",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+			"review_text": "Blind bought this for my husband for Christmas and I am sooo happy I did. This smells freaking amazing! Great projection and so much depth to it. It’s really such a sophisticated fragrance but still safe enough for daily wear."
+		},
+		{
+			"review_title": "SOTY 2023",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Combination skin",
+			"review_text": "Guys, if you want the best autumn/winter scent of the year, this is it. Deeply sweet, cedar pencil shavings. Frankincense and cardamom at the start, that are strong but smooth. When it softens to a lovely patchouli and cedar? Oh, it's just perfect. I have a good collection and this one has been used on repeat since I picked it up."
+		}
+	]
+}

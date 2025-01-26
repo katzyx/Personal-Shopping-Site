@@ -1,0 +1,579 @@
+{
+	"product_id": "482",
+	"name": "Crème to Powder Skin Foundation",
+	"brand": "Fashion Fair",
+	"categories": "Makeup, Face, Foundation",
+	"price": 55.5,
+	"about": "What it is:An opulent foundation that glides on like a silky cream and dries to a thin, elegant, second-skin powder finish..Coverage:Medium.Finish:Natural.Formulation:Cream.Best For:Normal and Oily Skin.Highlighted Ingredients:- Resorcinol: A skin brightener that helps fade the appearance of dark spots and even tone..Ingredient Callouts:Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan and cruelty-free..What Else You Need to Know:This creamy featherlight powder helps eliminate oil for smooth, natural-matte finish with buildable medium coverage. Vitamin C, turmeric, and resorcinol help improve the appearance of hyperpigmentation and uneven skin tones. These shades are designed for darker skin tones and normal to oily skin types.",
+	"ingredients": "-Bamboo Powder: Absorbs excess oil..-Green Tea Extract: Fights acne, soothes skin, and unclogs pores..-Vitamin C: Prevents sun damage and improves the appearance of wrinkles and dark spots...Diethylene Glycol Diethylhexanoate/Diisononanoate, Isostearyl Neopentanoate, Neopentyl Glycol Dicaprylate/Dicaprate, Tridecyl Stearate, Silica, Cellulose, Boron Nitride, Mica, Polyethylene, Kaolin, Bambusa Arundinacea Stem Powder, Ethylhexyl Isononanoate, Cera Carnauba/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Tetrahexyldecyl Ascorbate, Tridecyl Trimellitate, Hexylresorcinol, Isopropyl Titanium Triisostearate, Glycine Soja (Soybean).Oil, Glycerin, Curcuma Longa (Turmeric) Root Powder, Camellia Sinensis Leaf Extract. May Contain/Peut Contenir (±): CI 77891 (Titanium Dioxide), CI 77491, CI 77492, CI 77499 (Iron Oxides).",
+	"how_to_use": "Suggested Usage:.-Prep your skin with FF Fabulous Serum (sold separately) to create a poreless effect and effortless glide. .-For fuller coverage, use the applicator sponge to pick up the foundation and glide across the face from the center outward. .-For a second-skin effect, gently tap onto the skin and blend with your fingertips. .-For additional coverage, tap into the areas you want to help conceal or ease discoloration. .-Set areas prone to oil with FF Set It Loose Powder (sold separately) for a translucent, oil-free finish. .-Set with FF Iconic Pressed Powder (sold separately) for a more full-coverage finish and long-lasting wear. .-Keep your compact on hand for effortless, instant touch-ups on the go.",
+	"num_reviews": 68,
+	"overall_rating": 4.3,
+	"product_url": "https://www.sephora.com/ca/en/product/fashion-fair-creme-to-powder-skin-foundation-P476444?skuId=2712677&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2712677-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "Stormy Sand",
+			"shade_descriptor": "light with neutral peach undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476844-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Honey Child",
+			"shade_descriptor": "light with neutral undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476851-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Caramel Fresh",
+			"shade_descriptor": "light-medium with neutral warm undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476869-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Topaz Trophy",
+			"shade_descriptor": "light-medium with warm golden undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476737-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Brown Sugar Babe",
+			"shade_descriptor": "medium with warm golden undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476745-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Tawny",
+			"shade_descriptor": "light medium with cool red undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712685-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Fine Chestnut",
+			"shade_descriptor": "medium with neutral undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476752-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Rich Brownie",
+			"shade_descriptor": "medium with cool red undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476760-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Blessed Bronze",
+			"shade_descriptor": "medium with warm golden undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476778-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Suede Silk",
+			"shade_descriptor": "medium deep with neutral undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476786-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Mellow Mocha",
+			"shade_descriptor": "medium deep with neutral golden undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476794-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Sensuous Sepia",
+			"shade_descriptor": "deep with cool red undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476802-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Chocolate Darling",
+			"shade_descriptor": "deep with neutral golden undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476810-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Cherished Cocoa",
+			"shade_descriptor": "deep with neutral warm undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476828-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Black Brunette",
+			"shade_descriptor": "deep with neutral warm undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2476836-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Brown Blaze",
+			"shade_descriptor": "medium with cool undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712669-main-zoom.jpg?imwidth=465"
+		},
+		{
+			"shade_name": "Pure Brown",
+			"shade_descriptor": "medium deep with neutral cool undertones",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2712677-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "The best product ever-FF",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Normal skin",
+			"review_text": "I have been using Fashion Fair for many years you went away now you are back with brilliant,vibrant and alive colors.Topaz Trophy is perfect for me. Loving it."
+		},
+		{
+			"review_title": "Great buildable coverage",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Gray eyes, brown hair, Medium skin tone, Normal skin",
+			"review_text": "I would recommend going in store to test the colors, they look darker online, focus on your undertones when selecting a color. I absolutely love the creme to powder formula. It’s really breathable and doesn’t oil up on my skin. I am in my fifties and it doesn’t cake up in my creases, also I don’t need concealer with it, because the coverage is great!"
+		},
+		{
+			"review_title": "Not worth buying!  Use foundation stick instead",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+			"review_text": "I haven't use FF in almost 20 years so when I found out it was sold at Sephora I wasso happy to try out the foundation.  The shade was a perfect match however the creme to powder foundation was very hard to blend in because it dried faster than I could apply all over  my face.  I returned it and purchased the skin flex foundation stick and it works amazingly."
+		},
+		{
+			"review_title": "Fashion Fair Is back and better than ever.",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+			"review_text": "Love this foundation. It is a perfect match for my skin. Goes on so well. Looks great all day. I am glad Fashion Fair is back."
+		},
+		{
+			"review_title": "Shade match spot on",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "black hair, Combination skin",
+			"review_text": "The shade match is so so good. I love how it comes with different tones for the same shade. I only wish they come up with liquid foundation and concealers for these shades. Brown girl approved!"
+		},
+		{
+			"review_title": "Not inclusive shade range",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+			"review_text": "There are no fair or light shades? Maybe consider being more inclusive and release fair and light shades?"
+		},
+		{
+			"review_title": "",
+			"review_rating": 1,
+			"review_shade_purchased": "Blessed Bronze - medium with warm golden undertones",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "I was assisted by a Sephora employee with choosing the right shade but I’m not sure this is the correct shade for me. It’s has me looking orangish. I used to love this brand, now it’s a no for me."
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "Stormy Sand - light with neutral peach undertones",
+			"review_buyer_description": "Green eyes, blonde hair, lightMedium skin tone, Oily skin",
+			"review_text": "I have the stick version and adore the product. Would love to try the compact version BUT - but the shade range is so limited. Maybe this is a POC line and I was unaware - please extend shade range range!!"
+		},
+		{
+			"review_title": "Disappointing shade range",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, gray hair, Combination skin",
+			"review_text": "This company is setting themselves up for failure based on the shade range alone. Being a somewhat new brand that nobody knows about, they get only a few dozen reviews because they hardly have any shades for the majority of makeup customers. Bad business model and actually a bit r a c i s t tbh  Sucks they can claim to be an innovative brand and then only market to people with the darkest skin tones. Now 75% of the customers at Sephora will never get to try it unfortunately"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "Pure Brown - medium deep with neutral cool undertones",
+			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Dry skin",
+			"review_text": "Pure Brown is a beautiful color. Near perfect match for my hard to match skin color and undertone.  Love the finish. Covers everything. Purchased with my own money. Would buy again."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Brown Sugar Babe - medium with warm golden undertones",
+			"review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+			"review_text": "I love this foundation! It’s absolutely lightweight with good coverage, I tap it on with a sponge and it controls oil, makes my skin look smooth, and looks like actual skin too!! Complimentary from fashion fair cosmetics"
+		},
+		{
+			"review_title": "Natural lightweight formula & a beautiful finish",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+			"review_text": "I am loving this formula! It’s very lightweight with a beautiful natural finish. I love how a little goes a long way and it’s very long lasting on my combination skin. The formula is perfect for everyday soft glam natural looks and the coverage is very buildable. I was gifted by Fashion Fair Cosmetics, and I’m loving this formula so far!"
+		},
+		{
+			"review_title": "Wonderful color and texture, not enough coverage",
+			"review_rating": 2,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Medium skin tone, Oily skin",
+			"review_text": "The color was wonderful and the texture was great. It blended well with my skin, but it just didn't provide the coverage I was looking for. I returned. I think this would be great if you don't need a ton of coverage."
+		},
+		{
+			"review_title": "An Iconic Brand !",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Oily skin",
+			"review_text": "I bought this for my grandma who is in her 80s. She has been using this brand since the 70s. It's nice that this brand has grown over the years and is still available for those who have been loyal customers for decades."
+		},
+		{
+			"review_title": "Flawless",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Combination skin",
+			"review_text": "First foundation I have bought that gives me confidence. It makes my skin look flawless without caking."
+		},
+		{
+			"review_title": "based on the ￼ condition, I received it",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "My rating is more based on the shape my product was in when received. my closest Sephora store is one hour and a half away when I receive my product the seal was missing There were fingerprints in the foundation like someone tested it out, and I really hate to return items Back through the mail 🙄"
+		},
+		{
+			"review_title": "LOVE IT!!!!!! THANK YOU FASHIO FAIR!!!!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "",
+			"review_text": "I ordered this product in a shade darker and decided to try again and ordered Topaz Trophy. Oh my God! I LOVE IT!!! it blends so well and with the Fashion Fair primer, it goes on so smooth and light. I have to look close to see where the makeup is because it blends so well.  Please do not discontinue this shade or this product Fashion Fair or Sephora.  I have worn Fashion Fair for years and I am so glad they are back to help women of color have a makeup that stays true to their tones.  i love it i love it!!!!!!!  You will not be disappointed.  Plus it is lightweight and stays all day!  No smudging off on clothes, nothing. This is all I will wear from now on.  It may not last as long as some products but it is well worth buying repeatedly."
+		},
+		{
+			"review_title": "Welcome Back",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, gray hair, Tan skin tone, Dry skin",
+			"review_text": "I am an ole school FF user.  Glad to see their return.  When ordering without testing, there is a high chance of the wrong color.  I was pleased with the color I chose.  But, I am ordering one more darker than the one I received.  Then I will be satisfied of my selection.  Welcome back."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, gray hair, Tan skin tone, Combination skin",
+			"review_text": "Wow. I love this! My mom used to use Fashion Fair back in the day. I’m sorry to say I’ve never used it until now. The color looks really red, but it blends nicely once applied. I applied with a blush. You have to be careful because you can’t really tell if you’re applying to much because color matches so well. I watched a couple of YouTube videos on this and the influencers said the same. But once it’s applied, it’s such a smooth, natural finish. My skin is combo and it held up about 6 hours. This will definitely be my everyday makeup. I like a light coverage, barely there look where I put in one layer and I’m done, so I can’t speak on if it’s buildable. I’m very impressed with this."
+		},
+		{
+			"review_title": "A perfect match",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Dry skin",
+			"review_text": "I love this creme to powder foundation. It’s super blendable and makes my complexion look flawless! It’s also buildable. The shade is so perfect and matches perfectly! This is definitely my fave."
+		},
+		{
+			"review_title": "Light as a feather!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Combination skin",
+			"review_text": "I have been using this product for a while now and still to this day my face feels light and glowing. I like people can't tell that I am wearing makeup at all. I like how it blends into my skin and how I choose the right shade. It doesn't take a lot to put on your face. I also like the value and quality of the product. I have replaced my normal make up with this amazing product. I love everything about it."
+		},
+		{
+			"review_title": "Great make up",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+			"review_text": "Received this and I was shocked as I never heard of this brand. The makeup lasts for approx 4-6hrs depending on the climate condition you are in and how active you are. It goes on smoothly, does not interact badly with my face which can get oily at times. One thing is that it transfers a bit easily onto clothes so be careful about that."
+		},
+		{
+			"review_title": "Beautiful, buildable true cream foundation!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Oily skin",
+			"review_text": "I love a cream foundation and good ones are few and far between it seems, until now! I ordered this on a whim and based on the multiple good reviews, but really wasn’t sure what to expect. I am so glad I trusted my gut and  tried this bc I absolutely LOVE it!! It blends/melts into the skin as provides a beautiful buildable coverage"
+		},
+		{
+			"review_title": "",
+			"review_rating": 3,
+			"review_shade_purchased": "Fine Chestnut - medium with neutral undertones",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+			"review_text": "Fashion Fair is one the first foundations I tried back in the day. I noticed they came back out and with a new formulation. I wanted to give it try; however I am not a fan of the new formulation or the new compact. A white compact? For a foundation?. I’m sure this would be a good product for some people, particularly ones with oily skin. I personally couldn’t find a good color match and I also did not like the way it sat on my skin (even with primer… btw I have oily skin). It just wasn’t a good fit for me."
+		},
+		{
+			"review_title": "Hard to blend",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+			"review_text": "The sponge that it comes with is absolutely useless. I like the coverage but it’s really hard to blend and comes off easily."
+		},
+		{
+			"review_title": "Don't Call it a Comeback!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Combination skin",
+			"review_text": "I am so glad Fashion Fair re-emerged onto the scene! The line is iconic and historical but the most important part is the chemistry...it's an answer to my middle-aged prayers! The color is on point and I've been searching for this glow and match for almost a decade.  I outgrew MAC because of its matte finish and mismatch of my complexion. Other foundations felt too heavy and the coloring still didn't quite match up.  I love everything about this formulation: the weight, the coverage, the color!  And it is everything I remember my aunties enjoying!"
+		},
+		{
+			"review_title": "Flawless Oil-free Buildable Coverage Foundation",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Rich skin tone, Dry skin",
+			"review_text": "For those who are possibly new to makeup or have been living under a rock, Fashion Fair is back and they absolutely did not disappoint. This rebrand is everything that we needed and more. Back before there was such a major push for inclusivity in the beauty community, FF was my go to in all things complexion. Being super melanin infused, I had a difficult time finding brands that catered to my deep skin. FF understands that undertones matter and offers up a nice range of shades. In addition, this formula is everything. If I want a smooth, medium-to-full coverage look QUICKLY, this is my go to. Not to mention, I get the most compliments on my base when I’m out with this on. It’s not drying and looks natural. It also doesn’t cause me to look oily. I.  Love. This. Product. So happy this partnership with Sephora happened so I can buy one of my fave products AND earn my points."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Brown Sugar Babe - medium with warm golden undertones",
+			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+			"review_text": "For many years I have used Fashion Fair powder, foundation, and lipstick. So glad they are back since both Ebony and Fashion Fair cosmetics were no longer available. Thank you for them now."
+		},
+		{
+			"review_title": "Not My Match",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
+			"review_text": "I really wanted this foundation to work but the undertone was not right for me. I have very yellow undertones, so the neutral peach did not blend well lol.   The foundation is nice though and looks very natural. It melts right into the skin while being oily skin friendly! As someone who is very acne prone I did not have any issues with breaking out. I would say it has light to medium coverage. It's very buildable without looking cakey."
+		},
+		{
+			"review_title": "Perfection for Foundation Haters!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Dry skin",
+			"review_text": "If you, like me, despise the goopy feeling that is most foundation, look no further!!  This is shade perfection:  not too red, not too neutral.   But the best thing about it is the texture.   It is like wearing absolutely nothing.   It corrects without ever looking or feeling like an over-painted mask.  It can be used at any time of the day to buff down shine and you stay looking natural!  I have vowed that I will never be without this product and will be buying another to have on hand.   FF you absolutely nailed it.   Thanks Sephora for having our backs!!"
+		},
+		{
+			"review_title": "EXACT MATCH ON THE FIRST TRY",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Dry skin",
+			"review_text": "There are so many things that are PERFECT about this: 1. the color is an exact match 2. the finish looks like natural skin 3. it comes with an applicator (sponge) that actually works.  No need to buy a brush or beauty blender 4. compact is portable and has a separate compartment for the sponge 5. compact includes a mirror 6. it is simple and tidy to use: no drips, no powdery fallout, no mess! 7. a beginner (or a pro) could use this easily 8. minimal frustration free packaging, just a paper box that you can recycle 9. odorless-no perfume or chemical smells 10. medium coverage that you can layer on if you want heavy coverage  I am a 40-something Indian woman.  This is now my #1 foundation.  I highly recommend it!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Brown Sugar Babe - medium with warm golden undertones",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "I cannot explain how good this foundation is.  Brown sugar babe matches my skin perfectly.  Its light and very skin like with good coverage.  Im so impressed.  Gosh I hope they don’t discontinue this line."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Caramel Fresh - light-medium with neutral warm undertones",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+			"review_text": "The colour matching is perfect. The texture is like a second skin and the powder finish is like airbrush on my skin. The formula feels non-existent on my skin after application and the coverage is amazing."
+		},
+		{
+			"review_title": "Glad to see Fashion Fair is back",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Oily skin",
+			"review_text": "For anyone who gives this foundation a bad name, you don't know what you are talking about. Fashion Fair is improved and the shades are even lovelier than they were before.   One thing I did notice though is that when I click on My Shade on Sephora.com, the picture is not consistent with what's on the Fashion Fair website. This needs to be corrected so that there is no confusion for customers shopping on Sephora.   Regardless, the shades are gorgeous. Love love love to see that our darker hued sisters are well taken care of.   Will now always make sure I purchase my Fashion Fair for all my beauty needs.   Thank you Sephora for carrying this iconic, historic brand."
+		},
+		{
+			"review_title": "Better than ever!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "I honestly was inspired to take a new look at the re-launch of Fashion Fair after viewing the excellent, recent documentary on the brand. I first tried/wore FF as a 15-year-old back in 1978. I loved it then and I’m thrilled to say that this Crème to Powder Skin Foundation covers beautifully, smoothly and evenly, I love it even more. Welcome back!"
+		},
+		{
+			"review_title": "Bring back originals",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+			"review_text": "Weak coverage, too expensive, mit as good as the original foundations."
+		},
+		{
+			"review_title": "Fashion Fair for the Win!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "I absolutely ecstatic FF have returned.  My mother and aunts used FF for years.  I remember seeing the products on their dressers and vanities and in their purses.  I began wearing FF my freshman year in college until it was no longer available a few years ago.  With very sensitive skin, FF is a winner!  Ms Porshe at the Springfield Mall (Virginia) FF counter would always be my POC for any questions or needs.  Full coverage make-up to cleaning regiment, FF is the product for you and your teen girl.  God bless the product. I needed this.  I'm waiting on the Toner and moisturizer to make a comeback. #creme2powder"
+		},
+		{
+			"review_title": "Feel and look Beautiful!!!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "Oh my God!!!   I feel and look beautiful again!!   Thank you Fashion Fair for bringing class and beauty back to women of color!!!  Cream to Powder, the best!!!!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "Stormy Sand - light with neutral peach undertones",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+			"review_text": "I really like the coverage and finish of this foundation. I got the lightest shade but it’s still a little dark for me. I hope the brand extends their shade collection so that I don’t have to mix it with another foundation to get it to match my skin."
+		},
+		{
+			"review_title": "Creme to powder foundation",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, auburn hair, Deep skin tone, Combination skin",
+			"review_text": "Have always loved your creme to powder. The only company that I know who sells this. Great coverage, look on me, and quality."
+		},
+		{
+			"review_title": "Amazing skin like coverage !",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+			"review_text": "I was beyond excited when I heard Fashion Fair would be relaunching. Fashion Fair is such an iconic brand to me;one of the first brands that truly catered to poc and one used by many women in my family. I have combination skin and tend to breakout. I also have hyperpigmentation to cover. I chose to try this formula first because I enjoy and use other cream to powder foundation formulas; I love the look of creams but since I have an oily t zone, require that slight powder finish to keep my skin from looking too shiny. Firstly, I love the packaging! It looks and feels so luxurious and has a great mirror and a sponge for touch ups or application. The size and packaging also makes it perfect for travel. This formula is AMAZING! It applies like silk; it is not too stiff but also not too emollient or greasy/waxy. I prefer to apply it with a dense kabuki or angled foundation brush. It applies easily and smoothly and looks like my skin but better! I would say I can get a solid medium to almost full coverage, as my hyperpigmentation is easily covered but some of my darker marks peek through just a bit. It lasts all day and with a good setting spray there is minimal transfer onto my mask. I’ve been using this foundation for about a month now and am happy to report it didn’t break me out. I also love that this and the other new products have skincare focused ingredients in them. I tend to choose foundations with neutral undertones so I originally chose caramel fresh; but for some reason it pulls slightly warm and honey child was too light. I eventually chose topaz Trophy. While it matches well shade wise,  the undertone is slightly too golden, so I use a more neutral tone concealer or a bit of the caramel fresh foundation stick (which is more neutral and better matching than its cream to powder counterpart) to even the color match out. Overall this is a great foundation for everyday skin like coverage."
+		},
+		{
+			"review_title": "love just like skin!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "Love this product! Really gives u a real skin finish!!!"
+		},
+		{
+			"review_title": "It's ok",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+			"review_text": "Coverage not as good as original Honey. Previously in the glass jar you had more make up that would last over6 months, now they put it in a compact. Not sure it will last 3 months. Disappointed regarding this issue. Bring back all original shades."
+		},
+		{
+			"review_title": "perfect natural finish match & long wearing",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Tan skin tone, Combination skin",
+			"review_text": "I absolutely love this foundationl. It blends into my skin seamlessly and is my perfect match. Gives off such a smooth yet skin like finish and lasts well into the wee hours of the night. In fact, for me, it actually gets better as it wears longer on my skin. Pairs perfectly with my Pat McGrath, NARS & MAC concealers and I can dial up or down the coverage to my liking. 10/10, would recommend!"
+		},
+		{
+			"review_title": "Flawless finish",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+			"review_text": "This product gives a smooth flawless natural finish. I have to build it up to full coverage, but that’s no problem. The finish is not cakey whatsoever.  I set it with the FF pressed powder. I use the FF loose sometimes. It’s so natural looking and I get compliments on my skin.  I set it with a setting spray, it’s just awesome.  I’m a longtime user of FF. I’ve never been disappointed.."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Fine Chestnut - medium with neutral undertones",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "I love it. I have been waiting for this foundation to return. I believe that it's better than before!"
+		},
+		{
+			"review_title": "colors look the same",
+			"review_rating": 1,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, auburn hair, mediumTan skin tone, Combination skin",
+			"review_text": "I bought trophy topaz cream to powder, it was dark. The next color I bought was Carmel fresh. It actually seems like the same color. I’m not sure what to think about this new FF. I used to use this brand back in the day so I know how it used to be. I’m actually not impressed. The color shades are very limited. I think they should have put more into the research before putting the products out. However, it shouldn’t be so hard considering as many different shades that FF used to make. I do understand the owners are different but they should still have the formulas that were used to make an old product into a better product if needed. Yes there were things that needed to be changed but this is crazy. I may try one more shade if I can't find anything it's cool!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 1,
+			"review_shade_purchased": "Brown Sugar Babe - medium with warm golden undertones",
+			"review_buyer_description": "Deep skin tone, Combination skin",
+			"review_text": "I used fashion fair 22 years and gave you a flawless look and silky feel.This is not the original cream to powder fashion fair the formula has changed tremendously. It feels cakey and dry. I applied 2 applications and the coverage is very poor. The names of the foundation has changed no way to a color match. I had to order 2 different shades and neither one is a match now I have to return them both. Bring back the original formula and shades. Please and thank you!"
+		},
+		{
+			"review_title": "I LOVE IT!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+			"review_text": "This is an excellent product! I normally wear 410 in Fenty and Macao in Nars Sheer Glow. I took a chance ordering online and the shade match was perfect. This foundation provides a truly natural, beautiful finish. I’m so glad that Fashion Fair is back."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+			"review_text": "Not sure when Sephora brought FF to the store, but I am so happy. I picked up the Crème to Powder foundation. I love it. The color is beautiful. It melts into my skin which is an oily combination skin. It’s not heavy but enough to even skin tone with the lightest touch.  I use a foundation brush.  I started my makeup journey with FF. Very happy to see updated formulas that are just right."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "Stormy Sand - light with neutral peach undertones",
+			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Normal skin",
+			"review_text": "This is the BEST foundation, so easy to apply and looks so natural.  I LOVE it!"
+		},
+		{
+			"review_title": "Perfect for my combination skin",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+			"review_text": "After reading and watching a few reviews, I decided to purchase this foundation. I grew up seeing the women in my life wear Fashion Fair and I wanted to give it a try now that they are back. Though I am partial to liquid foundations, this Créme to Powder foundation provides me everything I look for in a foundation. Its medium coverage but gives my skin a my skin, but better finish. It's perfect for my combination skin; it helps keep the oily areas at bay but provides enough moisture for my drier areas. After wearing it for 9 hours, my skin looks just as good as it did when I first applied it."
+		},
+		{
+			"review_title": "She's back!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Oily skin",
+			"review_text": "No way! As a kid, I thought Fashion Fair = Makeup. So glad to see the brand make a return. The color is spot-on, the coverage perfect, as long as I don't overdo it. Also, had to laugh that the person also reviewing self-tanners is upset about the return of what was once just about the only readily-available line of cosmetics for black and brown women. That's ... *chef's kiss* ... rich!"
+		},
+		{
+			"review_title": "",
+			"review_rating": 4,
+			"review_shade_purchased": "Mellow Mocha - medium deep with neutral golden undertones",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "I was very excited to try this product as Fashion Fair was such an iconic brand for deeper skin tones. The shade I picked up is described as medium deep w/ golden neutral undertone. When applying, I did find it to be slightly red, but once it set and I added my other face products, the shade matched well. This is very easy to apply, especially if you have used a cream to powder foundation before. I have oily skin, so I always set my foundation. This foundation lasts well for about 5hrs, and then I need to touch up due to oils coming through. I tend to apply with a Sonia G or BK Beauty foundation brush and set with their pressed powder. It’s definitely a solid foundation that is buildable with a powder like finish."
+		},
+		{
+			"review_title": "Always a Fan of Fashion Fair!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+			"review_text": "I have always used Fashion Fair and tried to find other brands to work. Unfortunately, I was unable to find a brand I actually liked. I am so happy and excited that Fashion Fair is back and it’s at Sephora.  This color matches my skin so well and it looks so natural."
+		},
+		{
+			"review_title": "Most beautiful foundation release of the season!!!",
+			"review_rating": 4,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+			"review_text": "I had to take a moment to talk about the Crème to Powder Skin Foundation. I am so excited about this relaunch. It is a great addition to my makeup collection. The formula is so velvety soft and by no means is it a matte formula….as least not to me. It does not have that suck the life out of your face feeling like most matte formulas.  It looks beautiful on the skin. I did have a bit of a problem with it settling into my smile lines. But with the right primer or setting spray I am sure it will work fine. Head on over to my youtube channel Keeping It Simple with Bridget for more deets on this beauty!"
+		},
+		{
+			"review_title": "Oil controlling with a satin matte finish",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+			"review_text": "I'm glad that I got in on this foundation.  The colour match is excellent.  I'm about a Gucci 410W and a Fenty 420.  It goes on medium coverage and is buildable to full.  I'm an oily skin person though it's calming down to combination with age, I guess.  This lasted all day without fading and, contributed to controlling my oils.  The finish appears like a satin matte finish."
+		},
+		{
+			"review_title": "updated and gorgeous! the icon is back!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Combination skin",
+			"review_text": "The icon is back! the new creme to powder is great! the shades have been reformulated so there is no orange undertone. There is no fragrance and the names changed but the great shade match is still there. My makeup was easy to apply and felt wonderful to the skin. It gave a great natural finish. They nailed the undertones.  I got several compliments the first day. Don't sleep on this, ladies! give it a try. It is not your grandma/aunt's Fashion fair--it is updated and 21st century gorgeous!  My only quibble is that the Sephora stores in my area are only carrying the lipsticks so far. I ordered online but many women will need to try the shades in person( I was able to match my legacy shade from the brown packaging on the Fashion fair website). I live in an area that has a high percentage of POC so not having the foundation available to match is not good. Sephora--please do better! I think plenty of old and new customers would try Fashion fair's new products if they could try it out."
+		},
+		{
+			"review_title": "Totally Shook!! Perfect for Bone Dry Mature Skin",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, auburn hair, mediumTan skin tone, Dry skin",
+			"review_text": "When I saw that Fashion Fair creme to power was making a comeback, I was super excited!! This was on of the first foundations that was made for women of color. I really love the new formula. Back in the day it use to oxidize on me and make me look orange. Not this one!! I think its great and I didn't need to set it! I did a full review on my Youtube Channel. Head on over to NeeCJae if you like. I have very dry skin and I had no problems with it feeling tight or flaking. Nothing!! I absolutely love it!!! Thanks Fashion Fair for making a come back! One of my New Favorites now!!"
+		},
+		{
+			"review_title": "great match colour  foundation",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "WOW!! Great product and finish. Literally melts in your skin. I’m a 390 in fenty. Must be used with a primer though. I used smash box primer."
+		},
+		{
+			"review_title": "wanted to love it",
+			"review_rating": 3,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Dry skin",
+			"review_text": "this is beautiful on the skin. but it is not for me. the shades for this formulation are extremely warm and totally different from the stick foundation...this provides a beautiful skin like finish but gets extremely oily. I prefer the stick formulation over this"
+		},
+		{
+			"review_title": "Perfect!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+			"review_text": "I was a little nervous to try this foundation because my skin is oily and I always end up looking like an oil slick at the end of the day with cream products. This foundation changed the game! The finish is beautiful and I had very little oil breakthrough. Also, this shade it perfect. It literally melted into my skin. I think I’ve finally found my perfect foundation."
+		},
+		{
+			"review_title": "Perfect shade match..looks like skin",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+			"review_text": "Wow, the shade of this foundation is one of the greatest match up ever ! I wear 400 in Fenty and my match was Fine chestnut, I had also picked up brown sugar babe for my winter shade. It is a very lightweight foundation so you would need to conceal blemishes and dark spots, it is perfect to wear everyday and it is an easy travel. Of course, like any other foundations it transfers and for oily skin ladies like myself it does tend to get oily in my T-zone. Overall I do recommend this to all my medium-deep women...hopefully they come out with more shades for the rest to try out."
+		},
+		{
+			"review_title": "beautiful finish foundation that feels lightweight",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, blonde hair, Deep skin tone, Normal skin",
+			"review_text": "This is a lovely foundation. I use my Sephora Pro foundation brush to apply it in order to create a light-medium coverage. the foundation doesn't even move when I use my Pat McGrath Concealer 31 under my eyes (to brighten). in addition it does not love when I've used my Becca Ignited liquid highlighter and the Milk Cosmectics liquid blush shade Beyond. the coverage lasted about 6 hours. when I've went to one of my local Sephora stores I've received sooo many compliments. thank you Fashion Fair for catering to deep/dark skins tones in such a lovely way!!!"
+		},
+		{
+			"review_title": "Still flawless",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+			"review_text": "I Have worn fashion fair most of my life and was upset to see it go. I am glad to see that they have returned.  For those that used pecan i ordered blessed bronze with neutral undertones.  Its perfect.. im ready for them to release some eye shadows as well."
+		},
+		{
+			"review_title": "I Did Not Expect This...What A Beauty!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Green eyes, black hair, Tan skin tone, Dry skin",
+			"review_text": "Nostalgia led me here! I did not expect to fall in love, but I did. What a beautiful foundation this is. It It is smooth, seamless, the color is spot-on and it does not settle into fine lines or pores. I went into Sephora with the intentions of buying the SkinFlex Stick (I will still purchase it later), but the Associates at Sephora all agreed that this 'Creme to Powder' formula looked more beautiful on skin. My face looks so healthy and flawless. I am going to buy a backup for sure. Although it feels extremely lightweight on the skin, I do find it to be medium coverage as stated. Buy it!!!!"
+		},
+		{
+			"review_title": "Welcome back, Fashion Fair!",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, gray hair, Medium skin tone, Oily skin",
+			"review_text": "Fashion Fair is BACK! This is a beautiful formula that’s so easy to apply and wears all day. Classic “cream to powder” that looks fresh and smooth, not cakey at all. Highly recommend!"
+		},
+		{
+			"review_title": "Bravo! Beautiful products, great brand.",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, brown hair, Tan skin tone, Normal skin",
+			"review_text": "I am ECSTATIC to see what I grew up watching the beauty line my Mom used every day! Bravo to Sephora for making good on the promise of greater inclusivity. And hands up to Fashion Fair - STILL standing & beautiful."
+		}
+	]
+}

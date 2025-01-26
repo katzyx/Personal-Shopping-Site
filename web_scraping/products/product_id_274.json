@@ -1,0 +1,37 @@
+{
+	"product_id": "274",
+	"name": "Correcting Cream Veil",
+	"brand": "Clé de Peau Beauté",
+	"categories": "Makeup, Face, Face Primer",
+	"price": 115.0,
+	"about": "What it is:A multi-benefit makeup primer that visibly perfects and protects skin for a radiant foundation finish..Skin Type:Normal, Oily, Dry, and Combination.Concerns:Oil, Pores, and Uneven Skin Tone.What Else You Need to Know:This primer quickly diffuses the appearance of dullness and addresses skin’s imperfections. It amplifies foundation finish for long-lasting wear that resists oiliness and creasing. Correcting Cream Veil hydrates and visibly smooths fine lines and dry areas. It also protects against daily damage with SPF 21..Clinical Results:In a test of 99 women aged 19 to 50, from October 2 to November 1, 2018:",
+	"ingredients": "Water (Aqua/Eau)･Dimethicone･butylene Glycol･isohexadecane･glycerin･alcohol Denat.･Polymethylsilsesquioxane･peg-9 Polydimethylsiloxyethyl Dimethicone･ethylhexyl Methoxycinnamate･titanium Dioxide (Nano)･Nylon-12･titanium Dioxide (Ci 77891)･Triisostearin･disteardimonium Hectorite･cetyl Ethylhexanoate･silica･erythritol･xylitol･isodecyl Neopentanoate･phenylbenzimidazole Sulfonic Acid･triethanolamine･trimethylsiloxysilicate･isostearic Acid･phenoxyethanol･aluminum Hydroxide･stearic Acid･disodium Edta･iron Oxides (Ci 77492)･Trehalose･bht･iron Oxides (Ci 77491)･Polysilicone-2･fragrance (Parfum)･Tocopherol･triethoxycaprylylsilane･sodium Citrate･mica･citronellol･geraniol･linalool･barium Sulfate･theanine･peg/Ppg-14/7 Dimethyl Ether･glycine･dimethicone/Vinyl Dimethicone Crosspolymer･citric Acid･methyl Methacrylate Crosspolymer･rosa Roxburghii Fruit Extract･angelica Acutiloba Root Extract･hydrolyzed Silk･hydrolyzed Conchiolin Protein･perilla Ocymoides Leaf Extract.",
+	"how_to_use": "Suggested Usage:.-Apply after using your skincare regimen..-To apply, take up a pearl-size amount and dot on both cheeks, forehead, nose, and chin..-Spread starting from the center of the face..-Apply a little at a time over areas of concern, such as fine lines and pores, and pat with fingertip to blend in..-Apply foundation after checking that the formula has settled properly.",
+	"num_reviews": 4,
+	"overall_rating": 4.5,
+	"product_url": "https://www.sephora.com/ca/en/product/cle-de-peau-beaute-correcting-cream-veil-P481672?skuId=2565778&icid2=products",
+	"image_url": "https://www.sephora.com/productimages/sku/s2565778-main-zoom.jpg?imwidth=465",
+	"shades": [
+		{
+			"shade_name": "1.25 oz/ 37 mL",
+			"shade_descriptor": "",
+			"shade_image_url": "https://www.sephora.com/productimages/sku/s2565778-main-zoom.jpg?imwidth=465"
+		}
+	],
+	"reviews": [
+		{
+			"review_title": "Good for matured dry/ normal skin",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+			"review_text": "Brightening and very hydrating primer which helps smoothing textures, but my huge pores could not hide under this. Price is insane but it did help my foundation stays all day without patchness and dryness. Nice to have SPF in primer."
+		},
+		{
+			"review_title": "",
+			"review_rating": 5,
+			"review_shade_purchased": "",
+			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+			"review_text": "This primer is good for aging and/or dry skin, and it works the best in humid weather such as weather in Hong Kong or it works well in Montreal Fall weather. Do not use this in Vegas heat weather because it will melt."
+		}
+	]
+}
