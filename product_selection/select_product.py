@@ -10,7 +10,7 @@ PRODUCT_CATEGORIES = {
     'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
     'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
-USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
+USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula', 'Colour']
 
 NUMBER_PRODUCTS_RETURNED = 11
 
@@ -34,6 +34,7 @@ class Product:
         if entry == 'Brand': return self.brand
         if entry == 'Price': return self.price
         if entry == 'Formula': return self.formula
+        if entry == 'Colour': return self.color
 
 
 class BasicSelection:
@@ -147,6 +148,13 @@ class BasicSelection:
                             matches += 1
                     elif prompt == 'Products':
                         matches += 1  # We already handled this above
+                    elif prompt == 'Colour':
+                        # Check if any of the product's shades contain the requested color
+                        requested_color = self.user_info['what'][prompt].lower()
+                        for shade in product.get_attribute(prompt):
+                            if requested_color in shade.lower():
+                                matches += 1
+                                break
                     elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
                         matches += 1
             
