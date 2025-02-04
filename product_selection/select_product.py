@@ -3,6 +3,9 @@ import pandas as pd # type: ignore
 import numpy as np # type: ignore
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor
+import threading
+from typing import List, Dict
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -36,44 +39,98 @@ class Product:
         if entry == 'Formula': return self.formula
 
 
+def parse_product_row(row) -> Product:
+    """Helper function to parse a single product row"""
+    # Convert categories string to list
+    categories = row[3].split(',') if isinstance(row[3], str) else []
+    categories = [cat.strip() for cat in categories]
+    
+    # Convert shades string to list
+    shades = row[4].split(',') if isinstance(row[4], str) else []
+    shades = [shade.strip() for shade in shades]
+    
+    # Convert ingredients string to list
+    ingr = row[8] if isinstance(row[8], str) else ''
+    ingr_list = [i.strip() for i in ingr.split(',') if i.strip()]
+
+    # Create and return product object
+    return Product(
+        name=row[1],          # name
+        type=categories,      # categories as type
+        brand=row[2],        # brand
+        color=shades,        # shades as color
+        price=row[5],        # price
+        size=str(row[6]),    # size
+        formula='',          # empty formula
+        ingredients=ingr_list,# ingredients list
+        about=row[7],        # about
+        url=row[10]          # image_url
+    )
+
+def process_product_chunk(products: List[Product], user_info: Dict, start_idx: int, end_idx: int) -> Dict[int, List[Product]]:
+    """Helper function to process a chunk of products for keyword matching"""
+    product_match: Dict[int, List[Product]] = {}
+    
+    for product in products[start_idx:end_idx]:
+        matches = 0
+
+        # If products are specified, check if any of the requested products match
+        if 'Products' in user_info['what']:
+            product_matches = False
+            for requested_product in user_info['what']['Products']:
+                if requested_product in product.type:
+                    product_matches = True
+                    break
+            
+            if not product_matches:
+                if matches in product_match:
+                    product_match[matches].append(product)
+                else:
+                    product_match[matches] = [product]
+                continue
+        
+        # Check other prompts
+        for prompt in USER_WHAT_PROMPTS:
+            if prompt in user_info['what']:
+                if prompt == 'Price':
+                    if product.get_attribute(prompt) in range(int(user_info['what'][prompt][0]), int(user_info['what'][prompt][1])):
+                        matches += 1
+                elif prompt == 'Products':
+                    matches += 1  # Already handled above
+                elif prompt == 'Colour':
+                    requested_color = user_info['what'][prompt].lower()
+                    for shade in product.color:
+                        if requested_color in shade.lower():
+                            matches += 1
+                            break
+                elif product.get_attribute(prompt) in user_info['what'][prompt]:
+                    matches += 1
+        
+        if matches in product_match:
+            product_match[matches].append(product)
+        else:
+            product_match[matches] = [product]
+            
+    return product_match
+
 class BasicSelection:
     def __init__(self, csv_file):
-        self.csv_file: str = csv_file # Link to csv file
-        self.product_database: list[Product] = [] # list of products
-        self.user_info: dict = {} # Provided user information
+        self.csv_file: str = csv_file
+        self.product_database: list[Product] = []
+        self.user_info: dict = {}
+        self.lock = threading.Lock()  # Add thread lock for thread safety
 
     def parse_dataset(self):
         df = pd.read_csv(self.csv_file)
+        
+        # Create thread pool and process rows in parallel
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            # Map each row to a Product object
+            self.product_database = list(executor.map(
+                parse_product_row,
+                [df.iloc[r] for r in range(df.shape[0])]
+            ))
 
-        for r in range(0, df.shape[0]):            
-            # Convert categories string to list
-            categories = df.iloc[r, 3].split(',') if isinstance(df.iloc[r, 3], str) else []
-            categories = [cat.strip() for cat in categories]
-            
-            # Convert shades string to list
-            shades = df.iloc[r, 4].split(',') if isinstance(df.iloc[r, 4], str) else []
-            shades = [shade.strip() for shade in shades]
-            
-            # Convert ingredients string to list
-            ingr = df.iloc[r, 8] if isinstance(df.iloc[r, 8], str) else ''
-            ingr_list = [i.strip() for i in ingr.split(',') if i.strip()]
-
-            # Create product object to append to product database
-            temp_product = Product(
-                name=df.iloc[r, 1],      # name
-                type=categories,          # categories as type
-                brand=df.iloc[r, 2],      # brand
-                color=shades,            # shades as color
-                price=df.iloc[r, 5],      # price
-                size=str(df.iloc[r, 6]),  # size
-                formula='',              # empty formula
-                ingredients=ingr_list,    # ingredients list
-                about=df.iloc[r, 7],      # about
-                url=df.iloc[r, 10]        # image_url
-            )
-            
-            self.product_database.append(temp_product)
-    
     def parse_user_jsons(self, user_who, user_what):
         # Extract from JSON to dictionary
         self.user_info['who'] = json.loads(user_who)
@@ -118,62 +175,41 @@ class BasicSelection:
             self.user_info['what']['Price'] = [0,99999999]
     
     def keyword_lookup(self):
-        product_match: dict = {}
-
-        # Parse through all products
-        for product in self.product_database:
-            matches = 0
-
-            # If products are specified, check if any of the requested products match any of the product's categories
-            if 'Products' in self.user_info['what']:
-                product_matches = False
-                for requested_product in self.user_info['what']['Products']:
-                    if requested_product in product.type:  # Check if requested product is in the product's categories
-                        product_matches = True
-                        break
-                
-                if not product_matches:
-                    if matches in product_match:
-                        product_match[matches].append(product)
+        # Determine chunk size for parallel processing
+        chunk_size = max(len(self.product_database) // 4, 1)
+        chunks = [(i, min(i + chunk_size, len(self.product_database))) 
+                 for i in range(0, len(self.product_database), chunk_size)]
+        
+        # Process chunks in parallel
+        product_matches: Dict[int, List[Product]] = {}
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            future_to_chunk = {
+                executor.submit(
+                    process_product_chunk, 
+                    self.product_database, 
+                    self.user_info, 
+                    start, 
+                    end
+                ): (start, end) for start, end in chunks
+            }
+            
+            # Combine results from all chunks
+            for future in future_to_chunk:
+                chunk_matches = future.result()
+                for matches, products in chunk_matches.items():
+                    if matches in product_matches:
+                        product_matches[matches].extend(products)
                     else:
-                        product_match[matches] = [product]
-                    continue
-            
-            # Otherwise, look at other prompts
-            for prompt in USER_WHAT_PROMPTS:
-                if prompt in self.user_info['what']:
-                    if prompt == 'Price':
-                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
-                            matches += 1
-                    elif prompt == 'Products':
-                        matches += 1  # We already handled this above
-                    elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
-                        matches += 1
-            
-            if matches in product_match:
-                product_match[matches].append(product)
-            else:
-                product_match[matches] = [product]
-            
-        # for num_matches, products in product_match.items():
-        #     product_list = []
-        #     for product in products:
-        #         product_list.append(product.name)
-        #     print(num_matches, product_list)
+                        product_matches[matches] = products
 
-        # Choose the top products
-        top_products: list[Product] = []
-
-        matches_rev = list(product_match.keys())
-        matches_rev.sort(reverse=True)
+        # Choose top products
+        top_products: List[Product] = []
+        matches_rev = sorted(product_matches.keys(), reverse=True)
+        
         for num_matches in matches_rev:
-            if num_matches == 0:
+            if num_matches == 0 or len(top_products) >= NUMBER_PRODUCTS_RETURNED:
                 break
-            if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
-                break
-            for product in product_match[num_matches]:
-                if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
-                    break
-                top_products.append(product)
-                
+            products = product_matches[num_matches]
+            top_products.extend(products[:NUMBER_PRODUCTS_RETURNED - len(top_products)])
+
         return top_products
