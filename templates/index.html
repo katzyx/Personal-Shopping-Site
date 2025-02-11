@@ -172,14 +172,18 @@
       <nav class="nav_bar" style="background-color: black; padding: 10px; display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
         <!-- Centered logo and text -->
         <div class="web_name" style="display: flex; align-items: center; flex: 1; justify-content: center;">
-          <img src="{{ url_for('static', filename='assets/icons8-face-powder-96.png') }}" alt="logo" style="height: 40px; margin-right: 10px;" />
+          <img src="{{ url_for('static', filename='assets/icons8-face-powder-100.png') }}" alt="logo" style="height: 40px; margin-right: 10px;" />
           <a href="#home" style="text-decoration: none; color: white; font-size: 18px;">Personal Shopping Site</a>
         </div>
         
+        
         <!-- Right-aligned account link -->
         <div class="account_drop" style="margin-left: auto; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
-          <a class="accounts" onclick="toggleSidebar()" style="text-decoration: none; color: white; width: 30px;">
-            <i class="fas fa-user"></i>
+          <a class="bag" style="text-decoration: none; color: white; height: 30px; width: 30px; margin-right: 10px;">
+            <img src="{{ url_for('static', filename='assets/icons8-shopping-bag-100.png') }}" style="height: 30px; width: 30px;" />
+          </a>
+          <a class="accounts" onclick="toggleSidebar()" style="text-decoration: none; color: white; width: 30px; height: 30px;">
+            <img src="{{ url_for('static', filename='assets/icons8-user-100.png') }}" id="user" style="width: 30px; height: 30px;"></img>
           </a>
         </div>
       </nav>
@@ -190,15 +194,15 @@
       <form method="POST" action="/index">
         <div style="background-color: black; padding: 20px; width: 100%; box-sizing: border-box; ">
           <!-- Line of text above the search bar -->
-          <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or liquid, or request clean ingredients.):</p>
+          <p style="color: white; text-align: center;">Narrow your criteria further (e.g. add a finish like matte or dewy, or request clean ingredients.):</p>
           
           <!-- Search bar with placeholder text and a 'Go' button -->
           <div style="display: flex; justify-content: center; align-items: center;">
             <input type="text" name="updated_preferences" placeholder="I am looking for a light foundation for sensitive skin." 
-                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none;">
+                  style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none; font-family: 'Montserrat';">
             
-            <button type="submit" class="saving" style="margin-left: 10px; padding: 10px 15px; border-radius: 50%; background-color: white; border: none;">
-              Go
+            <button type="submit" class="saving" style="font-family: 'Montserrat'; padding: 10px 15px; border-radius: 5px; border: none;">
+              GO
             </button>
           </div>
         </div>
@@ -210,13 +214,13 @@
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
         {% if products_list|length > i %}
-        <div style="flex: 14%; padding: 0.5em 0em">
-          <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p>{{products_list[i].name}}</p>
-          <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
-          <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-          <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
-        </div>
+          <div style="flex: 14%; padding: 0.5em 0em">
+            <img src="{{products_list[i].url}}" height="200em" width="125em">
+            <p>{{products_list[i].name}}</p>
+            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+            <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+            <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
+          </div>
         {% endif %}
       {% endfor %}
     {% else %}
@@ -256,7 +260,7 @@
                 <p>{{products_list[i].name}}</p>
                 <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-                <button style="padding: 0.5em 2em; background-color: white;">ADD TO BAG</button>
+                <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
               </div>
             {% endif %}
           {% endfor %}
@@ -272,7 +276,7 @@
 
     <footer>
       <div style="text-align: center; color:gray; background-color: white;">
-        <p>©2024. All Rights Reserved</p>
+        <p>©2025. All Rights Reserved</p>
       </div>
     </footer>
 
@@ -318,7 +322,7 @@
             <button 
               type="submit" 
               class="saving" 
-              style="align-self: center; padding: 10px 30px; border-radius: 5px; background-color: #F7CAC9; color: white; border: none; cursor: pointer;">
+              style="align-self: center; padding: 10px 30px; border-radius: 5px; font-family: 'Montserrat'; background-color: #F7CACA; color: black; border: none; cursor: pointer;">
               Save
             </button>
           </div>
