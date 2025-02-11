@@ -179,9 +179,9 @@
         
         <!-- Right-aligned account link -->
         <div class="account_drop" style="margin-left: auto; height: 40px; padding-left: 5px; padding-right: 5px; display: flex; align-items: center; text-align: center;">
-          <a class="bag" style="text-decoration: none; color: white; height: 30px; width: 30px; margin-right: 10px;">
+          <!--<a class="bag" style="text-decoration: none; color: white; height: 30px; width: 30px; margin-right: 10px;">
             <img src="{{ url_for('static', filename='assets/icons8-shopping-bag-100.png') }}" style="height: 30px; width: 30px;" />
-          </a>
+          </a>-->
           <a class="accounts" onclick="toggleSidebar()" style="text-decoration: none; color: white; width: 30px; height: 30px;">
             <img src="{{ url_for('static', filename='assets/icons8-user-100.png') }}" id="user" style="width: 30px; height: 30px;"></img>
           </a>
@@ -219,7 +219,9 @@
             <p>{{products_list[i].name}}</p>
             <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
             <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-            <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
+            <a href="{{ products_list[i].redirect_url }}">
+              <button class="add_to_bag" style="padding: 0.5em 2em;">SEE MORE</button>
+            </a>
           </div>
         {% endif %}
       {% endfor %}
@@ -260,7 +262,9 @@
                 <p>{{products_list[i].name}}</p>
                 <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-                <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
+                <a href="{{ products_list[i].redirect_url }}">
+                  <button class="add_to_bag" style="padding: 0.5em 2em;">SEE MORE</button>
+                </a>
               </div>
             {% endif %}
           {% endfor %}
