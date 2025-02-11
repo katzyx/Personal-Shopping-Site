@@ -213,13 +213,15 @@
     {% if products_list %}
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
-        <div style="flex: 14%; padding: 0.5em 0em">
-          <img src="{{products_list[i].url}}" height="200em" width="125em">
-          <p>{{products_list[i].name}}</p>
-          <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
-          <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-          <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
-        </div>
+        {% if products_list|length > i %}
+          <div style="flex: 14%; padding: 0.5em 0em">
+            <img src="{{products_list[i].url}}" height="200em" width="125em">
+            <p>{{products_list[i].name}}</p>
+            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+            <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+            <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
+          </div>
+        {% endif %}
       {% endfor %}
     {% else %}
     <div style="text-align: center; padding: 2em;">
@@ -252,13 +254,15 @@
       
         <div style="display: flex; justify-content: space-around;">
           {% for i in range(7,11) %}
-          <div style="flex: 1; padding: 0.5em 1em;">
-            <img src="{{products_list[i].url}}" height="200em" width="125em">
-            <p>{{products_list[i].name}}</p>
-            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
-            <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
-            <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
-          </div>
+            {% if products_list|length > i %}
+              <div style="flex: 1; padding: 0.5em 1em;">
+                <img src="{{products_list[i].url}}" height="200em" width="125em">
+                <p>{{products_list[i].name}}</p>
+                <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+                <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+                <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
+              </div>
+            {% endif %}
           {% endfor %}
         {% endif %}
       </div>

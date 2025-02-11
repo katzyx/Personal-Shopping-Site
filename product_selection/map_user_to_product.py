@@ -12,7 +12,7 @@ from product_selection.key import API_key
 
 def basic_map(user_who, user_what): 
     # Extract Database
-    csv_path = "./product_selection/GeneratedProductDataset.csv"
+    csv_path = "./product_selection/products.csv"
     select = BasicSelection(csv_file=csv_path)
     select.parse_dataset()
 
@@ -21,8 +21,8 @@ def basic_map(user_who, user_what):
     products_selected = select.keyword_lookup()
     
     # Provide top 11 recommended products to user
-    # for product in products_selected:
-    #     print(product.brand, product.name)
+    for product in products_selected:
+        print(product.brand, product.name, product.url)
     return products_selected
     
 def map_inputs(retrieved_who, retrieved_what):
