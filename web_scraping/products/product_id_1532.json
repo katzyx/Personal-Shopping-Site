@@ -1,37 +1,37 @@
 {
-	"product_id": "1532",
-	"name": "Shimmer & Glow Liquid Eye Shadow",
-	"brand": "stila",
-	"categories": "Makeup, Eye, Eyeshadow",
-	"price": 34.0,
-	"about": "What it is:.What it does:.What it is formulated WITHOUT:",
-	"ingredients": "Water, Mica (Ci 77019), Aluminum Calcium Sodium Silicate, Silica, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Calcium Sodium Borosilicate, Squalane, Polysorbate 60, Caprylyl Glycol, Phenoxyethanol, Glycerin, Triethanolamine, Tin Oxide, Carbomer, Sorbitan Isostearate, Hexylene Glycol. (+/-) Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77499), Carmine (Ci 75470).",
-	"how_to_use": "Suggested Usage:.-Apply to lid and blend using your fingers or a brush. .-Wear alone or over eyeshadow... Precautions:.-In case of eye irritation, discontinue use of all eye cosmetics and consult your ophthalmologist at once.",
-	"num_reviews": 1212,
-	"overall_rating": 4.6,
-	"product_url": "https://www.sephora.com/ca/en/product/shimmer-glow-liquid-eye-shadow-P427385?skuId=2027209&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2027191-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Kitten",
-			"shade_descriptor": "shimmering vibrant nude pink",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2027191-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "The worst",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
-			"review_text": "Goes on cakey (even with a little) and immediately flakes off. Huge disappointment. I've only worn it on Halloween for zombie makeup but would never wear it otherwise. Going in the trash."
-		},
-		{
-			"review_title": "My favorite eyeshadow!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, fairLight skin tone, Combination skin",
-			"review_text": "Stila’s liquid eyeshadow is an absolute staple in my everyday routine. The gold is beautiful. You can leave it as is or build color over it. I love it! I have the gold and rose."
-		}
-	]
+    "product_id": "1532",
+    "name": "Shimmer & Glow Liquid Eye Shadow",
+    "brand": "stila",
+    "categories": "Makeup, Eye, Eyeshadow",
+    "price": 34.0,
+    "about": "What it is:.What it does:.What it is formulated WITHOUT:",
+    "ingredients": "Water, Mica (Ci 77019), Aluminum Calcium Sodium Silicate, Silica, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Calcium Sodium Borosilicate, Squalane, Polysorbate 60, Caprylyl Glycol, Phenoxyethanol, Glycerin, Triethanolamine, Tin Oxide, Carbomer, Sorbitan Isostearate, Hexylene Glycol. (+/-) Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77499), Carmine (Ci 75470).",
+    "how_to_use": "Suggested Usage:.-Apply to lid and blend using your fingers or a brush. .-Wear alone or over eyeshadow... Precautions:.-In case of eye irritation, discontinue use of all eye cosmetics and consult your ophthalmologist at once.",
+    "num_reviews": 1212,
+    "overall_rating": 4.6,
+    "product_url": "https://www.sephora.com/ca/en/product/shimmer-glow-liquid-eye-shadow-P427385?skuId=2027209&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2027191-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Kitten",
+            "shade_descriptor": "shimmering vibrant nude pink",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2027191-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "The worst",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Goes on cakey (even with a little) and immediately flakes off. Huge disappointment. I've only worn it on Halloween for zombie makeup but would never wear it otherwise. Going in the trash."
+        },
+        {
+            "review_title": "My favorite eyeshadow!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "Stilau2019s liquid eyeshadow is an absolute staple in my everyday routine. The gold is beautiful. You can leave it as is or build color over it. I love it! I have the gold and rose."
+        }
+    ]
 }

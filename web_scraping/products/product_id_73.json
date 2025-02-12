@@ -1,691 +1,691 @@
 {
-	"product_id": "73",
-	"name": "COMPLEXION RESCUE™ Tinted Hydrating Gel Cream SPF 30",
-	"brand": "bareMinerals",
-	"categories": "Makeup, Face, BB & CC Cream",
-	"price": 53.0,
-	"about": "Coverage:.Skin type:.Finish:.What it is:.What does:.What it is formulated WITHOUT:.What else you need to know:.Research results:",
-	"ingredients": "-Marine Botanicals, Hydrating Humectants, and Coconut-Derived Ingredients: Help to replenish, nourish, and condition thirsty skin. .-Calcium and Magnesium: Help replenish the skin and support moisture balance. .-Water-Encapsulations: Provide hydration upon application with a light, cooling sensation. .-Heart-Leaf Globe Daisy: Helps to protect against environmental stressors...Water, Coconut Alkanes, Propanediol, Squalane, Trehalose, Isostearic Acid, Glycerin, Silica, Agar, Caprylic/Capric Triglyceride, Globularia Cordifolia Callus Culture Extract, Salicornia Herbacea Extract, Melilotus Officinalis Extract, Coco-Caprylate/Caprate, Butylene Glycol, Lauroyl Lysine, Sodium Hyaluronate, Succinoglycan, Polysorbate 60, Cellulose Gum, Polyglyceryl-4 Laurate/Succinate, Sorbitan Sesquiisostearate, Magnesium Stearate, Magnesium Hydroxide, Magnesium Chloride, Potassium Chloride, Calcium Chloride, Potassium Sorbate, Phenoxyethanol...The list of ingredients is subject to change, please consult the packaging of the product purchased.",
-	"how_to_use": "Suggested Usage:.-Apply to clean skin with fingertips. .-Layer for additional coverage, at home or on-the-go..-For professional blending, apply Complexion Rescue™ using the Smoothing Face Brush (sold separately).",
-	"num_reviews": 1054,
-	"overall_rating": 4.0,
-	"product_url": "https://www.sephora.com/ca/en/product/complexion-rescue-tinted-hydrating-gel-cream-P399827?skuId=1710300&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s1710300-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "Opal 01",
-			"shade_descriptor": "for the fairest porcelain skin with cool tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710292-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Vanilla 02",
-			"shade_descriptor": "for light skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710300-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Buttercream 03",
-			"shade_descriptor": "for light skin with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710318-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cashew 3.5",
-			"shade_descriptor": "for light to medium skin with cool to neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2219756-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Wheat 4.5",
-			"shade_descriptor": "light to medium skin neutral tone",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1841246-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Natural 05",
-			"shade_descriptor": "for medium skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710334-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Bamboo 5.5",
-			"shade_descriptor": "light to medium skin golden tone",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1841253-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Ginger 06",
-			"shade_descriptor": "for medium skin with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710342-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Desert 6.5",
-			"shade_descriptor": "medium to tan skin neutral tone",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1841261-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Tan 07",
-			"shade_descriptor": "for tan skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710359-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Dune 7.5",
-			"shade_descriptor": "medium to tan skin golden tone",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1841279-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Spice 08",
-			"shade_descriptor": "for tan skin with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710367-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Chestnut 09",
-			"shade_descriptor": "for dark skin with golden tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710375-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Sienna 10",
-			"shade_descriptor": "for deep skin with neutral tones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s1710383-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cinnamon 10.5",
-			"shade_descriptor": "for dark to deep skin with neutral to warm undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2219772-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Cedar 11",
-			"shade_descriptor": "for deep skin with cool undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2219764-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "Mahogany 11.5",
-			"shade_descriptor": "for deep skin with neutral undertones",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2219780-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-		{
-			"review_title": "Sent the wrong product",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "",
-			"review_text": "Love this product and have been saving it to use for a wedding. Just noticed I was sent the wrong product (topical liquid) and was told I cannot exchange because I missed the return window.. so disappointing considering this was their fault. I noticed other customers have had the same issue so it seems like this was not an accident, they are sending out the wrong product without notifying customers of the change."
-		},
-		{
-			"review_title": "Awful",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, notSure skin tone, Dry skin",
-			"review_text": "I ordered the tinted hydrating gel because I loved the mini version and wanted to invest into something more long term. However my order has been wrong multiple times! I kept on receiving the tinted moisturizer topical liquid? It’s terrible   diffeee and unfortunately the formula is terrible"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "Perfect for dry skin. Love the coverage and live the fact it has spf"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, auburn hair, Porcelain skin tone, Combination skin",
-			"review_text": "I've been using this for years. It was recommended by a staff, and I swear by it. good for sensitive skin!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Buttercream 03 - for light skin with golden tones",
-			"review_buyer_description": "Hazel eyes, gray hair, Normal skin",
-			"review_text": "Looks and feels great.  Colour is perfect and is SPF is 30."
-		},
-		{
-			"review_title": "Different formula :(",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "This was my go-to (and favourite) tinted moisturizer for years and I loved it but unfortunately they have recently changed the formula and this product made my face break out pretty bad. Super disappointed and will have to find a new tinted moisturizer."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "My top favourite. I’m 42 so have maturing skin and this has great coverage, where you can layer yet never looks caked on. Leaves skin looking dewy and natural. I get comments on my skin. Love it!"
-		},
-		{
-			"review_title": "My daily staple - don’t leave the house without it",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "I have been using this for roughly 5 years. I’ve tried many other tinted creams and this one is the best by far. A little goes a long way with this products as well. I hope this product never gets discontinued!"
-		},
-		{
-			"review_title": "Was sent something called topical liquid ...",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, black hair, Combination skin",
-			"review_text": "Was sent complexion rescue tinted moisturizer topical liquid just as some reviews on here have said as well. Wish I saw those reviews before I bought it because I am not interested in trying any new formula. The original product as advertised in the photos here is an amazing product. I have sensitive skin and have been wearing it for years. The finish is perfect and it holds for all nighters with a good primer and setting powder. Will be returning this topical liquid."
-		},
-		{
-			"review_title": "Never leave me!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Call me crazy, but I actually like the new formulation. I’ve been using this product since 2016, and when I heard they were discontinuing it I died a little inside.   But it seems to be back? I at least managed to snag two bottles before it went back out of stock. Anyway, I like the coverage, it matches my skin tone really well, it has SPF, it doesn’t make me break out, and makes me look dewy and fresh even when I’m sleep-deprived.  PLEASE DO NOT EVER TAKE THIS AWAY!!"
-		},
-		{
-			"review_title": "Coverage",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, gray hair, Normal skin",
-			"review_text": "This product has good coverage but it’s a little heavy."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
-			"review_text": "I have been using this product for over 6 years and i have never gone back. It is absolutely perfect! It gives you beautiful skin without being too light or to heavy on the coverage its perfect"
-		},
-		{
-			"review_title": "New formula—terrible (CA)",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Normal skin",
-			"review_text": "I’ve been using the gel for years and upon repurchase, I noticed the bottle seemed slightly different. The formula has def changed. Now it’s THICK, STICKY, and un-smooth finish. Returned."
-		},
-		{
-			"review_title": "Love this!",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Normal skin",
-			"review_text": "Still my favourite skin tint to day. Super lightweight and slight coverage for a more natural look for those who don’t need the full coverage effect"
-		},
-		{
-			"review_title": "Not the same anymore",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
-			"review_text": "I ran to buy this product when it finally was back on stock because I loved it in the past, but the product I received isn’t the same I used to buy. It says “tinted moisturizer topical liquid” and it’s the runniest and messiest complexion product I’ve used. It doesn’t color correct anymore. I won’t be buying it again."
-		},
-		{
-			"review_title": "Not what it says it is",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Medium skin tone, Normal skin",
-			"review_text": "Sephora has sent me the wrong one THREE TIMES! For some reason, they don’t seem to be sending out the tinted hydrating gel anymore and are sending out the matte topical liquid?  It’s not the same product at all, unfortunately. If you can get the correct item (the one with the dewy/radiant finish), it’s amazing!! The matte topical liquid, however, totally dries out the skin and accentuates wrinkles."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "Opal 01 - for the fairest porcelain skin with cool tones",
-			"review_buyer_description": "",
-			"review_text": "The old formulation was much better. It’s okay but I’m going to be shopping around. If I can’t find anything better I’ll stick with this one."
-		},
-		{
-			"review_title": "Not worth the price.",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "$32.00 for a mini size is absolutely outrageous. The amount you get lasts about 2 weeks. I had one in my cart for $20, decided to check out the next day and the price jumped to $32. Totally ridiculous for a mediocre foundation. There are better options."
-		},
-		{
-			"review_title": "Wasn’t what I ordered but great product",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I ordered the hydrating gel cream which looks like it may be discontinued. I was sent just the regular tinted moisturizer and I’m really impressed. Lightweight, non greasy and decent coverage."
-		},
-		{
-			"review_title": "Obsessed!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
-			"review_text": "Absolutely the best product I've found for my skin. I have combination, sensitive skin, and this product helps to even my skin tone and keep it moisturized! After years of searching for a good product for me, I am DEVASTATED that it is discontinued :("
-		},
-		{
-			"review_title": "Has good potential but kind of disappointing",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I looove the finish and coverage (light to medium) but unfortunately if you have even a whisper of a dry patch, it will cling to it. Also—pills easily if you use products before hand (I only use moisturizer)."
-		},
-		{
-			"review_title": "topical liquid still looks and feels good",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "brown hair, lightMedium skin tone, Normal skin",
-			"review_text": "I am still getting over the discontinuation of the original gel cream version of this tinted moisturizer BUT I will say the topical liquid’s version is still surprisingly nice. Coverage is light and buildable and I’m still glowing. I’d try it guys!"
-		},
-		{
-			"review_title": "Terrible replacement",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Dry skin",
-			"review_text": "Hugely disappointed! I ordered Tinted Gel Cream, as advertised on product photo, and received Tinted Moisturizer. Product is NOT the same, big difference in the way it looks and feels on skin. I’m using Tinted Gel for a few years now and it’s my absolutely favourite foundation but it seems that it’s impossible to buy it anymore, it’s being replaced with terrible moisturizer. Will return.  Right tube on the photo is my old Gel, left - new terrible moisturizer."
-		},
-		{
-			"review_title": "Devastated",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brunette hair, Light skin tone, Dry skin",
-			"review_text": "I am so sad my HG is disappearing! Struggling to find a replacement."
-		},
-		{
-			"review_title": "My holy grail, where has it gone?!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Combination skin",
-			"review_text": "This is my holy grail and makes my skin look so airbrushed. I’ve been using it for years. WHY IS IT NO LONGER IN STOCK? I now order it from the states to my friend’s house and she mails it to me. Please bring it back to Canada!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
-			"review_buyer_description": "Fair skin tone",
-			"review_text": "Oh nooooo! Has this been discontinued???? I’ve been using this close to 10 years. What will I do!? Lol. Please bring this item back!!!"
-		},
-		{
-			"review_title": "BRING THIS BACK",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "This was the best and of course the have to ruin something that was perfectly good by making it “new and improved”. Bring this back please, the replacement has terrible reviews"
-		},
-		{
-			"review_title": "Ez pz tint",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
-			"review_text": "This is definitely a your-skin-but-better type of tint. The longer you wear it the better it looks. Love the SPF, can sometimes emphasize dry skin so best to exfoliate and moisturize well before hand. Easy to use with hands but i also like using with a sponge."
-		},
-		{
-			"review_title": "Please restock!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Please please restock this item. It is the best I have ever used. It’s natural and my skin is perfect when I use it. Please do not discontinue it and please restock it soon!!"
-		},
-		{
-			"review_title": "Pls do not discontinue",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
-			"review_text": "This is my most favourite everyday use foundation/sunscreen. I don’t even know how many times I’ve bought this product. It’s so sad that I have to find a new one now…"
-		},
-		{
-			"review_title": "Please do not discontinue",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, Light skin tone, Combination skin",
-			"review_text": "This is a wonderful product that I have been buying for years. It gives the most beautiful, natural finish to the skin. Is it true that it is being discontinued? Very sad if true."
-		},
-		{
-			"review_title": "",
-			"review_rating": 1,
-			"review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
-			"review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Oily skin",
-			"review_text": "Maybe bareminerals could restock this? It’s been +years and now even their mini complexionrescue is out of stock. I will be going to a different brand. Dont bother with the Matt version. It’s terrible."
-		},
-		{
-			"review_title": "Holy grail",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
-			"review_text": "Gives you an incredibly natural glow, doesn’t make you break out. Highly highly recommend!"
-		},
-		{
-			"review_title": "Moisturizing",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
-			"review_text": "I have purchase this product multiple times. I love the fact that it is moisturize enough that I don't have to put another layer of moisturiser after my cleaning"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
-			"review_buyer_description": "",
-			"review_text": "RESTOCK IT PLEASE BEEN WAITING FOREVER I WANT TO TRY IT"
-		},
-		{
-			"review_title": "Best base ever!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Such a nice finish! It’s so dewy and looks like skin"
-		},
-		{
-			"review_title": "MUST HAVE - replaces foundation",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
-			"review_text": "Best product ever. I don’t even use foundation (because it feels like paint on my face don’t know what they’re done to the formula the last few years) this is so dewy so natural great coverage but still So light. PLEASE BRING BACK! this has been out of stock since September"
-		},
-		{
-			"review_title": "Bring it back!!!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "THE BEST EVER. I literally love this product so much it’s the only thing I use for my skin coverage, I can’t stand foundation anymore. This is so dewy and perfect!! Please bring it back"
-		},
-		{
-			"review_title": "Holy grail! Please bring back!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Gray eyes, brown hair, fairLight skin tone, Combination skin",
-			"review_text": "This has been my holy grail daily-use product for over 5 years now. Perfect amount of coverage and dewy-ness while leaving skin looking completely natural and makeup free. Plus the 30spf is so key!"
-		},
-		{
-			"review_title": "Must-have!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "Awesome product. Great coverage. Gives a good glow and dewiness but not shine. I can wear this alone with a bit of concealer and feel fresh faced. Love wearing my SPF every day too."
-		},
-		{
-			"review_title": "Holy grail",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
-			"review_text": "I love this product and constantly reorder it but I have been patiently waiting for it to restock —  it’s been sold out for over a month!! Please bring it back"
-		},
-		{
-			"review_title": "THE BEST",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
-			"review_text": "This is my go-to, my staple, my absolute favourite. It’s perfect for light natural complexion but also building if you want more covered. PLEASE bring it back. I am so sad. I’m on my last bottle and will have a tough time replacing it. Speaking of.. if this isn’t coming back - can someone recommend something similar? Thank you"
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "Really like this tint, has nice coverage, looks nice on the skin, but is lacking in colour options. I’m between 01-02. I have to mix them"
-		},
-		{
-			"review_title": "Amazing!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "Please bring this back ASAP!!! This is my holy grail tinted moisturizer!"
-		},
-		{
-			"review_title": "Definitely a must have❤️",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I really love how it looks very natural and ￼it has a good texture to my skin. I definitely recommend to use if you like light and natural looking foundations I’m very picky with what foundations I use. Will be buying this again!❤️❤️❤️ I"
-		},
-		{
-			"review_title": "Possible irritant for closed comedones",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
-			"review_text": "It looks good and is hydrating. However, I believe it’s been giving me closed comedones."
-		},
-		{
-			"review_title": "Too drying for my sensitive skin",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Dry skin",
-			"review_text": "I was very excited to try this product when my presumed shade came back in stock after being out of stock for months. Unfortunately, after several weeks of wear, I don't think I will be repurchasing.  First, the pros: Great colour match for my fair skin with pink undertones; airy, whipped texture that feels lovely on application; a very nice, dewy finish with light coverage that blurs minor imperfections and redness.  But, then there are the cons: The product dries out my skin throughout the day (even though I always applied my daily moisturizer beforehand); it stings when I use it under my eyes; the application is tricky (applying with my fingers made for a patchy finish, but using a foundation brush made it streaky. The best application for me happens when I mix it with a dollop of my Blossom Color primer and blend with a sponge).  My conclusion is that the product itself is good, but isn't compatible with my dry and sensitive skin. It's a shame, as I was hoping it might help simplify my makeup routine on no makeup-makeup days."
-		},
-		{
-			"review_title": "A great lightweight option",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This leaves a skin-like finish! Got it color-matched in store and it matches perfectly. Covers my redness but doesn’t look fake or cakey. The only reason I didn’t give five stars is because after a few hours of wearing my skin gets very oily."
-		},
-		{
-			"review_title": "Too shiny, not naturally dewy as claims",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
-			"review_text": "I wanted to love this product, I love most bareminerals products…but this one I don’t love. It goes on nicely, and makes my skin soft, however the finish is awful. You have to put a LOT on to get the benefits of the tint, otherwise it just looks translucent. It says it gives you a natural dewy finish…but it doesn’t. It looks like a layer of SHINY plastic on your skin. I even put a matte pressed powder over top and I still looked super shiny, but not even normally so. It looks so fake."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Desert 6.5 - medium to tan skin neutral tone",
-			"review_buyer_description": "Brown eyes, black hair, Combination skin",
-			"review_text": "I bought the full size version after trying the mini, and while the shade matches up perfectly, it's recently made my skin quite oily. If it didn't do that, that'd be perfect, but otherwise a great product. I use this with concealer and some setting powder instead of foundation and it has worked great!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "Wheat 4.5 - light to medium skin neutral tone",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I absolutely love this product because I've been dealing with acne for decades and thought it would be helpful. I love the way it feels and that it's clean.   However, I just learned that Isostearic Acid must be avoided if you are prone to acne. When I found this out I was very disappointed with the marketing of this being that it's called complexion rescue when it could be doing the opposite.  I've continued getting acne while using this, assuming it was any other product then this that could be the reason... sad day. I'm going to discontinue use and see if it helps clear my face up."
-		},
-		{
-			"review_title": "Please Never Discontinue!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
-			"review_text": "This is amazing for my combination sensitive acne-prone skin! I love the texture as it doesn’t feel too heavy. I only use this on bare skin for light coverage and love that it works as moisturizer, SOF and light foundation for me"
-		},
-		{
-			"review_title": "Fake reviews online",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
-			"review_text": "This might be the worst product I’ve ever purchased and I’m immediately returning.  I was excited to buy this because.. spf+tinted moisturizer!! But within seconds of putting it on my clean dry face it started pilling… like little spots of product everywhere. What??  I looked it up on TikTok and while some people say it’s their holy grail beautiful product I did find a few talking about it pilling.. which leads me to think a lot of the videos talking about how great it is but not showing it going on are paid.   No thanks."
-		},
-		{
-			"review_title": "Every Day Staple!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "This is my ride or die foundation. I am OBSESSED. I love how easy this is to apply, the glowy finish is perfect, and it never breaks me out. Perfect for a day when I want less makeup, as it isn’t as heavy or as full coverage as some of my other foundations."
-		},
-		{
-			"review_title": "",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Light skin tone, Normal skin",
-			"review_text": "I like this product when I only apply moisturizer underneath it and nothing else. It’s a little chalky and prone to peeling if you have too many products under. It gives your skin a glowy look."
-		},
-		{
-			"review_title": "pilling!",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
-			"review_text": "tried to apply it with my hands, beauty blender, and brush but it would pill on my skin no matter what. also didn’t like the feel, it was oddly sticky"
-		},
-		{
-			"review_title": "Wanted to love it, but no lasting power + flakes",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "Like the title says - didn’t love. I’ve missed the return period so I’ll keep it but I don’t reach for it ever - it flakes, doesn’t sit well on my skin especially around my nose (I have normal skin with minor pore concerns)"
-		},
-		{
-			"review_title": "Definitely purchasing again",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-			"review_text": "Love this product so much!!! So glowy and hydrating. Very lightweight too! Sooo worth it for the price"
-		},
-		{
-			"review_title": "I don’t leave home without it.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "I use this daily, love it and can’t live without it.  Natural light coverage"
-		},
-		{
-			"review_title": "Love this!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, gray hair, lightMedium skin tone, Oily skin",
-			"review_text": "My new favourite product!  I put a light amount on with a foundation brush then follow up with a light dusting of my matte mineral foundation.   Totally natural look, hides small imperfections, looks great!"
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
-			"review_buyer_description": "Green eyes, brunette hair, Fair skin tone, Combination skin",
-			"review_text": "I keep buying it and it never disappoints. I enjoy light coverage hydrating products and this dosen't break me out either. wonderful for both summer and winter."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "My favourite foundation. Light and glowy.  Sheer coverage."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Natural 05 - for medium skin with neutral tones",
-			"review_buyer_description": "Hazel eyes, black hair, Oily skin",
-			"review_text": "Second time buying this. Lightweight, natural finish, and its SPF 30! I have combo skin, leaning on oily, and by the end of the day this holds up nicely."
-		},
-		{
-			"review_title": "must have perfect for every occasion",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, black hair, Porcelain skin tone, Combination skin",
-			"review_text": "Creamy lightweight formula absolute must have perfect for everything, formal or casual. I love this, and it's perfect for beginners"
-		},
-		{
-			"review_title": "Not worth it",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
-			"review_text": "Sad that this didn’t work for my skin. I find it looks flakey and blotches together. Have tried it with nothing else on my face and the same thing happens. Won’t be buying again."
-		},
-		{
-			"review_title": "Love this!!!!!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, blonde hair, lightMedium skin tone, Combination skin",
-			"review_text": "Amazing!! My skin looks like glass and so healthy. Evened out my complexion too."
-		},
-		{
-			"review_title": "Love this ❤️ is a perfect match",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Normal skin",
-			"review_text": "Very light coverage and SPF, I don't really use foundation and this is the perfect light and breathable coverage that gives a slight tint/ cover up of minor imperfections and protects against sun damage!"
-		},
-		{
-			"review_title": "Looks like skin!!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
-			"review_text": "Love this for light days! I have very dry skin and this doesn’t irritate it and is hydrating which is what I look for in a good tinted cream. Can’t wait to use this throughout the summer too."
-		},
-		{
-			"review_title": "A good one for no makeup days.",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, gray hair, Fair skin tone, Dry skin",
-			"review_text": "Lovely tinted moisturizer. I’ve used it for 2 years. It’s a very light tint- evens things out and the moisturizer side of it works really well. I do need a bit of powder to keep it in place -it wears off quickly.   The shade Opal is a good one for pale cool toned skin."
-		},
-		{
-			"review_title": "a must have",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, brunette hair, Medium skin tone, Combination skin",
-			"review_text": "I purchased the mini bottle first to try. I now have the large bottle. I love how it feels, and that it has SPF. This product does not have a smell or fumes"
-		},
-		{
-			"review_title": "",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Dry skin",
-			"review_text": "This used to be my favorite for a natural dewy look, but my last two purchases of this have been huge let downs. It really doesn't stay on for long and isn't hydrating. By the 4 hr mark it looks like I have nothing on my face and it becomes flakey."
-		},
-		{
-			"review_title": "Oxidized",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, brown hair, Fair skin tone, Oily skin",
-			"review_text": "I like the formula, and loved how light and cooling it felt, but after an hour of wear it oxidized several shades lower than the original shade."
-		},
-		{
-			"review_title": "wouldn't recommend",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Medium skin tone, Normal skin",
-			"review_text": "I had very high hopes for this product. The shade is perfect for my skin tone and went on like a dream but dried out my face terribly and flaked off. I didn't find this hydrating at all."
-		},
-		{
-			"review_title": "This is my 3d time repurchasing! GO GET THIS!",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Dry skin",
-			"review_text": "Love this perfect no makeup makeup product. It really helps even out my redness, but If you’re expecting this to be a full coverage foundation, its not it’s more of a bb cream."
-		},
-		{
-			"review_title": "",
-			"review_rating": 5,
-			"review_shade_purchased": "Ginger 06 - for medium skin with golden tones",
-			"review_buyer_description": "Fair skin tone, Dry skin",
-			"review_text": "I like this product. When i used this cream it gives natural look to my face: I really liked it. I like to use this cream on any event I go to."
-		},
-		{
-			"review_title": "Not for me",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
-			"review_text": "I really wanted to love this product! It has little to no coverage and it starts flaking almost instantly after putting on your face :("
-		},
-		{
-			"review_title": "It’s okay",
-			"review_rating": 2,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
-			"review_text": "I wanted to like this but I found it didn’t have as much coverage as I hoped. Any dryness was emphasized and it slid throughout the day. Might work great for others but not the product for me. 2 stars because it was an easy application."
-		},
-		{
-			"review_title": "Not a good match",
-			"review_rating": 1,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Blue eyes, red hair, Combination skin",
-			"review_text": "I was really surprised how badly this did not work for me. There are so many selections for skin tone, yet I couldn’t find the right match- I’m very fair with dry skin. It felt like it was burning on my face a little. Then it started hurting. I looked in the mirror, and I had small welts breaking out. I’m really disappointed."
-		},
-		{
-			"review_title": "My fav for naturally a flawless look",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, Normal skin",
-			"review_text": "I have repurchased this product and will continue to! It is perfect coverage if you don't want too much but just enough to make your skin look flawless while remaining light and natural."
-		},
-		{
-			"review_title": "",
-			"review_rating": 4,
-			"review_shade_purchased": "Tan 07 - for tan skin with neutral tones",
-			"review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
-			"review_text": "Elevates your skin with a smooth shin..perfect make up no make up look"
-		},
-		{
-			"review_title": "Probably my most repurchased item ever...but...",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
-			"review_text": "I used this exclusively for years, I tried a few others recently and recently came back to it. Is super nice when you want something light and undetectable. I have developed redness lately sadly and this does little to nothing, generally Id use concealer but even there be careful as if its too heavy it wont work with the light coverage."
-		},
-		{
-			"review_title": "Keep coming back",
-			"review_rating": 5,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
-			"review_text": "I have tried many foundations/tinted moisturizers over the past ten years and no matter what I always come back to this and have one in my bag. Just wished it stayed longer."
-		},
-		{
-			"review_title": "Seems to have changed colour-wise",
-			"review_rating": 3,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Hazel eyes, Light skin tone, Normal skin",
-			"review_text": "I used this product a couple of years ago and liked it very much.  Recently decided to start using it again and bought the same colour I used to use - Vanilla 02.  The company must've made some changes because now the colour is WAY too orange - it is not neutral at all.  Caught a look at myself in a mirror last night and I looked like Trump!! Not sure if I will exchange for a different shade; it seemed to cling to and highlight a flaky spot as well so I might return it."
-		},
-		{
-			"review_title": "Nice finish with beauty blender",
-			"review_rating": 4,
-			"review_shade_purchased": "",
-			"review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
-			"review_text": "I like using this product with a Beauty blender rather than with my fingers because it gives it a nice finish. If you rub this product with your fingers, it starts to pill and become flaky. Other than that, the formula is nice and smooth. It gives a nice radiant glow that lasts all day."
-		}
-	]
+    "product_id": "73",
+    "name": "COMPLEXION RESCUEu2122 Tinted Hydrating Gel Cream SPF 30",
+    "brand": "bareMinerals",
+    "categories": "Makeup, Face, BB & CC Cream",
+    "price": 53.0,
+    "about": "Coverage:.Skin type:.Finish:.What it is:.What does:.What it is formulated WITHOUT:.What else you need to know:.Research results:",
+    "ingredients": "-Marine Botanicals, Hydrating Humectants, and Coconut-Derived Ingredients: Help to replenish, nourish, and condition thirsty skin. .-Calcium and Magnesium: Help replenish the skin and support moisture balance. .-Water-Encapsulations: Provide hydration upon application with a light, cooling sensation. .-Heart-Leaf Globe Daisy: Helps to protect against environmental stressors...Water, Coconut Alkanes, Propanediol, Squalane, Trehalose, Isostearic Acid, Glycerin, Silica, Agar, Caprylic/Capric Triglyceride, Globularia Cordifolia Callus Culture Extract, Salicornia Herbacea Extract, Melilotus Officinalis Extract, Coco-Caprylate/Caprate, Butylene Glycol, Lauroyl Lysine, Sodium Hyaluronate, Succinoglycan, Polysorbate 60, Cellulose Gum, Polyglyceryl-4 Laurate/Succinate, Sorbitan Sesquiisostearate, Magnesium Stearate, Magnesium Hydroxide, Magnesium Chloride, Potassium Chloride, Calcium Chloride, Potassium Sorbate, Phenoxyethanol...The list of ingredients is subject to change, please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Apply to clean skin with fingertips. .-Layer for additional coverage, at home or on-the-go..-For professional blending, apply Complexion Rescueu2122 using the Smoothing Face Brush (sold separately).",
+    "num_reviews": 1054,
+    "overall_rating": 4.0,
+    "product_url": "https://www.sephora.com/ca/en/product/complexion-rescue-tinted-hydrating-gel-cream-P399827?skuId=1710300&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s1710300-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Opal 01",
+            "shade_descriptor": "for the fairest porcelain skin with cool tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710292-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Vanilla 02",
+            "shade_descriptor": "for light skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710300-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Buttercream 03",
+            "shade_descriptor": "for light skin with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710318-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cashew 3.5",
+            "shade_descriptor": "for light to medium skin with cool to neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2219756-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Wheat 4.5",
+            "shade_descriptor": "light to medium skin neutral tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1841246-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Natural 05",
+            "shade_descriptor": "for medium skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710334-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Bamboo 5.5",
+            "shade_descriptor": "light to medium skin golden tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1841253-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Ginger 06",
+            "shade_descriptor": "for medium skin with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710342-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Desert 6.5",
+            "shade_descriptor": "medium to tan skin neutral tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1841261-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tan 07",
+            "shade_descriptor": "for tan skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710359-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Dune 7.5",
+            "shade_descriptor": "medium to tan skin golden tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1841279-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Spice 08",
+            "shade_descriptor": "for tan skin with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710367-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Chestnut 09",
+            "shade_descriptor": "for dark skin with golden tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710375-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Sienna 10",
+            "shade_descriptor": "for deep skin with neutral tones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1710383-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cinnamon 10.5",
+            "shade_descriptor": "for dark to deep skin with neutral to warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2219772-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cedar 11",
+            "shade_descriptor": "for deep skin with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2219764-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Mahogany 11.5",
+            "shade_descriptor": "for deep skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2219780-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Sent the wrong product",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "Love this product and have been saving it to use for a wedding. Just noticed I was sent the wrong product (topical liquid) and was told I cannot exchange because I missed the return window.. so disappointing considering this was their fault. I noticed other customers have had the same issue so it seems like this was not an accident, they are sending out the wrong product without notifying customers of the change."
+        },
+        {
+            "review_title": "Awful",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, notSure skin tone, Dry skin",
+            "review_text": "I ordered the tinted hydrating gel because I loved the mini version and wanted to invest into something more long term. However my order has been wrong multiple times! I kept on receiving the tinted moisturizer topical liquid? Itu2019s terrible   diffeee and unfortunately the formula is terrible"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "Perfect for dry skin. Love the coverage and live the fact it has spf"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Porcelain skin tone, Combination skin",
+            "review_text": "I've been using this for years. It was recommended by a staff, and I swear by it. good for sensitive skin!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Buttercream 03 - for light skin with golden tones",
+            "review_buyer_description": "Hazel eyes, gray hair, Normal skin",
+            "review_text": "Looks and feels great.  Colour is perfect and is SPF is 30."
+        },
+        {
+            "review_title": "Different formula :(",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "This was my go-to (and favourite) tinted moisturizer for years and I loved it but unfortunately they have recently changed the formula and this product made my face break out pretty bad. Super disappointed and will have to find a new tinted moisturizer."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "My top favourite. Iu2019m 42 so have maturing skin and this has great coverage, where you can layer yet never looks caked on. Leaves skin looking dewy and natural. I get comments on my skin. Love it!"
+        },
+        {
+            "review_title": "My daily staple - donu2019t leave the house without it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "I have been using this for roughly 5 years. Iu2019ve tried many other tinted creams and this one is the best by far. A little goes a long way with this products as well. I hope this product never gets discontinued!"
+        },
+        {
+            "review_title": "Was sent something called topical liquid ...",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, black hair, Combination skin",
+            "review_text": "Was sent complexion rescue tinted moisturizer topical liquid just as some reviews on here have said as well. Wish I saw those reviews before I bought it because I am not interested in trying any new formula. The original product as advertised in the photos here is an amazing product. I have sensitive skin and have been wearing it for years. The finish is perfect and it holds for all nighters with a good primer and setting powder. Will be returning this topical liquid."
+        },
+        {
+            "review_title": "Never leave me!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Call me crazy, but I actually like the new formulation. Iu2019ve been using this product since 2016, and when I heard they were discontinuing it I died a little inside.   But it seems to be back? I at least managed to snag two bottles before it went back out of stock. Anyway, I like the coverage, it matches my skin tone really well, it has SPF, it doesnu2019t make me break out, and makes me look dewy and fresh even when Iu2019m sleep-deprived.  PLEASE DO NOT EVER TAKE THIS AWAY!!"
+        },
+        {
+            "review_title": "Coverage",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, gray hair, Normal skin",
+            "review_text": "This product has good coverage but itu2019s a little heavy."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "I have been using this product for over 6 years and i have never gone back. It is absolutely perfect! It gives you beautiful skin without being too light or to heavy on the coverage its perfect"
+        },
+        {
+            "review_title": "New formulau2014terrible (CA)",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Medium skin tone, Normal skin",
+            "review_text": "Iu2019ve been using the gel for years and upon repurchase, I noticed the bottle seemed slightly different. The formula has def changed. Now itu2019s THICK, STICKY, and un-smooth finish. Returned."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "Still my favourite skin tint to day. Super lightweight and slight coverage for a more natural look for those who donu2019t need the full coverage effect"
+        },
+        {
+            "review_title": "Not the same anymore",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "I ran to buy this product when it finally was back on stock because I loved it in the past, but the product I received isnu2019t the same I used to buy. It says u201ctinted moisturizer topical liquidu201d and itu2019s the runniest and messiest complexion product Iu2019ve used. It doesnu2019t color correct anymore. I wonu2019t be buying it again."
+        },
+        {
+            "review_title": "Not what it says it is",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Medium skin tone, Normal skin",
+            "review_text": "Sephora has sent me the wrong one THREE TIMES! For some reason, they donu2019t seem to be sending out the tinted hydrating gel anymore and are sending out the matte topical liquid?  Itu2019s not the same product at all, unfortunately. If you can get the correct item (the one with the dewy/radiant finish), itu2019s amazing!! The matte topical liquid, however, totally dries out the skin and accentuates wrinkles."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "Opal 01 - for the fairest porcelain skin with cool tones",
+            "review_buyer_description": "",
+            "review_text": "The old formulation was much better. Itu2019s okay but Iu2019m going to be shopping around. If I canu2019t find anything better Iu2019ll stick with this one."
+        },
+        {
+            "review_title": "Not worth the price.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "$32.00 for a mini size is absolutely outrageous. The amount you get lasts about 2 weeks. I had one in my cart for $20, decided to check out the next day and the price jumped to $32. Totally ridiculous for a mediocre foundation. There are better options."
+        },
+        {
+            "review_title": "Wasnu2019t what I ordered but great product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I ordered the hydrating gel cream which looks like it may be discontinued. I was sent just the regular tinted moisturizer and Iu2019m really impressed. Lightweight, non greasy and decent coverage."
+        },
+        {
+            "review_title": "Obsessed!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "Absolutely the best product I've found for my skin. I have combination, sensitive skin, and this product helps to even my skin tone and keep it moisturized! After years of searching for a good product for me, I am DEVASTATED that it is discontinued :("
+        },
+        {
+            "review_title": "Has good potential but kind of disappointing",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I looove the finish and coverage (light to medium) but unfortunately if you have even a whisper of a dry patch, it will cling to it. Alsou2014pills easily if you use products before hand (I only use moisturizer)."
+        },
+        {
+            "review_title": "topical liquid still looks and feels good",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I am still getting over the discontinuation of the original gel cream version of this tinted moisturizer BUT I will say the topical liquidu2019s version is still surprisingly nice. Coverage is light and buildable and Iu2019m still glowing. Iu2019d try it guys!"
+        },
+        {
+            "review_title": "Terrible replacement",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Dry skin",
+            "review_text": "Hugely disappointed! I ordered Tinted Gel Cream, as advertised on product photo, and received Tinted Moisturizer. Product is NOT the same, big difference in the way it looks and feels on skin. Iu2019m using Tinted Gel for a few years now and itu2019s my absolutely favourite foundation but it seems that itu2019s impossible to buy it anymore, itu2019s being replaced with terrible moisturizer. Will return.  Right tube on the photo is my old Gel, left - new terrible moisturizer."
+        },
+        {
+            "review_title": "Devastated",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Dry skin",
+            "review_text": "I am so sad my HG is disappearing! Struggling to find a replacement."
+        },
+        {
+            "review_title": "My holy grail, where has it gone?!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Combination skin",
+            "review_text": "This is my holy grail and makes my skin look so airbrushed. Iu2019ve been using it for years. WHY IS IT NO LONGER IN STOCK? I now order it from the states to my friendu2019s house and she mails it to me. Please bring it back to Canada!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
+            "review_buyer_description": "Fair skin tone",
+            "review_text": "Oh nooooo! Has this been discontinued???? Iu2019ve been using this close to 10 years. What will I do!? Lol. Please bring this item back!!!"
+        },
+        {
+            "review_title": "BRING THIS BACK",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "This was the best and of course the have to ruin something that was perfectly good by making it u201cnew and improvedu201d. Bring this back please, the replacement has terrible reviews"
+        },
+        {
+            "review_title": "Ez pz tint",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is definitely a your-skin-but-better type of tint. The longer you wear it the better it looks. Love the SPF, can sometimes emphasize dry skin so best to exfoliate and moisturize well before hand. Easy to use with hands but i also like using with a sponge."
+        },
+        {
+            "review_title": "Please restock!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Please please restock this item. It is the best I have ever used. Itu2019s natural and my skin is perfect when I use it. Please do not discontinue it and please restock it soon!!"
+        },
+        {
+            "review_title": "Pls do not discontinue",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "This is my most favourite everyday use foundation/sunscreen. I donu2019t even know how many times Iu2019ve bought this product. Itu2019s so sad that I have to find a new one nowu2026"
+        },
+        {
+            "review_title": "Please do not discontinue",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "This is a wonderful product that I have been buying for years. It gives the most beautiful, natural finish to the skin. Is it true that it is being discontinued? Very sad if true."
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
+            "review_buyer_description": "Hazel eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "Maybe bareminerals could restock this? Itu2019s been +years and now even their mini complexionrescue is out of stock. I will be going to a different brand. Dont bother with the Matt version. Itu2019s terrible."
+        },
+        {
+            "review_title": "Holy grail",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Gives you an incredibly natural glow, doesnu2019t make you break out. Highly highly recommend!"
+        },
+        {
+            "review_title": "Moisturizing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "I have purchase this product multiple times. I love the fact that it is moisturize enough that I don't have to put another layer of moisturiser after my cleaning"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
+            "review_buyer_description": "",
+            "review_text": "RESTOCK IT PLEASE BEEN WAITING FOREVER I WANT TO TRY IT"
+        },
+        {
+            "review_title": "Best base ever!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Such a nice finish! Itu2019s so dewy and looks like skin"
+        },
+        {
+            "review_title": "MUST HAVE - replaces foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "Best product ever. I donu2019t even use foundation (because it feels like paint on my face donu2019t know what theyu2019re done to the formula the last few years) this is so dewy so natural great coverage but still So light. PLEASE BRING BACK! this has been out of stock since September"
+        },
+        {
+            "review_title": "Bring it back!!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "THE BEST EVER. I literally love this product so much itu2019s the only thing I use for my skin coverage, I canu2019t stand foundation anymore. This is so dewy and perfect!! Please bring it back"
+        },
+        {
+            "review_title": "Holy grail! Please bring back!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Gray eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "This has been my holy grail daily-use product for over 5 years now. Perfect amount of coverage and dewy-ness while leaving skin looking completely natural and makeup free. Plus the 30spf is so key!"
+        },
+        {
+            "review_title": "Must-have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Awesome product. Great coverage. Gives a good glow and dewiness but not shine. I can wear this alone with a bit of concealer and feel fresh faced. Love wearing my SPF every day too."
+        },
+        {
+            "review_title": "Holy grail",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
+            "review_text": "I love this product and constantly reorder it but I have been patiently waiting for it to restock u2014  itu2019s been sold out for over a month!! Please bring it back"
+        },
+        {
+            "review_title": "THE BEST",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "This is my go-to, my staple, my absolute favourite. Itu2019s perfect for light natural complexion but also building if you want more covered. PLEASE bring it back. I am so sad. Iu2019m on my last bottle and will have a tough time replacing it. Speaking of.. if this isnu2019t coming back - can someone recommend something similar? Thank you"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "Really like this tint, has nice coverage, looks nice on the skin, but is lacking in colour options. Iu2019m between 01-02. I have to mix them"
+        },
+        {
+            "review_title": "Amazing!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Please bring this back ASAP!!! This is my holy grail tinted moisturizer!"
+        },
+        {
+            "review_title": "Definitely a must haveu2764ufe0f",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I really love how it looks very natural and ufffcit has a good texture to my skin. I definitely recommend to use if you like light and natural looking foundations Iu2019m very picky with what foundations I use. Will be buying this again!u2764ufe0fu2764ufe0fu2764ufe0f I"
+        },
+        {
+            "review_title": "Possible irritant for closed comedones",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
+            "review_text": "It looks good and is hydrating. However, I believe itu2019s been giving me closed comedones."
+        },
+        {
+            "review_title": "Too drying for my sensitive skin",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Dry skin",
+            "review_text": "I was very excited to try this product when my presumed shade came back in stock after being out of stock for months. Unfortunately, after several weeks of wear, I don't think I will be repurchasing.  First, the pros: Great colour match for my fair skin with pink undertones; airy, whipped texture that feels lovely on application; a very nice, dewy finish with light coverage that blurs minor imperfections and redness.  But, then there are the cons: The product dries out my skin throughout the day (even though I always applied my daily moisturizer beforehand); it stings when I use it under my eyes; the application is tricky (applying with my fingers made for a patchy finish, but using a foundation brush made it streaky. The best application for me happens when I mix it with a dollop of my Blossom Color primer and blend with a sponge).  My conclusion is that the product itself is good, but isn't compatible with my dry and sensitive skin. It's a shame, as I was hoping it might help simplify my makeup routine on no makeup-makeup days."
+        },
+        {
+            "review_title": "A great lightweight option",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This leaves a skin-like finish! Got it color-matched in store and it matches perfectly. Covers my redness but doesnu2019t look fake or cakey. The only reason I didnu2019t give five stars is because after a few hours of wearing my skin gets very oily."
+        },
+        {
+            "review_title": "Too shiny, not naturally dewy as claims",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I wanted to love this product, I love most bareminerals productsu2026but this one I donu2019t love. It goes on nicely, and makes my skin soft, however the finish is awful. You have to put a LOT on to get the benefits of the tint, otherwise it just looks translucent. It says it gives you a natural dewy finishu2026but it doesnu2019t. It looks like a layer of SHINY plastic on your skin. I even put a matte pressed powder over top and I still looked super shiny, but not even normally so. It looks so fake."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Desert 6.5 - medium to tan skin neutral tone",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I bought the full size version after trying the mini, and while the shade matches up perfectly, it's recently made my skin quite oily. If it didn't do that, that'd be perfect, but otherwise a great product. I use this with concealer and some setting powder instead of foundation and it has worked great!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "Wheat 4.5 - light to medium skin neutral tone",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I absolutely love this product because I've been dealing with acne for decades and thought it would be helpful. I love the way it feels and that it's clean.   However, I just learned that Isostearic Acid must be avoided if you are prone to acne. When I found this out I was very disappointed with the marketing of this being that it's called complexion rescue when it could be doing the opposite.  I've continued getting acne while using this, assuming it was any other product then this that could be the reason... sad day. I'm going to discontinue use and see if it helps clear my face up."
+        },
+        {
+            "review_title": "Please Never Discontinue!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "This is amazing for my combination sensitive acne-prone skin! I love the texture as it doesnu2019t feel too heavy. I only use this on bare skin for light coverage and love that it works as moisturizer, SOF and light foundation for me"
+        },
+        {
+            "review_title": "Fake reviews online",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "This might be the worst product Iu2019ve ever purchased and Iu2019m immediately returning.  I was excited to buy this because.. spf+tinted moisturizer!! But within seconds of putting it on my clean dry face it started pillingu2026 like little spots of product everywhere. What??  I looked it up on TikTok and while some people say itu2019s their holy grail beautiful product I did find a few talking about it pilling.. which leads me to think a lot of the videos talking about how great it is but not showing it going on are paid.   No thanks."
+        },
+        {
+            "review_title": "Every Day Staple!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This is my ride or die foundation. I am OBSESSED. I love how easy this is to apply, the glowy finish is perfect, and it never breaks me out. Perfect for a day when I want less makeup, as it isnu2019t as heavy or as full coverage as some of my other foundations."
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Light skin tone, Normal skin",
+            "review_text": "I like this product when I only apply moisturizer underneath it and nothing else. Itu2019s a little chalky and prone to peeling if you have too many products under. It gives your skin a glowy look."
+        },
+        {
+            "review_title": "pilling!",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "tried to apply it with my hands, beauty blender, and brush but it would pill on my skin no matter what. also didnu2019t like the feel, it was oddly sticky"
+        },
+        {
+            "review_title": "Wanted to love it, but no lasting power + flakes",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Like the title says - didnu2019t love. Iu2019ve missed the return period so Iu2019ll keep it but I donu2019t reach for it ever - it flakes, doesnu2019t sit well on my skin especially around my nose (I have normal skin with minor pore concerns)"
+        },
+        {
+            "review_title": "Definitely purchasing again",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "Love this product so much!!! So glowy and hydrating. Very lightweight too! Sooo worth it for the price"
+        },
+        {
+            "review_title": "I donu2019t leave home without it.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "I use this daily, love it and canu2019t live without it.  Natural light coverage"
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, gray hair, lightMedium skin tone, Oily skin",
+            "review_text": "My new favourite product!  I put a light amount on with a foundation brush then follow up with a light dusting of my matte mineral foundation.   Totally natural look, hides small imperfections, looks great!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Vanilla 02 - for light skin with neutral tones",
+            "review_buyer_description": "Green eyes, brunette hair, Fair skin tone, Combination skin",
+            "review_text": "I keep buying it and it never disappoints. I enjoy light coverage hydrating products and this dosen't break me out either. wonderful for both summer and winter."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "My favourite foundation. Light and glowy.  Sheer coverage."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Natural 05 - for medium skin with neutral tones",
+            "review_buyer_description": "Hazel eyes, black hair, Oily skin",
+            "review_text": "Second time buying this. Lightweight, natural finish, and its SPF 30! I have combo skin, leaning on oily, and by the end of the day this holds up nicely."
+        },
+        {
+            "review_title": "must have perfect for every occasion",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, Porcelain skin tone, Combination skin",
+            "review_text": "Creamy lightweight formula absolute must have perfect for everything, formal or casual. I love this, and it's perfect for beginners"
+        },
+        {
+            "review_title": "Not worth it",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Sad that this didnu2019t work for my skin. I find it looks flakey and blotches together. Have tried it with nothing else on my face and the same thing happens. Wonu2019t be buying again."
+        },
+        {
+            "review_title": "Love this!!!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Amazing!! My skin looks like glass and so healthy. Evened out my complexion too."
+        },
+        {
+            "review_title": "Love this u2764ufe0f is a perfect match",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Tan skin tone, Normal skin",
+            "review_text": "Very light coverage and SPF, I don't really use foundation and this is the perfect light and breathable coverage that gives a slight tint/ cover up of minor imperfections and protects against sun damage!"
+        },
+        {
+            "review_title": "Looks like skin!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
+            "review_text": "Love this for light days! I have very dry skin and this doesnu2019t irritate it and is hydrating which is what I look for in a good tinted cream. Canu2019t wait to use this throughout the summer too."
+        },
+        {
+            "review_title": "A good one for no makeup days.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, gray hair, Fair skin tone, Dry skin",
+            "review_text": "Lovely tinted moisturizer. Iu2019ve used it for 2 years. Itu2019s a very light tint- evens things out and the moisturizer side of it works really well. I do need a bit of powder to keep it in place -it wears off quickly.   The shade Opal is a good one for pale cool toned skin."
+        },
+        {
+            "review_title": "a must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Medium skin tone, Combination skin",
+            "review_text": "I purchased the mini bottle first to try. I now have the large bottle. I love how it feels, and that it has SPF. This product does not have a smell or fumes"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Fair skin tone, Dry skin",
+            "review_text": "This used to be my favorite for a natural dewy look, but my last two purchases of this have been huge let downs. It really doesn't stay on for long and isn't hydrating. By the 4 hr mark it looks like I have nothing on my face and it becomes flakey."
+        },
+        {
+            "review_title": "Oxidized",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Oily skin",
+            "review_text": "I like the formula, and loved how light and cooling it felt, but after an hour of wear it oxidized several shades lower than the original shade."
+        },
+        {
+            "review_title": "wouldn't recommend",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Medium skin tone, Normal skin",
+            "review_text": "I had very high hopes for this product. The shade is perfect for my skin tone and went on like a dream but dried out my face terribly and flaked off. I didn't find this hydrating at all."
+        },
+        {
+            "review_title": "This is my 3d time repurchasing! GO GET THIS!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "Love this perfect no makeup makeup product. It really helps even out my redness, but If youu2019re expecting this to be a full coverage foundation, its not itu2019s more of a bb cream."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Ginger 06 - for medium skin with golden tones",
+            "review_buyer_description": "Fair skin tone, Dry skin",
+            "review_text": "I like this product. When i used this cream it gives natural look to my face: I really liked it. I like to use this cream on any event I go to."
+        },
+        {
+            "review_title": "Not for me",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I really wanted to love this product! It has little to no coverage and it starts flaking almost instantly after putting on your face :("
+        },
+        {
+            "review_title": "Itu2019s okay",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I wanted to like this but I found it didnu2019t have as much coverage as I hoped. Any dryness was emphasized and it slid throughout the day. Might work great for others but not the product for me. 2 stars because it was an easy application."
+        },
+        {
+            "review_title": "Not a good match",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Combination skin",
+            "review_text": "I was really surprised how badly this did not work for me. There are so many selections for skin tone, yet I couldnu2019t find the right match- Iu2019m very fair with dry skin. It felt like it was burning on my face a little. Then it started hurting. I looked in the mirror, and I had small welts breaking out. Iu2019m really disappointed."
+        },
+        {
+            "review_title": "My fav for naturally a flawless look",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "I have repurchased this product and will continue to! It is perfect coverage if you don't want too much but just enough to make your skin look flawless while remaining light and natural."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "Tan 07 - for tan skin with neutral tones",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "Elevates your skin with a smooth shin..perfect make up no make up look"
+        },
+        {
+            "review_title": "Probably my most repurchased item ever...but...",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I used this exclusively for years, I tried a few others recently and recently came back to it. Is super nice when you want something light and undetectable. I have developed redness lately sadly and this does little to nothing, generally Id use concealer but even there be careful as if its too heavy it wont work with the light coverage."
+        },
+        {
+            "review_title": "Keep coming back",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Dry skin",
+            "review_text": "I have tried many foundations/tinted moisturizers over the past ten years and no matter what I always come back to this and have one in my bag. Just wished it stayed longer."
+        },
+        {
+            "review_title": "Seems to have changed colour-wise",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Normal skin",
+            "review_text": "I used this product a couple of years ago and liked it very much.  Recently decided to start using it again and bought the same colour I used to use - Vanilla 02.  The company must've made some changes because now the colour is WAY too orange - it is not neutral at all.  Caught a look at myself in a mirror last night and I looked like Trump!! Not sure if I will exchange for a different shade; it seemed to cling to and highlight a flaky spot as well so I might return it."
+        },
+        {
+            "review_title": "Nice finish with beauty blender",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Combination skin",
+            "review_text": "I like using this product with a Beauty blender rather than with my fingers because it gives it a nice finish. If you rub this product with your fingers, it starts to pill and become flaky. Other than that, the formula is nice and smooth. It gives a nice radiant glow that lasts all day."
+        }
+    ]
 }

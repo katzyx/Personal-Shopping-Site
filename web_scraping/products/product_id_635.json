@@ -1,23 +1,22 @@
 {
-	"product_id": "635",
-	"name": "KissKiss Tender Matte Lipstick",
-	"brand": "GUERLAIN",
-	"categories": "Makeup, Lip, Lipstick",
-	"price": 61.0,
-	"about": "What it is:A matte lipstick as tender as a kiss with a trio of ingredients (hyaluronic acid, shea butter, and rose petal extract) for up to 16 hours of comfort..Formulation Type:Lipstick.Benefits:Long-wearing.Highlighted Ingredients:- Hyaluronic Acid: Smooths, visibly plumps, and continuously hydrates lips..Ingredient Callouts:This product is cruelty-free..What Else You Need to Know:This lipstick has a second-skin texture with a lightweight, bare-lip sensation like no other. Mattifying powders coated in shea butter sensually glide onto lips, bathing them in luminous matte color that lasts for up to 12 hours.",
-	"ingredients": "-Hyaluronic Acid: Smooths, visibly plumps, and continuously hydrates lips..-Shea Butter: Nurtures, soothes, and comforts lips..-Rose Petal Extract: Softens. ..Polyglyceryl-2 Triisostearate, Octyldodecanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Isononyl Isononanoate, Hydrogenated Polydecene, Silica, Trimethylolpropane Triisostearate, C10-30 Cholesterol/Lanosterol Esters, Synthetic Wax, Candelilla Cera (Euphorbia Cerifera (Candelilla) Wax), Ethylhexyl Palmitate, Butyrospermum Parkii (Shea) Butter, Polyethylene, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Parfum (Fragrance), Commiphora Mukul Resin Extract, Trihydroxystearin, Tocopherol, Propyl Gallate, Sodium Hyaluronate, Rosa Damascena Flower Water, Citric Acid, Glucomannan, Potassium Sorbate, Sodium Benzoate, Aqua (Water), [+/- CI 15985 (Yellow 6 Lake), CI 15850 (Red 7, Red 7 Lake), CI 77492, CI 77499 (Iron Oxides), CI 42090 (Blue 1 Lake), CI 77891 (Titanium Dioxide)].",
-	"how_to_use": "Suggested Usage:.-Apply KissKiss Liplift Lipstick Primer (sold separately) to smooth and prepare lips for long-lasting color, or apply KissKiss Bee Glow Lipstick Balm (sold separately) to prepare and hydrate lips, removing excess product with a tissue..-Apply KissKiss Tender Matte Lipstick to color your lips.",
-	"num_reviews": 0,
-	"overall_rating": "N/A",
-	"product_url": "https://www.sephora.com/ca/en/product/guerlain-kisskiss-tender-matte-lipstick-P505424?skuId=2684108&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2684108-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "777 ETERNAL RED",
-			"shade_descriptor": "Burgundy Red",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2684108-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "635",
+    "name": "KissKiss Tender Matte Lipstick",
+    "brand": "GUERLAIN",
+    "categories": "Makeup, Lip, Lipstick",
+    "price": 61.0,
+    "about": "What it is:A matte lipstick as tender as a kiss with a trio of ingredients (hyaluronic acid, shea butter, and rose petal extract) for up to 16 hours of comfort..Formulation Type:Lipstick.Benefits:Long-wearing.Highlighted Ingredients:- Hyaluronic Acid: Smooths, visibly plumps, and continuously hydrates lips..Ingredient Callouts:This product is cruelty-free..What Else You Need to Know:This lipstick has a second-skin texture with a lightweight, bare-lip sensation like no other. Mattifying powders coated in shea butter sensually glide onto lips, bathing them in luminous matte color that lasts for up to 12 hours.",
+    "ingredients": "-Hyaluronic Acid: Smooths, visibly plumps, and continuously hydrates lips..-Shea Butter: Nurtures, soothes, and comforts lips..-Rose Petal Extract: Softens. ..Polyglyceryl-2 Triisostearate, Octyldodecanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Isononyl Isononanoate, Hydrogenated Polydecene, Silica, Trimethylolpropane Triisostearate, C10-30 Cholesterol/Lanosterol Esters, Synthetic Wax, Candelilla Cera (Euphorbia Cerifera (Candelilla) Wax), Ethylhexyl Palmitate, Butyrospermum Parkii (Shea) Butter, Polyethylene, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Parfum (Fragrance), Commiphora Mukul Resin Extract, Trihydroxystearin, Tocopherol, Propyl Gallate, Sodium Hyaluronate, Rosa Damascena Flower Water, Citric Acid, Glucomannan, Potassium Sorbate, Sodium Benzoate, Aqua (Water), [+/- CI 15985 (Yellow 6 Lake), CI 15850 (Red 7, Red 7 Lake), CI 77492, CI 77499 (Iron Oxides), CI 42090 (Blue 1 Lake), CI 77891 (Titanium Dioxide)].",
+    "how_to_use": "Suggested Usage:.-Apply KissKiss Liplift Lipstick Primer (sold separately) to smooth and prepare lips for long-lasting color, or apply KissKiss Bee Glow Lipstick Balm (sold separately) to prepare and hydrate lips, removing excess product with a tissue..-Apply KissKiss Tender Matte Lipstick to color your lips.",
+    "num_reviews": 0,
+    "overall_rating": "N/A",
+    "product_url": "https://www.sephora.com/ca/en/product/guerlain-kisskiss-tender-matte-lipstick-P505424?skuId=2684108&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2684108-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "777 ETERNAL RED",
+            "shade_descriptor": "Burgundy Red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2684108-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }

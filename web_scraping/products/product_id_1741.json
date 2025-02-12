@@ -1,28 +1,27 @@
 {
-	"product_id": "1741",
-	"name": "Baggage Claim Eye Masks",
-	"brand": "Wander Beauty",
-	"categories": "Skincare, Masks, Eye Masks",
-	"price": 35.5,
-	"about": "Which skin type is it good for?.What it is:.Highlighted Ingredients:.If you want to know more….This set contains:.What it is formulated WITHOUT:.What else you need to know:",
-	"ingredients": "Water/Eau/Aqua, Glycerin, Butylene Glycol, 1,2-Hexanediol, Aloe Barbadensis Leaf Juice, Xanthan Gum, Polyglyceryl-4 Caprate, Panthenol, Hydroxyethylcellulose, Portulaca Oleracea Extract, Myrciaria Dubia Fruit Extract, Calendula Officinalis Flower Extract, Ethylhexylglycerin, Scutellaria Baicalensis Root Extract, Disodium EDTA, Glyceryl Caprylate, Tocopheryl Acetate, Sodium Hyaluronate, Simmondsia Chinensis (Jojoba) Seed Oil, Natto Gum, Glycine, Serine, Glutamic Acid, Beta-glucan, Valine, Tyrosine, Threonine, Proline, Phenylalanine, Methionine, Lysine, Leucine, Isoleucine, Histidine, Cysteine, Aspartic Acid, Arginine, Alanine, Acetyl Hexapeptide-8, Copper Tripeptide-1.",
-	"how_to_use": "Suggested Usage:..-Apply onto clean, dry under-eyes. ..-Leave on for 10-15 minutes, and discard after use. ..-Gently pat remaining serum into skin.",
-	"num_reviews": 517,
-	"overall_rating": 4.1,
-	"product_url": "https://www.sephora.com/ca/en/product/baggage-claim-gold-eye-masks-P428668?skuId=2049625&icid2=products",
-	"image_url": "https://www.sephora.com/productimages/sku/s2049625-main-zoom.jpg?imwidth=465",
-	"shades": [
-		{
-			"shade_name": "6 x Eye Masks",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2049625-main-zoom.jpg?imwidth=465"
-		},
-		{
-			"shade_name": "6 x Eye Masks",
-			"shade_descriptor": "",
-			"shade_image_url": "https://www.sephora.com/productimages/sku/s2156925-main-zoom.jpg?imwidth=465"
-		}
-	],
-	"reviews": [
-	]
+    "product_id": "1741",
+    "name": "Baggage Claim Eye Masks",
+    "brand": "Wander Beauty",
+    "categories": "Skincare, Masks, Eye Masks",
+    "price": 35.5,
+    "about": "Which skin type is it good for?.What it is:.Highlighted Ingredients:.If you want to know moreu2026.This set contains:.What it is formulated WITHOUT:.What else you need to know:",
+    "ingredients": "Water/Eau/Aqua, Glycerin, Butylene Glycol, 1,2-Hexanediol, Aloe Barbadensis Leaf Juice, Xanthan Gum, Polyglyceryl-4 Caprate, Panthenol, Hydroxyethylcellulose, Portulaca Oleracea Extract, Myrciaria Dubia Fruit Extract, Calendula Officinalis Flower Extract, Ethylhexylglycerin, Scutellaria Baicalensis Root Extract, Disodium EDTA, Glyceryl Caprylate, Tocopheryl Acetate, Sodium Hyaluronate, Simmondsia Chinensis (Jojoba) Seed Oil, Natto Gum, Glycine, Serine, Glutamic Acid, Beta-glucan, Valine, Tyrosine, Threonine, Proline, Phenylalanine, Methionine, Lysine, Leucine, Isoleucine, Histidine, Cysteine, Aspartic Acid, Arginine, Alanine, Acetyl Hexapeptide-8, Copper Tripeptide-1.",
+    "how_to_use": "Suggested Usage:..-Apply onto clean, dry under-eyes. ..-Leave on for 10-15 minutes, and discard after use. ..-Gently pat remaining serum into skin.",
+    "num_reviews": 517,
+    "overall_rating": 4.1,
+    "product_url": "https://www.sephora.com/ca/en/product/baggage-claim-gold-eye-masks-P428668?skuId=2049625&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2049625-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "6 x Eye Masks",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2049625-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "6 x Eye Masks",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2156925-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
 }
