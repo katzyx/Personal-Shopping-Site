@@ -353,3 +353,11 @@ body, html {
   .add_to_bag:active {
     cursor: pointer;
   }
+
+  .info{
+    opacity: 0.7;
+  }
+
+  .info:hover{
+    opacity: 1;
+  }

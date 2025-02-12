@@ -297,7 +297,9 @@
               {{ user_details }}
             </div>
             
-            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description:</label>
+            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description
+              <img class="info" src="{{ url_for('static', filename='assets/icons8-information-100.png') }}" style="width: 12px;"> :
+            </label>
             <textarea 
               name="user_details" 
               id="user_form" 
