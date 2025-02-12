@@ -128,7 +128,7 @@ class BasicSelection:
             if 'Products' in self.user_info['what']:
                 product_matches = False
                 for requested_product in self.user_info['what']['Products']:
-                    if requested_product in product.type:  # Check if requested product is in the product's categories
+                    if requested_product in product.type or requested_product in product.name:  # Check if requested product is in the product's categories
                         product_matches = True
                         break
                 

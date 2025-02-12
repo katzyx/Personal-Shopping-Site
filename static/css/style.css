@@ -360,4 +360,17 @@ body, html {
 
   .info:hover{
     opacity: 1;
+    cursor: pointer;
   }
+
+  .popup {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 180px;
+    font-size: 11px;
+    z-index: 9999;
+}
