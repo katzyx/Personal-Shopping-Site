@@ -91,7 +91,6 @@ class UserInput:
                 break
             
         # For debugging purposes
-        print("internal")
         print(reply)
 
         # debug and check if reply is empty or doesn't make sense
