@@ -211,13 +211,18 @@
 
     <!-- This section is where images are displayed -->
     {% if products_list %}
+    <p style="font-size: large; text-align: center; margin-top: -5px; margin-bottom: 30px;"><b>Our Recommendations for You</b></p>
     <div style="display: flex; align-items: center; text-align: center; padding-bottom: 5em;">
       {% for i in range(0,7) %}
         {% if products_list|length > i %}
-          <div style="flex: 14%; padding: 0.5em 0em">
-            <img src="{{products_list[i].url}}" height="200em" width="125em">
-            <p>{{products_list[i].name}}</p>
-            <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+          <div class="product_div" style="flex: 14%; padding: 0.5em 0em">
+            <div height="200em" style="margin-bottom: 3em;">
+              <img src="{{products_list[i].url}}" width="125em">
+            </div>
+            <p class="prod_name">{{products_list[i].name}}</p>
+            <p class="prod_brand">
+              <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+            </p>
             <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
             <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
           </div>
@@ -255,10 +260,14 @@
         <div style="display: flex; justify-content: space-around;">
           {% for i in range(7,11) %}
             {% if products_list|length > i %}
-              <div style="flex: 1; padding: 0.5em 1em;">
-                <img src="{{products_list[i].url}}" height="200em" width="125em">
-                <p>{{products_list[i].name}}</p>
-                <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+              <div class="product_div2" style="flex: 1; padding: 0.5em 1em;">
+                <div height="200em" style="margin-bottom: 3em;">
+                  <img src="{{products_list[i].url}}" width="125em">
+                </div>
+                <p class="prod_name">{{products_list[i].name}}</p>
+                <p class="prod_brand">
+                  <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
+                </p>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
                 <button class="add_to_bag" style="padding: 0.5em 2em;">ADD TO BAG</button>
               </div>
@@ -270,7 +279,7 @@
   </div>
 
   <div style="background-color: black; color: white; padding: 1em; margin: 3em 0em 0em 0em; text-align: center;">
-    <p style="margin: 0;"><b>Personalized site custom generated in {{time}} seconds</b></p>
+    <p style="margin: 0;"><b>Personalized site custom-generated in {{time}} seconds</b></p>
   </div>
   
 
