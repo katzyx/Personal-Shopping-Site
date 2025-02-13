@@ -97,10 +97,11 @@
                 // Reset form
                 document.getElementById("user_form").value = '';
                 
-                // Reload the page after a short delay to show the success message
-                setTimeout(() => {
-                    window.location.reload();
-                }, 1500);
+                // Close sidebar
+                toggleSidebar();
+                
+                // Redirect to loading page while new products are generated
+                window.location.href = '/index';
             })
             .catch(error => {
                 console.error('Error:', error);
