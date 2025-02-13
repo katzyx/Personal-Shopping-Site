@@ -1,8 +1,13 @@
 # Imports
+import time
 import pandas as pd # type: ignore
 import numpy as np # type: ignore
 import json
 import re
+import os
+from concurrent.futures import ThreadPoolExecutor
+from typing import List, Dict, Set
+import threading
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -120,70 +125,92 @@ class BasicSelection:
         else:
             self.user_info['what']['Price'] = [0,99999999]
     
-    def keyword_lookup(self):
-        product_match: dict = {}
-
-        # Parse through all products
-        for product in self.product_database:
+    def process_product_chunk(self, products: List[Product], user_info: Dict, start_idx: int, end_idx: int) -> Dict[int, List[Product]]:
+        product_match: Dict[int, List[Product]] = {}
+        
+        for product in products[start_idx:end_idx]:
             matches = 0
-
-            # If products are specified, check if any of the requested products match any of the product's categories
-            if 'Products' in self.user_info['what']:
+            
+            # Quick check for product type match first
+            if 'Products' in user_info['what']:
                 product_matches = False
-                for requested_product in self.user_info['what']['Products']:
-                    if requested_product in product.type or requested_product in product.name:  # Check if requested product is in the product's categories
-                        product_matches = True
-                        break
-                
-                if not product_matches:
+                requested_products = set(user_info['what']['Products'])  # Convert to set for O(1) lookup
+                if any(prod in requested_products for prod in product.type) or any(prod in product.name for prod in requested_products):
+                    product_matches = True
+                    matches += 1
+                else:
                     if matches in product_match:
                         product_match[matches].append(product)
                     else:
                         product_match[matches] = [product]
                     continue
             
-            # Otherwise, look at other prompts
-            for prompt in USER_WHAT_PROMPTS:
-                if prompt in self.user_info['what']:
-                    if prompt == 'Price':
-                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
-                            matches += 1
-                    elif prompt == 'Products':
-                        matches += 1  # We already handled this above
-                    elif prompt == 'Colour':
-                        # Check if any of the product's shades contain the requested color
-                        requested_color = self.user_info['what'][prompt].lower()
-                        for shade in product.get_attribute(prompt):
-                            if requested_color in shade.lower():
-                                matches += 1
-                                break
-                    elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
-                        matches += 1
+            # Check other criteria
+            if 'Price' in user_info['what']:
+                price_range = user_info['what']['Price']
+                if price_range[0] <= product.price <= price_range[1]:
+                    matches += 1
+                
+            if 'Brand' in user_info['what'] and product.brand in user_info['what']['Brand']:
+                matches += 1
+            
+            if 'Colour' in user_info['what']:
+                requested_color = user_info['what']['Colour'].lower()
+                if any(requested_color in shade.lower() for shade in product.color):
+                    matches += 1
             
             if matches in product_match:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
             
-        # for num_matches, products in product_match.items():
-        #     product_list = []
-        #     for product in products:
-        #         product_list.append(product.name)
-        #     print(num_matches, product_list)
+        return product_match
 
-        # Choose the top products
-        top_products: list[Product] = []
+    def merge_results(self, results: List[Dict[int, List[Product]]]) -> Dict[int, List[Product]]:
+        merged: Dict[int, List[Product]] = {}
+        for result in results:
+            for matches, products in result.items():
+                if matches in merged:
+                    merged[matches].extend(products)
+                else:
+                    merged[matches] = products
+        return merged
 
-        matches_rev = list(product_match.keys())
-        matches_rev.sort(reverse=True)
-        for num_matches in matches_rev:
-            if num_matches == 0:
+    def keyword_lookup(self):
+        print(f"Starting keyword lookup with {os.cpu_count()} threads")
+        start_time = time.time()
+        
+        # Determine optimal chunk size based on CPU count
+        chunk_size = max(len(self.product_database) // (os.cpu_count() or 4), 1)
+        chunks = [(i, min(i + chunk_size, len(self.product_database))) 
+                 for i in range(0, len(self.product_database), chunk_size)]
+        
+        # Process chunks in parallel
+        results = []
+        with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
+            futures = [
+                executor.submit(self.process_product_chunk, 
+                              self.product_database, 
+                              self.user_info, 
+                              start, 
+                              end) 
+                for start, end in chunks
+            ]
+            results = [f.result() for f in futures]
+        
+        # Merge results
+        product_match = self.merge_results(results)
+        
+        # Select top products
+        top_products: List[Product] = []
+        for matches in sorted(product_match.keys(), reverse=True):
+            if matches == 0:
                 break
-            if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
+            products = product_match[matches]
+            remaining = NUMBER_PRODUCTS_RETURNED - len(top_products)
+            if remaining <= 0:
                 break
-            for product in product_match[num_matches]:
-                if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
-                    break
-                top_products.append(product)
-                
+            top_products.extend(products[:remaining])
+        
+        print(f"Keyword lookup completed in {time.time() - start_time:.2f} seconds")
         return top_products
