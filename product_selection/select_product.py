@@ -16,7 +16,7 @@ NUMBER_PRODUCTS_RETURNED = 11
 
 # Class Definitions
 class Product:
-    def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url):
+    def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url, redirect_url):
         self.name: str = name # Product name
         self.type: list[str] = type # Product categories
         self.brand: str = brand # Product brand
@@ -26,7 +26,8 @@ class Product:
         self.formula: str = formula # Product formula
         self.ingredients: list[str] = ingredients# List of ingredients of product
         self.about: str = about # Description of product
-        self.url: str = url # URL to product purchasing site
+        self.url: str = url # URL to product image
+        self.redirect_url: str = redirect_url # URL to purchasing site
 
 
     def get_attribute(self, entry):
@@ -69,7 +70,8 @@ class BasicSelection:
                 formula='',              # empty formula
                 ingredients=ingr_list,    # ingredients list
                 about=df.iloc[r, 7],      # about
-                url=df.iloc[r, 10]        # image_url
+                url=df.iloc[r, 10],        # image_url
+                redirect_url=df.iloc[r, 11]
             )
             
             self.product_database.append(temp_product)
