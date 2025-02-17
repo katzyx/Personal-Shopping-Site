@@ -43,7 +43,42 @@ def query_rag_model():
         return
     
     query_engine = index.as_query_engine()
-    response = query_engine.query("what do people with light skin tone think of the Luminous Silk Perfect Glow Flawless Oil-Free Foundation")
+
+    query_text = "\
+        I am a 21 year old Asian woman with light neutral-tone skin. I'm looking for a red lipstick.\
+        Recommend me five different products from five different brands. If five distinct products cannot be found, choose other similar or relevant products.\
+        Give me the product_id, name, brand, one shade, and the shade_image_url for each product.\
+    "
+    # query_text = f"""
+    #             Your goal is to recommend products to users based on their query and on the retrieved
+    #             content. If a retrieved product does not seem relevant, omit it from your response.
+    #             If a retrieved product is a review, do not return it.
+    #             If your context is empty or none of the retrieved products are relevant, do 
+    #             not recommend products, but instead tell the user you couldn't find any products 
+    #             that match their query. If a product has available shades, choose one that best fits
+    #             the query. Aim for three to five product recommendations, as long as the 
+    #             products are relevant. Your recommendation should be relevant.
+
+    #             YOU CANNOT RECOMMEND A PRODUCT IF IT DOES NOT APPEAR IN YOUR CONTEXT.
+
+    #             # TEMPLATE FOR OUTPUT IF NO SHADES ARE AVAILABLE:
+    #             - Product Name:
+    #                 - Brand:
+    #                 - Image URL:
+                
+    #             # TEMPLATE FOR OUTPUT IF SHADES ARE AVAILABLE:
+    #             - Product Name:
+    #                 - Brand:
+    #                 - Image URL:
+    #                 - Shade:
+    #                 - Shade Description:
+    #                 - Shade Image URL:
+
+    #             Query: I am a 21 year old Asian woman with light neutral-tone oily skin. I want a foundation under $50.
+    #             """
+    print(query_text)
+
+    response = query_engine.query(query_text)
     print(response)
 
 
