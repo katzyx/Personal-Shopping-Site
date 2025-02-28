@@ -1,12 +1,15 @@
 import os
 import glob
 import chromadb # type: ignore
-from llama_index.core import VectorStoreIndex, StorageContext # type: ignore
+import time
+from llama_index.core import VectorStoreIndex, StorageContext, get_response_synthesizer # type: ignore
 from llama_index.core.readers.json import JSONReader # type: ignore
 from llama_index.llms.openai import OpenAI # type: ignore
 from llama_index.vector_stores.chroma import ChromaVectorStore # type: ignore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding # type: ignore
 from llama_index.core import Settings # type: ignore
+from llama_index.core.retrievers import VectorIndexRetriever # type: ignore
+from llama_index.core.query_engine import RetrieverQueryEngine # type: ignore
 
 # Function to load and index JSON data
 def load_index(index_dir):
@@ -34,21 +37,56 @@ def load_index(index_dir):
     
     return None
 
+
+product_metadata = {
+    "Product ID": "A unique identifier for the product.",
+    "Product Name": "The name of the product.",
+    "Brand": "The brand that manufactures the product.",
+    "Price": "The price of the product in CAD.",
+    "Rating": "The average rating of the product out of 5.",
+    "Number of Reviews": "The number of reviews the product has received.",
+    "Product URL": "The URL to the product page.",
+    "Image URL": "The URL to the product image.",
+    "Shades" : "A list of shades in the format of <shade name> - <shade description> - <shade url>"
+}
+
 def query_rag_model():
+    start = time.time()
+
     index_dir = "./chroma_db"
     index = load_index(index_dir)
 
     if not index:
         print("Index not found.")
         return
-    
-    query_engine = index.as_query_engine()
 
-    query_text = "\
-        I am a 21 year old Asian woman with light neutral-tone skin. I'm looking for a red lipstick.\
-        Recommend me five different products from five different brands. If five distinct products cannot be found, choose other similar or relevant products.\
-        Give me the product_id, name, brand, one shade, and the shade_image_url for each product.\
+    loaded_index = time.time()
+
+    # configure retriever
+    retriever = VectorIndexRetriever(
+        index=index,
+        similarity_top_k=10,
+    )
+
+    # configure response synthesizer
+    response_synthesizer = get_response_synthesizer(
+        response_mode="tree_summarize",
+    )
+
+    # assemble query engine
+    query_engine = RetrieverQueryEngine(
+        retriever=retriever,
+        response_synthesizer=response_synthesizer,
+    )
+    
+    # query_engine = index.as_query_engine()
+
+    query_text = f"\
+        I am a 23 year old Asian woman with light skintone. I'm going to a party and want a full face of makeup. Recommend me 10 products.\
+        Give me the Product ID, Product Name, Brand, Product URL, and Image URL of each of the products.\
     "
+    #     If Shades are available, choose one shade for me and give me that as well (the shade name, description and url).\
+    # "
     # query_text = f"""
     #             Your goal is to recommend products to users based on their query and on the retrieved
     #             content. If a retrieved product does not seem relevant, omit it from your response.
@@ -78,8 +116,16 @@ def query_rag_model():
     #             """
     print(query_text)
 
+    created_engine = time.time()
+
     response = query_engine.query(query_text)
     print(response)
+
+    queried = time.time()
+
+    print(f"\nTime to load index: {loaded_index - start} seconds.")
+    print(f"Time to create query engine: {created_engine - loaded_index} seconds.")
+    print(f"Time to generate response: {queried - created_engine} seconds.")
 
 
 if __name__ == "__main__": 
