@@ -18,7 +18,7 @@ Shades:
  - Shade: En Vogue
    Shade Description: Pink
    Shade Image URL: https://www.sephora.com/productimages/sku/s2710911-main-zoom.jpg?imwidth=465
- - Shade: u00c9lu00e9gance
+ - Shade: u00c9legance
    Shade Description: Pink
    Shade Image URL: https://www.sephora.com/productimages/sku/s2710929-main-zoom.jpg?imwidth=465
  - Shade: Signatue Look

@@ -18,7 +18,7 @@ Shades:
  - Shade: Catfight
    Shade Description: vivid red
    Shade Image URL: https://www.sephora.com/productimages/sku/s2476554-main-zoom.jpg?imwidth=465
- - Shade: Olu00e9 Orange
+ - Shade: Ole Orange
    Shade Description: bright orange
    Shade Image URL: https://www.sephora.com/productimages/sku/s2476455-main-zoom.jpg?imwidth=465
  - Shade: Pure Plum

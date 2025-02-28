@@ -12,7 +12,7 @@ Product URL: https://www.sephora.com/ca/en/product/danessa-myricks-beauty-yummy-
 Image URL: https://www.sephora.com/productimages/sku/s2738672-main-zoom.jpg?imwidth=465
 
 Shades: 
- - Shade: Rosu00e9 N Brunch
+ - Shade: Rose N Brunch
    Shade Description: neutral rosey pink
    Shade Image URL: https://www.sephora.com/productimages/sku/s2654010-main-zoom.jpg?imwidth=465
  - Shade: Jubilee

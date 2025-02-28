@@ -18,7 +18,7 @@ Shades:
  - Shade: Rue
    Shade Description: tawny chesnut
    Shade Image URL: https://www.sephora.com/productimages/sku/s2739076-main-zoom.jpg?imwidth=465
- - Shade: Piquu00e9
+ - Shade: Pique
    Shade Description: taupey nude
    Shade Image URL: https://www.sephora.com/productimages/sku/s2739068-main-zoom.jpg?imwidth=465
  - Shade: Ma Biche

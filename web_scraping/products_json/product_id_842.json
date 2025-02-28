@@ -339,7 +339,7 @@
             "review_rating": 5,
             "review_shade_purchased": "",
             "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
-            "review_text": "Lo mejor qu\u00e9 hay para secar los barros. Es excelente. Lo recomiendo."
+            "review_text": "Lo mejor qu\e hay para secar los barros. Es excelente. Lo recomiendo."
         },
         {
             "review_title": "",
@@ -843,7 +843,7 @@
             "review_rating": 5,
             "review_shade_purchased": "",
             "review_buyer_description": "",
-            "review_text": "En amour avec de produit. Les boutons paraissent beaucoup moi et ce, d\u00e8s le lendemain de l'application."
+            "review_text": "En amour avec de produit. Les boutons paraissent beaucoup moi et ce, d\es le lendemain de l'application."
         },
         {
             "review_title": "It works overnight",
@@ -1291,7 +1291,7 @@
             "review_rating": 5,
             "review_shade_purchased": "",
             "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
-            "review_text": "Tr\u00e8s efficace. Je le recommande fortement ! Du jour au lendemain on voit un changement."
+            "review_text": "Tr\es efficace. Je le recommande fortement ! Du jour au lendemain on voit un changement."
         },
         {
             "review_title": "",
@@ -2754,7 +2754,7 @@
             "review_rating": 5,
             "review_shade_purchased": "",
             "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Normal skin",
-            "review_text": "J\u2019adore, important de mettre une bonne dose d\u2019hydratation en dessou mais les r\u00e9sultats sont visible en 1-2 application!"
+            "review_text": "J\u2019adore, important de mettre une bonne dose d\u2019hydratation en dessou mais les r\esultats sont visible en 1-2 application!"
         },
         {
             "review_title": "BLEMISHES BE GONE!!!!",
@@ -3174,7 +3174,7 @@
             "review_rating": 5,
             "review_shade_purchased": "",
             "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Combination skin",
-            "review_text": "J\u2019adore ce produit ! Il fait vraiment des miracles , je l\u2019applique le soir et le lendemain mon bouton a diminuer de plus de la moiti\u00e9 ! Wow !"
+            "review_text": "J\u2019adore ce produit ! Il fait vraiment des miracles , je l\u2019applique le soir et le lendemain mon bouton a diminuer de plus de la moiti\e ! Wow !"
         },
         {
             "review_title": "Great spot treatment",

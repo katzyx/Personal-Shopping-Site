@@ -27,7 +27,7 @@ Shades:
  - Shade: 03 Nude Dip
    Shade Description: 
    Shade Image URL: https://www.sephora.com/productimages/sku/s1987783-main-zoom.jpg?imwidth=465
- - Shade: De La Cru00e9me
+ - Shade: De La Creme
    Shade Description: 
    Shade Image URL: https://www.sephora.com/productimages/sku/s2335719-main-zoom.jpg?imwidth=465
  - Shade: 04 Honeymoon
