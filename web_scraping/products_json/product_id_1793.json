@@ -1,0 +1,80 @@
+{
+    "product_id": "1793",
+    "name": "Skin Concealer Stick",
+    "brand": "Bobbi Brown",
+    "categories": "Makeup, Face, Concealer",
+    "price": 47.5,
+    "about": "What it is:A color-true concealer stick for evening and brightening imperfections with up to 12 hours of crease-proof comfort..Coverage:Medium.Finish:Natural.Formulation:Stick.Ingredient Callouts:Free of parabens, phthalates, mineral oil, sulfates SLS & SLES, and triclosan. It is also gluten-free and cruelty-free..What Else You Need to Know:Bobbi Brownu2019s first-of-its-kind transformative stick conceals imperfections with creamy coverage. The comfortable formula stays the day without settling, creasing, or caking and delivers immediate and all-day moisture for smoother, plumper-, healthy-looking skin.",
+    "ingredients": "Glyceryl Triacetyl Ricinoleate, Octyldodecanol, Bis-Diglyceryl Polyacyladipate-2, Synthetic Wax, Ozokerite, Kaolin, Barium Sulfate, Calcium Aluminum Borosilicate, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Salicornia Herbacea Extract, Coffea Arabica (Coffee) Seed Oil, Alumina, Silica, Lecithin, Bht, Phenoxyethanol, [+/- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Bismuth Oxychloride (Ci 77163)] &lt;Iln52329&gt;...Ingredients are subject to change at the manufacturer's discretion. For the most complete and up-to-date list of ingredients, refer to the product packaging.",
+    "how_to_use": "Suggested Usage:.-After neutralizing discoloration with Skin Corrector Stick (sold separately), layer on concealer anywhere you need it and pat with finger to blend.",
+    "num_reviews": 473,
+    "overall_rating": 4.6,
+    "product_url": "https://www.sephora.com/ca/en/product/bobbi-brown-skin-concealer-stick-P480281?skuId=2552826&icid2=products%20grid:p480281:product",
+    "image_url": "https://www.sephora.com/productimages/sku/s2552826-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Cool Espresso",
+            "shade_descriptor": "deepest brown with cool undertones, for the deepest skin",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2513786-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Sand",
+            "shade_descriptor": "light beige with yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552909-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Walnut",
+            "shade_descriptor": "rich brown with red undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552867-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cool Sand",
+            "shade_descriptor": "cool light beige with pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552735-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Chestnut",
+            "shade_descriptor": "dark brown with red/yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552859-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Golden",
+            "shade_descriptor": "golden light brown with olive and yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552826-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Warm Beige",
+            "shade_descriptor": "medium golden beige with yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552750-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Espresso",
+            "shade_descriptor": "deepest brown with red/brown/yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552883-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Beige",
+            "shade_descriptor": "medium beige with yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552891-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Warm Ivory",
+            "shade_descriptor": "fair beige with light yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552743-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Almond",
+            "shade_descriptor": "medium brown with yellow undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2552875-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "A+ Purchase",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "This is the best concealer! Not only is the packaging perfect, but the formula is great. Does not crease, brightens, does a great job covering what I want it to. Will repurchase."
+        }
+    ]
+}

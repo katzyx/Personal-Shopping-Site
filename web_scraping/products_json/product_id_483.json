@@ -1,0 +1,75 @@
+{
+    "product_id": "483",
+    "name": "Creme Concealer",
+    "brand": "Fashion Fair",
+    "categories": "Makeup, Face, Concealer",
+    "price": 38.0,
+    "about": "What it is: A lightweight, hydrating, crease-proof, and super-smoothing concealer that hides dark circles and blurs imperfections...Coverage: Medium.Finish: Radiant.Formulation: Liquid.Highlighted Ingredients: - Squalane: Reduces the look of fine lines and moisturizes skin..- Coffee Seed Extract (Caffeine): Delivers antioxidants, soothes skin, reduces redness..- Ginger Root Extract: Rejuvenates skin, supports collagen...Ingredient Callouts: Free of parabens and mineral oil. It is also gluten-free and cruelty-free...What Else You Need to Know: Coated pigments allow for ease of buildability, layering, and blending. This concealer offers medium coverage that is blurred, smooth, and lasts all day. Itu2019s boosted with skincare ingredients that work over time to hydrate, visibly firm, and brighten the look of skin and under-eye area.",
+    "ingredients": "-Squalane: Reduces Reduces the look of fine lines and moisturizes skin..-Coffee Seed Extract (Caffeine): Delivers antioxidants, soothes skin, reduces redness..-Ginger Root Extract: Rejuvenates skin, supports collagen...Aqua/Water/Eau, Dimethicone, Propanediol, Butylene Glycol, Hydrogenated Didecane, Polyglyceryl-4 Isostearate, Glycerin, Hydogenated Polydecene, Synthetic Fluorphlogopite, Trimethylsiloxsilicate, Disteardimonium Hectorite, Polyproplylsilsesquioxane, Sorbitan Sesquiisostearate, Coffea Robusta Seed Extract, Zingiber Officinale (Ginger) Root Extract, Squalane, Sodium Hyaluronate, Capriylic/Capric Triglyceride, Ectoin, Sodium Dehydroacetate, Diethylhexyl Syringylidenemalonate, Potassium Sorbate, Silica, Triethoxycaprylylsilane, Tin Oxide, Phenoxyethonol.  May Contain/Peut Contenir (+/-): CI 77891 (Titanium Dioxide), CI 77491, CI 77492, CI 77499 (Iron Oxides).",
+    "how_to_use": "Suggested Usage:.-Apply under eyes or on dark spots by directly dotting applicator on the area, and blending with a blender, brush, or fingertips..-To brighten under the eyes (and snatch your face) use a shade (or two) lighter..-To hide dark spots or blemishes (and match your face) use a color thatu2019s closest to your skin tone or foundation color.",
+    "num_reviews": 7,
+    "overall_rating": 3.1,
+    "product_url": "https://www.sephora.com/ca/en/product/fashion-fair-creme-concealer-P510293?skuId=2759223&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2759223-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Dashing Dame",
+            "shade_descriptor": "dark deep with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759223-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Delicate Espresso",
+            "shade_descriptor": "dark with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759215-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Hot Java",
+            "shade_descriptor": "medium dark with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759207-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Tasty Cappuccino",
+            "shade_descriptor": "medium dark with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759199-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Bohemian Chestnut",
+            "shade_descriptor": "medium with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759181-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Almondine",
+            "shade_descriptor": "medium with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759173-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Sparkling Honey",
+            "shade_descriptor": "light medium with warm undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759165-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Biscotti",
+            "shade_descriptor": "light medium with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759157-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Laurel Beige",
+            "shade_descriptor": "light with cool undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759140-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Sweet Ivory",
+            "shade_descriptor": "light with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2759132-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Sparkling Honey - light medium with warm undertones",
+            "review_buyer_description": "Brown eyes, Normal skin",
+            "review_text": "The formula has a beautiful flexibility. It captures the natural sheen of skin, so it can easily work with matte or dewy foundations. My particular shade is just warm enough that a color corrector is not necessary."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+Product ID: 702
+Product Name: BOSS Bottled Tonic Eau de Toilette for Men
+Brand: Hugo Boss
+Categories: Fragrance, Men, Cologne
+Price: $108.0
+About: Notes:.Style:
+Ingredients: 
+How to Use: 
+Rating: 5.0 stars
+Number of Reviews: 1
+Product URL: https://www.sephora.com/ca/en/product/boss-bottled-tonic-P424555?skuId=2006849&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s2006849-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: 1.7 oz / 50 ml Eau de Toilette Spray
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s2006849-main-zoom.jpg?imwidth=465

@@ -1,0 +1,54 @@
+{
+    "product_id": "1531",
+    "name": "Glitter & Glow Liquid Eye Shadow",
+    "brand": "stila",
+    "categories": "Makeup, Eye, Eyeshadow",
+    "price": 34.0,
+    "about": "What it is:A brilliant long-wearing liquid glitter eyeshadow..Ingredient Callouts:Free of parabens and phthalates..What Else You Need to Know:Glitter & Glow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster. With its uniquely lightweight, water-infused texture, it glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real u201cwow!u201d factor.",
+    "ingredients": "-Triethanolamine: Creates a barrier between your skin and the pearls to maximize comfort for barely-there wear...-Glycerin: Conditioning ingredient known to hydrate the skin.....Water, Mica (Ci 77019), Aluminum Calcium Sodium Silicate, Calcium Sodium Borosilicate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyethylene Terephthalate, Squalane, Polysorbate 60, Caprylyl Glycol, Hexylene Glycol, Phenoxyethanol, Glycerin, Triethanolamine, Carbomer, Silica. (+/-) Iron Oxides (Ci 77491, Ci 77499), Titanium Dioxide (Ci 77891), Tin Oxide (Ci 77861).",
+    "how_to_use": "Suggested Usage:.-Apply directly onto the desired eye area using the applicator wand. .-Wear it alone or over eyeshadow.",
+    "num_reviews": 2003,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/magnificent-metals-glitter-glow-liquid-eye-shadow-P63087293?skuId=1891357&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s1891357-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Diamond Dust",
+            "shade_descriptor": "sheer silver & multicolor",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1891373-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Kitten Karma",
+            "shade_descriptor": "champagne, silver & copper",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1891357-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Wanderlust",
+            "shade_descriptor": "sheer gold and pink sparkle",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2046357-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "GORGEOUS",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, Medium skin tone, Oily skin",
+            "review_text": "Wanderlust can have my babies. I dont know what ms. stila put in these but im afraid she absolutely ate. I bought every shade. No fall out no fading no mess, just long wear gorgeous delicious glitter that doesnu2019t move all day. Anyway, new shades ASAP please and thank you<3"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Kitten Karma - champagne, silver & copper",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "Nothing compares. I have super oily skin/watery eyes and this stays literally all day on my inner corner. I've been using it for over 8 years and will continue to repurchase. The color is perfection and almost looks wet. Forever a holy grail for me."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "Kitten Karma - champagne, silver & copper",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Love the way it just glides on my eyelids! The sparkle stays on forever!"
+        }
+    ]
+}
