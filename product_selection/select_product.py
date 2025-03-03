@@ -150,9 +150,10 @@ class BasicSelection:
                 price_range = user_info['what']['Price']
                 if price_range[0] <= product.price <= price_range[1]:
                     matches += 1
-                
-            if 'Brand' in user_info['what'] and product.brand in user_info['what']['Brand']:
-                matches += 1
+            
+            if 'Brand' in user_info['what']:
+                if user_info['what']['Brand'].lower() == product.brand.lower():
+                    matches += 1
             
             if 'Colour' in user_info['what']:
                 requested_color = user_info['what']['Colour'].lower()
