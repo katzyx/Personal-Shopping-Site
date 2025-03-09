@@ -14,8 +14,8 @@
       document.getElementById('submit-btn').addEventListener('click', function (event) {
 
         // Slide up the landing page and transition into a black bar
-        const landingPage = document.getElementById('landing-page');
-        landingPage.classList.add('slide-up');
+        // const landingPage = document.getElementById('landing-page');
+        // landingPage.classList.add('slide-up');
 
         // After slide-up, trigger the fade-in of the navbar and search bar content
         setTimeout(function () {
@@ -53,7 +53,7 @@
           <script>
               function adjustHeight(element) {
                   element.style.height = "1.5em"; // Reset height to calculate the new height
-                  element.style.height = element.scrollHeight + "px"; // Set height to content height
+                  element.style.height = element.scrollHeight - 10 + "px"; // Set height to content height
               }
           </script>
 
