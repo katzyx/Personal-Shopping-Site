@@ -289,6 +289,23 @@ body, html {
     transition: .5s ease;
   }
 
+  .prod_name {
+    height: 3.75em;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Replace 3 with the number of lines you want */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .prod_brand {
+    height: 2.25em;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Replace 3 with the number of lines you want */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   
   .sidebar {
     box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);

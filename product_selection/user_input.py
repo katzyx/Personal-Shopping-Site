@@ -29,7 +29,7 @@ class UserInput:
             example_output = '\n\nEXAMPLE OUTPUT:{\"Age\":\"22\",\"Sex\":\"Female\",\"Skin Tone\":\"Olive\",\"Skin Type\":\"Oily\"}'
             message = "Extract user information (in JSON format - in one line) from the following string (for Products category, return a comma-separated string and use only singular nouns): " + raw_input + example_output
         elif type == 'what':
-            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\"}'
+            example_output = '\n\nEXAMPLE OUTPUT:{\"Products\":\"Foundation\",\"Price\":\"40\",\"Brand\":\"Dior\",\"Colour\":\"Pink\"}'
             message = "Extract user information (in JSON format - in one line) from the following string. For Price, always return a specific number (if 'around X' is given, use X; if no price mentioned, use 50; if 'cheap' or 'affordable', use 25; if 'expensive' or 'high-end', use 100): " + raw_input + example_output
         else:
             example_output = ""
@@ -51,9 +51,13 @@ class UserInput:
         print(reply)
 
         # Add checks to see if output is correct
-        while True:
+        max_retries = 3  # Maximum number of retries
+        retry_count = 0
+        
+        while retry_count < max_retries:
             rerun = False
             message = ""
+            retry_count += 1
 
             # Check output is JSON
             try: 
@@ -89,7 +93,17 @@ class UserInput:
                     reply = "{}"
             else:
                 break
-            
+                
+        # If we've exhausted retries, return a safe default
+        if retry_count >= max_retries:
+            print(f"Maximum retries ({max_retries}) reached. Returning default price JSON.")
+            try:
+                if type == 'what':
+                    data['Price'] = [0,999]
+                reply = json.dumps(data)
+            except Exception as e:
+                print(f"Error processing JSON: {e}")
+                reply = "{}"
         # For debugging purposes
         print(reply)
 
