@@ -1,0 +1,32 @@
+{
+    "product_id": "706",
+    "name": "Rollaway Glow Highlighter",
+    "brand": "Iconic London",
+    "categories": "Makeup, Face, Highlighter",
+    "price": 39.5,
+    "about": "What it is:An instant illuminator, housed in a genius roll-on applicator, that seamlessly melts onto the skin..Finish:Radiant.Formulation:Liquid.Highlighted Ingredients:- Oleogel: Allows the pigments to glide seamlessly onto the skin..Ingredient Callouts:It is vegan and cruelty-free..What Else You Need to Know:This liquid highlighter gives you a glowing looku2014anytime, anywhere. It adds a stunning, soft-focus sheen, radiance, and iconic dewiness to the skin in an instant with the new and ultramodern highlighter. Thereu2019s no glitter or shimmer, just a comfortable, perfectly weightless, lit-from-within look.",
+    "ingredients": "-Oleogel: Allows the pigments to glide seamlessly onto the skin..-Adhesive Film Formers: Provide a smooth, soft-focus glossy finish..-Pearlescent Pigments: Help deliver a luminous finish to the skin...Hydrogenated Didecene, Isododecane, Hydrogenated Polyisobutene, Mica, Hydrogenated Polycyclopentadiene, Hydrogenated Styrene/Isoprene Copolymer, Triethoxycaprylylsilane, 1,2-Hexanediol, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate. (May Contain +/-): Ci 77891 (Titanium Dioxide), Ci 77491 (Iron Oxides).",
+    "how_to_use": "Suggested Usage:.-Roll in circular motions onto large areas of the face or dot for precision application..-Apply to the high points of your face..-Blend with a buffing brush.",
+    "num_reviews": 106,
+    "overall_rating": 4.3,
+    "product_url": "https://www.sephora.com/ca/en/product/iconic-london-rollaway-glow-highlighter-P505240?skuId=2645166&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2645166-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Rose Potion",
+            "shade_descriptor": "rosy pink tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2645174-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Champagne Chic",
+            "shade_descriptor": "champagne, nude tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2645166-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Peach Paradise",
+            "shade_descriptor": "peachy rose tone",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2645182-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
+}

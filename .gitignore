@@ -12,3 +12,6 @@ venv/
 test.py
 
 .DS_Store
+
+# ignore rag model
+*/chroma_db*

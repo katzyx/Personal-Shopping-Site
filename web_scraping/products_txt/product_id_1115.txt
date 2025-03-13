@@ -1,0 +1,20 @@
+Product ID: 1115
+Product Name: Legend Eau de Toilette
+Brand: Montblanc
+Categories: Fragrance, Men, Cologne
+Price: $133.0
+About: Notes:.Style:
+Ingredients: SD Alcohol 39-C, Water, Fragrance, Butyl Methoxydibenzoylmethane, Ethylhexyl Methoxycinnamate, Citronellol, Limonene, Linalool, Ethylhexyl Salicylate, Coumarin, BHT, Citral, Geraniol.
+How to Use: 
+Rating: 4.6 stars
+Number of Reviews: 884
+Product URL: https://www.sephora.com/ca/en/product/legend-P375713?skuId=1458405&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s1458405-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: 1.7 oz/ 50 mL
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1458413-main-zoom.jpg?imwidth=465
+ - Shade: 3.3 oz/ 100 mL
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1458405-main-zoom.jpg?imwidth=465
