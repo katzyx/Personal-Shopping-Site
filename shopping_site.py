@@ -13,7 +13,7 @@ from product_selection.blogpost import Blogpost
 from product_selection.map_user_to_product import *
 from product_selection.select_product import Product
 
-from product_selection.key import API_key
+# from product_selection.key import API_key
 from product_selection.user_input import UserInput
 
 app = Flask(__name__)
@@ -22,6 +22,8 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 results_storage = {}
+
+API_key = os.environ.get("OPENAI_API_KEY")
 
 def initialize_database():
     print("Begin parsing dataset")
