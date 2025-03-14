@@ -4,7 +4,7 @@ import time
 
 from product_selection.select_product import Product, BasicSelection
 from product_selection.user_input import UserInput
-from product_selection.key import API_key
+from shopping_site import API_key
 
 # For internal testing
 # from select_product import Product, BasicSelection
