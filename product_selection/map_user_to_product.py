@@ -1,10 +1,12 @@
+import os
 import sys
 import json
 import time
 
 from product_selection.select_product import Product, BasicSelection
 from product_selection.user_input import UserInput
-from shopping_site import API_key
+
+API_key = os.environ.get("OPENAI_API_KEY")
 
 # For internal testing
 # from select_product import Product, BasicSelection
