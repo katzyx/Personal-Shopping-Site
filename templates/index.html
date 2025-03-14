@@ -164,6 +164,21 @@
     <script>
       document.getElementById('user_form').addEventListener('input', debouncedUpdatePreview);
     </script>
+    <script>
+      function submitFeedback(type) {
+        // For now, just show a thank you message (may store this data in future)
+        const buttons = document.querySelectorAll('button[onclick^="submitFeedback"]');
+        buttons.forEach(button => button.disabled = true);
+        
+        const thankYouMsg = document.createElement('p');
+        thankYouMsg.textContent = 'Thank you for your feedback!';
+        thankYouMsg.style.color = '#4CAF50';
+        thankYouMsg.style.marginTop = '10px';
+        
+        const feedbackDiv = buttons[0].parentElement;
+        feedbackDiv.appendChild(thankYouMsg);
+      }
+    </script>
   </head>
 
   <body>
@@ -246,6 +261,19 @@
             <tr><td>{{blog}}</td></tr>
             <!-- <tr><td>Given your age and ethnicity, it is important to focus on skincare products that cater to the needs of Chinese skin, which is typically prone to hyperpigmentation and sensitivity. Look for skincare products that contain brightening ingredients like niacinamide or Vitamin C to even out your skin tone and protect it from environmental stressors. For foundation, aim for a lightweight formula that offers buildable coverage to achieve a natural finish. Considering your budget, seek out products that offer good quality without breaking the bank. When applying foundation, start with a clean, moisturized face and use a beauty sponge or brush for a seamless application. Remember to blend well into your skin tone for a flawless look. Prioritizing skincare and choosing the right foundation can enhance your natural beauty and promote a healthy complexion.</td></tr> -->
           </table>
+          
+          <!-- Feedback section -->
+          <div style="text-align: center; margin-top: 20px;">
+            <p style="font-weight: bold; margin-bottom: 10px;">Was this helpful?</p>
+            <div>
+              <button onclick="submitFeedback('positive')" style="background: none; border: none; cursor: pointer; font-size: 24px; margin: 0 10px;">
+                👍
+              </button>
+              <button onclick="submitFeedback('negative')" style="background: none; border: none; cursor: pointer; font-size: 24px; margin: 0 10px;">
+                👎
+              </button>
+            </div>
+          </div>
         </fieldset>
       </div>
 
