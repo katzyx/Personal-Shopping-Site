@@ -1,5 +1,5 @@
 import openai # type: ignore
-from product_selection.key import API_key
+# from product_selection.key import API_key
 
 # For internal testing
 # from key import API_key
