@@ -13,7 +13,7 @@ from product_selection.blogpost import Blogpost
 from product_selection.map_user_to_product import *
 from product_selection.select_product import Product
 
-from product_selection.key import API_key
+# from product_selection.key import API_key
 from product_selection.user_input import UserInput
 
 app = Flask(__name__)
@@ -22,6 +22,29 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 results_storage = {}
+
+API_key = os.environ.get("OPENAI_API_KEY")
+
+def initialize_database():
+    print("Begin parsing dataset")
+    csv_path = "./product_selection/products.csv"
+    select = BasicSelection(csv_file=csv_path)
+    select.parse_dataset()
+    print("Done parsing dataset")
+    return select
+
+# Global variable to store the BasicSelection instance
+product_selector = None
+
+# Start database parsing in background thread when app starts
+def start_background_parsing():
+    global product_selector
+    product_selector = initialize_database()
+
+background_thread = Thread(target=start_background_parsing)
+background_thread.daemon = True
+background_thread.start()
+
 def get_cookie_value(cookie_name):
     return request.cookies.get(cookie_name)
 
@@ -104,10 +127,11 @@ def getting_products(user_details, product_preferences):
     results_storage.pop('products_list', None)
     # Call Python function to map inputs to products
     products_list: list[Product] = map_inputs(user_details, product_preferences)
-
+    print("Products returned")
     # Call Python function to write custom blog post
     blog = Blogpost(API_key, user_details, product_preferences)
     written_blog = blog.write_blogpost()
+    print("Blog written")
     
     time_elapsed = "{:.3f}".format(time.time() - start_time)
     print(products_list)
@@ -120,9 +144,10 @@ def getting_products(user_details, product_preferences):
     results_storage['time_elapsed'] = time_elapsed
     results_storage['user_details'] = user_details
 
-@app.route('/display_results')
+@app.route('/display_results', methods=['GET', 'POST'])
 def display_results():
     # Retrieve the results from session
+    print("Trying to display results")
     products_list = results_storage.get('products_list', [])
     blog = results_storage.get('blog', '')
     time_elapsed = results_storage.get('time_elapsed', '')

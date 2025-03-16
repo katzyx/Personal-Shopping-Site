@@ -1,9 +1,12 @@
+import os
 import sys
 import json
+import time
 
 from product_selection.select_product import Product, BasicSelection
 from product_selection.user_input import UserInput
-from product_selection.key import API_key
+
+API_key = os.environ.get("OPENAI_API_KEY")
 
 # For internal testing
 # from select_product import Product, BasicSelection
@@ -11,18 +14,16 @@ from product_selection.key import API_key
 # from key import API_key
 
 def basic_map(user_who, user_what): 
-    # Extract Database
-    csv_path = "./product_selection/GeneratedProductDataset.csv"
-    select = BasicSelection(csv_file=csv_path)
-    select.parse_dataset()
-
-    # Extract user info and use keyword lookup
-    select.parse_user_jsons(user_who, user_what)
-    products_selected = select.keyword_lookup()
+    from shopping_site import product_selector
     
-    # Provide top 11 recommended products to user
-    # for product in products_selected:
-    #     print(product.brand, product.name)
+    # Wait for database to be ready if still parsing
+    while product_selector is None:
+        time.sleep(0.1)
+    
+    # Extract user info and use keyword lookup
+    product_selector.parse_user_jsons(user_who, user_what)
+    products_selected = product_selector.keyword_lookup()
+    
     return products_selected
     
 def map_inputs(retrieved_who, retrieved_what):

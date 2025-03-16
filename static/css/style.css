@@ -35,17 +35,32 @@ body, html {
   }
 
   .saving {
-    opacity: 1;
+    background-color: white;
   }
 
   .saving:hover {
     cursor: pointer;
-    opacity: 0.6;
+    background-color: #f7caca;
+  }
+
+  .bag {
+    opacity: 70%;
+  }
+
+  .accounts {
+    opacity: 70%;
+  }
+
+  .bag:hover {
+    opacity: 100%;
+    cursor: pointer;
   }
 
   .accounts:hover{
+    opacity: 100%;
     cursor: pointer;
   }
+
   .web_name{
     z-index: 4;
   }
@@ -274,6 +289,23 @@ body, html {
     transition: .5s ease;
   }
 
+  .prod_name {
+    height: 3.75em;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Replace 3 with the number of lines you want */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .prod_brand {
+    height: 2.25em;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Replace 3 with the number of lines you want */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   
   .sidebar {
     box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
@@ -323,4 +355,18 @@ body, html {
     0% { opacity: 1; }
     70% { opacity: 1; }
     100% { opacity: 0; }
+  }
+
+  .add_to_bag {
+    background-color: white;
+  }
+
+  .add_to_bag:hover {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+  }
+
+  .add_to_bag:active {
+    cursor: pointer;
   }

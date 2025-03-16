@@ -1,8 +1,13 @@
 # Imports
+import time
 import pandas as pd # type: ignore
 import numpy as np # type: ignore
 import json
 import re
+import os
+from concurrent.futures import ThreadPoolExecutor
+from typing import List, Dict, Set
+import threading
 
 PRODUCT_CATEGORIES = {
     'SKINCARE' : ['Cleanser','Exfoliator', 'Makeup Remover', 'Toner', 'Moisturizer', 'Serum', 'Mask', 'Eye Cream'],
@@ -10,15 +15,15 @@ PRODUCT_CATEGORIES = {
     'EYE' : ['Mascara', 'Eyeliner', 'Eyebrow', 'Eyeshadow', 'Eye Primer'],
     'LIP' : ['Lip Gloss', 'Lipstick', 'Lip Oil', 'Lip Plumper', 'Lip Balm', 'Lip Liner']}
 
-USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula']
+USER_WHAT_PROMPTS = ['Products', 'Brand', 'Price', 'Formula', 'Colour']
 
 NUMBER_PRODUCTS_RETURNED = 11
 
 # Class Definitions
 class Product:
-    def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url):
+    def __init__(self, name, type, brand, color, price, size, formula, ingredients, about, url, redirect_url):
         self.name: str = name # Product name
-        self.type: str = type # Product type
+        self.type: list[str] = type # Product categories
         self.brand: str = brand # Product brand
         self.color: list[str] = color# List of all product colors (all shades)
         self.price: float = price # Price of product in CAD
@@ -26,7 +31,8 @@ class Product:
         self.formula: str = formula # Product formula
         self.ingredients: list[str] = ingredients# List of ingredients of product
         self.about: str = about # Description of product
-        self.url: str = url # URL to product purchasing site
+        self.url: str = url # URL to product image
+        self.redirect_url: str = redirect_url # URL to purchasing site
 
 
     def get_attribute(self, entry):
@@ -34,6 +40,7 @@ class Product:
         if entry == 'Brand': return self.brand
         if entry == 'Price': return self.price
         if entry == 'Formula': return self.formula
+        if entry == 'Colour': return self.color
 
 
 class BasicSelection:
@@ -46,24 +53,32 @@ class BasicSelection:
         df = pd.read_csv(self.csv_file)
 
         for r in range(0, df.shape[0]):            
-            # split string from dataset into list
-            color = df.iloc[r, 2]
-            color_list = color.split(',')
-
-            ingr = df.iloc[r, 7]
-            ingr_list = ingr.split(',')
+            # Convert categories string to list
+            categories = df.iloc[r, 3].split(',') if isinstance(df.iloc[r, 3], str) else []
+            categories = [cat.strip() for cat in categories]
+            
+            # Convert shades string to list
+            shades = df.iloc[r, 4].split(',') if isinstance(df.iloc[r, 4], str) else []
+            shades = [shade.strip() for shade in shades]
+            
+            # Convert ingredients string to list
+            ingr = df.iloc[r, 8] if isinstance(df.iloc[r, 8], str) else ''
+            ingr_list = [i.strip() for i in ingr.split(',') if i.strip()]
 
             # Create product object to append to product database
-            temp_product = Product(name = df.iloc[r, 0],
-                                   type = df.iloc[r, 1],
-                                   brand = df.iloc[r, 2],
-                                   color = color_list,
-                                   price = df.iloc[r, 4],
-                                   size = str(df.iloc[r, 5]),
-                                   formula = df.iloc[r, 6],
-                                   ingredients = ingr_list,
-                                   about = df.iloc[r, 8],
-                                   url = df.iloc[r, 9]) 
+            temp_product = Product(
+                name=df.iloc[r, 1],      # name
+                type=categories,          # categories as type
+                brand=df.iloc[r, 2],      # brand
+                color=shades,            # shades as color
+                price=df.iloc[r, 5],      # price
+                size=str(df.iloc[r, 6]),  # size
+                formula='',              # empty formula
+                ingredients=ingr_list,    # ingredients list
+                about=df.iloc[r, 7],      # about
+                url=df.iloc[r, 10],        # image_url
+                redirect_url=df.iloc[r, 11]
+            )
             
             self.product_database.append(temp_product)
     
@@ -110,55 +125,93 @@ class BasicSelection:
         else:
             self.user_info['what']['Price'] = [0,99999999]
     
-    def keyword_lookup(self):
-        product_match: dict = {}
-
-        # Parse through all products
-        for product in self.product_database:
+    def process_product_chunk(self, products: List[Product], user_info: Dict, start_idx: int, end_idx: int) -> Dict[int, List[Product]]:
+        product_match: Dict[int, List[Product]] = {}
+        
+        for product in products[start_idx:end_idx]:
             matches = 0
-
-            # If product is specified and does not match, skip product (put in matchces = 0)
-            if 'Products' in self.user_info['what']:
-                if product.get_attribute('Products') not in self.user_info['what']['Products']:
+            
+            # Quick check for product type match first
+            if 'Products' in user_info['what']:
+                product_matches = False
+                requested_products = set(user_info['what']['Products'])  # Convert to set for O(1) lookup
+                if any(prod in requested_products for prod in product.type) or any(prod in product.name for prod in requested_products):
+                    product_matches = True
+                    matches += 1
+                else:
                     if matches in product_match:
                         product_match[matches].append(product)
                     else:
                         product_match[matches] = [product]
                     continue
             
-            # Otherwise, look at other prompts
-            for prompt in USER_WHAT_PROMPTS:
-                if prompt in self.user_info['what']:
-                    if prompt == 'Price':
-                        if product.get_attribute(prompt) in range(int(self.user_info['what'][prompt][0]), int(self.user_info['what'][prompt][1])):
-                            matches += 1
-                    elif product.get_attribute(prompt) in self.user_info['what'][prompt]:
-                        matches += 1
+            # Check other criteria
+            if 'Price' in user_info['what']:
+                price_range = user_info['what']['Price']
+                if price_range[0] <= product.price <= price_range[1]:
+                    matches += 1
+            
+            if 'Brand' in user_info['what']:
+                if user_info['what']['Brand'].lower() == product.brand.lower():
+                    matches += 1
+            
+            if 'Colour' in user_info['what']:
+                requested_color = user_info['what']['Colour'].lower()
+                if any(requested_color in shade.lower() for shade in product.color):
+                    matches += 1
             
             if matches in product_match:
                 product_match[matches].append(product)
             else:
                 product_match[matches] = [product]
             
-        # for num_matches, products in product_match.items():
-        #     product_list = []
-        #     for product in products:
-        #         product_list.append(product.name)
-        #     print(num_matches, product_list)
+        return product_match
 
-        # Choose the top products
-        top_products: list[Product] = []
+    def merge_results(self, results: List[Dict[int, List[Product]]]) -> Dict[int, List[Product]]:
+        merged: Dict[int, List[Product]] = {}
+        for result in results:
+            for matches, products in result.items():
+                if matches in merged:
+                    merged[matches].extend(products)
+                else:
+                    merged[matches] = products
+        return merged
 
-        matches_rev = list(product_match.keys())
-        matches_rev.sort(reverse=True)
-        for num_matches in matches_rev:
-            if num_matches == 0:
+    def keyword_lookup(self):
+        print(f"Starting keyword lookup with {os.cpu_count()} threads")
+        start_time = time.time()
+        
+        # Determine optimal chunk size based on CPU count
+        chunk_size = max(len(self.product_database) // (os.cpu_count() or 4), 1)
+        chunks = [(i, min(i + chunk_size, len(self.product_database))) 
+                 for i in range(0, len(self.product_database), chunk_size)]
+        
+        # Process chunks in parallel
+        results = []
+        with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
+            futures = [
+                executor.submit(self.process_product_chunk, 
+                              self.product_database, 
+                              self.user_info, 
+                              start, 
+                              end) 
+                for start, end in chunks
+            ]
+            results = [f.result() for f in futures]
+        
+        # Merge results
+        product_match = self.merge_results(results)
+        
+        # Select top products
+        top_products: List[Product] = []
+        for matches in sorted(product_match.keys(), reverse=True):
+            if matches == 0:
                 break
-            if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
+            products = product_match[matches]
+            remaining = NUMBER_PRODUCTS_RETURNED - len(top_products)
+            if remaining <= 0:
                 break
-            for product in product_match[num_matches]:
-                if len(top_products) >= NUMBER_PRODUCTS_RETURNED:
-                    break
-                top_products.append(product)
-                
+            top_products.extend(products[:remaining])
+        
+        print(f"Keyword lookup completed in {time.time() - start_time:.2f} seconds")
         return top_products
