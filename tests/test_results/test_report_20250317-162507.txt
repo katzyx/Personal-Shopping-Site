@@ -1,0 +1,79 @@
+
+    Product Recommendation Test Report
+    =================================
+
+    Test Summary:
+    - Total tests: 10
+    - Successful tests: 0
+    - Failed tests: 10
+    - Average relevance score: 0.00/10
+
+    Best Performing Scenario (Score: -1.00/10):
+    - User: N/A
+    - Query: N/A
+
+    Worst Performing Scenario (Score: 11.00/10):
+    - User: N/A
+    - Query: N/A
+
+    Detailed Results:
+    
+Test Case 1:
+- User: I am 13 years old with combination skin
+- Query: Looking for a light foundation that won't make me break out
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 2:
+- User: I am 16 years old with oily skin and acne
+- Query: Need a foundation that controls oil and covers acne
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 3:
+- User: I am 22 years old with normal skin
+- Query: Looking for a medium coverage foundation
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 4:
+- User: I am 35 years old with dry skin
+- Query: Need a hydrating foundation
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 5:
+- User: I am 50 years old with mature skin
+- Query: Looking for an anti-aging foundation with good coverage
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 6:
+- User: I am 65 years old with very dry skin
+- Query: Need a foundation that doesn't settle into fine lines
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 7:
+- User: I am 80 years old with thin, fragile skin
+- Query: Looking for a gentle, hydrating foundation
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 8:
+- User: I am 95 years old with extremely dry skin
+- Query: Need a very moisturizing foundation
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 9:
+- User: I have very fair skin that burns easily
+- Query: Looking for a foundation with SPF
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str
+
+Test Case 10:
+- User: I have fair skin with cool undertones
+- Query: Need a light foundation with pink undertones
+- Status: Error
+- Error: can only concatenate str (not "UserInput") to str

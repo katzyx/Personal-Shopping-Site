@@ -1,0 +1,82 @@
+[
+  {
+    "test_case": {
+      "user_who": "I am 13 years old with combination skin",
+      "user_what": "Looking for a light foundation that won't make me break out"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 16 years old with oily skin and acne",
+      "user_what": "Need a foundation that controls oil and covers acne"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 22 years old with normal skin",
+      "user_what": "Looking for a medium coverage foundation"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 35 years old with dry skin",
+      "user_what": "Need a hydrating foundation"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 50 years old with mature skin",
+      "user_what": "Looking for an anti-aging foundation with good coverage"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 65 years old with very dry skin",
+      "user_what": "Need a foundation that doesn't settle into fine lines"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 80 years old with thin, fragile skin",
+      "user_what": "Looking for a gentle, hydrating foundation"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I am 95 years old with extremely dry skin",
+      "user_what": "Need a very moisturizing foundation"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I have very fair skin that burns easily",
+      "user_what": "Looking for a foundation with SPF"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  },
+  {
+    "test_case": {
+      "user_who": "I have fair skin with cool undertones",
+      "user_what": "Need a light foundation with pink undertones"
+    },
+    "error": "can only concatenate str (not \"UserInput\") to str",
+    "status": "error"
+  }
+]
