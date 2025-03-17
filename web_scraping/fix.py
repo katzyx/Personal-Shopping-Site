@@ -141,17 +141,6 @@ def clean_invalid_quotes(input_file, output_file):
         # Remove any quotation marks that are not properly placed
         cleaned_content = re.sub(r'(?<!\t)(?<!:\s)"(?!(,\n)|:|\n)', '', content)
         cleaned_content = re.sub(r'\\(?![ntbrfv])', '', content)
-        # print(cleaned_content)
-
-        # Match strings in JSON (between double quotes) and handle invalid quotes
-        # def fix_quotes(match):
-        #     string_content = match.group(0)
-        #     # Escape internal quotes that aren't already escaped
-        #     fixed_content = re.sub(r'(?<!\\)"', r'\\"', string_content)
-        #     return fixed_content
-
-        # # Use regex to identify JSON strings and fix quotes inside them
-        # cleaned_content = re.sub(r'"(.*?)"', fix_quotes, cleaned_content)
 
         # Validate and save the cleaned JSON
         try:

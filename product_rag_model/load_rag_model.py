@@ -84,8 +84,6 @@ def query_rag_model(index, who_input, what_input):
     query_text = f"\
 Who I am: {who_input}. What I want: {what_input}. Recommend the 15 (fifteen) most relevant products. Return each product in json format \
 (under key 'products') with the following keys: 'product_id', 'product_name', 'brand', 'price', 'product_url', 'image_url'. "
-# For each product, if Shades are available, choose one shade for me whose name and description matches best with my features and wants. \
-# Then, add the keys 'shade_name', 'shade_description', 'shade_image_url' to the product json IF AND ONLY IF a shade is found (otherwise DO NOT ADD THESE KEYS)."
 
     response = query_engine.query(query_text)
     # print(query_text, response)
@@ -95,7 +93,6 @@ Who I am: {who_input}. What I want: {what_input}. Recommend the 15 (fifteen) mos
 if __name__ == "__main__": 
     start = time.time()
 
-    # index_dir = "./chroma_db"
     index_dir = "./chroma_db"
     index = load_index(index_dir)
 
