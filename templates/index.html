@@ -164,6 +164,12 @@
     <script>
       document.getElementById('user_form').addEventListener('input', debouncedUpdatePreview);
     </script>
+    <script>
+      function submitFeedback(type) {
+        const feedbackContent = document.getElementById('feedback-content');
+        feedbackContent.innerHTML = '<p style="margin: 0;"><b>Thank you for your feedback!</b></p>';
+      }
+    </script>
   </head>
 
   <body>
@@ -285,7 +291,21 @@
   <div style="background-color: black; color: white; padding: 1em; margin: 3em 0em 0em 0em; text-align: center;">
     <p style="margin: 0;"><b>Personalized site custom-generated in {{time}} seconds</b></p>
   </div>
-  
+
+  <!-- Feedback bar -->
+  <div style="background-color: white; color: black; padding: 1em; margin: 0; text-align: center;">
+    <div id="feedback-content">
+      <p style="margin: 0 0 10px 0;"><b>Was this helpful?</b></p>
+      <div style="display: flex; justify-content: center; gap: 20px;">
+        <button onclick="submitFeedback('positive')" style="background: none; border: none; cursor: pointer;">
+          <img src="{{ url_for('static', filename='assets/icons8-thumbs-up-48.png') }}" alt="thumbs up" style="width: 24px; height: 24px;">
+        </button>
+        <button onclick="submitFeedback('negative')" style="background: none; border: none; cursor: pointer;">
+          <img src="{{ url_for('static', filename='assets/icons8-thumbs-down-48.png') }}" alt="thumbs down" style="width: 24px; height: 24px;">
+        </button>
+      </div>
+    </div>
+  </div>
 
     <footer>
       <div style="text-align: center; color:gray; background-color: white;">
