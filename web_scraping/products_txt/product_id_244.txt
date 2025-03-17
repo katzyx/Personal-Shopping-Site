@@ -1,0 +1,23 @@
+Product ID: 244
+Product Name: Horizon Lip Pencil
+Brand: Cheekbone Beauty
+Categories: Makeup, Lip, Lip Liner
+Price: $22.0
+About: What it is:...What Else You Need to Know:..
+Ingredients: Octyldodecyl Stearoyl Stearate, Cocos Nucifera (Coconut) Oil, C10-18 Triglycerides, Copernicia Cerifera (Carnauba) Wax, Hydrogenated Vegetable Oil, Silica, Polyglyceryl-3 Diisostearate, Oryzanol, Glyceryl Undecylenate, Tocopherol...May Contain (+/-) Red 7 Lake (CI 15850), Yellow 5 Lake (CI 19140), Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891), Manganese Violet (CI 77742)...The list of ingredients is subject to change, please consult the packaging of the product purchased.
+How to Use: 
+Rating: 5.0 stars
+Number of Reviews: 3
+Product URL: https://www.sephora.com/ca/en/product/cheekbone-horizon-lip-pencil-P509819?skuId=2755726&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s2755726-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: True Red
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s2755726-main-zoom.jpg?imwidth=465
+ - Shade: Sand
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s2755718-main-zoom.jpg?imwidth=465
+ - Shade: Clay
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s2755734-main-zoom.jpg?imwidth=465

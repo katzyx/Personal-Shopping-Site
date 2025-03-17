@@ -1,0 +1,56 @@
+{
+    "product_id": "1200",
+    "name": "NuFACE Hydrating Aqua Gel",
+    "brand": "NuFACE",
+    "categories": "Skincare, Treatments, Face Serums",
+    "price": 108.0,
+    "about": "What it is: A hydrating serum gel to deliver microcurrent from your device to the facial muscles, while leaving skin hydrated for up to 24 hours...Skin Type: Normal, Dry, Combination, and Oily..Skincare Concerns: Dryness..Formulation: Gel..Highlighted Ingredients:.- IonPlex: Comfortably delivers microcurrent to your skin for optimal, pro-level, visible results..- Hyaluronic Acid: Attracts and holds up to 1,000 times its weight in water, helping your skin appear plump, smooth, and hydrated...Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also gluten-free and cruelty-free...What Else You Need to Know: Microcurrent primer gets an upgrade! An essential pairing for your NuFACE device, this hydrating serum is a lightweight microcurrent delivery gel, powered by  IonPlex, to conduct microcurrent from your device to the skin while delivering a thirst-quenching hit of hydration...",
+    "ingredients": "-IonPlex: Comfortably delivers microcurrent to your skin for optimal, pro-level, visible results..-Hyaluronic Acid: Attracts and holds up to 1,000 times its weight in water, helping your skin appear plump, smooth, and hydrated. ..Water/Aqua/Eau, Propanediol, Sea Silt Extract, Hydrolyzed Hyaluronic Acid, Adenosine, Olivine Extract, Tremella Fuciformis Sporocarp Extract, Betaine, Glycerin, Carbomer, Hydroxyethylcellulose, Ethylhexylglycerin, Caprylyl Glycol, Sodium Citrate, Tocopherol, Benzyl Alcohol, Glyceryl Caprylate, Glyceryl Undecylenate, Potassium Sorbate, Disodium Phosphate, Sodium Phosphate, Sodium Metabisulfite, Phenoxyethanol, Sodium Hydroxide, Sodium Nitrate...The list of ingredients is subject to change, please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Begin with clean, dry skin..-Smooth a thin mask-like layer onto your face and neck, working in sections..-Use your favorite NuFACE microcurrent device (sold separately) to visibly tone, lift, and contour your skin. .-Follow with your favorite serums, moisturizer, and SPF.",
+    "num_reviews": 4,
+    "overall_rating": 3.8,
+    "product_url": "https://www.sephora.com/ca/en/product/nuface-nuface-reg-hydrating-aqua-gel-P503862?skuId=2653905&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2653905-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "10 oz / 295 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2653905-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3.3 oz / 97.6 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2653897-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "So expensive now",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Exactly 1 year later, this bottle has gone up by $26.00. Try Fruit of the Earth 100% Aloe Vera Gel available at Walmart. $6.97 for 12 oz.  Highly recommend through New York The Strategist as a good dupe!"
+        },
+        {
+            "review_title": "Mistake",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Medium skin tone, Combination skin",
+            "review_text": "Terrible..had to re apply 3 times in 10 minutes of my treatment with my Ziip halo.  Please try ZIIP serum gel conductive gels. They are beautiful,  stay on without having to re apply and glide. A bit more money but this stuff is cheap aloe Vera gel"
+        },
+        {
+            "review_title": "FAVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Porcelain skin tone, Combination skin",
+            "review_text": "Exceptional product for all my conducting and hydrational needs."
+        },
+        {
+            "review_title": "A must-have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Happy to have found this as was close to running out with the gel that came with my NuFace Mini. The product is a great size and like the applicator better than a squeeze tube one."
+        }
+    ]
+}

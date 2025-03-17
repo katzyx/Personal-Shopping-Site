@@ -1,0 +1,42 @@
+{
+    "product_id": "980",
+    "name": "Love My Lips: Caring Lip Oil",
+    "brand": "Lise Watier",
+    "categories": "Makeup, Lip, Lip Gloss",
+    "price": 28.0,
+    "about": "What it is:A lip oil that is infused with hyaluronic acid and tsubaki oil..Benefits:Hydrating.Highlighted Ingredients:- Hyaluronic Acid: Hydrates lips..Ingredient Callouts:Free of parabens..What Else You Need to Know:This silky, non-sticky lip oil is infused with hyaluronic",
+    "ingredients": "-Hyaluronic Acid: Hydrates lips. ..Hydrogenated Polydecene, Polybutene, Hydrogenated Styrene/Isoprene Copolymer, Ethylhexyl Palmitate, Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate, Caprylic/Capric Triglyceride, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Camellia Japonica (Tsubaki) Seed Oil, Raspberry Seed Oil/Tocopheryl Succinate Aminopropanediol Esters, Sodium Hyaluronate, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Caprylyl Glycol, Hexylene Glycol, Phenoxyethanol, Aroma (Flavor), Ethyl Vanillin, +/- Ci 77891 (Titanium Dioxide), Ci 15985 (Yellow 6 Lake), Ci 15850 (Red 7 Lake).",
+    "how_to_use": "Suggested Usage:.-Apply as often as needed.",
+    "num_reviews": 21,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/lise-watier-love-my-lips-caring-lip-oil-P471780?skuId=2447415&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2447415-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Cantaloup",
+            "shade_descriptor": "orange",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2447415-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Framboise",
+            "shade_descriptor": "pink",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2447423-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cassis",
+            "shade_descriptor": "sheer Purple",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778140-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Litchi",
+            "shade_descriptor": "sheer Pink",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778157-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Fraise",
+            "shade_descriptor": "sheer Red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2778132-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
+}
