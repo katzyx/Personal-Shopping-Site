@@ -18,7 +18,7 @@ from product_rag_model.load_rag_model import *
 # from product_selection.key import API_key
 from product_selection.user_input import UserInput
 
-USE_RAG_MODEL = True
+USE_RAG_MODEL = False
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
