@@ -165,6 +165,27 @@
       document.getElementById('user_form').addEventListener('input', debouncedUpdatePreview);
     </script>
     <script>
+      function toggleInfoPopup(){
+        var popup = document.getElementById("infoPopup");
+
+        // Position the popup near the button
+        popup.style.left = (event.clientX + 14) + "px";
+        popup.style.top = (event.clientY - 23) + "px";
+
+        // Toggle visibility
+        popup.style.display = (popup.style.display === "block") ? "none" : "block";
+      }
+
+      document.addEventListener("click", function(event) {
+          var popup = document.getElementById("infoPopup");
+          var button = document.querySelector(".info");
+
+          if (!popup.contains(event.target) && !button.contains(event.target)) {
+              popup.style.display = "none";
+          }
+      });
+    </script>
+    <script>
       function submitFeedback(type) {
         const feedbackContent = document.getElementById('feedback-content');
         feedbackContent.innerHTML = '<p style="margin: 0;"><b>Thank you for your feedback!</b></p>';
@@ -314,6 +335,9 @@
     </footer>
 
     <!-- Sidebar -->
+    <div class="popup" id="infoPopup" style="display: none;">
+      No need to rewrite! Just ask to delete or add information about yourself.
+    </div>
     <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: white; transition: right 0.3s ease-in-out; z-index: 1000;">
       <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
         <div style="padding: 20px; height: 100%; display: flex; flex-direction: column;">
@@ -330,7 +354,9 @@
               {{ user_details }}
             </div>
             
-            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description:</label>
+            <label style="color: black; margin-bottom: 10px;">Update Description
+              <img class="info" src="{{ url_for('static', filename='assets/icons8-information-100.png') }}" style="width: 15px; margin-bottom: -2px;" onclick="toggleInfoPopup()"> :
+            </label>
             <textarea 
               name="user_details" 
               id="user_form" 
