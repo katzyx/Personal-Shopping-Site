@@ -1,6 +1,6 @@
 import openai # type: ignore
 import json # type: ignore
-from product_selection.key import API_key
+# from product_selection.key import API_key
 
 # For internal testing
 # from key import API_key
@@ -42,7 +42,11 @@ class UserInput:
         messages.append({"role": "system", "content": message})
 
         try:
-            chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
+            client = openai.OpenAI()
+            chat = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=messages
+            )
             reply = chat.choices[0].message.content
         except Exception as e:
             print(f"Error during OpenAI API call: {e}")
@@ -86,7 +90,10 @@ class UserInput:
                 message += "Here is the string to change: " + reply
                 messages.append({"role": "system", "content": message})
                 try:
-                    chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
+                    chat = client.chat.completions.create(
+                        model="gpt-3.5-turbo",
+                        messages=messages
+                    )
                     reply = chat.choices[0].message.content
                 except Exception as e:
                     print(f"Error during OpenAI API call: {e}")
@@ -133,7 +140,8 @@ class UserInput:
         messages.append({"role": "user", "content": message})
 
         try:
-            chat = openai.ChatCompletion.create(
+            client = openai.OpenAI()
+            chat = client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=messages,
                 temperature=0.4

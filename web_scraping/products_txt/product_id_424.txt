@@ -1,0 +1,20 @@
+Product ID: 424
+Product Name: Brush On Adhesive
+Brand: DUO
+Categories: Makeup, Eye, False Eyelashes
+Price: $12.0
+About: What it is:.What it is formulated to do:.What else you need to know:
+Ingredients: Acrylates, Ethylhexyl Arcylate Copolymer, Retinol, Ascorbic Acid, Tocopherol.
+How to Use: 
+Rating: 4.1 stars
+Number of Reviews: 602
+Product URL: https://www.sephora.com/ca/en/product/brush-on-adhesive-P387891?skuId=1633106&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s1633106-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: Clear
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1633106-main-zoom.jpg?imwidth=465
+ - Shade: Black
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s2107415-main-zoom.jpg?imwidth=465

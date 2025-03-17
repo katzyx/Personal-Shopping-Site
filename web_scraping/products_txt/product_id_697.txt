@@ -1,0 +1,17 @@
+Product ID: 697
+Product Name: BOSS Bottled Night Eau de Toilette
+Brand: Hugo Boss
+Categories: Fragrance, Men, Cologne
+Price: $134.0
+About: Notes:.Style:
+Ingredients: 
+How to Use: 
+Rating: 4.3 stars
+Number of Reviews: 24
+Product URL: https://www.sephora.com/ca/en/product/boss-bottled-night-P376950?skuId=1466168&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s1466168-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: 3.3 oz/ 100 mL Eau de Toilette Spray
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1466168-main-zoom.jpg?imwidth=465

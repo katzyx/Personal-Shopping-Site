@@ -1,0 +1,90 @@
+{
+    "product_id": "629",
+    "name": "Rouge G Refillable Lipstick",
+    "brand": "GUERLAIN",
+    "categories": "Makeup, Lip, Lipstick",
+    "price": 57.0,
+    "about": "What it is: The iconic Rouge G design has been modernised with an array of customisable jewel cases that can be refilled as desired...Formulation Type: Lipstick..Highlighted Ingredients:.-Lily flower and sweet almond oil: Smoothing, hydrating and plumping...Ingredient Callouts: It comes in recyclable packaging. It is also vegan, gluten-free, and cruelty-free...What Else You Need to Know: Rouge G has been reinvented in a radiant golden adornment revealing its secret double mirror. Customizable and refillable at will, Rouge G cases come in an array of designs, showcasing Guerlain's know-how and commitment...Research Results:.ROUGE G VELVET:.-Instantly softened, lips are hydrated and 45% smootheru00b3, for 16-hour comfortu2074..-After 4 weeks, their regeneration is optimised by 37%u2075..-Lips are visibly plumped and shaped; they are more beautiful day after day, even without make-up...ROUGE G SATIN:.-Instantly softened, lips are 46% more hydratedu2076, 49% plumperu2077 and 53% smootheru2077..-After 4 weeks, lipsu2019 regeneration has increased by 23%u2078, they are smoothed, shaped and plumped, even without make-up...u00b3Clinical test on 25 subjects..u2074Self-scoring on 32 subjects..u2075Dermatological clinical test on 30 subjects..u2076Instrumental test on 32 subjects..u2077Clinical test on 25 subjects..u2078Dermatological clinical test on 33 subjects...The weight of this jewel case has been reduced by 19% and its manufacturing process optimised, allowing a 30% reduction in CO2 emissions compared to the previous generation of Rouge G cases...Refill Product Instructions:.-For your first Rouge G purchase, choose a shade and a case to create your complete lipstick..-For the following ones, refill the shade or change the case as you wish..Disclaimer: The new Rouge G cases are only compatible with the new-generation refills and vice versa..",
+    "ingredients": "",
+    "how_to_use": "Suggested Usage:..Customise your lipstick in 2 steps:.-For your first Rouge G purchase, choose a shade and a case to create your complete lipstick.&nbsp;.-For the following ones, refill the shade or change the case as you wish.",
+    "num_reviews": 174,
+    "overall_rating": 4.6,
+    "product_url": "https://www.sephora.com/ca/en/product/rouge-g-customizable-lipstick-bullet-P429915?skuId=2807428&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2807428-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "131 Le Beige Praline",
+            "shade_descriptor": "delicate beige",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807428-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "08 Le Nu",
+            "shade_descriptor": "rosy nude",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807444-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "775 Le Rouge Bordeaux",
+            "shade_descriptor": "intense burgundy",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807386-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "919 Le Rouge Cassis",
+            "shade_descriptor": "plum red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807378-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "06 Le Rose Brun",
+            "shade_descriptor": "warm rosewood",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807352-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "19 Le Brun Intense",
+            "shade_descriptor": "deep brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807436-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "518 Le Rose Blush",
+            "shade_descriptor": "powder pink",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807345-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "15 Le Marron Glace",
+            "shade_descriptor": "warm brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807469-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "510 Le Rouge Vibrant",
+            "shade_descriptor": "bright red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807402-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "11 Le Beige Noisette",
+            "shade_descriptor": "soft beige",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807394-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "214 Le Rouge Kiss",
+            "shade_descriptor": "fiery red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807360-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "03 Le Nude Intense",
+            "shade_descriptor": "pinkish brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807451-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "968 Le Lie De Vin",
+            "shade_descriptor": "garnet red",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2807410-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Love the shade :)",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "I had previously bought the shade 518, le rose blush, but was not satisfied with it so I bought this shade instead and I cannot be happier ! This shade is very flattering on my skin. The case and the whole product also feels very luxurious to hold."
+        }
+    ]
+}

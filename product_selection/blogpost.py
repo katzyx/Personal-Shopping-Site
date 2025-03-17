@@ -35,7 +35,11 @@ class Blogpost:
         messages.append({"role": "user", "content": message})        
 
         try:
-            chat = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
+            client = openai.OpenAI()
+            chat = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=messages
+            )
             reply = chat.choices[0].message.content
         except Exception as e:
             print(f"Error during OpenAI API call: {e}")
@@ -45,4 +49,4 @@ class Blogpost:
     
 
 # blogpost = Blogpost(API_key, '{"Age": "21", "Sex": "Female", "Ethnicity": "Chinese"}', '{"Products": "Skincare, Foundation", "Price": "40"}')
-# blogpost.write_blogpost()
+# print(blogpost.write_blogpost())

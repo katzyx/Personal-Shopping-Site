@@ -1,0 +1,47 @@
+{
+    "product_id": "247",
+    "name": "Chloe Eau de Parfum",
+    "brand": "Chloe",
+    "categories": "Fragrance, Women, Perfume",
+    "price": 210.5,
+    "about": "Fragrance Family:.Scent Type:.Key Notes:.About:.What else you need to know:",
+    "ingredients": "Alcohol Denat., Fragrance, Water, Butylphenyl Methylpropional, Ethylhexyl Methoxycinnamate, Acrylates/Octylacrylamide Copolymer, Alpha-Isomethyl Ionone, Benzophenone-3, Benzyl Salicylate, Bht, Butyl Methoxydibenzoylmethane, Citronellol, Ethylhexyl Salicylate, Geraniol, Hexyl Cinnamal, Hydrolyzed Jojoba Esters, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Limonene, Linalool, Fd&amp;C Red No. 4 (Ci 14700), Fd&amp;C Yellow No.5 (Ci 19140).",
+    "how_to_use": "",
+    "num_reviews": 2697,
+    "overall_rating": 4.5,
+    "product_url": "https://www.sephora.com/ca/en/product/chloe-eau-de-parfum-P256308?skuId=1239813&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s1239813-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "1 oz/ 30 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1251164-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "1.6 oz/ 47 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1239789-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "2.5 oz/ 75 mL",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s1239813-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Okay",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Its got a great aroma. I didnt think it lasted long though."
+        },
+        {
+            "review_title": "Perfect for the office",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "A very clean and fresh scent. Where I work, many people have complained about others wearing fragrances. No one has said a negative thing about me wearing this! I actually get tons of compliments! A very non offensive fragrance."
+        }
+    ]
+}
