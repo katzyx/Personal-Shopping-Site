@@ -15,7 +15,7 @@ from product_selection.select_product import Product
 
 from product_rag_model.load_rag_model import *
 
-# from product_selection.key import API_key
+from product_selection.key import API_key
 from product_selection.user_input import UserInput
 
 USE_RAG_MODEL = True
@@ -26,8 +26,6 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 results_storage = {}
-
-API_key = os.environ.get("OPENAI_API_KEY")
 
 def initialize_database():
     print("Begin parsing dataset")

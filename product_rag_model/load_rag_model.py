@@ -1,11 +1,8 @@
 import os
-import glob
 import chromadb # type: ignore
 import time
 import json
 from llama_index.core import VectorStoreIndex, StorageContext, get_response_synthesizer # type: ignore
-from llama_index.core.readers.json import JSONReader # type: ignore
-from llama_index.llms.openai import OpenAI # type: ignore
 from llama_index.vector_stores.chroma import ChromaVectorStore # type: ignore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding # type: ignore
 from llama_index.core import Settings # type: ignore

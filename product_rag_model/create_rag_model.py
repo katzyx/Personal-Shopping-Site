@@ -1,17 +1,9 @@
-import os
-import sys
-import glob
 import chromadb # type: ignore
-import json
-from typing import List, Dict
-from llama_index.core import Document, VectorStoreIndex, StorageContext, SimpleDirectoryReader # type: ignore
+from llama_index.core import VectorStoreIndex, StorageContext, SimpleDirectoryReader # type: ignore
 from llama_index.llms.openai import OpenAI # type: ignore
 from llama_index.vector_stores.chroma import ChromaVectorStore # type: ignore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding # type: ignore
 from llama_index.core import Settings # type: ignore
-from llama_index.core.extractors import BaseExtractor #type: ignore
-from llama_index.core.schema import BaseNode, MetadataMode #type: ignore
-from llama_index.core.vector_stores import MetadataFilter, MetadataFilters #type: ignore
 from llama_index.core.node_parser import SentenceSplitter #type: ignore
 
 def doc_extractor(doc_content):
@@ -27,6 +19,8 @@ def doc_extractor(doc_content):
     for line in doc_content.splitlines():
         identifier = line.split(': ', 1)[0]
         line_content = line.split(': ', 1)[-1]
+
+        # Commented out code is for adding shade data into search + metadata
         
         if identifier in content_fields:
             # if identifier == 'Shades':
@@ -66,7 +60,6 @@ def doc_extractor(doc_content):
             #     metadata.pop('Shades')
     
     # print(metadata)
-    # sys.exit()
     return content, metadata
 
 # Function to load and index txt data
@@ -83,10 +76,6 @@ def load_and_index_txt(directory_path):
         content, metadata = doc_extractor(doc.get_content())
         doc.set_content(content)
         doc.metadata = metadata
-        # print(
-        #     "The LLM sees this: \n",
-        #     doc.get_content(metadata_mode=MetadataMode.LLM),
-        # )
 
     # initialize client, setting path to save data
     db = chromadb.PersistentClient(path="./chroma_db")
