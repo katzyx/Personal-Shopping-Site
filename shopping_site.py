@@ -155,6 +155,7 @@ def getting_products(user_details, product_preferences):
     results_storage['blog'] = written_blog
     results_storage['time_elapsed'] = time_elapsed
     results_storage['user_details'] = user_details
+    results_storage['product_preferences'] = product_preferences
 
 @app.route('/display_results', methods=['GET', 'POST'])
 def display_results():
@@ -164,9 +165,10 @@ def display_results():
     blog = results_storage.get('blog', '')
     time_elapsed = results_storage.get('time_elapsed', '')
     user_details = results_storage.get('user_details', '')
+    product_preferences = results_storage.get('product_preferences', '')
 
     # Render the results page with the computed data
-    return render_template('index.html', products_list=products_list, blog=blog, time=time_elapsed, user_details=user_details)
+    return render_template('index.html', products_list=products_list, blog=blog, time=time_elapsed, user_details=user_details, product_preferences=product_preferences)
 
 @app.route('/update_user_details', methods=['POST'])
 def update_user_details():
