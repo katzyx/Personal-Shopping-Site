@@ -53,3 +53,14 @@ if __name__ == "__main__":
         filename = "/Users/floriafang/Documents/UofT/capstone/Personal-Shopping-Site/web_scraping/products_json/product_id_" + str(count) + ".json"
         print(filename)
         json_to_txt(filename, count)
+
+# Remove all value and gifts sets
+# if __name__ == "__main__": 
+#     for count in range(1, 1797):
+#         filename = "/Users/floriafang/Documents/UofT/capstone/Personal-Shopping-Site/web_scraping/products_txt/product_id_" + str(count) + ".txt"
+#         if os.path.exists(filename):
+#             with open(filename, 'r') as file:
+#                 content = file.read()
+#             if 'Value & Gift Sets' in content:
+#                 os.remove(filename)
+            
