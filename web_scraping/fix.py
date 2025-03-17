@@ -71,7 +71,7 @@ def find_info(product_url):
 
 
 def add_num_reviews_rating():
-    products_dir = '/Users/floriafang/Documents/UofT/capstone/Personal-Shopping-Site/web_scraping/products'
+    products_dir = './web_scraping/products'
     
     for count in range(1152,1797):
         filename = "product_id_" + str(count) + ".json"
