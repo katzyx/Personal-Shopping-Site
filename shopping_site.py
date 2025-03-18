@@ -26,6 +26,7 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 results_storage = {}
+click_data = {}
 
 def initialize_database():
     print("Begin parsing dataset")
@@ -193,7 +194,25 @@ def update_user_details():
     
     return jsonify({'merged_description': merged_description})
 
-    
+@app.route('/track-click', methods=['POST'])
+def track_click():
+    product_id = request.json.get("product_id")
+    print("product_id: ", product_id)
+
+    if "click_counts" not in session:
+        session["click_counts"] = {}
+
+    if product_id:
+        if product_id not in click_data:
+            click_data[product_id] = 0
+        click_data[product_id] += 1
+        print(f"Product {product_id} clicked {click_data[product_id]} times")
+
+        session["click_counts"][product_id] = session["click_counts"].get(product_id, 0) + 1
+        session.modified = True
+
+    return jsonify({"message": "Click tracked", "click_count": session["click_counts"][product_id]}), 200
+
 @app.route('/get_cookie')  # Route to retrieve the cookie
 def get_cookie():
     username = get_cookie_value('userdetails')  # Use the utility function to get the cookie
