@@ -18,6 +18,7 @@ class Blogpost:
             "\n- Use specific keywords from the user's details in your response"
             "\n- Focus on skin type descriptors (i.e. oily, dry, sensitive, mature)"
             "\n- Include relevant treatment terms (i.e. hydrating, mattifying, soothing, gentle)"
+            "\n- Include ingredient recommendations relevant to their skin type and skin concerns, and the requested products"
             "\n- Avoid mentioning terms that contradict the user's needs"
             "\n- Keep recommendations focused on their specific concerns"
             "\n- Avoid using terms related to race or ethnicity"} ]

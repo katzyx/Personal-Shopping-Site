@@ -191,6 +191,15 @@
         feedbackContent.innerHTML = '<p style="margin: 0;"><b>Thank you for your feedback!</b></p>';
       }
     </script>
+    <script>
+      function trackClick(productId) {
+          fetch('/track-click', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ product_id: productId })
+          });
+      }
+     </script>
   </head>
 
   <body>
@@ -251,7 +260,7 @@
               <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
             </p>
             <p style="margin-top: 0.5em">${{products_list[i].price}}0</p>
-            <a href="{{ products_list[i].redirect_url }}" target="_blank">
+            <a href="{{ products_list[i].redirect_url }}" target="_blank" onclick="trackClick('{{ products_list[i].brand }} {{ products_list[i].name }}')">
               <button class="add_to_bag" style="padding: 0.5em 2em;">SEE MORE</button>
             </a>
           </div>
@@ -298,7 +307,7 @@
                   <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
                 </p>
                 <p style="margin-top: 0.5em">${{products_list[i].price}}0</p>
-                <a href="{{ products_list[i].redirect_url }}" target="_blank">
+                <a href="{{ products_list[i].redirect_url }}" target="_blank" onclick="trackClick('{{ products_list[i].brand }} {{ products_list[i].name }}')">
                   <button class="add_to_bag" style="padding: 0.5em 2em;">SEE MORE</button>
                 </a>
               </div>
