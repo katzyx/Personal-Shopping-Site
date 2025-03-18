@@ -8,6 +8,7 @@ import time
 from unittest.mock import patch, MagicMock
 import csv
 import re
+import signal
 
 # Add the parent directory to the path so we can import the modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -15,6 +16,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from product_selection.map_user_to_product import map_inputs
 from product_selection.select_product import Product, BasicSelection
 from product_selection.user_input import UserInput
+from product_rag_model.load_rag_model import load_index, query_rag_model, RAGProduct
 
 # Mock the OpenAI API calls
 class MockResponse:
@@ -24,49 +26,41 @@ class MockResponse:
 class TestProductRecommendations:
     def __init__(self, csv_file_path: str, api_key: str = None):
         """
-        Initialize the test suite with the product database
+        Initialize the test suite with the RAG model
         
         Args:
-            csv_file_path: Path to the products CSV file
+            csv_file_path: Path to the products CSV file (not used for RAG model but kept for compatibility)
             api_key: OpenAI API key (optional)
         """
-        self.csv_file_path = csv_file_path
         self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
-        self.product_selector = None
-        print(f"CSV file path: {csv_file_path}")
-        print(f"Absolute path: {os.path.abspath(csv_file_path)}")
-        print(f"File exists: {os.path.exists(csv_file_path)}")
-        self.initialize_product_database()
+        print("Initializing RAG model...")
         
+        # Get the project root directory (parent of tests directory)
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        chroma_db_path = os.path.join(project_root, "product_rag_model", "chroma_db")
+        
+        print(f"Looking for ChromaDB at: {chroma_db_path}")
+        
+        # Try to load index with retries
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                self.index = load_index(chroma_db_path)
+                if self.index:
+                    break
+            except Exception as e:
+                print(f"Attempt {attempt + 1} failed: {str(e)}")
+                if attempt < max_retries - 1:
+                    time.sleep(1)  # Wait before retrying
+                    
+        if not self.index:
+            raise RuntimeError(f"Failed to load RAG model index from {chroma_db_path} after {max_retries} attempts")
+        print("RAG model initialized successfully")
+
     def initialize_product_database(self):
-        """Initialize the product database"""
-        print("Initializing product database...")
-        try:
-            # Create a symlink or copy the file to the expected location
-            expected_path = "./product_selection/products.csv"
-            os.makedirs(os.path.dirname(expected_path), exist_ok=True)
-            
-            # If the symlink/copy doesn't exist, create it
-            if not os.path.exists(expected_path):
-                # Option 1: Create a symlink
-                try:
-                    os.symlink(os.path.abspath(self.csv_file_path), expected_path)
-                except:
-                    # Option 2: If symlink fails, copy the file
-                    import shutil
-                    shutil.copy2(self.csv_file_path, expected_path)
-            
-            # Now initialize with the expected path
-            self.product_selector = BasicSelection(expected_path)
-            self.product_selector.parse_dataset()
-            print(f"Product database initialized with {len(self.product_selector.product_database)} products")
-        except Exception as e:
-            print(f"Error initializing database: {str(e)}")
-            print(f"Current working directory: {os.getcwd()}")
-            print(f"Attempted to use file: {self.csv_file_path}")
-            print(f"Absolute path: {os.path.abspath(self.csv_file_path)}")
-            raise
-    
+        """This method is kept for compatibility but does nothing since we're using RAG model"""
+        pass
+
     def generate_test_cases(self) -> List[Dict[str, str]]:
         """
         Generate 50 diverse test cases for user_who and user_what
@@ -473,14 +467,9 @@ class TestProductRecommendations:
     
     def run_tests(self, num_tests=None):
         """
-        Run the product recommendation tests
-        
-        Args:
-            num_tests: Number of tests to run, if None, run all tests
-            
-        Returns:
-            Dictionary with test results
+        Run the product recommendation tests using RAG model
         """
+        print("\n=== Starting test execution ===")
         test_cases = self.generate_test_cases()
         if num_tests:
             test_cases = test_cases[:num_tests]
@@ -488,47 +477,129 @@ class TestProductRecommendations:
         print(f"Running {len(test_cases)} test cases...")
         results = []
         
+        # Ensure index is loaded before running tests
+        if not self.index:
+            print("Index not loaded, attempting to reload...")
+            project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            chroma_db_path = os.path.join(project_root, "product_rag_model", "chroma_db")
+            self.index = load_index(chroma_db_path)
+            if not self.index:
+                raise RuntimeError("Failed to load index")
+        
         for i, test_case in enumerate(test_cases):
-            print(f"Test case {i+1}/{len(test_cases)}: {test_case['user_who'][:50]}...")
+            print(f"\n=== Test case {i+1}/{len(test_cases)} ===")
+            print(f"Who: {test_case['user_who']}")
+            print(f"What: {test_case['user_what']}")
             
-            # Mock the OpenAI API calls
-            who_response, what_response = self.generate_mock_openai_responses(test_case)
-            
-            with patch('openai.ChatCompletion.create') as mock_create:
-                # Set up the mock to return our pre-defined responses
-                mock_create.side_effect = [
-                    MockResponse(who_response),
-                    MockResponse(what_response)
-                ]
+            try:
+                # Step 1: Generate mock responses
+                print("\nStep 1: Generating mock OpenAI responses...")
+                who_response, what_response = self.generate_mock_openai_responses(test_case)
+                print("Mock responses generated:")
+                print(f"Who: {who_response}")
+                print(f"What: {what_response}")
                 
-                # Create UserInput object
-                user_input = UserInput(self.api_key, test_case["user_who"], test_case["user_what"])
-                
-                # Map the input to structured data
-                try:
+                # Step 2: Set up OpenAI mock
+                print("\nStep 2: Setting up OpenAI mock...")
+                with patch('openai.ChatCompletion.create') as mock_create:
+                    mock_create.side_effect = [
+                        MockResponse(who_response),
+                        MockResponse(what_response)
+                    ]
+                    print("OpenAI mock setup complete")
+                    
+                    # Step 3: Create UserInput and map inputs
+                    print("\nStep 3: Creating UserInput object and mapping inputs...")
+                    user_input = UserInput(self.api_key, test_case["user_who"], test_case["user_what"])
+                    print("UserInput object created")
                     structured_data = map_inputs(user_input.raw_input_who, user_input.raw_input_what)
+                    print(f"Structured data: {structured_data}")
                     
-                    # Get product recommendations
-                    products = self.product_selector.select_products(structured_data)
+                    # Step 4: Query RAG model
+                    print("\nStep 4: Querying RAG model...")
+                    try:
+                        print("Creating query string...")
+                        query = f"{test_case['user_who']}. {test_case['user_what']}"
+                        print(f"Query string: {query}")
+                        
+                        print("Checking index state...")
+                        if not self.index:
+                            raise RuntimeError("Index is None")
+                        print(f"Index type: {type(self.index)}")
+                        
+                        def timeout_handler(signum, frame):
+                            raise TimeoutError("Query timed out")
+
+                        # Set timeout of 30 seconds
+                        signal.signal(signal.SIGALRM, timeout_handler)
+                        signal.alarm(30)
+
+                        try:
+                            print("Executing RAG query...")
+                            products = query_rag_model(self.index, test_case["user_who"], test_case["user_what"])
+                            signal.alarm(0)  # Disable alarm
+                            print(f"Query complete. Got {len(products)} recommendations")
+                        except TimeoutError:
+                            print("Query timed out after 30 seconds")
+                            raise
+                        
+                        if not products:
+                            print("Warning: No products returned from RAG model")
+                            raise RuntimeError("No products returned from RAG model")
+                            
+                    except Exception as e:
+                        print(f"Error in RAG query: {str(e)}")
+                        print(f"Error type: {type(e)}")
+                        import traceback
+                        print(f"Traceback: {traceback.format_exc()}")
+                        raise
                     
-                    # Evaluate the recommendations
-                    evaluation = self.evaluate_product_relevance(products, test_case)
+                    # Step 5: Convert and evaluate products
+                    print("\nStep 5: Converting products for evaluation...")
+                    converted_products = []
+                    for p in products:
+                        converted_product = Product(
+                            id=getattr(p, 'id', ''),
+                            name=p.name,
+                            type=[],
+                            brand=p.brand,
+                            color=[],
+                            price=float(p.price) if hasattr(p, 'price') else 0.0,
+                            size="",
+                            formula="",
+                            ingredients=[],
+                            about=p.description if hasattr(p, 'description') else "",
+                            url=p.url if hasattr(p, 'url') else "",
+                            redirect_url=p.redirect_url if hasattr(p, 'redirect_url') else ""
+                        )
+                        converted_products.append(converted_product)
+                    print(f"Converted {len(converted_products)} products")
+                    
+                    print("\nStep 6: Evaluating recommendations...")
+                    evaluation = self.evaluate_product_relevance(converted_products, test_case)
+                    print("Evaluation complete")
                     
                     results.append({
                         "test_case": test_case,
                         "structured_data": structured_data,
-                        "products": [p.to_dict() for p in products],
+                        "products": [p.__dict__ for p in products],
                         "evaluation": evaluation,
                         "status": "success"
                     })
-                except Exception as e:
-                    print(f"Error in test case {i+1}: {str(e)}")
-                    results.append({
-                        "test_case": test_case,
-                        "error": str(e),
-                        "status": "error"
-                    })
+                    print(f"\nTest case {i+1} completed successfully")
+                    
+            except Exception as e:
+                print(f"\nError in test case {i+1}: {str(e)}")
+                print(f"Error type: {type(e)}")
+                import traceback
+                print(f"Traceback: {traceback.format_exc()}")
+                results.append({
+                    "test_case": test_case,
+                    "error": str(e),
+                    "status": "error"
+                })
         
+        print("\n=== Test execution complete ===")
         return results
 
     def generate_report(self, results):
@@ -802,6 +873,7 @@ def main():
     parser.add_argument("--csv", type=str, default="products.csv", help="Path to the products CSV file")
     parser.add_argument("--api_key", type=str, help="OpenAI API key")
     parser.add_argument("--num_tests", type=int, help="Number of tests to run")
+    parser.add_argument("--test_index", type=int, help="Run a single test case at this index")
     parser.add_argument("--output_dir", type=str, default="test_results", help="Output directory for test results")
     args = parser.parse_args()
     
