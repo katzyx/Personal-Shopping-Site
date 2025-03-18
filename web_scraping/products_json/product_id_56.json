@@ -1,0 +1,42 @@
+{
+    "product_id": "56",
+    "name": "MOD Blush Eau de Parfum",
+    "brand": "Ariana Grande",
+    "categories": "Fragrance, Women, Perfume",
+    "price": 91.0,
+    "about": "Fragrance Family:Florals.Scent Type:Fruity Florals.Key Notes:Raspberry, Dewy Magnolia, Dreamwood.Fragrance Description:Intoxicating and sensual, MOD Blush opens with a rich blend of Italian bergamot and passionfruit for an alluring introduction. Dewy rose and magnolia with a touch of pear create a breathtaking evolution on skin. Ambrox and musk leave an intimately luxurious impression..About the Bottle:The MOD bottle design is a modern toast to the post mid-century fashion ethos. Something bold and interruptive done in a sculptural way with form and light. Subtle curves create this rounded mod shape where no two sides look the same.  One white and one pink with a frosted window encapsulating the essence of the two MOD fragrances, MOD Blush and MOD Vanilla..About the Fragrance:Choose to be an original with MOD, the fragrance collection from Ariana Grande. An elevated collection that celebrates both the power of duality and the intoxicating freedom of expression. Innovative and sexy, the fragrance duo of MOD Vanilla and MOD Blush create an intimate yet powerful experience.",
+    "ingredients": "Alcohol Denat., Fragrance (Parfum), Water (Aqua/Eau), Benzyl Salicylate, Citral, Farnesol, Geraniol, Hydroxycitronellal, Limonene, Linalool.",
+    "how_to_use": "Suggested Usage:.-Apply to pulse points: wrist, chest, and neck.",
+    "num_reviews": 164,
+    "overall_rating": 4.7,
+    "product_url": "https://www.sephora.com/ca/en/product/ariana-grande-mod-blush-eau-de-parfum-P512526?skuId=2809465&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2809465-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "1 oz/ 30 ml eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2809440-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "3.4 oz/ 100 ml eau de parfum spray",
+            "shade_descriptor": "",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2809465-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Medium skin tone, Combination skin",
+            "review_text": "This perfume smells AMAZING!! This is my new favorite smell. I'll definitely be buying this again."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "Smells delicious itu2019s so good I would 100% buy again when in stock"
+        }
+    ]
+}

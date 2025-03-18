@@ -172,7 +172,34 @@
               body: JSON.stringify({ product_id: productId })
           });
       }
-      </script>
+     </script>
+    <script>
+      function toggleInfoPopup(){
+        var popup = document.getElementById("infoPopup");
+
+        // Position the popup near the button
+        popup.style.left = (event.clientX + 14) + "px";
+        popup.style.top = (event.clientY - 23) + "px";
+
+        // Toggle visibility
+        popup.style.display = (popup.style.display === "block") ? "none" : "block";
+      }
+
+      document.addEventListener("click", function(event) {
+          var popup = document.getElementById("infoPopup");
+          var button = document.querySelector(".info");
+
+          if (!popup.contains(event.target) && !button.contains(event.target)) {
+              popup.style.display = "none";
+          }
+      });
+    </script>
+    <script>
+      function submitFeedback(type) {
+        const feedbackContent = document.getElementById('feedback-content');
+        feedbackContent.innerHTML = '<p style="margin: 0;"><b>Thank you for your feedback!</b></p>';
+      }
+    </script>
   </head>
 
   <body>
@@ -207,7 +234,7 @@
           
           <!-- Search bar with placeholder text and a 'Go' button -->
           <div style="display: flex; justify-content: center; align-items: center;">
-            <input type="text" name="updated_preferences" placeholder="I am looking for a light foundation for sensitive skin." 
+            <input type="text" name="updated_preferences" placeholder="{{product_preferences}}"
                   style="flex: 1; max-width: 500px; padding: 10px; border-radius: 5px; border: none; font-family: 'Montserrat';">
             
             <button type="submit" class="saving" style="font-family: 'Montserrat'; padding: 10px 15px; border-radius: 5px; border: none;">
@@ -279,7 +306,7 @@
                 <p class="prod_brand">
                   <b style="margin-top: 0.5em">{{products_list[i].brand}}</b>
                 </p>
-                <p style="margin-top: 0.5em">${{products_list[i].price}}</p>
+                <p style="margin-top: 0.5em">${{products_list[i].price}}0</p>
                 <a href="{{ products_list[i].redirect_url }}" target="_blank">
                   <button class="add_to_bag" style="padding: 0.5em 2em;">SEE MORE</button>
                 </a>
@@ -294,7 +321,21 @@
   <div style="background-color: black; color: white; padding: 1em; margin: 3em 0em 0em 0em; text-align: center;">
     <p style="margin: 0;"><b>Personalized site custom-generated in {{time}} seconds</b></p>
   </div>
-  
+
+  <!-- Feedback bar -->
+  <div style="background-color: white; color: black; padding: 1em; margin: 0; text-align: center;">
+    <div id="feedback-content">
+      <p style="margin: 0 0 10px 0;"><b>Was this helpful?</b></p>
+      <div style="display: flex; justify-content: center; gap: 20px;">
+        <button onclick="submitFeedback('positive')" style="background: none; border: none; cursor: pointer;">
+          <img src="{{ url_for('static', filename='assets/icons8-thumbs-up-48.png') }}" alt="thumbs up" style="width: 24px; height: 24px;">
+        </button>
+        <button onclick="submitFeedback('negative')" style="background: none; border: none; cursor: pointer;">
+          <img src="{{ url_for('static', filename='assets/icons8-thumbs-down-48.png') }}" alt="thumbs down" style="width: 24px; height: 24px;">
+        </button>
+      </div>
+    </div>
+  </div>
 
     <footer>
       <div style="text-align: center; color:gray; background-color: white;">
@@ -303,6 +344,9 @@
     </footer>
 
     <!-- Sidebar -->
+    <div class="popup" id="infoPopup" style="display: none;">
+      No need to rewrite! Just ask to delete or add information about yourself.
+    </div>
     <div id="sidebar" class="sidebar" style="position: fixed; top: 0; right: -400px; width: 400px; height: 100vh; background-color: white; transition: right 0.3s ease-in-out; z-index: 1000;">
       <form id="user_details_form" method="POST" action="/update_user_details" onsubmit="updateUserDetails(event)">
         <div style="padding: 20px; height: 100%; display: flex; flex-direction: column;">
@@ -319,7 +363,9 @@
               {{ user_details }}
             </div>
             
-            <label for="user_form" style="color: black; margin-bottom: 10px;">Update Description:</label>
+            <label style="color: black; margin-bottom: 10px;">Update Description
+              <img class="info" src="{{ url_for('static', filename='assets/icons8-information-100.png') }}" style="width: 15px; margin-bottom: -2px;" onclick="toggleInfoPopup()"> :
+            </label>
             <textarea 
               name="user_details" 
               id="user_form" 

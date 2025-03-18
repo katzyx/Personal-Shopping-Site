@@ -1,0 +1,32 @@
+{
+    "product_id": "976",
+    "name": "Portfolio Professional Correctors",
+    "brand": "Lise Watier",
+    "categories": "Makeup, Face, Color Correct",
+    "price": 43.0,
+    "about": "What it is:A concealer designed to correct and conceal imperfections and under-eye circles..Coverage:Full.Finish:Natural.Formulation:Cream.Skin Type:Normal, Dry, Combination, and Oily.Ingredient Callouts:Free of parabens and mineral oil. This product is also vegan..What Else You Need to Know:This product offers a customized solution to correct and",
+    "ingredients": "Octyldodecanol, Caprylic/Capric Triglyceride, Talc, Cyclopentasiloxane, Ricinus Communis (Castor) Seed Oil, Cyclohexasiloxane, Candelilla Cera (Cire de Candelilla/Euphorbia Cerifera Wax), Methyl Methacrylate/Glycol Dimethacrylate Crosspolymer, Cera Carnauba (Cire de Carnauba/Copernicia Cerifera Wax), Ozokerite, Cera Microcristallina (Cire microcristalline/Microcrystalline Wax), Tocopheryl Acetate, Stearalkonium Hectorite, Propylene Carbonate, Stearoxy Dimethicone, Caprylyl Glycol, Phenoxyethanol.&nbsp;+/- CI 77891 (Titanium Dioxide), CI 77491, CI 77492, CI 77499 (Iron Oxides), CI 77742 (Manganese Violet).",
+    "how_to_use": "Suggested Usage:.-Apply on the back of the hand with your fingers to warm the product before application. .-Correct areas using the Perfecting Concealer Brush (sold separately). .-Create the perfect color by mixing the different shades according to the color of your complexion.",
+    "num_reviews": 242,
+    "overall_rating": 4.4,
+    "product_url": "https://www.sephora.com/ca/en/product/lise-watier-portfolio-professional-correctors-P462876?skuId=2374726&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2374726-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Original",
+            "shade_descriptor": "for all complexions",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2374726-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Beige",
+            "shade_descriptor": "for lighter complexions",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2374734-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Dark",
+            "shade_descriptor": "for darker complexions",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2374742-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
+}

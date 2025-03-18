@@ -13,8 +13,12 @@ from product_selection.blogpost import Blogpost
 from product_selection.map_user_to_product import *
 from product_selection.select_product import Product
 
-# from product_selection.key import API_key
+from product_rag_model.load_rag_model import *
+
+from product_selection.key import API_key
 from product_selection.user_input import UserInput
+
+USE_RAG_MODEL = True
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
@@ -23,8 +27,6 @@ moment = Moment(app)
 app.secret_key = 'hello'
 results_storage = {}
 click_data = {}
-
-API_key = os.environ.get("OPENAI_API_KEY")
 
 def initialize_database():
     print("Begin parsing dataset")
@@ -36,11 +38,15 @@ def initialize_database():
 
 # Global variable to store the BasicSelection instance
 product_selector = None
+rag_index = None
 
 # Start database parsing in background thread when app starts
 def start_background_parsing():
-    global product_selector
-    product_selector = initialize_database()
+    global product_selector, rag_index
+    if USE_RAG_MODEL:
+        rag_index = load_index("./product_rag_model/chroma_db")
+    else:
+        product_selector = initialize_database()
 
 background_thread = Thread(target=start_background_parsing)
 background_thread.daemon = True
@@ -126,9 +132,15 @@ def index():
 def getting_products(user_details, product_preferences):
     start_time = time.time()
     results_storage.pop('products_list', None)
+    
     # Call Python function to map inputs to products
-    products_list: list[Product] = map_inputs(user_details, product_preferences)
-    print("Products returned")
+    if USE_RAG_MODEL:
+        products_list: list[RAGProduct] = query_rag_model(rag_index, user_details, product_preferences)
+        print("Products returned")
+    else:
+        products_list: list[Product] = map_inputs(user_details, product_preferences)
+        print("Products returned")
+    
     # Call Python function to write custom blog post
     blog = Blogpost(API_key, user_details, product_preferences)
     written_blog = blog.write_blogpost()
@@ -144,6 +156,7 @@ def getting_products(user_details, product_preferences):
     results_storage['blog'] = written_blog
     results_storage['time_elapsed'] = time_elapsed
     results_storage['user_details'] = user_details
+    results_storage['product_preferences'] = product_preferences
 
 @app.route('/display_results', methods=['GET', 'POST'])
 def display_results():
@@ -153,9 +166,10 @@ def display_results():
     blog = results_storage.get('blog', '')
     time_elapsed = results_storage.get('time_elapsed', '')
     user_details = results_storage.get('user_details', '')
+    product_preferences = results_storage.get('product_preferences', '')
 
     # Render the results page with the computed data
-    return render_template('index.html', products_list=products_list, blog=blog, time=time_elapsed, user_details=user_details)
+    return render_template('index.html', products_list=products_list, blog=blog, time=time_elapsed, user_details=user_details, product_preferences=product_preferences)
 
 @app.route('/update_user_details', methods=['POST'])
 def update_user_details():

@@ -1,0 +1,17 @@
+Product ID: 1536
+Product Name: One Step Correct
+Brand: stila
+Categories: Makeup, Face, Face Primer
+Price: $49.0
+About: What it is:.What it does:
+Ingredients: Water/Aqua/Eau, Cyclopentasiloxane, Glycerin, Butylene Glycol, Propylene Glycol, Titanium Dioxide (CI 77891), Zinc Oxide(Nano), Octyldodecyl Neopentanoate, Carbomer, Phenoxyethanol, PEG/PPG-18/18 Dimethicone, Sodium Hydroxide, Dimethicone, Caprylyl Glycol, Aluminum Hydroxide, Stearic Acid, Boron Nitride, Chromium Oxide Greens (CI 77288), Ultramarines (CI 77007), Disodium EDTA, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Dehydroacetate, Iron Oxides (CI 77492), Methylparaben, Phytantriol, Hexylene Glycol, Triethoxycaprylylsilane, Dextrin Palmitate, Palmitic Acid, Propylparaben, Iron Oxides (CI 77491), Octyldodecanol, Tetrahexyldecyl Ascorbate, Tocopherol, Tocopheryl Acetate, Magnesium Ascorbyl Phosphate, Mica, Retinyl Palmitate, Iron Oxides (CI 77499), Lysine, Anthemis Nobilis Flower Extract, Camellia Oleifera Leaf Extract, Ginkgo Biloba Leaf Extract, Panax Ginseng Root Extract, Sodium Hyaluronate, Magnesium Chloride, Potassium Chloride, Sodium Chloride, Zinc Chloride, Potassium Sorbate, Montmorillonite, Illite, Kaolin.
+How to Use: 
+Rating: 4.0 stars
+Number of Reviews: 1289
+Product URL: https://www.sephora.com/ca/en/product/one-step-correct-P269019?skuId=1277474&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s1277474-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: 1 oz/ 30 mL
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1277474-main-zoom.jpg?imwidth=465

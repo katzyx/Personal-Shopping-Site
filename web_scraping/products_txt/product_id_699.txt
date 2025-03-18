@@ -1,0 +1,17 @@
+Product ID: 699
+Product Name: BOSS Bottled Unlimited Eau de Toilette
+Brand: Hugo Boss
+Categories: Fragrance, Men, Cologne
+Price: $134.0
+About: Notes:.Style:
+Ingredients: 
+How to Use: 
+Rating: 4.7 stars
+Number of Reviews: 3
+Product URL: https://www.sephora.com/ca/en/product/boss-bottled-unlimited-P386161?skuId=1603174&icid2=products
+Image URL: https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465
+
+Shades: 
+ - Shade: 3.4 oz / 100 ml eau de toilette spray
+   Shade Description: 
+   Shade Image URL: https://www.sephora.com/productimages/sku/s1603174-main-zoom.jpg?imwidth=465

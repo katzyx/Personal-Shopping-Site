@@ -1,0 +1,42 @@
+{
+    "product_id": "1460",
+    "name": "Mini Super Slick Tinted Lip Balm",
+    "brand": "SIMIHAZE BEAUTY",
+    "categories": "Makeup, Lip, Lipstick",
+    "price": 33.0,
+    "about": "What it is: A travel-friendly moisture-boosting lip balm infused with rose oil for a soothing effect...Formulation Type: Lip Balm & Treatment..Benefits: Hydrating..Highlighted Ingredients:.- Rose Oil: Soothes and hydrates lips with an abundance of antioxidants...Ingredient Callouts: This product is cruelty-free...What Else You Need to Know: Featuring a custom-dome tip for easy application, this unique oil-balm melts into lips on contact, leaving a sheer tint of color with wet, glossy shine. Swipe once for sheer, juicy color or layer for more payoff. Mini Super Slick Balm was created for an on-the-go lifestyle; a built-in magnet system in the cap lets product stack together for compact storage. Custom packaging is composed of 70% sustainable natural origin which to reduce the use of plastic.",
+    "ingredients": "-Rose Oil: Soothes and hydrates lips with an abundance of antioxidants. ..Diisostearyl Malate, Octyldodecyl Stearoyl Stearate, Pentaerythrityl Tetraisostearate, Vp/Hexadecene Copolymer, Polyethylene, Ozokerite, Parfum (Fragrance), Rosa Canina Fruit Extract, Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea) Butter), Limonene, Citric Acid, Aluminum Hydroxide, Mica, Diethylhexyl Syringylidenemalonate, Caprylic/Capric Triglyceride +/- May Contain Ci 77891 (Titanium Dioxide), Ci 15850 (Red 6), Ci 15850 (Red 7), Ci 19140 (Yellow 5 Lake), Ci 42090 (Blue 1 Lake), Ci 45410 (Red 28 Lake), Ci 77491 (Iron Oxides), Ci 77492 (Iron Oxides), Ci 77499 (Iron Oxides).",
+    "how_to_use": "Suggested Usage:.-Glide across lips for a sheer tint of color. .-To amplify color and shine, apply multiple coats...Beauty tip:.-For a stained lip look, blot with a tissue after applying.",
+    "num_reviews": 135,
+    "overall_rating": 3.3,
+    "product_url": "https://www.sephora.com/ca/en/product/super-slick-lip-balm-P503350?skuId=2633964&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2633964-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "Dune",
+            "shade_descriptor": "brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2634004-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Breeze",
+            "shade_descriptor": "peach pink",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2633964-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Cherry",
+            "shade_descriptor": "red brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2633972-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Clay",
+            "shade_descriptor": "red brown",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2633998-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "Blossom",
+            "shade_descriptor": "fuschia",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2633980-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": []
+}

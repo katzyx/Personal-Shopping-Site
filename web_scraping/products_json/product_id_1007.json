@@ -1,0 +1,1913 @@
+{
+    "product_id": "1007",
+    "name": "Triple Fix Blurring and Hydrating Skin Tint Foundation Stick",
+    "brand": "LYS Beauty",
+    "categories": "Makeup, Face, Foundation",
+    "price": 34.0,
+    "about": "What it is: An ingredient-rich skin tint stick enhances complexion to help visibly even skin, while concealing the look of any blemishes or uneven tone with just one swipe...Coverage: Medium.Finish: Natural.Formulation: Stick.Highlighted Ingredients: - Green Tea Extract: Soothes and hydrates skin while reducing redness..- Watermelon Seed Extract: Retains skinu2019s moisture levels for a healthy, radiant look..- Rosehip Oil: Is an antioxidant-rich ingredient with vitamins A, C, and E that visibly reduces dark spots and improves moisture levels...Ingredient Callouts: This product is vegan and cruelty-free...What Else You Need to Know: An all-in-one serum, primer, and skin tint, this pigmented blurring stick instantly wipes away the look of breakthrough texture and enlarged pores while providing a veil of coverage with a natural, skin-like finish. Its lightweight, easy-to-blend formula gives you lasting hydration with a glow...Clean.Clean at Sephora is our commitment to offering formulas that go beyond regulatory standards to avoid controversial ingredients without sacrificing effectiveness.",
+    "ingredients": "-Green Tea Extract: Soothes and hydrates skin while reducing redness..-Watermelon Seed Extract: Retains skinu2019s moisture levels for a healthy, radiant look..-Rosehip Oil: Is an antioxidant-rich ingredient with vitamins A, C, and E that visibly reduces dark spots and improves moisture levels...Ethylhexyl Palmitate, Isononyl Isononanoate, Diisostearyl Malate, Synthetic Wax, Ceresin, Polyisobutene, Aluminum Hydroxide, Sodium Hyaluronate, Camellia Sinensis (Green Tea) Leaf Extract, Carthamus Tinctorius (Safflower) Seed Oil, Citrullus Lanatus (Watermelon) Fruit Extract, Tocopheryl Acetate (Vitamin E), Rosa Rubiginosa (Rosehip) Seed Oil, Caprylic/Capric Triglyceride, Glucomannan, Silica, Trihydroxystearin, Phenoxyethanol. May Contain [+/-]: Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891)...The list of ingredients is subject to change. Please consult the packaging of the product purchased.",
+    "how_to_use": "Suggested Usage:.-Swipe stick generously across your forehead, cheeks, and chin, then gently blend with your fingertips like you would with a serum..-For additional coverage, apply with a makeup sponge or brush (not included), then buff using circular motions. .-Layer and build until you achieve your desired look. .-Blend into your neck and ears for a seamless, undetectable finish.",
+    "num_reviews": 257,
+    "overall_rating": 4.6,
+    "product_url": "https://www.sephora.com/ca/en/product/lys-beauty-triple-fix-blurring-hydrating-skin-tint-foundation-stick-P513483?skuId=2823011&icid2=products",
+    "image_url": "https://www.sephora.com/productimages/sku/s2823011-main-zoom.jpg?imwidth=465",
+    "shades": [
+        {
+            "shade_name": "DPP6 - espresso",
+            "shade_descriptor": "rich brown skin with pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2823011-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DPN6 - deep espresso",
+            "shade_descriptor": "rich brown skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796894-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DPN4 - coffee",
+            "shade_descriptor": "rich brown skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796845-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DPP1 - mocha blush",
+            "shade_descriptor": "dark brown skin with pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796878-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DPN1 - mocha neutral",
+            "shade_descriptor": "dark brown skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796928-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DG7 - cocoa",
+            "shade_descriptor": "dark brown skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796811-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DG6 - dark golden almond",
+            "shade_descriptor": "dark brown skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796860-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DN5 - hazelnut",
+            "shade_descriptor": "dark brown skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796761-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DG3 - golden caramel",
+            "shade_descriptor": "brown skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796837-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "DN3 - caramel",
+            "shade_descriptor": "brown skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796852-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "TG7 - tan sand",
+            "shade_descriptor": "tan/olive skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796753-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "TN6 - honey",
+            "shade_descriptor": "tan/olive skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796902-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "TN3 - oak",
+            "shade_descriptor": "tan skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796779-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "TG1 - latte",
+            "shade_descriptor": "light tan skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796977-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "MN5 - almond",
+            "shade_descriptor": "medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796936-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "MN3 - neutral buff",
+            "shade_descriptor": "light medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796829-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "MG2 - bisque",
+            "shade_descriptor": "light golden medium skin with golden undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796993-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "MN1 - ivory beige",
+            "shade_descriptor": "light medium skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796787-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "LN6 - light nude",
+            "shade_descriptor": "light skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796985-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "LP4 - vanilla",
+            "shade_descriptor": "fair skin with pink undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796886-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "LN3 - bone blush",
+            "shade_descriptor": "very fair skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796910-main-zoom.jpg?imwidth=465"
+        },
+        {
+            "shade_name": "LN1 - porcelain",
+            "shade_descriptor": "very fair skin with neutral undertones",
+            "shade_image_url": "https://www.sephora.com/productimages/sku/s2796969-main-zoom.jpg?imwidth=465"
+        }
+    ],
+    "reviews": [
+        {
+            "review_title": "Must Grab!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "This is the ultimate shade match!!! Stunning!! Liquid foundation was not ideal and this has a perfect blend."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "LP4 - vanilla - fair skin with pink undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "okay guys. this is my first review iu2019ve ever left on a sephora product butu2026u2026this is LIFECHANGING. iu2019m so serious. iu2019ve never purchased a foundation before and this is perfect. easy to blend, natural finish, perfection. my mom immediately went out to get one after she saw how good my skin looked with it on. a million out of ten."
+        },
+        {
+            "review_title": "An affordable and easy to use stick foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Dry skin",
+            "review_text": "Okay, it goes on like butter. Itu2019s a dream to blend. Unfortunately I donu2019t have a real shade match with this formula. The one I bought is listed as neutral but it pulls more warm on me. I make it wooooork by blending with a cushion foundation I have near the neck and using it strategically on certain parts of my face. I didnu2019t want to part with it because it really does give a wonderful natural finish. If you can find your shade, I highly recommend! It has great coverage and is buildable. I have dry skin and it doesnu2019t cling too much anywhere."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "feels very light and doesnu2019t look cakey :)) also an employee help me find my right shade! So nice!!"
+        },
+        {
+            "review_title": "GOAT!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, lightMedium skin tone, Dry skin",
+            "review_text": "I was blown away by this brand and product. As a professional makeup artist  Hereu2019s why: Clean, range of shades, blend-ability, buildable cblurring, buildable coverage      S shade"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "LN3 - bone blush - very fair skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, red hair, Fair skin tone, Combination skin",
+            "review_text": "a little greasy but overall great formulation for dry skin. However, pale shades have strong yellow undertones :/ would love a fair shade with more neutral undertones"
+        },
+        {
+            "review_title": "Skin Reaction",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "I had high hopes for this product, but unfortunately, it caused a severe breakout and triggered a reaction unlike anything I've experienced with other makeup products."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DN3 - caramel - brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Deep skin tone, Combination skin",
+            "review_text": "Smooth like butter with amazing coverage! This foundation stick is a must-have!"
+        },
+        {
+            "review_title": "Best foundation stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "Love this foundation stick! Has a smooth satin finish, easy to blend, and wears nicely throughout the day. Great value for the price"
+        },
+        {
+            "review_title": "It actually blurs and hydrates!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "This is the most incredible foundation stick I have ever purchased. Actually - best foundation hands down. I don't wear much make up, neither does my mom - but we have extremely sensitive and dry skin and everything clings to our dry spots (even if we hydrate extra before). This foundation made both of our faces look FLAWLESS; no pores, super hydrating and no clingy dry spots. I will use this till the day I die!"
+        },
+        {
+            "review_title": "Buy it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "100/10!!!! Affordable, creamy, blendable, long wearing, NOT CAKEY u2026 what more could you ask for? This covers up EVERYTHING on my face while still looking like skin. Absolutely will repurchase"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Has a great finish thatu2019s not too matte but stays in place! Has more coverage than I expected which I love! Great foundation!"
+        },
+        {
+            "review_title": "SO WORTH THE HYPE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, mediumTan skin tone, Combination skin",
+            "review_text": "I absolutely love this formula! I was truly shocked to see this truly give me coverage blurring but at the same time, not looking u201cmakeupyu201d! Even my bf said it looked amazing! Dare I say I like it more than my high  end  end 3WO It works great with a brush or patting in with your fingers.end 3WO?! I hope they expand on their undertones. I will say this blends beautifully, even if they donu2019t have olive undertones it melts and blends into your skin, which is amazing.."
+        },
+        {
+            "review_title": "Buy this!! If you have eczema!! This is a winner!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Dry skin",
+            "review_text": "This is the best foundation I have ever used. As someone who is pale and dry all the time, this is the best!!!! I have acne prone skin, dry, rosacea, and severe eczema to the point I have to take biological injections to stop it. I highly recommend for sensitive skin!!!   recommend rrevokmenr for"
+        },
+        {
+            "review_title": "Itu2019s pretty good",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Combination skin",
+            "review_text": "Not as matte as Iu2019d love but looks nice. Good price point"
+        },
+        {
+            "review_title": "Incredible.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "I have super dehydrated + sensitive skin w/ an oily forehead and this is the product of my dreams. I used to use the merit stick but tbh merit is not a brand I want to support and I found it too waxy. I had been using the Tower 28 sunny days but it got discontinued in Canada and I prefer the convenience of a stick. I will buy this forever (please never discontinue it). The coverage is medium but buildable  If you set it, it doesnu2019t move. Not drying at all - these other reviews need better skin prep. Shade match is elite. I canu2019t say enough!Ii"
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "mediumTan skin tone, Normal skin",
+            "review_text": "Looks so good on but within an hour it pills and makes you look EXTREMELY oily"
+        },
+        {
+            "review_title": "Beautiful and easy",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "This brand is loudly and proudly prochoice which means they are on my good list. I am very impressed after weeks of playing with this medium to full coverage formula! It reminds me of my beloved Basma stick for nearly half the price. I like this better than the Fenty stick in that it has far better glide and a slightly more natural satin finish rather matte. I am a light neutral olive and this sage is perfections."
+        },
+        {
+            "review_title": "Youll get so many compliments!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Dry skin",
+            "review_text": "From the day i started wearing this foundation, i have gotten so many compliments on the smooth natural finish of my skin. My skin has always been very clear but this lightweight foundation just gives it such a baby soft finish and evens out all of my color issues. I love this this foundation and the price point is also great! Please do not discontinue EVER!!"
+        },
+        {
+            "review_title": "A great on the go foundation with great coverage!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, fairLight skin tone, Normal skin",
+            "review_text": "I am a red head with VERY VERY fair skin with rosacea ufffcufffcso I am hard shade to match. I ordered the LN1 shade and it matched perfectly. It went on easily and I used a blending brush to even it out. Looked great and coverage is amazing! rosacitcompletely coveredcompletely covered   ufffc rosacea rosaceaIt w"
+        },
+        {
+            "review_title": "New travel go to!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, Fair skin tone, Dry skin",
+            "review_text": "My new go to travel foundation stick!! I have dry skin and this is definitely more difficult to blend-so be sure to apply extra moisturizer! I love that it is compact and will be easy to travel with versus my liquid foundation. The color match was perfect. My only complaint is that it is a bit drying (but I have super dry skin)"
+        },
+        {
+            "review_title": "Very full coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Dry skin",
+            "review_text": "I tried to use this as a contour stick and I couldnu2019t even because a little went a long way, duh itu2019s a foundation and it seems to be a great foundation at that. They were out of my shade but will probably buy it again in the future as a foundation lol"
+        },
+        {
+            "review_title": "Everyday stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, fairLight skin tone, Dry skin",
+            "review_text": "I have dry skin. This is my favorite stick for everyday. It blends well, has great coverage, skin like finish, and self sets. Shade range is fantastic. Couldnu2019t recommend more."
+        },
+        {
+            "review_title": "My favorite foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "It blends so nicely and gives my skin a healthy glow. Doesnu2019t get cakey or dry."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "BEAUTIFUL finish! This may be my perfect foundation. Staying power, no irritation, perfect coverage, no fragrance. My shade has been sold out - I really hope itu2019s not being discontinued."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DN5 - hazelnut - dark brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "this product blends soo well with my skin. i love it!"
+        },
+        {
+            "review_title": "BEAT FOUNDATION EVER",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Iu2019m not exaggerating when I say this is the single best foundation Iu2019ve ever used in my life. It blends in quite literally like a serum, lays perfectly, and blends absolutely seamlessly with your fingers. 20 seconds of application looks like I spent 20 blending out. Itu2019s perfection."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DPP1 - mocha blush - dark brown skin with pink undertones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "this is so good, blends really well which means itu2019s smooth and the match was good!"
+        },
+        {
+            "review_title": "Extreme Pore Clogging (acne prone girlies beware)",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Light skin tone, Combination skin",
+            "review_text": "I regret that I didnu2019t check the ingredients before purchasing this. The very first ingredient is extremely pore clogging. I wore this once and broke out BADLYu2014which was a bummer because it has great coverage and looks beautiful on the skin. I even tried using it on my neck to match my foundation and it broke my neck out too! If you are acne prone at all, Iu2019d stay away from this one."
+        },
+        {
+            "review_title": "The Best!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Dry skin",
+            "review_text": "This is the best foundation Iu2019ve ever used!! I donu2019t need to use primer with it since itu2019s built into this formula. With setting spray and powder, this stays on all day long! Iu2019m so impressed!"
+        },
+        {
+            "review_title": "New every day foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Hands down best foundation Iu2019ve ever used. The coverage is amazing and I have a problem with my foundation getting cakey on my skin and it doesnu2019t happen with this one. I have psoriasis as well and covering red patches is important to me. This foundation achieves it flawlessly"
+        },
+        {
+            "review_title": "so good for the price",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "does everything it promised and more! feels so light, applies and blends so well and lasted amazing even after 14+ hours"
+        },
+        {
+            "review_title": "A MUST HAVE",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Oily skin",
+            "review_text": "This is one of the BEST foundations Iu2019ve ever had!! It goes on so smoothly and it stays all day. It creates the illusion that you have perfect skin and the coverage is OMG AMAZING!!!"
+        },
+        {
+            "review_title": "The GOAT",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Combination skin",
+            "review_text": "My first ever foundation, because I haaaate foundations. But this one, this one right here changed the game, usr it even as a concelear. My perfect shade, the texture, everything"
+        },
+        {
+            "review_title": "YES YES YES",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "I got the shade mg2 even though iu2019m a neutral undertone and my perfect shade would be mn3 but itu2019s out of stock everywhere and im so sad about it but i genuinely do love this product itu2019s so SMOOTH and CREAMY and just glides on your skin and doesnu2019t really feel heavy on the skin either. i kinda of just wear it on its own without even setting it with powder or a setting spray and it looks just fine as well and i have combo/oily ski"
+        },
+        {
+            "review_title": "Beautiful finish and staying power",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Really beautiful finish and staying power! I am so happy I tried this foundation during the sale. My skin has redness and is sensitive. This foundation is gentle and looks amazing even after working all day. I hope my color comes back into stock. Itu2019s a perfect match!"
+        },
+        {
+            "review_title": "good",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Great! Very buttery, applies very smoothly on the skin. The coverage is medium to buildable. I like it because it makes me use less product on my skin so it feels very lightweight."
+        },
+        {
+            "review_title": "Nice formula, colors off",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "The formula is nice but Iu2019ve bought and returned 2 different shades because they are very orange and darker than the photos. I give up finding a match."
+        },
+        {
+            "review_title": "Match Made in Heaven",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "When I say I love this formula and reach daily I mean it! I have used it since the day I got it and I love it for my dry skinu2026 this creamy finish glides on beautifully and help my makeup set so well! I seriously have a crush on this formula."
+        },
+        {
+            "review_title": "Wanted to love but not for me (oily/combo)",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Combination skin",
+            "review_text": "I was excited to try this foundation as never tried stick foundation before. Realized this was not for my skin... I have oily/combo and texture (large pores  pitted acne scarring) I tried it with 2 different priming methods and application mrthods, (brush/sponge) and got the same results. Cakey, flaking, AND bery pily not even within 1 hour of application which is crazy after setting both times. Soo unfortunately this will be a returnn!"
+        },
+        {
+            "review_title": "Smooth and Clean",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Medium skin tone, Combination skin",
+            "review_text": "Very excellent feeling, blends in very perfectly and buttery texture."
+        },
+        {
+            "review_title": "Wanted to love it but..",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "After seeing rave reviews I decided to purchase this foundation to try it out & I ended up regretting it: this broke me out (I never break out) AND the packaging broke on me after 3 days causing the product to fall off. And leaving a greasy my ness behind/"
+        },
+        {
+            "review_title": "very good for a foundation snob",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, black hair, Porcelain skin tone, Dry skin",
+            "review_text": "honestly I'm SO picky with foundation. this one is finally light enough for my skin and doesn't take much to go all over. id say medium coverage if you're light handed with it but buildable. it's very easy to work with and doesn't dry my skin. just make sure you let it dry fully after applying. only downside I find is that it smells bad imo (like that makeup chemical smell nothing crazy) - but id rather that than it be perfumed TBH.  .I'll definitely re buy"
+        },
+        {
+            "review_title": "Best foundation ever",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, fairLight skin tone, Dry skin",
+            "review_text": "This product is fire. I do not like foundation and I do not look like I am wearing a ton of makeup, but this product is IT!!! It looks so natural and has a beautiful finish and wears well throughout the day. I love how this makes my skin look. I have dry skin and itu2019s perfect"
+        },
+        {
+            "review_title": "Itu2019s a yes for me!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "I have normal skin and love to use this as a natural everyday  concealer. Goes on like butter and blends out great. I see some ppl saying itu2019s not good for dry skin but I disagree. Skin prep is very important for any foundation/concealer product, and with the right prep this is even better. Must set with alittle prefer to keep from moving. I love it!"
+        },
+        {
+            "review_title": "GET THIS",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I have drier skin, and I love this product. The colors are perfect, it blends so well and is perfect for my light makeup days. I keep it in my purse! Itu2019s so good."
+        },
+        {
+            "review_title": "Yes",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
+            "review_text": "Love this! It looks so nice and gives enough coverage and doesnu2019t feel heavy. Works well on my dry skin"
+        },
+        {
+            "review_title": "LYS YOU HAVE A FAN",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Deep skin tone, Oily skin",
+            "review_text": "I am so pleasantly surprised by this product. I saw it on TikTok and decided to try it. My usual foundation is Pat McGrath, but I wanted something a little more portable and not liquid. This is it!!! the finish is so beautiful last for a really long time. I just really love the way that it melts into your skin. Iu2019m a fan."
+        },
+        {
+            "review_title": "Perfect for on the go",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "My skin was so glowy and bright because of the serum and moisturizer in this foundation stick. It was the perfect shade for me. Smooth easy application no fuss just blend."
+        },
+        {
+            "review_title": "Must need for oily skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "Iu2019ve used numerous of foundations in the past, from rare beauty to Armani and none of them have been as good as this one. I have really oily skin and this one just stay put all day. It is a need and I 100% recommend it!"
+        },
+        {
+            "review_title": "Rosacea Friend",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "Thankfully got the right shade! It is definitely more sheer, so not great if you have bad acne, but perfect if you just have discoloration! Blends great and is very moisturizing! Glad I bought into the hype!"
+        },
+        {
+            "review_title": "Yes yes yes yes",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "46 years on this earth hunting for a foundation that works and I finally found it lol ud83dude06 this is so smooth and beautiful ud83eudd29 it just works so well with my finicky skin. I have combo skin so itu2019s difficult."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, fairLight skin tone, Combination skin",
+            "review_text": "Love this foundation! Everyone saying they have dry patches with it.. I use Danessa Myricks skin barrier balm, face oil & the translucent blurring skin balm only in areas where Iu2019m oily & thus foundation wears beautifully where most will start to wear away. Please donu2019t ever discontinue!wearsbeautifully K"
+        },
+        {
+            "review_title": "So nice!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "The formula is hydrating, making it great for dry skin, and it feels comfortable throughout the day. With its inclusive shade range and skin-loving ingredients, this foundation stick is perfect for achieving a fresh, luminous look. Overall, it's a great option for those seeking a light yet effective foundation with a natural glow."
+        },
+        {
+            "review_title": "New favorite in everyday makeup routine!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "I have tried about three different skin tints from Sephora and this is by far my favorite. I love the way it glides on my skin and the color match was insane! Even the Sephora salesperson who helped me was stunned at the shade match. The consistency is very smooth and creamy and didnu2019t leave any patches or streaks and my pores werenu2019t super noticeable which is something very important to me when going for coverage.  Iu2019ve now worn it once without setting it and it held up pretty well with blush on top! If youu2019ve been in between brands trying to figure out which skin tint/foundation stick to get I would highly recommend this one!"
+        },
+        {
+            "review_title": "Every day I love this more and more",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "Wow, such great quality for such a good price! Definitely less is more with this skin tint. It provides such beautiful glow while still being blurring. I have oily skin and love this. It wears very good for it to be a stick formula!"
+        },
+        {
+            "review_title": "Nope",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Dry skin",
+            "review_text": "Fell for the hype. Same issues with this as with all stick foundations. By end of day regardless of rigorous skin prep and setting, dry, cakey, and breaking apart."
+        },
+        {
+            "review_title": "",
+            "review_rating": 2,
+            "review_shade_purchased": "LN6 - light nude - light skin with neutral undertones",
+            "review_buyer_description": "Blue eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "I tried to give the product a fair chance.. before skin prep and after skin prep. I have dry/oily skin. I wanted to love it so bad, but It left me with dry patches after applying and some spots the foundation wonu2019t stick"
+        },
+        {
+            "review_title": "LYS is the best!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "OMG LYS Beauty is so amazing!! They gifted me this foundation stick AND the LN3 shade, the foundation brush and the holiday blush set!! This foundation is so creamy and the coverage is beautiful!! Itu2019s the same formula as the contour sticks so you know itu2019s good!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "DPN1 - mocha neutral - dark brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, notSure skin tone, Dry skin",
+            "review_text": "Sad about the shade range. Need more shades please!! I felt like i need a shade in between this one and a lighter shade. this is too dark but the other shade was too light. Other than that it does blur"
+        },
+        {
+            "review_title": "The perfect stick foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "Iu2019ve been trying to find a stick foundation for the ease of travel forever but theyu2019re always too dry or cakey and heavy. This one was amazing right from the beginning. I donu2019t know what kind of magic is in this but it goes on so beautifully and smooth. It actually covers without looking heavy or settling into my pores. Iu2019m seriously in love with this stuff and have been using it all week. This has replaced my previous daily skin serum foundation."
+        },
+        {
+            "review_title": "Itu2019s a NEED",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I am IN LOVE with this product. Tried it for the first time today and Iu2019m blown away. I have super dry skin due to accutane, and this product covered what it needed to without looking cakey or heavy. I have cried so many times today and this stuff hasnu2019t moved. Obsessed!"
+        },
+        {
+            "review_title": "Not for acne prone skin - pore clogging ingredient",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "The product is really creamy and amazing shade match but broke me out real bad. It gets really oily by the end of the day so touch ups are needed. Would never recommend for an acne prone skin as it took me days to clear"
+        },
+        {
+            "review_title": "blends like a dream, buildable coverage, easy.",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Oily skin",
+            "review_text": "Saw this baddie on TikTok and wanted to switch my routine up a bit and give this brand a try. I don't really wear foundation so a lightweight skin tint is more my speed and I was intrigued.  Packaging was great but shade range is pretty limited (I wound up going with MN3 which I thought might be a bit too light for me tbh). However, I gotta say that because it blends so effortlessly into the skin, the shade worked overall pretty well for my complexion! This color corrected majority of my redness with even just a few swipes - im taking one swipe on the forehead, one on each cheek - but didn't feel heavy at all. Freckles still came through a bit, which is exactly what I was looking for.  Felt like you could easily build up more coverage if that's what you're looking for.  I used a brush on one half of my face and my fingers for the other side and both looked great so I feel like this would be a great travel buddy or I have 5 minutes to get my face in line companion.  My only slight issue was that I did get some patchiness in between my brows but I get that with nearly every product I use because I tend to get quite dry around there - but nothing major and was able to mostly fix that with a bit of extra blending and a setting spray.  Took a star off for that & the limited shade range - but will definitely be going back to this product and this brand often."
+        },
+        {
+            "review_title": "No no no",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This did NOTHING for my skin except enhance my pores while drying me out.. I bought this after reading the other reviews and thought for the price itu2019d be worth a try but itu2019s so bad! I gave jt another try with a better base and still a big no. Iu2019m returning it so save yourself the hassle!"
+        },
+        {
+            "review_title": "Yes! New clean foundation is a must.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Recently bought this and immediately knew I liked it upon first use! So smooth, blurring capabilities, and blends well with the rest of my makeup. Would highly highly recommend."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DG6 - dark golden almond - dark brown skin with golden undertones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Definitely does everything referenced in the title, hydrates and blurs! I wasnu2019t looking for something that would be too heavy or cakey and this fit my expectations perfectly. It doesnu2019t feel heavy at all and lasts even through hot days. Absolutely worth repurchasing."
+        },
+        {
+            "review_title": "Rosacea-friendly! I genuinely love",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I have rosacea so redness, texture, and pores are my main concerns. Itu2019s great for sensitive skin and blurring pores. Balmy consistency and true medium coverage. I did note that the product clumped a bit around my chin  where I have some flakiness but that is entirely the fault of my skin there and not the product."
+        },
+        {
+            "review_title": "Not for over 50",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Normal skin",
+            "review_text": "Wanted to like this so much, admit I was influenced to try it. Usually use Fenty Eaze Drop Blur + Smooth stick. The LYS catches every line and wrinkle and makes me look a hundred years old. Fenty is much creamier and more matte.Would not recommend for over 50."
+        },
+        {
+            "review_title": "A must have in my routine",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "Beautiful, and blurry will buy again, definitely I will buy this one more time"
+        },
+        {
+            "review_title": "A new staple!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "I can not say enough good things about this foundation! Itu2019s creamy, easily to blend, affordable, and will definitely be my new day to day foundation! A new staple in my kit! My only complaint is that I havenu2019t tried it sooner!"
+        },
+        {
+            "review_title": "Finally! An exact shade match!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Great foundation for mature skin. Color match is exact. I blend out with a brush & the coverage is perfect & blurring. I get slightly shiny in the T-zone throughout the day but nothing major, happens with everything I use. Highly recommend!!"
+        },
+        {
+            "review_title": "Doesnu2019t wash off well",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "I really want to like this product, as the coverage level and finish are perfect, and I love a stick foundation for travel that doesnu2019t behave like a typical cakey stick foundation. But I have a hard time washing this stuff off. After washing my face several times, until all the pigment is gone, Iu2019m still left with a very noticeable sticky feeling on my skin. I donu2019t have oily skin, mine is fairly normal, sometimes a bit dry. I think this product May have too many oils or waxes for most people. ufffc"
+        },
+        {
+            "review_title": "natural finish and hydrating",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+            "review_text": "i have dry skin and I like hydrating formulas so this is perfect! It doesnot sit on my skin, easily blends and matches my skintone very well. I love it"
+        },
+        {
+            "review_title": "I am sobbing ud83dude2dud83dude2dud83dude2d",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This is the only foundation that doesnu2019t irritate my skin and it looks PHENOMENAL iu2019ve used over 50 brands of foundations (makeup hoarder) and iu2019ve never tried something that looks so sickly phenomenal itu2019s out of this world"
+        },
+        {
+            "review_title": "Waaay creamier han Merit, but has poor shade range",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Light skin tone, Dry skin",
+            "review_text": "I like this foundation for my dry skin. It's super creamy, similar to their bronzers. Waaaay creamier and easier to blend than Merit's stick, and it does dry down/set in place. Lasting power is slightly less than average. I wouldn't say it's long lasting, maybe 5 hours, even with primer + setting powder. My only real complaint is the shade range. My skin tone is lighter than the model's for MG2, but IRL it is 1 or 2 shades too light on me. The next yellow/warm toned shade is TG1, which looks too dark. So, I'll need to buy 2"
+        },
+        {
+            "review_title": "try it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brunette hair, Light skin tone, Dry skin",
+            "review_text": "bought on a whim after seeing a Lipstick Lesbian short on YT. So glad that I did!  I have dry skin, and this was not only a fantastic color match but blended into the skin beautifully. I also noticed that 4 hours later, it looked even better than when it was first applied!"
+        },
+        {
+            "review_title": "Must Buy!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "My holy grail stick foundation!!! I have very oily face and this does not make my face greasy at all."
+        },
+        {
+            "review_title": "1000/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "This is in my top 3 foundations!  Itu2019s super easy to blend, you can use it as a concealer and this make your face looks plump but itu2019s not greasy. I have fine lines and pores and donu2019t accentuate nothing! I love it"
+        },
+        {
+            "review_title": "Loveeee it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
+            "review_text": "10/10 So creamy and easy to blend and the shade match is on point! I always have a hard time finding a foundation that matches me perfectly and this one is on point!"
+        },
+        {
+            "review_title": "Will return. Clogs pores.",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I will be returning this. I never have breakouts and I have had multiple breakouts on my face after using this product."
+        },
+        {
+            "review_title": "Rosacea-approved and covered",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I bought the foundation stick after watching not sponsored tiktoks, and hands down - Iu2019m amazed. Formula is super creamy and glides smoothly on the skin. Also I have rosacea and it covered everything. Thank you! for creating this incredible foundation."
+        },
+        {
+            "review_title": "0/5 from me. Skip this",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "Bought this cause of the reviews but this stuff is terribleu2026it sits on your skin and never fully settles. I will be at work 4 hours after application and it will wipe off all over my handsu2026gross."
+        },
+        {
+            "review_title": "love with a learning curve",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "I got color matched in store, which with every other brand still normally leaves me with a shade I have to adjust. This is perfection! It's everything I've ever wanted. Evens skin tone, moisturized and gorgeous for 8+ hours. The one issue is that I have is that it settles specifically into my forehead lines, which other products don't do. But it lasted flawlessly everywhere else even on a day where I didn't have time to prime or set. Once I figure out how to lock in this forehead, you won't be able to tell me anything when this is on my face"
+        },
+        {
+            "review_title": "",
+            "review_rating": 3,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Dry skin",
+            "review_text": "This was a lovely, smooth consistency. Light to medium buildable coverage w/natural finish. It would have been 5 stars if I could have found a proper shade match."
+        },
+        {
+            "review_title": "Add to cart!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Dry skin",
+            "review_text": "I love this foundation!! Goes on so smoothly and lasts all day! Feels great on the skin. Definitely a repurchase in my future."
+        },
+        {
+            "review_title": "The only miss from LYS",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "I usually am obsessed with every LYS product. This was the outlier. It felt too emollient and never set or dried down, I have normal skin and get a little extra oil on my nose. It emphasized the texture of my pores and set into ever expression line I have and thereu2019s not even a whole lot of fine lines to sink in to so i was surprised it creased the way it did. I used a sponge to blend it and that worked pretty well for the application. I set my u de reyes and my nose only , and the makeup still came off my nose."
+        },
+        {
+            "review_title": "Mixed Results",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, red hair, fairLight skin tone, Dry skin",
+            "review_text": "I broke out a little when I first tried this product. Love the feeling of it but my skin is too sensitive for this product."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Normal skin",
+            "review_text": "I've been using this for a couple weeks now. I've recommended it to all of my friends and they love it too."
+        },
+        {
+            "review_title": "Nice for the price on mature skin",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "Really great option for mature skin but primer is a must. I recently tried a grippy primer underneath and that seemed to help with transfer. I knocked off one star for that, but all in all a great foundation for the price."
+        },
+        {
+            "review_title": "Highly recommend",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I love this foundation. It has great coverage, and works well with my dry, mature skin. Not that expensive which is a plus. Would recommend."
+        },
+        {
+            "review_title": "Not the best for dry or combo skin, but I like it.",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Let me start with the positives - I like it for the coverage and application for sure. The shape of the stick is great for application purposes, and the shade match is *perfect*. I'll definitely keep using it for those reasons. However, I really don't recommend this to anyone with dry skin, and it might not work to great for some with combination skin either. The formula of this stick feels drying on the skin, especially for long wear throughout the day, and it really makes some of my dry spots on my face stand out. When I bought this, the lady who sold it to me at my Sephora recommended I use a LOT of setting spray when I apply it, I didn't understand it at first until I tried to wear it for a full day and it seriously settled onto my dry skin and into my skin texture. The next time I used it, I made sure to moisturize just before applying it, and set it with extra setting spray after - and it wore pretty well for a full day, accept for one dry spot on my nose. So I might even recommend, make sure you keep your skin well exfoliated when you're planning to use this, because it loves skin texture or dryness."
+        },
+        {
+            "review_title": "Thanks LYS",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "Amazing! Great coverage, better than any stick I have tried. Blends well. Not heavy looking. Doesnu2019t cling to dry patches. Lasts all day. And affordable. I highly recommend!   I"
+        },
+        {
+            "review_title": "This is the plugu2026skeptical no more!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "I prefer stick foundation and used Anastasia foundation stick before it was discontinued. Next to my Nars foundation, this is the plug and good for a travel foundation!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DN5 - hazelnut - dark brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This is so slept on! I donu2019t see enough people talking about this foundation. Creamy and very easy to blend and build"
+        },
+        {
+            "review_title": "A+++(not sponsored)",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Medium skin tone, Oily skin",
+            "review_text": "I never write reviews, but this product needs to be praised! I bought it along with the new Dior stick foundation and I actually liked Lys stick foundation better. There was a learning curve. I applied it with a brush and hated it. So, the next day, I applied the foundation using my fingers. It made a world of difference. It is rather dewy which had me worried as I am an oily skin girl, but a dusting of translucent powder kept me going through my night shift just fine. I can't say enough how fantastic this stick is. It has light to medium adjustable coverage and a satin finish and does need to be powdered if you are oily. Dry skin girlies will love the finish and feel. Plus, can we all agree on the amazing price point?!  Overall, this is another great product from Lys!"
+        },
+        {
+            "review_title": "It's ok",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Dark skin tone, Combination skin",
+            "review_text": "Maybe it's just me but I can't keep it on my face. I touch my face and it started to slide off."
+        },
+        {
+            "review_title": "Holy grail status!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Holy - this holds up for 8+ hours on my combo skin, there is NO pilling and has beautiful coverage with a light as air finish. I'm seriously SO impressed and never write reviews. Not sponsored!"
+        },
+        {
+            "review_title": "LYS Does it Again",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "Well we can just add this to everything else I love about LYS products. Every time I walked past a mirror I kept staring because I couldnu2019t believe how refreshed my face looked. For this price point, it is unbeatable"
+        },
+        {
+            "review_title": "NOT FOR US DRY FOLK",
+            "review_rating": 1,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "Wanted to love this. Absolutely not for dry skin. No foundation has ever made me THIS patchy."
+        },
+        {
+            "review_title": "BUY IT!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "OBSESSED!! As someone who has A LOT of foundations- this is my new favorite. Itu2019s very similar to the new Dior stick , except this has slightly less covage but I find it more hydrating which is great if you have dry  skin like me."
+        },
+        {
+            "review_title": "I love this",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, lightMedium skin tone, Dry skin",
+            "review_text": "Fantastic, I love this stick foundation! This is a real review I wasnu2019t given this product for free. Iu2019d say my only complaint is the amount of product but the formula is butter. Iu2019m a millennial and Iu2019m wrinkly and this went on perfectly with my mature skin!"
+        },
+        {
+            "review_title": "My new favorite foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, brown hair, fairLight skin tone, Combination skin",
+            "review_text": "I bought this foundation after the Fenty Blur Stick didnu2019t sit well on my combination skin. I donu2019t love liquid, full coverage foundations & having the stick is so much easier for my use. This sits SO WELL on my skin. It lasts all day and blends perfectly with my other face products. I will be trying the lightest shade for my winter skin tone, but overall, 10/10!"
+        },
+        {
+            "review_title": "MUST HAVE, especially for the price!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I bought this a week ago, and it is an instant favorite! Perfect shade match, great coverage (light but still covers dark circles) and the shape is great for under eyes. Absolute best base product for the price!"
+        },
+        {
+            "review_title": "Transfers, patchy, slips everywhere. Gross.",
+            "review_rating": 2,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Normal skin",
+            "review_text": "I wanted to love this. Points for clean only. Very creamy when first applied, but never set down. Transfer city. Felt greasy, slipped around, and was extremely patchy. I tried it a handful of times to experiment with setting powders and primers (which I donu2019t use). Returning."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "LN6 - light nude - light skin with neutral undertones",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Dry skin",
+            "review_text": "Best foundation for the price. Perfect neutral. Does not oxidize. Blends beautifully into the skin."
+        },
+        {
+            "review_title": "LYS five stars  & Black owned",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Dry skin",
+            "review_text": "got it in the mail yesterday and i swatched it on my hand perfect shade match and it feels light weight so this is a great buy. i am so proud of this brand"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DG7 - cocoa - dark brown skin with golden undertones",
+            "review_buyer_description": "",
+            "review_text": "Phenomenal, the best match on me yet! It glides on like butter and it lasts all day. Blot once, then youu2019re good to go. Give me 15 of them!"
+        },
+        {
+            "review_title": "Not so good",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Dry skin",
+            "review_text": "I had high hopes for this foundation as the influencers I follow raved about it but it just didnu2019t work for me. The color was nit perfect for me which is not the fault of the product but frustrating.  The foundation gave my skin a textured appearance. I returned it."
+        },
+        {
+            "review_title": "So nice!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "Lovely formula! Great medium coverage. Goes on like butter. Lasts 8-10 hrs!"
+        },
+        {
+            "review_title": "Outstanding foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Olive skin tone, Oily skin",
+            "review_text": "I haven't used this foundation much, but it wears absolutely beautiful. I received so many compliments on my skin when I wore it. it's so light and skin like, without oxidatization, cakeing, creasing, or fading. Also, the shade I bought matched perfectly. It's the closest I've found to the gorgeous hourglass foundation, for half the cost."
+        },
+        {
+            "review_title": "Undetectable!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Light skin tone, Dry skin",
+            "review_text": "Really lovely! The match is incredible, and it sits really nicely on my dry patches. The applicator fits really nicely, even in my under eyes. I blended it out with a damp beauty sponge and it lasted all day without powder or primer (wanted to see how it acted on its own)."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "LP4 - vanilla - fair skin with pink undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "Such a smooth gorgeous foundation stick!  Pores look flawless!"
+        },
+        {
+            "review_title": "Must Have!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "This lasted ALL day. I did not have to touch up at all, it was a beautiful finish. I am 41 it did not settle into pores or fine lines. I only set my t zone with kosas setting powder and used NYX setting spray. Itu2019s not the powder or setting powder g spray that made it stay. I have to touch up throughout the day with nearly all foundations, I used mostly luxury but was looking for clean brand. So glad I bought this!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, brown hair, Fair skin tone, Normal skin",
+            "review_text": "Absolutely perfect!!! Itu2019s an amazing product for the price. Iu2019ve been searching for an everyday skin tint and this is exactly what Iu2019ve been looking for."
+        },
+        {
+            "review_title": "So Good!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "I love this skin tint stick, it does fell heavy on the skin & it blends like a dream. I work long 12 hr shifts & this skin tint is so quick & easy to apply. I also have oily/combi skin & this doesnu2019t get very oily or greasy throughout the day!"
+        },
+        {
+            "review_title": "Gorgeous, Buildable Foundation Stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "I love foundation sticks but, my mature skin hasnu2019t been able to use them since my skin had matured. This is not a typical matte foundation stick, this is a soft, silky smooth formula. The foundation is buildable  Abuilder"
+        },
+        {
+            "review_title": "Great Affordable Foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I am deducting one star because finding a shade match is a beast! Otherwise, this foundation delivers at an affordable price. It is buildable and gives a sling-like appearance. Covers redness.  Good stuff!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 1,
+            "review_shade_purchased": "MN5 - almond - medium skin with neutral undertones",
+            "review_buyer_description": "Green eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Iu2019m not sure what everyone is raving about here, but Iu2019m not at all impressed. This works like every other stick foundation I can find in the drug store. It also becomes a greasy mess within a few hours. Not for oily skinned people. Also the shade range is not versatile enough. I have olive undertones and the colors are either too yellow or too pale. Returning."
+        },
+        {
+            "review_title": "A must have!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "When i tell you this product is truly amazing! Itu2019s amazing! The blur, smoothness, skin like finish, everything about this product is top tier! I have worn this foundation every day since I got it!"
+        },
+        {
+            "review_title": "Must Have!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Beautiful foundation! I donu2019t even like stick foundations because Iu2019m dry but this one is so hydrating and the finish is beautiful! Must have!"
+        },
+        {
+            "review_title": "Lys did not disappoint with this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I am loving the results with this product. Very suitable for my dry skin and the coverage is top notch! ud83eudd0d"
+        },
+        {
+            "review_title": "Whoa. Blends into my skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Dry skin",
+            "review_text": "This product was made for me! I put it on and it nearly blended into my skin. I was genuinely impressed at how it just suited my skin that I could only keep saying whoa and wow when I first used it. It covered up my dark spots nicely without feeling cakey or heavy. The application of it is also well thought out, with being in a stick it makes it so you can get the most out of the product without worrying about any of it going to waste since it get directly applied onto your face."
+        },
+        {
+            "review_title": "My New Fav !!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, mediumTan skin tone, Normal skin",
+            "review_text": "LOVE LOVE THIS product ! itu2019s creamy , blendable, and you can build up coverage . iu2019ll be grabbing this a lot especially on days I want a light glam. I used this for a night out and it didnu2019t disappoint!! I love the packaging !!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DN3 - caramel - brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "I absolutely loved this foundation. It wore beautifully on the skin and lasted well throughout the day without pilling or looking cakey."
+        },
+        {
+            "review_title": "Must Try!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Deep skin tone, Normal skin",
+            "review_text": "Great foundation! Hydrating with a beautiful medium to full coverage and blends like a dream."
+        },
+        {
+            "review_title": "Best foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "The shade would not change, I used shade MN1!  This is such a full coverage, smoothing, and blurring foundation. This is my first stick foundation and Iu2019m in love with the coverage!! I love what this brand stands for, their packaging is always so cute with the sweetest notes inside! I love LYS!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+            "review_text": "This foundation is beautiful! It blends seamlessly onto the skin, itu2019s very creamy so it draws on really easily as well. It gives a nice medium buildable coverage without looking cakey, and it leaves the skin with a natural finish!"
+        },
+        {
+            "review_title": "great foundation 10/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "i love this foundation so much. it stays on for long hours and doesn't move. the shade match is 10/10"
+        },
+        {
+            "review_title": "It exceeded my expectations.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "This foundation stick applies smoothly to the skin. I have enlarged pores on my T-Zone, and I don't need to apply other primers prior to applying the foundation. The foundation itself acts as a primer, too. My enlarged pores get blurred, and my makeup looks flawless all day long. The foundation doesn't look cakey throughout the day, and my areas where I have fine lines or that annoying Wrinkle in between my eyebrows doest show as visible with this foundation. This is one I am definitely restocking long term."
+        },
+        {
+            "review_title": "Great foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Fair skin tone, Combination skin",
+            "review_text": "this foundation is so great. Easy to apply and take anywhere. It is also really blendable easily. The foundation is so coverage and yes it is does the jub for blurring. Definitely something new favorite for me"
+        },
+        {
+            "review_title": "Excellent for People on the Go!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, black hair, Fair skin tone, Dry skin",
+            "review_text": "Lovely, hydrating, can easily apply in the car on the way to work, blends super easily and although Iu2019ve stepped away from foundation since Covid, this has really brought me back due to ease and how gorgeous it looks! Vegan and cruelty free for the win! :)"
+        },
+        {
+            "review_title": "The it girl foundation stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "This formula is just chefu2019s kiss! As a girl who typically has 15 minutes total to do my hair and makeup, this is really a time saver and your skin looks flawless ud83dudc96"
+        },
+        {
+            "review_title": "A must have for the girlie on the go!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "I absolutely love this foundation stick. The formula is so creamy and smooth. Itu2019s very bendable and lightweight. The cover is medium, which I love! Itu2019s very convenient and can be thrown into your purse for those car makeup sessions. Which do do very often."
+        },
+        {
+            "review_title": "Gorgeous",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Dry skin",
+            "review_text": "Purchased with my own money and in love. This is what I wanted from the Fenty but the shades were so weird. The LYS shades are all actual skin tones. Beautiful light easy to glide stick foundation."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "LN3 - bone blush - very fair skin with neutral undertones",
+            "review_buyer_description": "Green eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "This is a very lightweight, creamy, and buildable formula, it literally doesnu2019t even feel like youu2019re wearing anything. But I didnu2019t notice it clinging to a few dry patches I didnu2019t even know I had, and I did my skin care and primer before I applied this foundation"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DG7 - cocoa - dark brown skin with golden undertones",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Normal skin",
+            "review_text": "I received 2 of the foundation sticks, one in MN5 AND TG1. I struggle to find the right foundation for my skin being a person of color. These two shades looked so good on my skin. it definitely did the job and kept my face hydrated. it did not feel heavy nor sticky. and I wore this without setting spray or powder"
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "DPP6 - espresso - rich brown skin with pink undertones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "I received 2 of the foundation sticks, one in MN5 AND TG1. I struggle to find the right foundation for my skin being a person of color. These two shades looked so good on my skin. it definitely did the job and kept my face hydrated. it did not feel heavy nor sticky. and I wore this without setting powder/spray. The packaging is simple but cute and love that it does not take up alot of room in my makeup drawer."
+        },
+        {
+            "review_title": "10/10",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "I received 2 of the foundation sticks, one in MN5 AND TG1. I struggle to find the right foundation for my skin being a person of color. These two shades looked so good on my skin. it definitely did the job and kept my face hydrated. it did not feel heavy nor sticky. and I wore this without setting powder/spray. The packaging is simple but cute and love that it does not take up alot of room in my makeup drawer."
+        },
+        {
+            "review_title": "So worth the money",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "My first ever Lys product was their contour stick & loved it. I got two of the LYS foundation stick. 1 in MN5 and TG1. TG1 is the perfect shade for me. And I love that I can use the MN5 to highlight my under eyes. I used this without a setting powder or spray and it stayed well on my face in 90u00b0 weather."
+        },
+        {
+            "review_title": "Love it.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "Such a great product! It blends in so well and goes on so smoothly. I feel like it works great with a brush and a beauty blender also but more so better with a brush! Great with their setting powder. I would recommend for a makeup look!"
+        },
+        {
+            "review_title": "Good foundation stick that wonu2019t break the bank",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "This is a good med to full coverage foundation stick. I prefer to use a less is more when using this but itu2019s got good coverage on my combo skin  I love how LYS has more affordable products for a Sephora brand!"
+        },
+        {
+            "review_title": "LYS Beauty Has Changed the Game!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Normal skin",
+            "review_text": "This triple threat is an all-in-one serum, primer, and foundation. Trust me when I say that I was hesitant to believe in the three layers working together on my skin. Girl, I was wrong! It's not cakey, it's not sticky, and it's everything I've ever wanted in a foundation. Your girl has had a rough summer with makeup and it's been such a struggle to find a shade that matches as well as staying on my skin. This changes EVERYTHING. I was shocked at the quality of the shade match for me and how well it stayed on my skin. The coverage all depends on you so on the days when I want to embrace my natural beauty, I can keep it sheer. Then on the days when I want to express myself with my makeup and I need the full-coverage, I can use this foundation, too! I'm so blessed to have been able to try this product and it's my new holy grail. Try this one out, today, so you can have your skin, your way, and in your own time!"
+        },
+        {
+            "review_title": "LYS Beauty Has Changed the Game!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "This triple threat is an all-in-one serum, primer, and foundation. Trust me when I say that I was hesitant to believe in the three layers working together on my skin. Girl, I was wrong! It's not cakey, it's not sticky, and it's everything I've ever wanted in a foundation. Your girl has had a rough summer with makeup and it's been such a struggle to find a shade that matches as well as staying on my skin. This changes EVERYTHING. I was shocked at the quality of the shade match for me and how well it stayed on my skin. The coverage all depends on you so on the days when I want to embrace my natural beauty, I can keep it sheer. Then on the days when I want to express myself with my makeup and I need the full-coverage, I can use this foundation, too! I'm so blessed to have been able to try this product and it's my new holy grail. Try this one out, today, so you can have your skin, your way, and in your own time!"
+        },
+        {
+            "review_title": "A great addition to my Fall Makeup Routine!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "I fell in love with the buildable coverage and consistency of this tint foundation stick and LYS never disappoints. I look forward to using this in my fall makeup looks as the undertones are just perfect!"
+        },
+        {
+            "review_title": "10/10 Must Have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, Medium skin tone, Combination skin",
+            "review_text": "Iu2019ve been loving everything from LYS and this foundation is no exception. My skin looks natural and flawless. Best of all at the end of the day my skin doesnu2019t feel or look dry and cakey. Absolutely love it!"
+        },
+        {
+            "review_title": "Very Nice",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Deep skin tone, Combination skin",
+            "review_text": "This foundation stick is perfect for an everyday quick and easy beat! The color match was perfect (this really shocked me!), there's no unpleasant fragrance, and it didn't make me extremely oily throughout the day. A little goes a long way, and you can build it up a little where you want. I have TN3 for my highlight shade and TG7 for my allover color. I took away 1 star only because the component gets a little messy, in my opinion. This was a much needed addition to my collection!"
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Normal skin",
+            "review_text": "Love this product! My new favorite. Itu2019s the perfect foundation stick."
+        },
+        {
+            "review_title": "Try this!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, Normal skin",
+            "review_text": "OMG my new favorite product!! I will never use another foundation. This has perfect coverage and application, no oiliness or dry skin. Just the perfect addition to your makeup collection"
+        },
+        {
+            "review_title": "Ideal for all skin types",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "The LYS Triple Fix Blurring and Hydrating Skin Tint Foundation Stick is a game-changer for those who want a natural, buildable coverage with a flawless finish. As the name suggests, it offers a blurring effect, which helps to minimize the appearance of pores and imperfections, giving your skin a smooth, airbrushed look. The hydrating formula ensures that your skin stays moisturized throughout the day, making it ideal for all skin types, especially those with dry or combination skin."
+        },
+        {
+            "review_title": "Loving this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+            "review_text": "I am absolutely loving this foundation stick! First of all, it's the perfect shade for me. Second of all, it glides on and blends smoothly and provides the perfect amount of coverage.  It's also convenient to throw in my bag for on the go."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "TG1 - latte - light tan skin with golden undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "This is a lightweight foundation that is easy to blend and gives medium coverage. I got this in shade TG1 which is a tad dark for me so I am a bit bummed about it but I can make it work with a lighter concealer. The packaging is cute but the top of the foundation was stuck in the cap so I lost a little product there."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DG7 - cocoa - dark brown skin with golden undertones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This foundation stick is creamy, hydrating, and blends like a dream. I love that this formula is buildable and has ingredients that are great for my skin."
+        },
+        {
+            "review_title": "Love It",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Oily skin",
+            "review_text": "This blurring stick is so moisturizing and it covers so well! I love the fact how their skin care with makeup. It makes my skin feel so soft and covers my imperfections nicely. I love how it is buildable also."
+        },
+        {
+            "review_title": "Lightweight yet great coverage!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Medium skin tone, Combination skin",
+            "review_text": "This product really shocked me! Iu2019m usually a full coverage girl, but this stick is great for day to day or on the go! It gave me just the right amount of coverage with little to no concealer needed. Itu2019s very hydrating but not too oily."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Hazel eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "This skin tint foundation stick is the definition of travel friendly and a product that I reach for daily! It is a creamy formula that can be built from light-medium to medium-full coverage. It covered my redness really well and didnu2019t settle into textured skin, though I did notice it separated a bit around particularly dry patches on skin. I was able to hydrate my skin enough to improve those dry patches and havenu2019t had any issues with the foundation separating since. This is meant to have a primer built in, which is great because I always forget my primer, yet this still wears pretty well throughout the day. I would recommend applying to the back of your hand instead of directly to your face to avoid applying too much product and it can be blended with a brush or sponge based on your preference."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "TG1 - latte - light tan skin with golden undertones",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "I love the formula of this foundation stick and the buildable coverage is just amazing for those times when we have discoloration or blemishes, highly recommend this!"
+        },
+        {
+            "review_title": "A must have for flawless skin",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Medium skin tone, Combination skin",
+            "review_text": "After using this product, I love how the shade matches and covers my skin so beautifully. The texture is amazing and you def should try this out"
+        },
+        {
+            "review_title": "Very Nice!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brunette hair, Deep skin tone, Combination skin",
+            "review_text": "So after using this product for a few days, I can say that I really enjoy using it. This is one of the best matching complexion products I have in my collection! I have shades TG7 (right) and TN3 (left), and they are perfect for my allover color and highlighting color. This did not make me super oily at all, there's no inpleasant fragrance, and a little goes a long way. It is perfect for everyday makeup application. I took 1 star off ONLY because the packing can get a little messy. Now I  just need my contour shade!"
+        },
+        {
+            "review_title": "Lightweight and comfortable",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, red hair, Fair skin tone, Normal skin",
+            "review_text": "Really love the formula on this foundation stick. It acts a primer and foundation in one and I find that to be true. I wore this without any other primer underneath and the lasting power was really nice. I love the coverage, which I would say is medium. It allows my freckles to come through. It felt really lightweight and comfortable, it really didnu2019t feel like I was wearing anything on my skin which isnu2019t always the case with stick foundations. Just a beautiful product."
+        },
+        {
+            "review_title": "Hydrating and Easy!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "Been loving this new skin tint foundation stick from LYS beauty! Itu2019s so easy to apply and blend and leaves my face feeling hydrated! Definitely cannot wait to use this especially during the winter when my skin gets dry!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "Iu2019m usually not a fan of foundation sticks because they can be a bit too drying for my combination skin, but not this one!! Iu2019m blown away with how creamy and moisturizing this is, without leaving any signs of cakiness. Love that the coverage is buildable too, and it feels super natural and comfortable on the skin. It did come a bit melted in a corner of the triangle but itu2019s no biggie. Overall Iu2019m a huge fan!"
+        },
+        {
+            "review_title": "Donu2019t sleep on this foundation!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is such an amazing foundation! You can seriously achieve a light, medium, or even full coverage! The formula is so beautiful and buildable. Very lightweight on the skin and lasts beautifully throughout the day!   recommend!recommend"
+        },
+        {
+            "review_title": "A must have skin tint!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is an amazing skin tint that feels so lightweight on the skin. It has a creamy texture and blends like a dream. However it does not move around once it sets on your face. It gave me a nice radiant glow and worked well  under makeup. And for the price itu2019s a no brainer!"
+        },
+        {
+            "review_title": "The best skin tint",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "This skin tint is an absolute must have! It blends like a dream and covers my hyperpigmentation so well. It didnu2019t feel heavy on my skin and the color match is perfect! Plus for the price this is a no brainer. I am obsessed"
+        },
+        {
+            "review_title": "A New foundation must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "Amazing foundation! Definitely covers up! But definitely feels like your skin but better! The shade I got was a little too light but will be pursuing my color!"
+        },
+        {
+            "review_title": "Blends seamlessly",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dark skin tone, Combination skin",
+            "review_text": "The Lys Triple fix Blurring and Hydrating Skin Tint Foundation is lovesome. This foundation gives a beautiful skin-like finish  and allows for a more targeted application. The creamy formula offers effortless blendabilty. It builds up to full coverage without looking or feeling cakey. I love the portable tube, it makes it great for on-the-go touch-ups.  Want your foundation locked in? Go check it out."
+        },
+        {
+            "review_title": "LOVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Oily skin",
+            "review_text": "This skin tint foundation stick is a game-changer for me. It glides on like butter and makes my skin look absolutely flawless. It provides just the right amount of coverage to even out my skin tone without feeling heavy or cakey. I love how it gives me a natural, dewy finish that lasts all day. Plus, the convenient stick format makes it super easy to apply on the go."
+        },
+        {
+            "review_title": "Great product!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Oily skin",
+            "review_text": "I am absolutely loving this foundation stick! First of all, it's the perfect shade for me. Second of all, it glides on and blends smoothly and provides the perfect amount of coverage.  It's also convenient to throw in my bag for on the go."
+        },
+        {
+            "review_title": "A must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "I was amazed on how great this foundation stick is. It is so creamy and hydrating on the skin. I have textured skin and this foundation didnu2019t attention to it. My skin looked beautiful and the color matched aswell."
+        },
+        {
+            "review_title": "a must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "This skin tint skin is amazing!! It has amazing ingredients that my skin loves! The formula is super smooth and feels amazing on my skin! It blends like a dream and has amazing coverage! It has buildable coverage which is perfect for me because i tend to like more no makeup makeup looks! I highly recommend and love this product!"
+        },
+        {
+            "review_title": "Perfect for med-full coverage looks",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, mediumTan skin tone, Oily skin",
+            "review_text": "I am super excited for the LYS foundation stick ! I got the shade dg3 and it's a perfect match ! I love how easy this is to apply the stick glides on so effortlessly I love that you can build up the coverage from medium to full. I have some post acne marks that I usually color correct but with this foundation stick I just skip that step. It helps to conceal all of my flaws. My skin also feel super hydrated and I love how long lasting this foundation can be."
+        },
+        {
+            "review_title": "",
+            "review_rating": 4,
+            "review_shade_purchased": "LN6 - light nude - light skin with neutral undertones",
+            "review_buyer_description": "Hazel eyes, brown hair, Fair skin tone, Combination skin",
+            "review_text": "I have been using lys serum foundation for a long time now and always loved it. This is a great alternative when I want something with slightly more coverage but still with the great color match I love form"
+        },
+        {
+            "review_title": "Love this",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "Wow! I love this so much! To have a serum tint in stick form is fantastic! Such a beautiful formula. The packaging is gorgeous. It blends so beautifully into my skin. It lasts while giving me such a nice glow. My dry skin loves it"
+        },
+        {
+            "review_title": "Lys stick foundation",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Tan skin tone, Combination skin",
+            "review_text": "Iu2019ve been using this product for a few days now and can say I absolutely love it! The texture is just as creamy as the contour stick formula and it has a wide shade range plus clean ingredients for acne prone skin."
+        },
+        {
+            "review_title": "Mature Skin Friendly",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "LYS does it again! Their cream bronzer rocked our worlds and now we have a stick foundation! I got the shade MN3 and itu2019s perfect. My mature (50) skin loves this creamy yet lightweight formula. Long wearingu2026beautiful!"
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Omg this Triple fix blurring skin tint foundation is so creamy and blends so easy. It has green tea extract that hydrate skin and reduce the appearance of redness. I love the coverage. You need to try this!"
+        },
+        {
+            "review_title": "New favorite foundation stick!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "Absolutely stunning! Hands down the best foundation stick Iu2019ve ever used! And itu2019s packed full of skincare! Which makes it even better. Beautiful coverage and itu2019s Buildable! It wears all day long and looks better the longer you ear it!"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "I absolutely love this foundation. It gives my skin a flawless tint but doesnu2019t feel like anything is on my skin. My cream products look amazing on top."
+        },
+        {
+            "review_title": "PERFECTION!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Normal skin",
+            "review_text": "I love this foundation stick! I glides on smooth and blends seamlessly! Itu2019s sheer to full coverage   I wear it sheer for a natural look . It has a real skin feel ! Itu2019s lightweight  with a beautiful natural finish !   tone really makes me look like Iu2019m wearing nothing ! The fin"
+        },
+        {
+            "review_title": "A Definite Must Have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Dry skin",
+            "review_text": "I have used this product only once but loved it right away! It is so creamy, perfect match and super easy to blend. Having skincare ingredients in the skin tint foundation is a plus!"
+        },
+        {
+            "review_title": "Beautiful coverage, skinlike finish!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
+            "review_text": "LYS ate dowwwnnnnn with this foundation stick! I have super oily skin, so I wasnu2019t sure how it would wear considering itu2019s a skin tint stick. It had a beautiful, buildable coverage and a gorgeous skin like finish. I paired it with some of my favorite primers, and it wore beautifully for hours! Full review on my channel (@fayylenee), but if youu2019re in the fence.. get it! poured it"
+        },
+        {
+            "review_title": "Gorgeous!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Dry skin",
+            "review_text": "I love the new Skin Tint foundation stick from LYS! Itu2019s so gorgeous and blurred my dark spots perfectly. The shade range is the best, anyone can find their shade which is so great. I love how hydrating it is, I have very dry skin and this stick doesnu2019t make me look dried out or patchy. Itu2019s super easy to apply, the stick gets the product everywhere you need it. My new everyday foundation!!"
+        },
+        {
+            "review_title": "Packaging can be improved",
+            "review_rating": 3,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "These foundation sticks are lightweight on the skin and donu2019t look cakey. They blend well and have good coverage. I love the stick concept but both of my sticks arrived stuck to the cap, This has happened to be with a few of the stick products from the brand. I was also matched by the brand and both matches are incorrect."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Blue eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "I love this foundation serum stick hybrid. It truly is all the things you need for a perfected complexion in a single product, and provides the most beautiful coverage."
+        },
+        {
+            "review_title": "I love it !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Oily skin",
+            "review_text": "Iu2019ll be honest I was scared when I read hydrating because I have oily skin, but I was wrong! It blends out beautifully and it covered my acne scars. Itu2019s very breathable it didnu2019t feel heavy on the skin and it didnu2019t crease or  Settle in my fine lines over all I am very pleased. ufffc"
+        },
+        {
+            "review_title": "new favorite! quick and easy",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Fair skin tone, Combination skin",
+            "review_text": "Woww ud83dude4c I've never used a stick foundation before and honestly didn't have a lot of hope for it but I'm pleasantly suprised! I didn't even do a full skincare prep or primer before this, just slapped on some moisturizer and it looks beautiful.  When I first applied it, it did seem to cling to my dry patches but after about 5 minutes it really soaks into the skin and dries down beautifully. So give it a couple minutes before you judge. It even looks great under my nose and the corners of my mouth where I have a healing, flakey dermatitis rash! If you've never usee a foundation stick before like me it is a little odd, feels like rubbing in a concealer. I did three small swipes on my forehead, two on each cheek and one on my chin."
+        },
+        {
+            "review_title": "Amazing foundation",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, lightMedium skin tone, Oily skin",
+            "review_text": "I am obsessed with this foundation stick, it's so buttery, it has amazing coverage while feeling lightweight, it blends like a dream. This formula is so good, It stays on for hours. I love the shade it was my perfect match"
+        },
+        {
+            "review_title": "Purchase before it sells out!",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Medium skin tone, Oily skin",
+            "review_text": "This foundation is absolutely AMAZING! Loved it so much! It is medium to full coverage and very light weight. Love how itu2019s traveling friendly, perfect size to carry anywhere. I trulyrecommend!   to our"
+        },
+        {
+            "review_title": "So blurring ud83dude0d",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Oily skin",
+            "review_text": "The two shades I received are TN3 & TG1. First off, I really like how the packaging of the component matches the shade. The formula just melts into the skin like butter itu2019s super easy to blend and it is wears beautifully through out the day. You can build it up to your desired coverage. It blurs the skin like youu2019re wearing a filter, I love it so much. Perfect for when you are in a hurry and need something quick to throw on."
+        },
+        {
+            "review_title": "PERFECTION!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "I love this formula! Itu2019s sheer to full coverage thatu2019s lightweight and feels like real skin ! The shade is pretty and wears for hours without breaking up . It glides on smooth a no easy and blends seamlessly! I love the beautiful natural finish!"
+        },
+        {
+            "review_title": "Beautiful formula",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Medium skin tone, Combination skin",
+            "review_text": "I am obsessed with this formula. Itu2019s a perfect match and truly blends out like a dream. It looks definitely like your skin, but better."
+        },
+        {
+            "review_title": "Your skin but better",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Love this formula. Itu2019s a perfect match for my skin tone. It blends out like a dream. It truly is your skin but better."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "The LYS Beauty Triple Fix Serum Tint Stick is a versatile product that combines skincare benefits with a hint of natural coverage. The formula is lightweight and easy to blend, providing a dewy, skin-like finish that enhances your complexion without feeling heavy.   What stands out is the infusion of skin-loving ingredients like hyaluronic acid, which helps to keep your skin hydrated throughout the day. The stick format is convenient for on-the-go touch-ups, and the buildable coverage allows for a customizable look, from sheer to medium.  However, the product may not be ideal for those with oily skin as the dewy finish could appear too shiny. Overall, itu2019s a great choice for those seeking a quick and easy way to achieve a natural, radiant glow while caring for their skin."
+        },
+        {
+            "review_title": "Best skin tint on the market!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, blonde hair, lightMedium skin tone, Normal skin",
+            "review_text": "When I tell you this just melts into the skin!!! That doesnu2019t even give it enough justice! Coverage and finish is beautiful! I have not stopped picking this up since I got it!!! LYS did your big one with this!!"
+        },
+        {
+            "review_title": "A must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "Perfect blend, pore blurring, and shade range is amazing! 10 out of 10!"
+        },
+        {
+            "review_title": "Amazing Formulation and Coverage",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Combination skin",
+            "review_text": "Iu2019ve never been a fan of foundation sticks, they always seem heavy and cakey.  But this is the complete opposite and I just love it!  Somehow it manages to wipes away the look of my uneven skin texture.  It doesnu2019t settle in my fine lines to highlight them further. Gives a medium coverage and a natural looking finish. Applies smoothly with its lovely creamy formula blending so effortlessly.  Feels beautifully lightweight and my skin feels breathable through it. The best foundation stick I ever used."
+        },
+        {
+            "review_title": "Simply Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Light skin tone, Combination skin",
+            "review_text": "Iu2019ve never been a fan of foundation sticks, they always seem heavy and cakey.  But this is the complete opposite and I just love it!  Somehow it manages to wipes away the look of my uneven skin texture.  It doesnu2019t settle in my fine lines to highlight them further. Gives a medium coverage and a natural looking finish. Applies smoothly with its lovely creamy formula blending so effortlessly with my fingertips. Feels beautifully lightweight and my skin feels breathable through.  Best Foundation Stick Iu2019ve ever used."
+        },
+        {
+            "review_title": "A must try!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, mediumTan skin tone, Oily skin",
+            "review_text": "This foundation stick blends in like skin. LYS has owned the stick complexion category with her formulas. The coverage is buildable, the wear is great, and of course it has good ingredients. Obsessed!"
+        },
+        {
+            "review_title": "So worth it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Medium skin tone, Combination skin",
+            "review_text": "LYS knows how to make complexion products! I just fell in love with the loose powder and now these skin tint sticks are killing the game. They are very smooth, well pigmented and stay on my combo oily skin nicely. I love the color selection and the ease of use is outstanding. I have swatched colors TG1 (top) & MN5 (bottom) for reference."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "TN3 - oak - tan skin with neutral undertones",
+            "review_buyer_description": "Fair skin tone, Combination skin",
+            "review_text": "Love this product! Leaves an amazing finish, glides on smooth. Easy to blend.  Highly recommend!!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "DN5 - hazelnut - dark brown skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Oily skin",
+            "review_text": "Tried out this shade today and I LOVE it! Super creamy and blendable. Hyperpigmentation is my main concern and for every day use; I didnu2019t feel like I need to spot conceal. And I had a nice glow throughout the day! u2728 10/10 LYS Beauty"
+        },
+        {
+            "review_title": "Beautiful skin like",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, black hair, mediumTan skin tone, Combination skin",
+            "review_text": "Finish was natural and coverage was good! it can be layers a little and it feels like nothing on the skin. It did last 8ish hours (thatu2019s how long I kept it on) and still didnu2019t break! one of my favorite brands especially for darker tone women"
+        },
+        {
+            "review_title": "So amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "I love this foundation stick. I absolutely love the formula and how well it blends into the skin. I love that itu2019s easy to work with. Itu2019s super lightweight, and buildable! I like that it doesnu2019t settle in my fine lines and it last all day! Best of all it doesnu2019t oxidize like other foundations Iu2019ve tried!"
+        },
+        {
+            "review_title": "I absolutely love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Dry skin",
+            "review_text": "This is such a good foundation. I absolutely love the formula and how easy it glides on my skin and blends out beautifully. The coverage is wonderful. I love the finish as well. Itu2019s easy to work with doesnu2019t cake up and itu2019s super buildable. I like that itu2019s lightweight and does not oxidize like other foundations Iu2019ve tried . Itu2019s definitely worth picking up!"
+        },
+        {
+            "review_title": "Love it!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Oily skin",
+            "review_text": "I love this new hydrating foundation stick. It gives good coverage and the finish is flawless! Itu2019s easy to use and matches my skin tone perfectly!"
+        },
+        {
+            "review_title": "10/10 best foundation stick ever",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Oily skin",
+            "review_text": "The best foundation stick ever !!! I was a huge fannnn of hudas stick for the longest. Iu2019m sorry but LYS beats my favorite foundation sticks and even liquid foundations! Ugh the size is perfect , easy on the go! Anddd the consistency is amazing and i love it because it paired perfectly with my skin color and i never got oily! I recommend 10/10  the way i can travel with it !"
+        },
+        {
+            "review_title": "Loveeee",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "I absolutely love this foundation!! Itu2019s so creamy and blendable but doesnu2019t melt off your face during the day. Itu2019s perfect for my combination skin itu2019s so easy to use!"
+        },
+        {
+            "review_title": "Iu2019m in shock",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Tan skin tone, Dry skin",
+            "review_text": "I am so shocked that this foundation looked like skin and blended into my skin flawlessly. 2 layers is what you need because baby I am in awe."
+        },
+        {
+            "review_title": "Must have foundation stick!!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "Ok this foundation stick is absolutely gorgeous on the skin, definitely not to heavy or too sheer/thin it is honestly just the right amount of coverage. I used their foundation brush to apply and it just looked so pretty and smooth. Highly recommend you get yours too!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "TG7 - tan sand - tan/olive skin with golden undertones",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "I love this new lys beauty foundation stick. It glides on smoothly over skin and very easy to blend. The coverage is very nice and it does not feel heavy in skin. Must try!!"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Combination skin",
+            "review_text": "Iu2019ve never used a stick foundation before so I wasnu2019t sure what to expect. I love this one. You can sheer it out or build it up without it looking cakey. Will def purchase again."
+        },
+        {
+            "review_title": "MY NEW FAVORITE AND A MUST HAVE!!!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "This product omg I don't even have the words for it that's how amazing it is! I am in love with this skin tint from the moment that I put it on I just knew it would be my new favorite product. The way it blends and melts into this skin is amazing and it also keeps my skin hydrated and doesnu2019t dry it out. The team did a great job taking their time to come up with a perfect formula and a perfect product. I love his build able it is, if you want light makeup it perfect for it and if you want full coverage itu2019s perfect for that as well! LYS BEAUTY please continue to make amazing products like this one the team put in a lot of time and effort making sure a great product. Letu2019s not forget the shade range they have any and everybody can enjoy this product and I think the purchase should be made!!"
+        },
+        {
+            "review_title": "Must Have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Dry skin",
+            "review_text": "I recently got to try out the foundation stick in TG1 and TN3 and I have to say I was blown away. The way these foundation feel and look, itu2019s really chefu2019s kiss. It gives a nice medium coverage and you can build it up to your liking. It blends beautifully and it just gives you a smooth application. Itu2019s definitely won itu2019s spot within my makeup rotation. Itu2019s definitely worth the try."
+        },
+        {
+            "review_title": "Skincare formula",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "Hydrating and feels like skin. Nice light weight formula with full coverage."
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 4,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Normal skin",
+            "review_text": "Great skin tint. Foundation coverage and feels like your skin. Blends and looks seamless. Gorgeous rich product."
+        },
+        {
+            "review_title": "Satin matte",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Combination skin",
+            "review_text": "I love this foundation. As I was applying I noticed it blurred pores so quick. It was so hydrating. To me this is like a satin matte foundation which I love. I used a sponge on one side and a brush on the other. I did like the brush side more because it gave me a more full coverage look. Now this is definitely a buildable foundation. Overall this looks amazing on the skin does not tug while applying, blends quickly. I think this is my new foundation."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Combination skin",
+            "review_text": "Iu2019m really impressed with the LYS Triple Fix Blurring Skin Tint Foundation Stick. The formula is lightweight, pigmented, and blends effortlessly. It provides great coverage and beautifully blurs the complexion. I appreciate the natural matte finish, which holds up well throughout the day. Although the shade MN1 leans a bit yellow on my skin, it blends out smoothly. The stick format is super convenient, though it requires some caution when closing the product."
+        },
+        {
+            "review_title": "Love it.",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "I've been using the LYS Beauty Triple Fix Skin Tint Blurring Foundation Stick, and I'm seriously impressed! It has a creamy, blendable formula that glides on effortlessly, giving my skin a smooth, natural finish. I love that it's lightweight and doesn't feel heavy or cakey, even when I build it up for medium to full coverage. It really lets my natural beauty shine through.  The fact that it's available in 22 shades makes it easy to find a perfect match for my skin tone. Plus, knowing that it's skincare and makeup in one product is a big bonus for me. It leaves my skin feeling soft and looking radiant. Whether I want a sheer, everyday look or a bit more coverage for special occasions, this foundation stick delivers. Highly recommend!"
+        },
+        {
+            "review_title": "Definite must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "I love this!! Definitely my new go to! It glides on nicely and feels so smooth and light on my skin. It is easy to build up without it being to heavy or thick. It blends nicely and looks really natural.  It blurs my skin and makes it look so soft. I love the coverage on it! It covers my blemishes and problem areas without being too obvious.  I love how creamy and soft it is. I'm able to apply it quickly and blend it out when I'm in a rush.  The shade is absolutely perfect for me too! I am in that weird spot between my winter and summer shade right now so I might grab the lighter one just to have on hand for when the colder months hit. It's absolutely perfect! Especially for days I travel. I can take it along with me and not have to worry about anything leaking or spilling! Wonderful packaging!"
+        },
+        {
+            "review_title": "Perfection !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "I love this formula ! Itu2019s lightweight and feels like nothing is there! It has a real skin feel and glides on creamy . Itu2019s easy to blend and the coverage is sheer to full ! Itu2019s so pretty ! It has natural beautiful finish !"
+        },
+        {
+            "review_title": "Perfect for a beginner or pro!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Combination skin",
+            "review_text": "This foundation is so good! Itu2019s lightweight, breathable, buildable coverage and clean! The glowy finish is beautiful. I love a healthy glow personally and this foundation is it!"
+        },
+        {
+            "review_title": "Perfect for all different makeup wearers!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, brunette hair, Light skin tone, Combination skin",
+            "review_text": "I love how buttery the formula is, just like their other cream products! Not only that, but it has built in skincare too. You can go in light for light coverage or build it up and it leaves the skin looking so natural and glowy!"
+        },
+        {
+            "review_title": "Love it",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Combination skin",
+            "review_text": "One of the best foundation sticks on the market Very creamy Easy to blend Work perfect with other product I got my absolute perfect match I love the packaging as always You can use it with a sponge or brush very easy to work with"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Oily skin",
+            "review_text": "A beautiful foundation stick! I was really surprised on how a little went so far! Itu2019s easy to apply and smooth out and itu2019s full coverage! I felt like using this foundation stick I was losing/wasting less product then I normally would. It leaves a matte/natural finish which I love! Happy with this one!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN1 - ivory beige - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Oily skin",
+            "review_text": "This foundation stick is amazing! Itu2019s so easy to apply and smooth out a little goes a long ways and gives you full coverage! Itu2019s a matte natural looking finish which looks great! Itu2019s not hard to apply or smooth out. Itu2019s very easy to take off at the end of the day. I feel like with a foundation stick you donu2019t lose/waste product!"
+        },
+        {
+            "review_title": "10/10 Foundation Stick!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Normal skin",
+            "review_text": "This foundation stick leaves a very skin like finish! The packaging makes application of the product so much easier. It also has buildable coverage which is amazing for no makeup makeup looks or full glam. The shade range and match is unmatched!!"
+        },
+        {
+            "review_title": "Highly recommend",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, auburn hair, Fair skin tone, Combination skin",
+            "review_text": "**Title:** Perfect for Everyday Use!  I've been using the LYS Beauty Triple Fix Skin Tint Blurring Foundation Stick, and I'm seriously impressed! It has a creamy, blendable formula that glides on effortlessly, giving my skin a smooth, natural finish. I love that it's lightweight and doesn't feel heavy or cakey, even when I build it up for medium to full coverage. It really lets my natural beauty shine through.  The fact that it's available in 22 shades makes it easy to find a perfect match for my skin tone. Plus, knowing that it's skincare and makeup in one product is a big bonus for me. It leaves my skin feeling soft and looking radiant. Whether I want a sheer, everyday look or a bit more coverage for special occasions, this foundation stick delivers. Highly recommend!"
+        },
+        {
+            "review_title": "A must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Combination skin",
+            "review_text": "The absolute best foundation stick ever Iu2019ve never used a foundation stick before this and I can never go back!!"
+        },
+        {
+            "review_title": "PERFECTION!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "I absolutely love this foundation! Itu2019s lightweight and feels like Iu2019m wearing nothing ! It has real skin feel and appearance! The shades are pigmented and glides on smooth and evenly . Itt easy to blend and has beautiful natural finish!"
+        },
+        {
+            "review_title": "Best addition to Lys collection",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Medium skin tone, Combination skin",
+            "review_text": "This skin care infused stick foundation is absolutely amazing it melts into my skin like butter and the coverage is incredible!!"
+        },
+        {
+            "review_title": "Definitely try!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, Light skin tone, Combination skin",
+            "review_text": "I absolutely love this foundation!!  It's so creamy and smooth. It glides on perfectly and is super easy to blend without losing coverage. It feels lightweight on my skin and looks natural and smooth. The coverage is amazing! It hides all of my problem areas and blurs so nicely! I absolutely love it! The shade matches my skin really well. I am right at that spot where I'm in between my summer shade and winter shade so I might get the lighter shade as it gets colder. I really love how it looks and feels on my skin. It will definitely be my go to from now on! Especially for times that I travel. It's easy to take with me and I don't have to worry about spills!"
+        },
+        {
+            "review_title": "A Matte Girls Best Friend!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Deep skin tone, Combination skin",
+            "review_text": "Now, You may be thinking foundation in a stick What? But it is truly a game-changer! It has a matte finish, watermelon extract, and more. The process to take it off was so quick and I canu2019t wait keep using it!! and"
+        },
+        {
+            "review_title": "Amazing",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
+            "review_text": "Omg! Obsessed!! I love stick products. Theyu2019re so easy to use. These blend like an absolute dream. So creamy and soft. It gives a beautiful glow to the skin and a light coverage. Like your skin but better. Itu2019s also very hydrating and feels like nothing is on. I will definitely keep using this."
+        },
+        {
+            "review_title": "BUY IT NOW! Best foundation stick",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "The LYS Beauty Triple Fix Blurring and Hydrating Skin Tint Foundation Stick has quickly become a must-have in my makeup routine. The convenient stick format makes it easy to apply on the go, and the sleek packaging adds a touch of elegance to my collection. The formula offers the perfect balance of light to medium coverage while still allowing my skin to breathe, providing a natural, glowy finish that I love. The hydrating aspect is particularly impressive, as it keeps my combination skin smooth and balanced throughout the day. Overall, this foundation stick is a winner for those who want a flawless yet natural look with the added benefit of hydration."
+        },
+        {
+            "review_title": "Great foundation stick!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, Light skin tone, Combination skin",
+            "review_text": "LYS never disappoints with their creamy formula! It glides right onto skin, I love that u can keep it sheer or build it up! It can be medium to full coverage and i love all the skin care benefits its has. Overall a great foundation stick."
+        },
+        {
+            "review_title": "A must have!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, Normal skin",
+            "review_text": "Love this, itu2019s smooth and creamy and very buildable! If you love the bronzing stick youu2019re guaranteed to love this! Highly recommend"
+        },
+        {
+            "review_title": "MAKEUP BEGINNERS THIS IS YOUR PRODUCT",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "",
+            "review_text": "I received the new LYS foundation stick and OMG YOU NEED !!! The formula goes on so smooth once you swipe it on your skin ans buffs out so flawlessly. Giving you the most air brushed effect, my favorite way is with a brushes because you get more coverage and blends so seamless. They shade variety is so INCLUSIVE for many different skintones which we loveee. This product is also very great for beginners who may not be super confident yet with liquid foundation, having it in a compact stick makes you cut time in half when trying to achieve quick makeup. You have a winner here LYS and you have my heart. This will be my go to within my everyday makeup routine when Iu2019m on stage (the sales floor) at Sephora 10/10 HIGHLY RECOMMEND !!!"
+        },
+        {
+            "review_title": "Great product",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "Here's another great review for I'm thrilled to have found my perfect match with the LYS Beauty Triple Fix Skin Tint Foundation Stick in LN6! This shade is designed for light skin with neutral undertones, and it blends seamlessly into my complexion.  I'm blown away by the performance of this product:  - The formula is incredibly lightweight and buildable, allowing for customizable coverage - It hydrates and smooths my skin, leaving a natural-looking finish - The blurring effect is impressive, minimizing pores and fine lines - It lasts all day without oxidizing or getting oily  The ingredient list is impressive, with soothing green tea extract, hydrating watermelon seed extract, and antioxidant-rich rosehip oil. I love that it's vegan, cruelty-free, and aligns with my values.  This skin tint stick has become my daily go-to for a quick, effortless look. It's perfect for:  - Everyday wear - Natural, no-makeup makeup - Hydrating and smoothing skin texture - Building confidence with a flawless base  If you're looking for a clean, effective, and easy-to-use product that gives you a healthy, radiant complexion, try the LYS Beauty Triple Fix Skin Tint Foundation Stick in LN6. You won't be disappointed!"
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Combination skin",
+            "review_text": "I'm absolutely loving the LYS Beauty Triple Fix Skin Tint Foundation Stick in MN1! This game-changing product has become my go-to for a natural, effortless look.  The ivory beige shade with neutral undertones matches my light medium skin tone perfectly, providing a seamless blend. The medium coverage conceals blemishes and evens out my complexion without feeling heavy or cakey.  I'm impressed by the ingredient-rich formula, featuring soothing green tea extract, hydrating watermelon seed extract, and antioxidant-rich rosehip oil. These nutrients work together to soothe, hydrate, and brighten my skin.  As someone who values cruelty-free and vegan products, I appreciate LYS Beauty's commitment to ethical practices.  This skin tint stick truly lives up to its promises:  - Blurs pores and fine lines - Hydrates and smooths skin texture - Provides natural-looking coverage - Easy to blend and buildable - Long-lasting with a radiant finish  I've received countless compliments on my skin since using this product! It's perfect for everyday wear, and I love that it's a 3-in-1 serum, primer, and skin tint.  If you're looking for a clean, effective, and easy-to-use product that gives you a healthy, glowing complexion, look no further! The LYS Beauty Triple Fix Skin Tint Foundation Stick is a must-try."
+        },
+        {
+            "review_title": "Must have",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, Combination skin",
+            "review_text": "This here is truly one of the smoothest foundation formulas in stick form iv tried yet, it's lightweight and super full Coverage"
+        },
+        {
+            "review_title": "The best skintint I have ever used",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Normal skin",
+            "review_text": "This skintint is by far the best I have ever used. The way my skin glows and feels after using this is incredible. the coverage is amazing and brown girl friendly. Love it!!"
+        },
+        {
+            "review_title": "You know we ask and LYS delivers!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Green eyes, black hair, Normal skin",
+            "review_text": "Beautiful I love these foundation sticks! They are creamy and buildable and if you love the bronzers youu2019ll absolutely love this too! 22 shades so the range is ranging! ud83dudc4cud83cudffd I love LYS! ud83dudcaaud83cudffd #confidencecrew"
+        },
+        {
+            "review_title": "A must have foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Oily skin",
+            "review_text": "I wore this foundation to an outdoor birthday party and it wore absolutely beautifully! I have really large pores and oily skin and I usually stay away from foundation sticks but this one is amazing!"
+        },
+        {
+            "review_title": "Top Shelf Foundation!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Light skin tone, Normal skin",
+            "review_text": "This is going on the top shelf! Iu2019m in love with this foundation stick! I was never a big fan of foundation sticks because I found them to be drying on my skin. However, this LYS foundation stick is that girl. It melts into the skin like actual butter, doesnu2019t settle in my dry patches and really blurs all texture and pores. I also love the fact that this is serum, primer and foundation in one, so you really donu2019t need to the whole skin prep thing before! This also lasts all day, I wore this for about 9 hours with no budge. Itu2019s affordable and beautiful, I highly, highly recommend!"
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, Light skin tone, Dry skin",
+            "review_text": "This foundation has me SO impressed. Itu2019s super creamy and easy to blend out onto the skin. The coverage is medium, buildable to full coverage. It actually does blur the texture I have on my skin like it claims to and leaves the most flawless finish. I have dry, textured skin and it does not accentuate any of that. This is definitely my new go to foundation."
+        },
+        {
+            "review_title": "My New favorite",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "I love how this foundation stick just glides across the skin so smoothly and blends into the skin easily with just my fingers. The 3 in 1 formula feels amazing on the skin and worked amazingly well with the rest of my makeup."
+        },
+        {
+            "review_title": "A literal must-have in my routine",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Combination skin",
+            "review_text": "I have never had a skin tint stick in my life. But OBSESSED with how it left my skin looking is a real understatement. My face felt like I just put skincare on it but better. I love a skin tint that feels weightless, but also makes my skin better and gives me coverage! The Lys Triple Fix Blurring and Hydrating Skin Tint Foundation stick absolutely loves that and so much more!"
+        },
+        {
+            "review_title": "Easy Breezy",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, Light skin tone, Combination skin",
+            "review_text": "Very skin like and lightweight. I love the idea of a skin tint in stick form. Itu2019s super easy to blend and provides great coverage without feeling heavy. The finish is smooth, blurred, and beautiful. I get excellent wear time as well. Another winner from LYS Beauty."
+        },
+        {
+            "review_title": "",
+            "review_rating": 5,
+            "review_shade_purchased": "MN3 - neutral buff - light medium skin with neutral undertones",
+            "review_buyer_description": "Brown eyes, brown hair, lightMedium skin tone, Combination skin",
+            "review_text": "This is absolutely beautiful. Glides on the skin so effortlessly but still has incredible coverage. Everything about it is a total hit. It blends very easily and looks so gorgeous on the skin."
+        },
+        {
+            "review_title": "LOVE THIS",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "The LYS Beauty Triple Fix Skin Tint Blurring Foundation Stick is amazing and lets me do my skin, my way.  It offers a buildable coverage that feels weightless on my skin, giving a natural, your-skin-but-better finish. The blurring effect is impressive, minimizing the appearance of pores and imperfections without looking heavy or cakey. I love how easily it blends, whether I'm using a brush, sponge, or even my fingers. The stick format is super convenient for precise application, especially for quick touch-ups during the day. It's perfect for a fresh, effortless look with a hint of radiance."
+        },
+        {
+            "review_title": "LOVE",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Blue eyes, blonde hair, Light skin tone, Dry skin",
+            "review_text": "The LYS Beauty Triple Fix Skin Tint Blurring Foundation Stick is amazing and lets me do my skin, my way.  It offers a buildable coverage that feels weightless on my skin, giving a natural, your-skin-but-better finish. The blurring effect is impressive, minimizing the appearance of pores and imperfections without looking heavy or cakey. I love how easily it blends, whether I'm using a brush, sponge, or even my fingers. The stick format is super convenient for precise application, especially for quick touch-ups during the day. It's perfect for a fresh, effortless look with a hint of radiance."
+        },
+        {
+            "review_title": "Love this!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Hazel eyes, blonde hair, fairLight skin tone, Combination skin",
+            "review_text": "I love this! It has the perfect amount of coverage. Itu2019s so easy to blend. Itu2019s also leaves my skin glowing."
+        },
+        {
+            "review_title": "AN EVERYDAY MUST HAVE !",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, Medium skin tone, Normal skin",
+            "review_text": "Iu2019m all for natural looking makeup ! I absolutely love this product ! Itu2019s hydrating but not oily , it has a  real skin like feel , the shade is spot on! It was easy to find my exact shade match and undertone . I wore it for 8 hrs. and it did not break up or oxides. It looks and feels like Iu2019m wearing nothing and itu2019s buildable coverage ! You can achieve any desired coverage from sheer to full ! Itu2019s lightly fragranced with a clean scent , it smells good ! It glides on smooth and itu2019s very blend able. The finish is naturally beautiful! Perfect for a makeup no makeup look and full glam ! It also has skin loving ingredients, it works perfectly with my skincare routine ! The packaging is gorgeous and sleek , and itu2019s travel friendly!"
+        },
+        {
+            "review_title": "Blurs Beautifully on Skin!",
+            "review_rating": 5,
+            "review_shade_purchased": "",
+            "review_buyer_description": "Brown eyes, black hair, Deep skin tone, Dry skin",
+            "review_text": "Blur it does! I love how this made my skin look smooth! The stick is easy to apply and glides across my skin.Its very intuitive to use.  It blended easily and is buildable. I love the packaging too staying true to the triangle shape with a color coded packaging. These are also portable enough to make travel very easy! I was happy to know the shade I used for the liquid foundation works for the stick"
+        }
+    ]
+}
