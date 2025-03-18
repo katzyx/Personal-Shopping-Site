@@ -22,6 +22,7 @@ moment = Moment(app)
 
 app.secret_key = 'hello'
 results_storage = {}
+click_data = {}
 
 API_key = os.environ.get("OPENAI_API_KEY")
 
@@ -179,7 +180,23 @@ def update_user_details():
     
     return jsonify({'merged_description': merged_description})
 
-    
+@app.route('/track-click', methods=['POST'])
+def track_click():
+    data = request.json
+    product_id = data.get("product_id")
+
+    if "click_counts" not in session:
+        session["click_counts"] = {}
+
+    if product_id:
+        click_data[product_id] = click_data.get(product_id, 0) + 1
+        print(f"Product {product_id} clicked {click_data[product_id]} times")
+
+        session["click_counts"][product_id] = session["click_counts"].get(product_id, 0) + 1
+        session.modified = True
+
+    return jsonify({"message": "Click tracked", "click_count": session["click_counts"][product_id]}), 200
+
 @app.route('/get_cookie')  # Route to retrieve the cookie
 def get_cookie():
     username = get_cookie_value('userdetails')  # Use the utility function to get the cookie
