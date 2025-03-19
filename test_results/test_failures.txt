@@ -1,0 +1,4 @@
+Total failures: 2
+
+case_42: Error occurred - 'float' object has no attribute 'replace'
+case_48: Error occurred - 'float' object has no attribute 'replace'
