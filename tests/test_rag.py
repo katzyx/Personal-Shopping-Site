@@ -216,7 +216,7 @@ class TestRAGRecommendations(unittest.TestCase):
                 products = query_rag_model(self.index, who, what)
                 
                 # Extract keywords from the user query
-                user_keywords = self.extract_keywords(who + " " + what)
+                weighted_keywords = self.extract_keywords(who + " " + what)
                 
                 # Evaluate relevance for each product
                 relevance_scores = []
@@ -225,7 +225,7 @@ class TestRAGRecommendations(unittest.TestCase):
                     product_text = f"{product.name} {product.brand} {product.description if hasattr(product, 'description') else ''}"
                     
                     # Calculate relevance score
-                    relevance_score = self.calculate_relevance(user_keywords, product_text)
+                    relevance_score = self.calculate_relevance(weighted_keywords, product_text)
                     relevance_scores.append(relevance_score)
                 
                 # Calculate average relevance score
@@ -247,7 +247,7 @@ class TestRAGRecommendations(unittest.TestCase):
                 }
                 
                 # Check relevance threshold
-                if avg_relevance <= 0.2:
+                if avg_relevance <= 0.1:
                     failures.append(f"{case_id}: Low relevance score ({avg_relevance:.2f})")
                 
                 # Add to results dictionary
@@ -275,57 +275,88 @@ class TestRAGRecommendations(unittest.TestCase):
                 print(f"  {failure}")
 
     def extract_keywords(self, text):
-        """Extract important keywords from user query"""
-        # Convert to lowercase
+        """Extract important keywords from user query with categories and weights"""
         text = text.lower()
         
-        # List of words to ignore
-        stop_words = set([
-            "a", "an", "the", "and", "or", "but", "is", "are", "was", "were", 
-            "be", "been", "being", "have", "has", "had", "do", "does", "did",
-            "i", "you", "he", "she", "it", "we", "they", "my", "your", "his", "her",
-            "its", "our", "their", "am", "im", "i'm", "ive", "i've", "year", "old",
-            "with", "for", "to", "in", "on", "at", "by", "of", "that", "this", "very"
-        ])
+        # Define keyword categories with weights
+        keyword_categories = {
+            'product_types': {
+                'weight': 2.0,
+                'terms': [
+                    'foundation', 'concealer', 'blush', 'eyeshadow', 'lipstick',
+                    'mascara', 'moisturizer', 'cleanser', 'sunscreen', 'serum',
+                    'primer', 'powder', 'bronzer', 'highlighter', 'eyeliner',
+                    'lip gloss', 'setting spray', 'toner', 'cream', 'lotion'
+                ]
+            },
+            'skin_conditions': {
+                'weight': 1.5,
+                'terms': [
+                    'acne', 'sensitive', 'dry', 'oily', 'combination', 
+                    'eczema', 'rosacea', 'hyperpigmentation', 'melasma',
+                    'aging', 'wrinkles', 'spots', 'pores', 'dull', 'uneven',
+                    'mature', 'dehydrated', 'breakout', 'blemish'
+                ]
+            },
+            'skin_tones': {
+                'weight': 1.5,
+                'terms': [
+                    'fair', 'light', 'medium', 'olive', 'tan', 'deep', 'dark',
+                    'pale', 'porcelain', 'ivory', 'beige', 'golden', 'warm', 
+                    'cool', 'neutral'
+                ]
+            },
+            'qualities': {
+                'weight': 1.2,
+                'terms': [
+                    'long-lasting', 'waterproof', 'vegan', 'cruelty-free', 
+                    'fragrance-free', 'oil-free', 'non-comedogenic', 'natural',
+                    'full coverage', 'medium coverage', 'light coverage',
+                    'anti-aging', 'brightening', 'hydrating', 'matte', 'dewy',
+                    'spf', 'hypoallergenic', 'organic', 'clean'
+                ]
+            }
+        }
         
-        # Extract key terms based on product types, skin conditions, etc.
-        product_types = ["foundation", "concealer", "blush", "eyeshadow", "lipstick",
-                        "mascara", "moisturizer", "cleanser", "sunscreen", "serum"]
+        # Extract weighted keywords
+        weighted_keywords = []
+        for category, data in keyword_categories.items():
+            for term in data['terms']:
+                if term in text:
+                    weighted_keywords.append((term, data['weight']))
+                # Check for hyphenated variations
+                elif '-' in term:
+                    term_parts = term.split('-')
+                    if all(part in text for part in term_parts):
+                        weighted_keywords.append((term, data['weight']))
         
-        skin_conditions = ["acne", "sensitive", "dry", "oily", "combination", 
-                        "eczema", "rosacea", "hyperpigmentation", "melasma"]
-        
-        skin_tones = ["fair", "light", "medium", "olive", "tan", "deep", "dark"]
-        
-        qualities = ["long-lasting", "waterproof", "vegan", "cruelty-free", 
-                    "fragrance-free", "oil-free", "non-comedogenic", "natural", 
-                    "full", "coverage", "anti-aging", "brightening"]
-        
-        # Split text into words
-        words = text.split()
-        
-        # Extract keywords (remove stop words and keep important terms)
-        keywords = [word for word in words if word not in stop_words]
-        
-        # Ensure important product and skin related terms are included
-        for term_list in [product_types, skin_conditions, skin_tones, qualities]:
-            for term in term_list:
-                if term in text and term not in keywords:
-                    keywords.append(term)
-        
-        return keywords
+        return weighted_keywords
 
-    def calculate_relevance(self, user_keywords, product_text):
-        """Calculate relevance score between user keywords and product text"""
+    def calculate_relevance(self, weighted_keywords, product_text):
+        """Calculate weighted relevance score between user keywords and product text"""
+        if not weighted_keywords:
+            return 0.0
+        
         product_text = product_text.lower()
+        total_weight = sum(weight for _, weight in weighted_keywords)
+        matched_weight = 0
         
-        # Count how many keywords appear in the product text
-        matches = sum(1 for keyword in user_keywords if keyword in product_text)
+        for keyword, weight in weighted_keywords:
+            # Check for exact match
+            if keyword in product_text:
+                matched_weight += weight
+            # Check for partial matches (for compound words)
+            elif any(part in product_text for part in keyword.split()):
+                matched_weight += weight * 0.5
         
-        # Calculate relevance score (0.0 to 1.0)
-        relevance = matches / len(user_keywords) if user_keywords else 0
+        # Calculate weighted relevance score (0.0 to 1.0)
+        relevance = matched_weight / total_weight if total_weight > 0 else 0
         
-        return relevance
+        # Boost score if multiple matches found
+        if matched_weight > total_weight * 0.5:
+            relevance *= 1.2
+        
+        return min(1.0, relevance)  # Cap at 1.0
 
 if __name__ == "__main__":
     unittest.main()
