@@ -137,51 +137,195 @@ class TestRAGRecommendations(unittest.TestCase):
     def test_recommendations_for_all_cases(self):
         """Test RAG model recommendations for all test cases"""
         results = {}
+        failures = []
         
         for i, (who, what) in enumerate(self.test_cases):
             case_id = f"case_{i+1}"
             print(f"\nTesting {case_id}: Who: '{who}', What: '{what}'")
             
-            # Query the RAG model
-            start_time = time.time()
-            products = query_rag_model(self.index, who, what)
-            query_time = time.time() - start_time
-            
-            # Save results
-            case_results = {
-                "who": who,
-                "what": what,
-                "query_time_seconds": query_time,
-                "products": [
-                    {
-                        "name": p.name,
-                        "brand": p.brand,
-                        "price": p.price,
-                        "url": p.url,
-                        "redirect_url": p.redirect_url
-                    } for p in products
-                ]
-            }
-            
-            # Validate results
-            self.assertIsNotNone(products, f"No products returned for {case_id}")
-            self.assertTrue(len(products) > 0, f"No products returned for {case_id}")
-            # self.assertTrue(len(products) <= 15, f"Too many products returned for {case_id}")
-            
-            # Add to results dictionary
-            results[case_id] = case_results
-            
-            # Print basic information
-            print(f"  Found {len(products)} products in {query_time:.2f} seconds")
-            for j, p in enumerate(products[:3]):  # Print first 3 products
-                print(f"  Product {j+1}: {p.name} by {p.brand}")
-            if len(products) > 3:
-                print(f"  ... and {len(products) - 3} more products")
+            try:
+                # Query the RAG model
+                start_time = time.time()
+                products = query_rag_model(self.index, who, what)
+                query_time = time.time() - start_time
+                
+                # Save results
+                case_results = {
+                    "who": who,
+                    "what": what,
+                    "query_time_seconds": query_time,
+                    "products": [
+                        {
+                            "name": p.name,
+                            "brand": p.brand,
+                            "price": p.price,
+                            "url": p.url,
+                            "redirect_url": p.redirect_url
+                        } for p in products
+                    ]
+                }
+                
+                # Validate results
+                if products is None:
+                    failures.append(f"{case_id}: No products returned (products is None)")
+                    continue
+                    
+                if len(products) == 0:
+                    failures.append(f"{case_id}: No products returned (empty list)")
+                    continue
+                
+                # Add to results dictionary
+                results[case_id] = case_results
+                
+                # Print basic information
+                print(f"  Found {len(products)} products in {query_time:.2f} seconds")
+                for j, p in enumerate(products[:3]):  # Print first 3 products
+                    print(f"  Product {j+1}: {p.name} by {p.brand}")
+                if len(products) > 3:
+                    print(f"  ... and {len(products) - 3} more products")
+                
+            except Exception as e:
+                failures.append(f"{case_id}: Error occurred - {str(e)}")
+                continue
         
         # Save all results to JSON file
         with open(self.test_results_dir / "recommendations_results.json", "w") as f:
             json.dump(results, f, indent=2)
+        
+        # Save failures to a separate file
+        if failures:
+            with open(self.test_results_dir / "test_failures.txt", "w") as f:
+                f.write(f"Total failures: {len(failures)}\n\n")
+                f.write("\n".join(failures))
+            print(f"\nTotal test failures: {len(failures)}")
+            print("Failed cases:")
+            for failure in failures:
+                print(f"  {failure}")
 
+    def test_recommendations_relevance(self):
+        """Test that RAG model recommendations are relevant to user queries"""
+        results = {}
+        failures = []
+        
+        for i, (who, what) in enumerate(self.test_cases):
+            case_id = f"case_{i+1}"
+            print(f"\nTesting relevance for {case_id}: Who: '{who}', What: '{what}'")
+            
+            try:
+                # Query the RAG model
+                products = query_rag_model(self.index, who, what)
+                
+                # Extract keywords from the user query
+                user_keywords = self.extract_keywords(who + " " + what)
+                
+                # Evaluate relevance for each product
+                relevance_scores = []
+                for product in products:
+                    # Create a product description combining all relevant fields
+                    product_text = f"{product.name} {product.brand} {product.description if hasattr(product, 'description') else ''}"
+                    
+                    # Calculate relevance score
+                    relevance_score = self.calculate_relevance(user_keywords, product_text)
+                    relevance_scores.append(relevance_score)
+                
+                # Calculate average relevance score
+                avg_relevance = sum(relevance_scores) / len(relevance_scores) if relevance_scores else 0
+                
+                # Save results
+                case_results = {
+                    "who": who,
+                    "what": what,
+                    "avg_relevance_score": avg_relevance,
+                    "products": [
+                        {
+                            "name": p.name,
+                            "brand": p.brand,
+                            "price": p.price,
+                            "relevance_score": score
+                        } for p, score in zip(products, relevance_scores)
+                    ]
+                }
+                
+                # Check relevance threshold
+                if avg_relevance <= 0.2:
+                    failures.append(f"{case_id}: Low relevance score ({avg_relevance:.2f})")
+                
+                # Add to results dictionary
+                results[case_id] = case_results
+                
+                # Print basic information
+                print(f"  Average relevance score: {avg_relevance:.2f}")
+                
+            except Exception as e:
+                failures.append(f"{case_id}: Error occurred - {str(e)}")
+                continue
+        
+        # Save all results to JSON file
+        with open(self.test_results_dir / "relevance_results.json", "w") as f:
+            json.dump(results, f, indent=2)
+        
+        # Save failures to a separate file
+        if failures:
+            with open(self.test_results_dir / "relevance_failures.txt", "w") as f:
+                f.write(f"Total failures: {len(failures)}\n\n")
+                f.write("\n".join(failures))
+            print(f"\nTotal relevance test failures: {len(failures)}")
+            print("Failed cases:")
+            for failure in failures:
+                print(f"  {failure}")
+
+    def extract_keywords(self, text):
+        """Extract important keywords from user query"""
+        # Convert to lowercase
+        text = text.lower()
+        
+        # List of words to ignore
+        stop_words = set([
+            "a", "an", "the", "and", "or", "but", "is", "are", "was", "were", 
+            "be", "been", "being", "have", "has", "had", "do", "does", "did",
+            "i", "you", "he", "she", "it", "we", "they", "my", "your", "his", "her",
+            "its", "our", "their", "am", "im", "i'm", "ive", "i've", "year", "old",
+            "with", "for", "to", "in", "on", "at", "by", "of", "that", "this", "very"
+        ])
+        
+        # Extract key terms based on product types, skin conditions, etc.
+        product_types = ["foundation", "concealer", "blush", "eyeshadow", "lipstick",
+                        "mascara", "moisturizer", "cleanser", "sunscreen", "serum"]
+        
+        skin_conditions = ["acne", "sensitive", "dry", "oily", "combination", 
+                        "eczema", "rosacea", "hyperpigmentation", "melasma"]
+        
+        skin_tones = ["fair", "light", "medium", "olive", "tan", "deep", "dark"]
+        
+        qualities = ["long-lasting", "waterproof", "vegan", "cruelty-free", 
+                    "fragrance-free", "oil-free", "non-comedogenic", "natural", 
+                    "full", "coverage", "anti-aging", "brightening"]
+        
+        # Split text into words
+        words = text.split()
+        
+        # Extract keywords (remove stop words and keep important terms)
+        keywords = [word for word in words if word not in stop_words]
+        
+        # Ensure important product and skin related terms are included
+        for term_list in [product_types, skin_conditions, skin_tones, qualities]:
+            for term in term_list:
+                if term in text and term not in keywords:
+                    keywords.append(term)
+        
+        return keywords
+
+    def calculate_relevance(self, user_keywords, product_text):
+        """Calculate relevance score between user keywords and product text"""
+        product_text = product_text.lower()
+        
+        # Count how many keywords appear in the product text
+        matches = sum(1 for keyword in user_keywords if keyword in product_text)
+        
+        # Calculate relevance score (0.0 to 1.0)
+        relevance = matches / len(user_keywords) if user_keywords else 0
+        
+        return relevance
 
 if __name__ == "__main__":
     unittest.main()

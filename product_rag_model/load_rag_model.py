@@ -53,13 +53,7 @@ def format_products(response):
     products_list: list[RAGProduct] = []
 
     for product in json_data["products"]:
-        new_product = RAGProduct(
-            product["product_name"],
-            product["brand"],
-            float(product["price"]) if isinstance(product["price"], str) else product["price"],
-            product["image_url"],
-            product["product_url"]
-        )
+        new_product = RAGProduct(product["product_name"], product["brand"], product["price"].replace('$',''), product["image_url"], product["product_url"])
         products_list.append(new_product)
     
     return products_list
