@@ -185,11 +185,15 @@ def update_user_details():
     # Update user_details in session
     session['user_details'] = merged_description
     
-    # Preserve the existing product_preferences instead of clearing them
+    # Preserve the existing product_preferences
     product_preferences = session.get('product_preferences', '')
 
-    # Create a new UserInput instance with the merged description and preserved preferences
-    user_input = UserInput(API_key, merged_description, product_preferences)
+    # Clear existing results to trigger new generation
+    results_storage.clear()
+    
+    # Start generating new products in background
+    thread = Thread(target=getting_products, args=(merged_description, product_preferences))
+    thread.start()
     
     return jsonify({'merged_description': merged_description})
 
