@@ -20,38 +20,44 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="./js/preloader.js"></script>
     <style>
-        .loader {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: white;
-            transition: opacity 0.75s, visibility 0.75s;
+        html, body {
+          height: 100%;
+          margin: 0;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background: #f4f4f4;
         }
 
-        .loader::after {
-            content: "";
-            width: 75px;
-            height: 75px;
-            border: 15px solid #dddddd;
-            border-top-color: #F7CAC9;
-            border-radius: 50%;
-            animation: loading 0.75s ease infinite;
+        #loader-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          max-width: 600px;
+          height: 150px;
+          overflow: visible;
         }
 
-        @keyframes loading {
-            from {transform: rotate(0turn)}
-            to {transform: rotate(1turn)}
+        #loader {
+          font-family: 'Montserrat', sans-serif;
+          font-size: 80px;   
+          font-weight: bold;
+          color: #F7CAC9;
+          opacity: 1;
+          transition: opacity 1s ease-in-out;
+          white-space: nowrap;
+          min-width: 100%;
+          text-align: center;
+          padding: 0 20px;
         }
     </style>
   </head>
 
   <body>
-    <div class="loader"></div>
+    <div id="loader-container">
+      <div id="loader" class="loader">Loading...</div>
+    </div>
     <script>
         // Function to periodically check if the task is done
         function checkStatus() {
@@ -69,5 +75,37 @@
 
         // Start checking the status when the page loads
         window.onload = checkStatus;
+    </script>
+    <script>
+      const strings = ["Loading...", "Fetching data...", "Almost done...", "Get ready..."];
+      const loader = document.getElementById("loader");
+
+      let index = 0;
+      let tick = 0;
+
+      function switchText() {
+        loader.style.opacity = "0";
+
+        setTimeout(() => {
+          // Switch text after fade-out
+          index = (index + 1) % strings.length;
+          loader.textContent = strings[index];
+
+          loader.style.opacity = "1";
+        }, 1000);
+      }
+
+      // Main interval running every second
+      setInterval(() => {
+        // Blinking effect every second
+        loader.style.opacity = (tick % 2 === 0) ? "1" : "0"; 
+
+        // Change text every 5 seconds
+        if (tick % 5 === 0) {
+          switchText();
+        }
+
+        tick++;
+      }, 1000);
     </script>
   </body>
