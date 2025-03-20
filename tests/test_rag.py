@@ -137,8 +137,12 @@ class TestRAGRecommendations(unittest.TestCase):
     def test_recommendations_for_all_cases(self):
         """Test RAG model recommendations for all test cases"""
         results = {}
-        
+        total = 0
+        total_time = 0
+        max_load_time = float("-Inf")
+
         for i, (who, what) in enumerate(self.test_cases):
+            total += 1
             case_id = f"case_{i+1}"
             print(f"\nTesting {case_id}: Who: '{who}', What: '{what}'")
             
@@ -173,11 +177,15 @@ class TestRAGRecommendations(unittest.TestCase):
             
             # Print basic information
             print(f"  Found {len(products)} products in {query_time:.2f} seconds")
+            max_load_time = max(max_load_time, query_time)
+            total_time += query_time
             for j, p in enumerate(products[:3]):  # Print first 3 products
                 print(f"  Product {j+1}: {p.name} by {p.brand}")
             if len(products) > 3:
                 print(f"  ... and {len(products) - 3} more products")
         
+        print("maximum load time: ", max_load_time)
+        print("average load time: ", total_time/total)
         # Save all results to JSON file
         with open(self.test_results_dir / "recommendations_results.json", "w") as f:
             json.dump(results, f, indent=2)

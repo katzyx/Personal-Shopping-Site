@@ -1,5 +1,8 @@
 import pytest
-from shopping_site import app
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from shopping_site import app, write_blog
 
 @pytest.fixture
 def client():
@@ -42,14 +45,8 @@ def test_blog_post_content(client):
             with client.session_transaction() as sess:
                 sess['user_details'] = case['user_details']
                 sess['product_preferences'] = case['preferences']
-            
-            response = client.get('/index')
-            rendered = response.data.decode()
-            
-            # Extract blog post content
-            blog_start = rendered.find('<legend>From your beauty advisor</legend>')
-            blog_end = rendered.find('</fieldset>', blog_start)
-            blog_content = rendered[blog_start:blog_end].lower()
+
+            blog_content = write_blog(case['user_details'], case['preferences'])
             
             # Test for expected content
             for term in case['expected_content']:
@@ -60,9 +57,11 @@ def test_blog_post_content(client):
             for term in case['unexpected_content']:
                 assert term.lower() not in blog_content, \
                     f"Found unexpected term '{term}' in blog post for case: {case['user_details']}"
+    print(1, file=sys.stderr)
 
 def test_blog_post_personalization(client):
     """Test that blog posts are personalized based on user details"""
+    
     # Test same preference with different user details
     test_pairs = [
         {
@@ -92,18 +91,10 @@ def test_blog_post_personalization(client):
             # Get blog posts for both cases
             blogs = []
             for case in [pair['case1'], pair['case2']]:
-                with client.session_transaction() as sess:
-                    sess['user_details'] = case['user_details']
-                    sess['product_preferences'] = case['preferences']
-                
-                response = client.get('/index')
-                rendered = response.data.decode()
-                
-                # Extract blog content
-                blog_start = rendered.find('<legend>From your beauty advisor</legend>')
-                blog_end = rendered.find('</fieldset>', blog_start)
-                blogs.append(rendered[blog_start:blog_end])
+                blog_content = write_blog(case['user_details'], case['preferences'])
+                blogs.append(blog_content)
             
             # Verify blogs are different despite same preference
             assert blogs[0] != blogs[1], \
                 "Blog posts should be different for different user details"
+    print(2, file=sys.stderr)
