@@ -1,0 +1,4670 @@
+{
+  "case_1": {
+    "who": "I am a 45 year old Hispanic woman with dark skin and oily skin",
+    "what": "I'm looking for moisturizer for date night that is non-comedogenic",
+    "avg_relevance_score": 0.03888888888888888,
+    "products": [
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Cr\u00e8me de la Mer Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Mini The Moisturizing Fresh Cream",
+        "brand": "La Mer",
+        "price": "145.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bohemian Fig - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "84.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Topless Tangerine - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Vanilla Bean - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_2": {
+    "who": "I am a 30 year old White non-binary person with medium skin and rosacea skin",
+    "what": "I'm looking for cleanser for date night that is oil-free",
+    "avg_relevance_score": 0.01098901098901099,
+    "products": [
+      {
+        "name": "EradiKate Daily Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Sulfate-Free Green Tea Amino Acid Cleansing Foam",
+        "brand": "innisfree",
+        "price": "19.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Cleansing And Softening Refillable Shower Oil With Almond Oil",
+        "brand": "L'Occitane",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect Hair Day Dry Shampoo",
+        "brand": "Living Proof",
+        "price": "22.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Vanilla Bean - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Vanilla Apricot - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Vanilla Vibezzz - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_3": {
+    "who": "I am a 65 year old Middle Eastern man with tan skin and acne-prone skin",
+    "what": "I'm looking for lipstick for everyday that is anti-aging",
+    "avg_relevance_score": 0.028846153846153848,
+    "products": [
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lanc\u00f4me",
+        "price": "52.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Forget The Filler Lip Plumper Line Smoothing Gloss",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Blurring Blush Cream to Powder Lip and Cheek Stick",
+        "brand": "Iconic London",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Blurring Blush Cream to Powder Lip and Cheek Stick",
+        "brand": "Iconic London",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Expertly Clear Moisturizer for Acne Prone Skin with Salicylic Acid",
+        "brand": "Kiehl's Since 1851",
+        "price": "57.0",
+        "relevance_score": 0.23076923076923078
+      },
+      {
+        "name": "Huestick Eye, Lip and Cheek Multistick",
+        "brand": "Live Tinted",
+        "price": "37.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_4": {
+    "who": "I am a 80 year old Middle Eastern woman with very dark skin",
+    "what": "I'm looking for serum for date night that is non-comedogenic",
+    "avg_relevance_score": 0.048484848484848485,
+    "products": [
+      {
+        "name": "Green Tea Enzyme Vitamin C Brightening Serum",
+        "brand": "innisfree",
+        "price": "43.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.18181818181818182
+      },
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_5": {
+    "who": "I am a 45 year old Hispanic woman with olive skin and sensitive skin",
+    "what": "I'm looking for moisturizer for party that is full coverage",
+    "avg_relevance_score": 0.16666666666666666,
+    "products": [
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.16666666666666666
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.16666666666666666
+      }
+    ]
+  },
+  "case_6": {
+    "who": "I am a 23 year old Middle Eastern woman with fair skin and melasma skin",
+    "what": "I'm looking for sunscreen for party that is waterproof",
+    "avg_relevance_score": 0.026041666666666664,
+    "products": [
+      {
+        "name": "Self-Tanning Water",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Own Your Glow Kit",
+        "brand": "Isle of Paradise",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tanning Drops",
+        "brand": "Isle of Paradise",
+        "price": "43.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrocolloid Invisible Patches",
+        "brand": "The INKEY List",
+        "price": "12.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "BEAUTYBLENDER POOL PARTY Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrocolloid Invisible Patches",
+        "brand": "The INKEY List",
+        "price": "12.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_7": {
+    "who": "I am a 45 year old Middle Eastern non-binary person with deep skin and rosacea skin",
+    "what": "I'm looking for blush for everyday that is cruelty-free",
+    "avg_relevance_score": 0.02991452991452992,
+    "products": [
+      {
+        "name": "Huebeam Gradient Blushing Bronzer",
+        "brand": "Live Tinted",
+        "price": "53.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "The Cream Blush",
+        "brand": "BASMA",
+        "price": "38.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Blush is Life Baked Talc-Free Dimensional + Brightening Blush",
+        "brand": "Kosas",
+        "price": "39.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Blush Crush Liquid Blush",
+        "brand": "Live Tinted",
+        "price": "30.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Face Bento Cream Bronzer, Powder Blush & Highlighter Sculpting Trio",
+        "brand": "Kaja",
+        "price": "38.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ORIGINAL Beautyblender Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Goat Milk Moisturizing Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ORIGINAL Beautyblender Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Goat Milk Moisturizing Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_8": {
+    "who": "I am a 23 year old Black man with medium skin and combination skin",
+    "what": "I'm looking for concealer for work that is anti-aging",
+    "avg_relevance_score": 0.125,
+    "products": [
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.18181818181818182
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.2727272727272727
+      },
+      {
+        "name": "Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "43.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.18181818181818182
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.2727272727272727
+      },
+      {
+        "name": "Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "43.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "22.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "22.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "22.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "22.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      }
+    ]
+  },
+  "case_9": {
+    "who": "I am a 80 year old Middle Eastern man with very dark skin and rosacea skin",
+    "what": "I'm looking for lipstick for work that is fragrance-free",
+    "avg_relevance_score": 0.017857142857142856,
+    "products": [
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lanc\u00f4me",
+        "price": "52.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Forget The Filler Lip Plumper Line Smoothing Gloss",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Latte Lips Lip Oil Glaze Duo",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "36.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Blurring Blush Cream to Powder Lip and Cheek Stick",
+        "brand": "Iconic London",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Blush is Life Baked Talc-Free Dimensional + Brightening Blush",
+        "brand": "Kosas",
+        "price": "39.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Huestick Eye, Lip and Cheek Multistick",
+        "brand": "Live Tinted",
+        "price": "37.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_10": {
+    "who": "I am a 23 year old Middle Eastern woman with very dark skin",
+    "what": "I'm looking for sunscreen for beach day that is full coverage",
+    "avg_relevance_score": 0.026041666666666664,
+    "products": [
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.16666666666666666
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Own Your Glow Kit",
+        "brand": "Isle of Paradise",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tan Oil Mist",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self-Tanning Drops",
+        "brand": "Isle of Paradise",
+        "price": "43.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Express Self-Tanning Mousse",
+        "brand": "Isle of Paradise",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self-Tanning Water",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Tinted Hydrating Gel Cream SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Natural Matte Tinted Moisturizer Mineral SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.16666666666666666
+      },
+      {
+        "name": "Self Tan Oil Mist",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_11": {
+    "who": "I am a 18 year old Hispanic non-binary person with light skin",
+    "what": "I'm looking for cleanser for date night that is vegan",
+    "avg_relevance_score": 0.04895104895104895,
+    "products": [
+      {
+        "name": "The Balance pH Balancing Gel Cleanser with Ginger Root Extract",
+        "brand": "BeautyBio",
+        "price": "52.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Sulfate-Free Green Tea Amino Acid Cleansing Foam",
+        "brand": "innisfree",
+        "price": "19.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ExfoliKate Cleanser Daily Foaming Wash with AHA & Enzymes",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Goat Milk Moisturizing Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "PEPTIDE PREP Clarifying Detox Shampoo",
+        "brand": "K18 Biomimetic Hairscience",
+        "price": "51.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.18181818181818182
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_12": {
+    "who": "I am a 18 year old White non-binary person with extremely dark skin and eczema skin",
+    "what": "I'm looking for serum for special occasion that is non-comedogenic",
+    "avg_relevance_score": 0.04464285714285714,
+    "products": [
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Green Tea Caffeine Bright-Eye Serum with Niacinamide",
+        "brand": "innisfree",
+        "price": "30.0",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Illuminator Liquid Highlight",
+        "brand": "Iconic London",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Green Tea Enzyme Vitamin C Brightening Serum",
+        "brand": "innisfree",
+        "price": "43.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.21428571428571427
+      },
+      {
+        "name": "Illuminator Liquid Highlight",
+        "brand": "Iconic London",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Green Tea Caffeine Bright-Eye Serum with Niacinamide",
+        "brand": "innisfree",
+        "price": "30.0",
+        "relevance_score": 0.07142857142857142
+      }
+    ]
+  },
+  "case_13": {
+    "who": "I am a 18 year old Asian man with deep skin and eczema skin",
+    "what": "I'm looking for cleanser for party that is vegan",
+    "avg_relevance_score": 0.03636363636363636,
+    "products": [
+      {
+        "name": "Goat Milk Moisturizing Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "The Balance pH Balancing Gel Cleanser with Ginger Root Extract",
+        "brand": "BeautyBio",
+        "price": "52.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Sulfate-Free Green Tea Amino Acid Cleansing Foam",
+        "brand": "innisfree",
+        "price": "19.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "PEPTIDE PREP Clarifying Detox Shampoo",
+        "brand": "K18 Biomimetic Hairscience",
+        "price": "51.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Shea Butter Ultra Rich Body Cream",
+        "brand": "L'Occitane",
+        "price": "66.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Almond Milk Concentrate Body Moisturizer",
+        "brand": "L'Occitane",
+        "price": "74.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Cleansing And Softening Refillable Shower Oil With Almond Oil",
+        "brand": "L'Occitane",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Shea Butter Ultra Rich Body Cream",
+        "brand": "L'Occitane",
+        "price": "66.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_14": {
+    "who": "I am a 45 year old Hispanic man with light skin",
+    "what": "I'm looking for blush for party that is vegan",
+    "avg_relevance_score": 0.08888888888888888,
+    "products": [
+      {
+        "name": "Blush is Life Baked Talc-Free Dimensional + Brightening Blush",
+        "brand": "Kosas",
+        "price": "39.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Blush Crush Liquid Blush",
+        "brand": "Live Tinted",
+        "price": "30.0",
+        "relevance_score": 0.1111111111111111
+      }
+    ]
+  },
+  "case_16": {
+    "who": "I am a 18 year old Middle Eastern woman with olive skin and eczema skin",
+    "what": "I'm looking for moisturizer for wedding that is non-comedogenic",
+    "avg_relevance_score": 0.06372549019607843,
+    "products": [
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Protecting & Repairing Shea Butter Intensive Hand Balm",
+        "brand": "L'Occitane",
+        "price": "51.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini The Moisturizing Fresh Cream",
+        "brand": "La Mer",
+        "price": "145.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bohemian Fig - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "84.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      }
+    ]
+  },
+  "case_17": {
+    "who": "I am a 30 year old Middle Eastern non-binary person with fair skin and melasma skin",
+    "what": "I'm looking for sunscreen for party that is oil-free",
+    "avg_relevance_score": 0.004524886877828055,
+    "products": [
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_18": {
+    "who": "I am a 45 year old Hispanic man with extremely dark skin and eczema skin",
+    "what": "I'm looking for sunscreen for beach day that is long-lasting",
+    "avg_relevance_score": 0.006410256410256411,
+    "products": [
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Natural Matte Tinted Moisturizer Mineral SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Own Your Glow Kit",
+        "brand": "Isle of Paradise",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tan Oil Mist",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Express Self-Tanning Mousse",
+        "brand": "Isle of Paradise",
+        "price": "46.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_19": {
+    "who": "I am a 18 year old Hispanic woman with very dark skin and dry skin",
+    "what": "I'm looking for sunscreen for date night that is non-comedogenic",
+    "avg_relevance_score": 0.03571428571428571,
+    "products": [
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Natural Matte Tinted Moisturizer Mineral SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tanning Drops",
+        "brand": "Isle of Paradise",
+        "price": "43.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.16666666666666666
+      }
+    ]
+  },
+  "case_20": {
+    "who": "I am a 80 year old Asian non-binary person with olive skin",
+    "what": "I'm looking for blush for workout that is brightening",
+    "avg_relevance_score": 0.09333333333333334,
+    "products": [
+      {
+        "name": "Huebeam Gradient Blushing Bronzer",
+        "brand": "Live Tinted",
+        "price": "53.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Blush Crush Liquid Blush",
+        "brand": "Live Tinted",
+        "price": "30.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Silk Glow Blush and Highlight Duo",
+        "brand": "Iconic London",
+        "price": "53.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Ethereal Baked Face Palette - Long-Wear Bronzer, Highlighter & Blush",
+        "brand": "ILIA",
+        "price": "79.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Silk Glow Blush and Highlight Duo",
+        "brand": "Iconic London",
+        "price": "53.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Ethereal Baked Face Palette - Long-Wear Bronzer, Highlighter & Blush",
+        "brand": "ILIA",
+        "price": "79.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Blush Crush Liquid Blush",
+        "brand": "Live Tinted",
+        "price": "30.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Huebeam Gradient Blushing Bronzer",
+        "brand": "Live Tinted",
+        "price": "53.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Silk Glow Blush and Highlight Duo",
+        "brand": "Iconic London",
+        "price": "53.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Ethereal Baked Face Palette - Long-Wear Bronzer, Highlighter & Blush",
+        "brand": "ILIA",
+        "price": "79.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Blush Crush Liquid Blush",
+        "brand": "Live Tinted",
+        "price": "30.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Huebeam Gradient Blushing Bronzer",
+        "brand": "Live Tinted",
+        "price": "53.0",
+        "relevance_score": 0.1
+      }
+    ]
+  },
+  "case_21": {
+    "who": "I am a 80 year old Middle Eastern woman with very fair skin",
+    "what": "I'm looking for serum for wedding that is non-comedogenic",
+    "avg_relevance_score": 0.06923076923076923,
+    "products": [
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.2
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect Hair Day Dry Shampoo",
+        "brand": "Living Proof",
+        "price": "22.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Refillable Serum with  TFC8",
+        "brand": "Augustinus Bader",
+        "price": "540.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Plant Stem Cell Retinol Alternative Firming Serum",
+        "brand": "KORA Organics",
+        "price": "104.0",
+        "relevance_score": 0.1
+      }
+    ]
+  },
+  "case_22": {
+    "who": "I am a 23 year old Asian non-binary person with olive skin",
+    "what": "I'm looking for cleanser for everyday that is brightening",
+    "avg_relevance_score": 0.03529411764705883,
+    "products": [
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ExfoliKate Cleanser Daily Foaming Wash with AHA & Enzymes",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "EradiKate Daily Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "EradiKate Clarifying Blemish Gel Cleanser with Salicylic Acid, Prebiotic Complex & Niacinamide",
+        "brand": "Kate Somerville",
+        "price": "60.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect hair Day (PhD) High-Shine Gloss Hair Treatment",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Noni Glow Radiant Eye Oil",
+        "brand": "KORA Organics",
+        "price": "60.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect hair Day (PhD) High-Shine Gloss Hair Treatment",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_23": {
+    "who": "I am a 18 year old Black man with tan skin and eczema skin",
+    "what": "I'm looking for lipstick for everyday that is long-lasting",
+    "avg_relevance_score": 0.010695187165775402,
+    "products": [
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Forget The Filler Lip Plumper Line Smoothing Gloss",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lanc\u00f4me",
+        "price": "52.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Blurring Blush Cream to Powder Lip and Cheek Stick",
+        "brand": "Iconic London",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Cream Blush",
+        "brand": "BASMA",
+        "price": "38.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Huestick Eye, Lip and Cheek Multistick",
+        "brand": "Live Tinted",
+        "price": "37.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Latte Lips Lip Oil Glaze Duo",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "36.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Blurring Blush Cream to Powder Lip and Cheek Stick",
+        "brand": "Iconic London",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Cream Blush",
+        "brand": "BASMA",
+        "price": "38.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_24": {
+    "who": "I am a 30 year old Black man with olive skin and melasma skin",
+    "what": "I'm looking for mascara for beach day that is cruelty-free",
+    "avg_relevance_score": 0.013888888888888888,
+    "products": [
+      {
+        "name": "Express Self-Tanning Mousse",
+        "brand": "Isle of Paradise",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Own Your Glow Kit",
+        "brand": "Isle of Paradise",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tanning Drops",
+        "brand": "Isle of Paradise",
+        "price": "43.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "BEAUTYBLUSHER Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "22.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ORIGINAL Beautyblender Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "BEAUTYBLENDER POOL PARTY Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ExfoliKate Cleanser Daily Foaming Wash with AHA & Enzymes",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bohemian Fig - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "84.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect hair Day (PhD) High-Shine Gloss Hair Treatment",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Mini Limitless Lash Lengthening Mascara",
+        "brand": "ILIA",
+        "price": "18.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Goat Milk Moisturizing Cleanser",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Perfect hair Day (PhD) High-Shine Gloss Hair Treatment",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bohemian Fig - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "84.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_25": {
+    "who": "I am a 30 year old Asian non-binary person with tan skin and rosacea skin",
+    "what": "I'm looking for lipstick for wedding that is waterproof",
+    "avg_relevance_score": 0.04901960784313725,
+    "products": [
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Juicy Glass Lip Oil",
+        "brand": "Kaja",
+        "price": "25.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Self-Tanning Water",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Own Your Glow Kit",
+        "brand": "Isle of Paradise",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Self Tanning Drops",
+        "brand": "Isle of Paradise",
+        "price": "43.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Self-Tanning Water",
+        "brand": "Isle of Paradise",
+        "price": "44.0",
+        "relevance_score": 0.08333333333333333
+      }
+    ]
+  },
+  "case_26": {
+    "who": "I am a 80 year old Hispanic man with very fair skin and hyperpigmentation skin",
+    "what": "I'm looking for mascara for date night that is cruelty-free",
+    "avg_relevance_score": 0.08333333333333333,
+    "products": [
+      {
+        "name": "Limitless Lash Lengthening Clean Mascara",
+        "brand": "ILIA",
+        "price": "38.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Mini Limitless Lash Lengthening Mascara",
+        "brand": "ILIA",
+        "price": "18.0",
+        "relevance_score": 0.08333333333333333
+      }
+    ]
+  },
+  "case_27": {
+    "who": "I am a 45 year old Middle Eastern non-binary person with light skin and melasma skin",
+    "what": "I'm looking for blush for date night that is cruelty-free",
+    "avg_relevance_score": 0.029220779220779217,
+    "products": [
+      {
+        "name": "Blush is Life Baked Talc-Free Dimensional + Brightening Blush",
+        "brand": "Kosas",
+        "price": "39.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "The Cream Blush",
+        "brand": "BASMA",
+        "price": "38.0",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Everlasting Hyperlight Vegan Transfer-Proof Liquid Lipstick",
+        "brand": "KVD Beauty",
+        "price": "31.5",
+        "relevance_score": 0.07142857142857142
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrating Texture Hair Foam with Melonberry",
+        "brand": "adwoa beauty",
+        "price": "35.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_28": {
+    "who": "I am a 45 year old Asian woman with dark skin and eczema skin",
+    "what": "I'm looking for concealer for workout that is long-lasting",
+    "avg_relevance_score": 0.0374331550802139,
+    "products": [
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "43.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Protecting & Repairing Shea Butter Intensive Hand Balm",
+        "brand": "L'Occitane",
+        "price": "51.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Refillable Serum with  TFC8",
+        "brand": "Augustinus Bader",
+        "price": "540.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.2727272727272727
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid",
+        "brand": "Kosas",
+        "price": "22.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Protecting & Repairing Shea Butter Intensive Hand Balm",
+        "brand": "L'Occitane",
+        "price": "51.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Refillable Serum with  TFC8",
+        "brand": "Augustinus Bader",
+        "price": "540.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_29": {
+    "who": "I am a 30 year old Asian woman with fair skin and eczema skin",
+    "what": "I'm looking for serum for date night that is non-comedogenic",
+    "avg_relevance_score": 0.017543859649122806,
+    "products": [
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Always Nude (Unscented) - Whipped Argan Oil Refillable Firming Body Butter Jar",
+        "brand": "Josie Maran",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Rejuvenating Night Cream",
+        "brand": "La Mer",
+        "price": "310.0",
+        "relevance_score": 0.08333333333333333
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_30": {
+    "who": "I am a 45 year old Asian man with medium skin",
+    "what": "I'm looking for concealer for everyday that is fragrance-free",
+    "avg_relevance_score": 0.0522875816993464,
+    "products": [
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Mini Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Care and Glow Serum Concealer with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "50.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder",
+        "brand": "Kosas",
+        "price": "49.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_31": {
+    "who": "I am a 14 year old teenager with fair skin",
+    "what": "I'm looking for light coverage foundation for school",
+    "avg_relevance_score": 0.1259259259259259,
+    "products": [
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Good Apple Lightweight Full-Coverage Cream Foundation Balm",
+        "brand": "KVD Beauty",
+        "price": "57.5",
+        "relevance_score": 0.3333333333333333
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_32": {
+    "who": "I am a 92 year old woman with very dry skin and deep wrinkles",
+    "what": "I need a hydrating foundation that doesn't settle into wrinkles",
+    "avg_relevance_score": 0.020512820512820513,
+    "products": [
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "SuperSolutions 10% Urea Moisturizer",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_33": {
+    "who": "I am a Black woman with extremely dark skin",
+    "what": "I'm looking for foundation that matches my deep skin tone",
+    "avg_relevance_score": 0.06818181818181818,
+    "products": [
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Multi-Stick Cream Blush + Highlighter + Lip Tint",
+        "brand": "ILIA",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "True Skin Serum Concealer with Vitamin C",
+        "brand": "ILIA",
+        "price": "44.0",
+        "relevance_score": 0.18181818181818182
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "bareMinerals Original Foundation Broad Spectrum SPF 15",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.09090909090909091
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.09090909090909091
+      }
+    ]
+  },
+  "case_34": {
+    "who": "I have albinism and extremely fair skin",
+    "what": "I need high coverage foundation with SPF",
+    "avg_relevance_score": 0.14529914529914528,
+    "products": [
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.3333333333333333
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Good Apple Lightweight Full-Coverage Cream Foundation Balm",
+        "brand": "KVD Beauty",
+        "price": "57.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "Original Mineral Veil Talc-Free Loose Setting Powder SPF 25",
+        "brand": "bareMinerals",
+        "price": "48.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "COMPLEXION RESCUE Natural Matte Tinted Moisturizer Mineral SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_35": {
+    "who": "I have severe cystic acne and oily skin",
+    "what": "I need full coverage foundation that won't break me out",
+    "avg_relevance_score": 0.12820512820512822,
+    "products": [
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.3076923076923077
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.23076923076923078
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.15384615384615385
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.3076923076923077
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.15384615384615385
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.15384615384615385
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.15384615384615385
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.15384615384615385
+      },
+      {
+        "name": "bareMinerals Original Foundation Broad Spectrum SPF 15",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Hello Sunshine Invisible Sunscreen For Face SPF 50",
+        "brand": "IT Cosmetics",
+        "price": "47.5",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.07692307692307693
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrocolloid Invisible Patches",
+        "brand": "The INKEY List",
+        "price": "12.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_36": {
+    "who": "I have severe rosacea with extremely sensitive skin",
+    "what": "I need gentle foundation that covers redness",
+    "avg_relevance_score": 0.0368421052631579,
+    "products": [
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Tinted Hydrating Gel Cream SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "COMPLEXION RESCUE Tinted Hydrating Gel Cream SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_37": {
+    "who": "I have vitiligo with patches of unpigmented skin",
+    "what": "I need foundation to even out my skin tone",
+    "avg_relevance_score": 0.1,
+    "products": [
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1
+      }
+    ]
+  },
+  "case_38": {
+    "who": "I have severe scarring and hyperpigmentation",
+    "what": "I need high coverage foundation for professional photos",
+    "avg_relevance_score": 0.12280701754385963,
+    "products": [
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.2222222222222222
+      },
+      {
+        "name": "CC+ Cream Illumination with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.1111111111111111
+      }
+    ]
+  },
+  "case_39": {
+    "who": "I am undergoing chemotherapy and have very sensitive skin",
+    "what": "I need gentle skincare products",
+    "avg_relevance_score": 0.0,
+    "products": [
+      {
+        "name": "SuperSolutions 10% Urea Moisturizer",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening",
+        "brand": "The INKEY List",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Moisturizing Soft Cream Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Cr\u00e8me de la Mer Moisturizer",
+        "brand": "La Mer",
+        "price": "280.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "MEGA-C 30% Vitamin C Brightening Mask",
+        "brand": "Kate Somerville",
+        "price": "101.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "10% Vitamin C Complex Glow Body Lotion",
+        "brand": "Juice Beauty",
+        "price": "46.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_40": {
+    "who": "I am a professional swimmer",
+    "what": "I need waterproof makeup that stays put in the pool",
+    "avg_relevance_score": 0.08823529411764706,
+    "products": [
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "BEAUTYBLENDER POOL PARTY Makeup Sponge",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Ink Liner Waterproof Felt-Tip Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Wink Stamp Long Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Ultra-Blur Talc-Free Waterproof Translucent Pressed Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "71.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Prep-Set-Glow Hydrating Glowy Setting Spray",
+        "brand": "Iconic London",
+        "price": "39.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrocolloid Invisible Patches",
+        "brand": "The INKEY List",
+        "price": "12.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Full Dry Volume and Texture Spray",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "COMPLEXION RESCUE Tinted Hydrating Gel Cream SPF 30",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Ink Liner Waterproof Felt-Tip Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Tattoo Liner Vegan Waterproof Liquid Eyeliner",
+        "brand": "KVD Beauty",
+        "price": "34.0",
+        "relevance_score": 0.125
+      }
+    ]
+  },
+  "case_41": {
+    "who": "I work in extremely hot climate outdoors",
+    "what": "I need sweatproof, long-lasting foundation",
+    "avg_relevance_score": 0.1111111111111111,
+    "products": [
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Cream Natural Matte Foundation with SPF 40",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1111111111111111
+      }
+    ]
+  },
+  "case_42": {
+    "who": "I have a latex allergy",
+    "what": "I need hypoallergenic makeup without latex derivatives",
+    "avg_relevance_score": 0.0,
+    "products": [
+      {
+        "name": "15% Vitamin C and EGF Brightening Serum",
+        "brand": "The INKEY List",
+        "price": "21.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hydrocolloid Invisible Patches",
+        "brand": "The INKEY List",
+        "price": "12.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Hyaluronic Acid Hydrating Serum",
+        "brand": "The INKEY List",
+        "price": "13.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Omega Water Cream Moisturizer",
+        "brand": "The INKEY List",
+        "price": "16.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Super Volcanic AHA Pore Clearing Clay Mask",
+        "brand": "innisfree",
+        "price": "24.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "ExfoliKate Cleanser Daily Foaming Wash with AHA & Enzymes",
+        "brand": "Kate Somerville",
+        "price": "62.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "PEPTIDE PREP Clarifying Detox Shampoo",
+        "brand": "K18 Biomimetic Hairscience",
+        "price": "51.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bye Bye Under Eye Full Coverage Anti-Aging Waterproof Concealer",
+        "brand": "IT Cosmetics",
+        "price": "40.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Metal Detox Anti-Breakage Hair Mask",
+        "brand": "L'Oreal Professionnel",
+        "price": "67.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "bareMinerals Original Foundation Broad Spectrum SPF 15",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_43": {
+    "who": "I have hooded eyes",
+    "what": "I need eyeshadow that shows up with my eye shape",
+    "avg_relevance_score": 0.16911764705882354,
+    "products": [
+      {
+        "name": "Wink Dazzle Dual-Ended Eyeshadow Stick",
+        "brand": "Kaja",
+        "price": "30.0",
+        "relevance_score": 0.375
+      },
+      {
+        "name": "Eye Bento Bouncy Eyeshadow Trio",
+        "brand": "Kaja",
+        "price": "35.5",
+        "relevance_score": 0.375
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.375
+      },
+      {
+        "name": "Sheer Band False Eyelashes",
+        "brand": "Lilly Lashes",
+        "price": "27.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "3D Faux Mink Butterfl'eye Half Eyelashes",
+        "brand": "Lilly Lashes",
+        "price": "27.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Shade + Light Refillable Powder Face Contour Palette",
+        "brand": "KVD Beauty",
+        "price": "71.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Eyelighter Concentrate with Vitamin C & Plant Powered-Retinol",
+        "brand": "BeautyBio",
+        "price": "78.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Liquid Powder Eye Shadow Tint",
+        "brand": "ILIA",
+        "price": "38.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "46.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "Underglow Blurring Primer",
+        "brand": "Iconic London",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.375
+      },
+      {
+        "name": "Sheer Band False Eyelashes",
+        "brand": "Lilly Lashes",
+        "price": "27.0",
+        "relevance_score": 0.125
+      },
+      {
+        "name": "3D Faux Mink Butterfl'eye Half Eyelashes",
+        "brand": "Lilly Lashes",
+        "price": "27.0",
+        "relevance_score": 0.125
+      }
+    ]
+  },
+  "case_44": {
+    "who": "I have very thin lips",
+    "what": "I need lip products that make my lips look fuller",
+    "avg_relevance_score": 0.14,
+    "products": [
+      {
+        "name": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
+        "brand": "LAWLESS",
+        "price": "35.5",
+        "relevance_score": 0.2
+      },
+      {
+        "name": "Forget The Filler Overnight Lip Plumping Mask",
+        "brand": "LAWLESS",
+        "price": "30.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Jumbo Queen Sized Forget The Filler Lip Plumper Line Smoothing Gloss",
+        "brand": "LAWLESS",
+        "price": "52.0",
+        "relevance_score": 0.2
+      },
+      {
+        "name": "Volume Supru00eame Plumping Lip Gloss",
+        "brand": "Lise Watier",
+        "price": "32.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Juicy Glass Lip Oil",
+        "brand": "Kaja",
+        "price": "25.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lancu00f4me",
+        "price": "52.0",
+        "relevance_score": 0.3
+      },
+      {
+        "name": "Opulence Duochrome Lip Glo",
+        "brand": "Lise Watier",
+        "price": "33.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Glaze Lip Oil",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "24.5",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "The Moisturizing Soft Cream Duet",
+        "brand": "La Mer",
+        "price": "520.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Opulence Duochrome Lip Glo",
+        "brand": "Lise Watier",
+        "price": "33.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lancu00f4me",
+        "price": "52.0",
+        "relevance_score": 0.3
+      },
+      {
+        "name": "Opulence Duochrome Lip Glo",
+        "brand": "Lise Watier",
+        "price": "33.0",
+        "relevance_score": 0.1
+      },
+      {
+        "name": "L'Absolu Rouge Cream Lipstick",
+        "brand": "Lancu00f4me",
+        "price": "52.0",
+        "relevance_score": 0.3
+      }
+    ]
+  },
+  "case_45": {
+    "who": "I am a professional makeup artist",
+    "what": "I need high-end products for my diverse clients",
+    "avg_relevance_score": 0.0,
+    "products": [
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Beautyblender pro",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Hydrating Air Dry Hair Styling Cream",
+        "brand": "JVN",
+        "price": "38.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Bright Eyes Restorative Colloidal Silver Depuffing & Brightening Eye Gels",
+        "brand": "BeautyBio",
+        "price": "54.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underglow Blurring Primer",
+        "brand": "Iconic London",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Caffeine De-puffing + Dark Circle Eye Cream",
+        "brand": "The INKEY List",
+        "price": "15.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Peptide Moisturizer",
+        "brand": "The INKEY List",
+        "price": "23.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer",
+        "brand": "iNNBEAUTY PROJECT",
+        "price": "65.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Beautyblender pro",
+        "brand": "Beautyblender",
+        "price": "27.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Hydrating Air Dry Hair Styling Cream",
+        "brand": "JVN",
+        "price": "38.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      }
+    ]
+  },
+  "case_46": {
+    "who": "I have monolid eyes",
+    "what": "I need eyeliner that works well with my eye shape",
+    "avg_relevance_score": 0.25,
+    "products": [
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Underlined Kajal Clean Waterproof Long-Wear Eyeliner",
+        "brand": "Kulfi",
+        "price": "27.0",
+        "relevance_score": 0.25
+      },
+      {
+        "name": "Wink Stamp Original Waterproof Wing Eyeliner Stamp & Pen",
+        "brand": "Kaja",
+        "price": "39.5",
+        "relevance_score": 0.25
+      }
+    ]
+  },
+  "case_47": {
+    "who": "I am a drag performer",
+    "what": "I need full coverage foundation and dramatic eye products",
+    "avg_relevance_score": 0.06790123456790123,
+    "products": [
+      {
+        "name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+",
+        "brand": "IT Cosmetics",
+        "price": "63.5",
+        "relevance_score": 0.3333333333333333
+      },
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.3333333333333333
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Hydrating Air Dry Hair Styling Cream",
+        "brand": "JVN",
+        "price": "38.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underglow Blurring Primer",
+        "brand": "Iconic London",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Eye Concentrate Cream",
+        "brand": "La Mer",
+        "price": "370.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underglow Blurring Primer",
+        "brand": "Iconic London",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Eye Concentrate Cream",
+        "brand": "La Mer",
+        "price": "370.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Translucent Loose Setting Powder",
+        "brand": "Laura Mercier",
+        "price": "64.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Jelly Charm Glazed Lip Stain & Blush With Keychain",
+        "brand": "Kaja",
+        "price": "34.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Underglow Blurring Primer",
+        "brand": "Iconic London",
+        "price": "40.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "The Eye Concentrate Cream",
+        "brand": "La Mer",
+        "price": "370.0",
+        "relevance_score": 0.1111111111111111
+      }
+    ]
+  },
+  "case_49": {
+    "who": "I am a man with a beard",
+    "what": "I need foundation that blends well around facial hair",
+    "avg_relevance_score": 0.08888888888888888,
+    "products": [
+      {
+        "name": "Teint Idole Ultra 24H Long Wear Matte Foundation with Hyaluronic Acid & Vitamin E",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Teint Idole Ultra Wear Care & Glow Foundation with Hyaluronic Acid",
+        "brand": "Lanc\u00f4me",
+        "price": "77.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "bareMinerals Original Foundation Broad Spectrum SPF 15",
+        "brand": "bareMinerals",
+        "price": "53.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "CC+ Airbrush Perfecting Powder Foundation",
+        "brand": "IT Cosmetics",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Limited Edition Perfect hair Day (PhD) Dry Shampoo Vanilla Scent",
+        "brand": "Living Proof",
+        "price": "40.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Full Dry Volume and Texture Spray",
+        "brand": "Living Proof",
+        "price": "49.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Blowout Styling Milk",
+        "brand": "JVN",
+        "price": "39.0",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Complete Hydrating Air Dry Hair Styling Cream",
+        "brand": "JVN",
+        "price": "38.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Nurture Intense Hydration Hair Mask",
+        "brand": "JVN",
+        "price": "46.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "The Foundation Stick for Hydrating, Buildable Coverage and Natural Finish",
+        "brand": "BASMA",
+        "price": "54.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Beard Oil",
+        "brand": "Jack Black",
+        "price": "38.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Beard Grooming Kit",
+        "brand": "Jack Black",
+        "price": "52.0",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "PEPTIDE PREP Clarifying Detox Shampoo",
+        "brand": "K18 Biomimetic Hairscience",
+        "price": "51.5",
+        "relevance_score": 0.1111111111111111
+      },
+      {
+        "name": "Baomint Leave In Conditioning Styler",
+        "brand": "adwoa beauty",
+        "price": "35.5",
+        "relevance_score": 0.0
+      },
+      {
+        "name": "Good Apple Non-Comedogenic Full-Coverage Serum Foundation",
+        "brand": "KVD Beauty",
+        "price": "57.0",
+        "relevance_score": 0.1111111111111111
+      }
+    ]
+  },
+  "case_50": {
+    "who": "I have very oily eyelids",
+    "what": "I need eyeshadow primer that prevents creasing",
+    "avg_relevance_score": 0.14285714285714285,
+    "products": [
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      },
+      {
+        "name": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+        "brand": "Kulfi",
+        "price": "40.5",
+        "relevance_score": 0.14285714285714285
+      }
+    ]
+  }
+}
